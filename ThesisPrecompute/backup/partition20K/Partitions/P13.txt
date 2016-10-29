@@ -1,0 +1,804 @@
+< Author_ID  Paper_Count  Adjacent_Count  <Adjacent_List>  Keyword_Count  <(Keyword,Score)> >
+
+28 2 5 26 27 18878 8710 18978 12 (workload,1) (model,1) (representative,1) (static,1) (dynamic,1) (characteristics,1) (effective,1) (scheduling,1) (detached,1) (rules,1) (active,1) (databases,1) 
+
+96 4 4 97 98 982 1284 21 (cosy,1) (specification,1) (language,1) (based,1) (paths,1) (processes,1) (addenda,1) (corrigenda,1) (formal,3) (semantics,3) (class,2) (high-level,2) (primitives,2) (coordinating,2) (concurrent,2) (processe,2) (consistent,2) (complementary,2) (theories,1) (programming,1) (languages,1) 
+
+103 1 3 101 102 104 3 (attribute,1) (evaluation,1) (optran,1) 
+
+205 3 1 204 12 (synthesis,1) (problem,1) (petri,1) (nets,1) (gurevich,1) (theorem,1) (sequential,2) (algorithms,1) (deterministic,1) (buffer,1) (synchronization,1) (processes,1) 
+
+232 1 1 233 4 (trace,1) (nets,1) (process,1) (automata,1) 
+
+282 1 4 281 283 284 285 2 (optimal,1) (multiprogramming,1) 
+
+293 1 0 7 (survey,1) (normal,1) (form,1) (covers,1) (context,1) (free,1) (grammars,1) 
+
+300 1 1 301 3 (proof,1) (distributed,1) (processes,1) 
+
+388 2 7 385 386 387 19005 645 19006 19007 13 (query,1) (complexity,1) (estimating,1) (weighted,1) (averages,1) (large-scale,1) (pattern,1) (search,1) (using,1) (reduced-space,1) (on-disk,1) (suffix,1) (arrays,1) 
+
+433 5 3 432 481 1746 19 (proof,2) (technique,2) (communicating,1) (sequential,1) (processes,1) (general,1) (correctness,1) (unification,1) (partial,2) (total,1) (schorr-waite,1) (graph,1) (marking,1) (algorithm,1) (describing,1) (hopcrof,2) (axiomatic,1) (parallel,1) (programs,1) 
+
+440 1 5 437 438 439 441 442 9 (verification,1) (heap,1) (manipulating,1) (programs,1) (ordered,1) (data,1) (extended,1) (forest,1) (automata,1) 
+
+462 1 2 463 464 4 (compositional,1) (construction,1) (general,1) (controllers,1) 
+
+549 2 0 11 (fixed,1) (point,1) (approach,1) (parallel,1) (discrete,1) (event,1) (simulation,1) (lr,1) (parsing,1) (affix,1) (grammars,1) 
+
+630 4 4 631 416 1304 1804 18 (formes,1) (langages,2) (et,1) (grammaires,2) (op,1) (eacute,2) (rations,1) (cylindre,2) (applications,1) (quentielles,1) (gauches,1) (inverses,1) (iterated,1) (gsms,1) (co-cfl,1) (bicentres,1) (alg,1) (briques,1) 
+
+643 1 1 644 6 (deterministic,1) (skip,1) (list,1) (k-dimensional,1) (range,1) (search,1) 
+
+674 1 1 673 5 (robust,1) (efficient,1) (spatial,1) (data,1) (structure,1) 
+
+711 1 1 710 6 (necessary,1) (sufficient,1) (conditions,1) (universality,1) (programming,1) (formalisms,1) 
+
+873 1 1 496 5 (method,1) (transforming,1) (grammars,1) (ll,1) (form,1) 
+
+897 1 1 304 3 (contextual,1) (hyperedge,1) (replacement,1) 
+
+919 1 4 918 920 921 922 8 (symmetry,1) (partial,1) (order,1) (reduction,1) (techniques,1) (model,1) (checking,1) (rebeca,1) 
+
+941 2 2 940 635 12 (stable,1) (duplicate-key,1) (extraction,1) (optimal,1) (time,1) (space,1) (bounds,1) (performance,1) (guarantee,1) (greedy,1) (set-partitioning,1) (algorithm,1) 
+
+962 1 1 317 5 (functional,1) (approach,1) (temporal,1) (modal,1) (logics,1) 
+
+993 1 1 994 8 (sound,1) (relatively,1) (complete,1) (hoare-logic,1) (language,1) (higher,1) (type,1) (procedures,1) 
+
+999 1 0 5 (node,1) (flows,1) (graphs,1) (conservative,1) (flow,1) 
+
+1061 2 3 1062 1063 1064 6 (avoidable,2) (binary,2) (patterns,2) (partial,2) (words,2) (erratum,1) 
+
+1119 1 1 1118 7 (proving,1) (applying,1) (program,1) (transformations,1) (expressed,1) (second-order,1) (patterns,1) 
+
+1150 1 1 1151 3 (algebra,1) (process,1) (creation,1) 
+
+1236 1 0 5 (variance,1) (height,1) (digital,1) (search,1) (trees,1) 
+
+1265 1 1 1264 6 (proof,1) (theory,1) (exception,1) (handling,1) (tasking,1) (environment,1) 
+
+1308 1 1 1309 8 (bounds,1) (parallel,1) (evaluation,1) (arithmetic,1) (expressions,1) (using,1) (associativity,1) (commutativity,1) 
+
+1493 1 1 627 7 (computational,1) (complexity,1) (programming,1) (languages,1) (constant,1) (factors,1) (matter,1) 
+
+1494 1 1 1495 3 (axiomatising,1) (timed,1) (automata,1) 
+
+1611 1 7 1607 1608 1609 1610 315 1612 1613 5 (revised,1) (report,1) (algorithmic,1) (language,1) (algol,1) 
+
+1668 1 3 1669 1670 1671 7 (inefficiency,1) (equilibria,1) (machine,1) (covering,1) (game,1) (uniform,1) (machines,1) 
+
+1675 2 1 1226 12 (minimizing,1) (time-space,1) (cost,1) (database,1) (version,1) (control,1) (ancestor,1) (controlled,1) (submodule,1) (inclusion,1) (design,1) (databases,1) 
+
+1707 1 0 6 (ogden-like,1) (iteration,1) (lemma,1) (rational,1) (power,1) (series,1) 
+
+1711 1 1 1712 5 (lattices,1) (machine,1) (learning,1) (complexity,1) (issues,1) 
+
+1746 1 1 433 5 (axiomatic,1) (proof,1) (technique,1) (parallel,1) (programs,1) 
+
+1762 1 1 1761 3 (substitution,1) (grammar,1) (forms,1) 
+
+1853 1 2 1852 1854 6 (trifl,1) (generic,1) (trajectory,1) (index,1) (flash,1) (storage,1) 
+
+1909 3 3 1908 1910 2989 28 (enhanced,1) (navigator,1) (touch,1) (screen,2) (comparative,1) (study,1) (navigational,1) (techniques,1) (web,2) (maps,1) (legibility,1) (visual,1) (fatigue,1) (affected,1) (text,1) (direction,1) (size,1) (character,2) (color,1) (lcd,1) (e-reader,1) (direct-touch,1) (vs,1) (mouse,1) (input,1) (navigation,1) (modes,1) (map,1) 
+
+1915 1 4 1911 1912 1913 1914 13 (green,1) (organic,1) (light-emitting,1) (diodes,1) (improved,1) (stability,1) (efficiency,1) (utilizing,1) (wide,1) (band,1) (gap,1) (material,1) (host,1) 
+
+1944 2 3 1945 1946 2016 18 (effect,1) (ambient,1) (illumination,1) (level,1) (perceived,1) (autostereoscopic,1) (display,3) (quality,2) (depth,1) (perception,1) (reading,1) (e-books,1) (near-to-eye,1) (comparison,1) (small-sized,1) (multimedia,1) (hard,1) (copy,1) 
+
+2050 1 4 2048 2049 2051 2052 11 (optimization,1) (sustain,1) (pulse,1) (parameters,1) (luminous,1) (efficacy,1) (improvement,1) (ac,1) (plasma,1) (display,1) (panel,1) 
+
+2087 1 6 2083 2084 2085 2086 2088 2089 14 (synthesis,1) (submicron-sized,1) (spherical,1) (green,1) (phosphors,1) (reverse,1) (emulsion,1) (method,1) (application,1) (phosphor,1) (inks,1) (ink-jet,1) (process,1) (pdp,1) 
+
+2131 2 5 2129 2130 2292 3125 2293 13 (distortion-free,1) (data,1) (hiding,1) (scheme,2) (high,1) (dynamic,1) (range,1) (images,1) (reversible,1) (image,1) (steganographic,1) (predictive,1) (coding,1) 
+
+2154 2 11 2149 2150 2151 2152 2153 2155 2390 2391 2392 2393 2394 16 (effect,1) (electron,1) (transport,1) (layer,1) (engineering,1) (based,2) (blue,1) (phosphorescent,2) (organic,2) (light-emitting,2) (diodes,2) (electroluminescent,1) (materials,1) (phenylanthracene-substituted,1) (fluorene,1) (derivatives,1) 
+
+2161 1 1 2022 8 (numerical,1) (comparison,1) (led,1) (directivity,1) (approximation,1) (functions,1) (video,1) (displays,1) 
+
+2223 1 2 1999 2222 7 (recovery,1) (electrically,1) (resistive,1) (properties,1) (degraded,1) (liquid,1) (crystal,1) 
+
+2236 2 1 2235 13 (differentiation,2) (arched,1) (surface,1) (packaging,2) (influence,1) (findability,1) (logo,2) (typography,1) (displays,1) (displayability,1) (assessment,1) (design,1) (bottle,1) 
+
+2266 1 3 2267 2268 2269 13 (improvement,1) (color,1) (purity,1) (electrical,1) (characteristics,1) (co-doping,1) (method,1) (flexible,1) (red-light,1) (organic,1) (light,1) (emitting,1) (devices,1) 
+
+2313 2 5 2312 2314 3317 3263 3318 16 (visual,1) (fatigue,1) (caused,1) (stereoscopic,1) (images,1) (search,1) (requirement,1) (prevent,1) (review,1) (vergence,1) (eye,1) (movements,1) (signifying,1) (depth,1) (perception,1) (movies,1) 
+
+2395 2 6 2396 2397 2398 2399 2400 2401 12 (high,1) (colour,1) (rendering,1) (index,1) (white,2) (organic,2) (light-emitting,2) (devices,2) (emitting,1) (layers,1) (non-doped-type,1) (structure,1) 
+
+2452 1 13 2448 2449 2450 2451 2453 2454 2455 2456 2457 2458 2459 2460 2461 9 (high,1) (resolution,1) (poly-si,1) (tft-lcd,1) (employing,1) (analog,1) (sample,1) (hold,1) (driver,1) 
+
+2554 2 5 1987 1988 2555 1989 5703 17 (white,1) (organic,1) (light-emitting,1) (diodes,1) (improved,1) (performance,1) (using,1) (phosphorescent,1) (sensitizer,1) (ultrathin,1) (fluorescent,1) (emitter,1) (data,1) (model,1) (quality,1) (product,1) (lifecycle,1) 
+
+2630 1 3 2627 2628 2629 9 (eliciting,1) (situated,1) (feedback,1) (comparison,1) (paper,1) (web,1) (forms,1) (public,1) (displays,1) 
+
+2641 1 1 2642 7 (study,1) (possibility,1) (implementing,1) (real-time,1) (stereoscopic,1) (rendering,1) (tv,1) 
+
+2704 1 2 2705 2109 5 (framework,1) (perceptual,1) (quality,1) (assessment,1) (lcd-tv,1) 
+
+2709 2 9 2706 2707 2708 2674 2710 18621 17501 17663 19710 18 (fabrication,1) (characterization,1) (double-sided,1) (organic,1) (light-emitting,1) (diodes,1) (using,1) (silver,1) (nickel,1) (metal,1) (linking,1) (layer,1) (in-memory,1) (big,1) (data,1) (management,1) (processing,1) (survey,1) 
+
+2740 1 10 2731 2732 2362 2733 2734 2735 2736 2737 2738 2739 12 (single,1) (emitting,1) (layer,1) (white,1) (organic,1) (light-emitting,1) (device,1) (high,1) (color,1) (stability,1) (applied,1) (voltage,1) 
+
+2762 2 3 2760 2761 3075 7 (evaluation,2) (visuospatial,1) (performance,1) (screen,1) (paper,1) (usability,1) (e-books,1) 
+
+2770 1 3 2768 2769 2771 8 (optic,1) (flow,1) (geometric,1) (field,1) (view,1) (driving,1) (simulator,1) (display,1) 
+
+3058 1 2 3056 3057 9 (development,1) (comparison,1) (full-scale,1) (car,1) (display,1) (communication,1) (applying,1) (augmented,1) (reality,1) 
+
+3126 2 3 1953 3283 3284 19 (performance,1) (analysis,1) (inter-layer,1) (prediction,1) (scalable,2) (extension,1) (hevc,1) (shvc,1) (adaptive,1) (media,1) (service,1) (novel,2) (hybrid,1) (video,2) (algorithm,1) (based,1) (coding,1) (svc,1) (technology,1) 
+
+3239 1 6 3234 3235 3236 3237 3238 3240 10 (color,1) (measurement,1) (rgb,1) (white,1) (leds,1) (solid-state,1) (lighting,1) (using,1) (bdj,1) (photodetector,1) 
+
+3244 1 5 3243 3245 3246 3247 3248 9 (visual,1) (discomfort,1) (relaxation,1) (stereoscopic,1) (images,1) (adjusting,1) (zero-disparity,1) (plane,1) (projection,1) 
+
+3265 1 3 3263 3264 2312 9 (time-frequency,1) (structure,1) (image,1) (motion,1) (vectors,1) (cybersickness,1) (intervals,1) (determined,1) (biosignals,1) 
+
+3267 1 6 3268 3269 3270 3271 3272 3273 11 (removal,1) (hot,1) (spot,1) (speckle,1) (laser,1) (projection,1) (screen,2) (using,1) (running,1) (rotating,1) (diffuser,1) 
+
+3293 1 7 2525 3292 3294 2045 2524 2523 2526 7 (lcos,1) (color,1) (projector,1) (efficient,1) (led,1) (illumination,1) (engine,1) 
+
+3307 1 2 3308 2773 7 (impact,1) (colour,1) (website,1) (appeal,1) (users,1) (cognitive,1) (processes,1) 
+
+3382 1 2 3380 3381 9 (mining,1) (frequent,1) (boolean,1) (expressions,1) (application,1) (gene,1) (expression,1) (regulatory,1) (modeling,1) 
+
+3566 1 1 3567 10 (mining,1) (protein,1) (interactome,1) (networks,1) (measure,1) (interaction,1) (reliability,1) (select,1) (hub,1) (proteins,1) 
+
+3578 1 2 3579 3580 9 (automatic,1) (test,1) (data,1) (generation,1) (using,1) (metaheuristic,1) (cuckoo,1) (search,1) (algorithm,1) 
+
+3678 1 2 3677 3679 13 (new,1) (web,1) (services,1) (based,1) (supervisory,1) (systems,1) (complex,1) (industrial,1) (organizations,1) (basic,1) (principles,1) (case,1) (study,1) 
+
+3679 1 2 3677 3678 13 (new,1) (web,1) (services,1) (based,1) (supervisory,1) (systems,1) (complex,1) (industrial,1) (organizations,1) (basic,1) (principles,1) (case,1) (study,1) 
+
+3692 1 2 3691 3693 8 (solution,1) (unequal,1) (area,1) (facilities,1) (layout,1) (problem,1) (genetic,1) (algorithm,1) 
+
+3708 1 2 3709 3710 5 (structural,1) (approach,1) (design,1) (user,1) (interface,1) 
+
+3733 1 3 3730 3731 3732 6 (image-based,1) (quality,1) (monitoring,1) (limestone,1) (ore,1) (grades,1) 
+
+3761 2 4 3762 3763 3764 5833 15 (semantic,1) (web,1) (service,1) (environment,1) (auction,1) (applications,1) (extended,1) (virtual,1) (enterprises,1) (performance,1) (meaning,1) (content,1) (today,1) (business,1) (research,1) 
+
+3841 3 5 3839 3840 3842 6214 4140 21 (framework,1) (modelling,1) (simulating,1) (supply,3) (process,2) (monitoring,2) (detect,2) (predict,1) (disruptive,1) (events,2) (model,2) (driven,1) (development,1) (approach,1) (based,2) (reference,2) (predicting,1) (agent-based,1) (service,2) (management,1) (chains,1) 
+
+3902 2 4 3900 3901 6361 6362 14 (flexible,1) (agent-based,1) (ict,1) (architecture,1) (virtual,1) (enterprises,1) (multi-level,1) (model-driven,1) (regime,1) (value-added,1) (tax,1) (compliance,1) (erp,1) (systems,1) 
+
+4037 7 12 4036 4038 4039 4366 4950 4951 4952 4953 5791 5792 4854 6254 37 (dynamic,1) (photometric,2) (stereo,2) (line,1) (quality,1) (control,1) (ceramic,1) (tiles,1) (special,1) (issue,1) (machine,1) (vision,1) (robust,1) (efficient,1) (automated,2) (detection,1) (tooling,1) (defects,1) (polished,1) (stone,1) (face,1) (capture,1) (using,1) (example-based,1) (real-time,1) (recovery,1) (moving,1) (faces,1) (emerging,1) (applications,1) (editorial,1) (multidimensional,1) (imaging,1) (skin,1) (tissue,1) (surface,1) (characterization,1) 
+
+4086 1 2 4084 4085 9 (modeling,1) (permeability,1) (carbonate,1) (reservoir,1) (using,1) (type,1) (fuzzy,1) (logic,1) (systems,1) 
+
+4088 1 2 4087 384 7 (business,1) (semantics,1) (management,1) (case,1) (study,1) (competency-centric,1) (hrm,1) 
+
+4129 1 4 4125 4126 4127 4128 8 (sis-stamp,1) (integrated,1) (inspection,1) (sheet,1) (prints,1) (stamp,1) (printing,1) (application,1) 
+
+4148 1 1 4003 10 (maintaining,1) (consistency,1) (cad,1) (elements,1) (collaborative,1) (design,1) (using,1) (association,1) (management,1) (propagation,1) 
+
+4166 3 2 4165 4167 18 (dynamic,1) (methodology,1) (associated,1) (tools,1) (assess,1) (organizational,2) (capabilities,1) (conceptual,1) (model,1) (capability,2) (management,1) (managing,1) (resource,1) (learning,1) (distributed,1) (organisations,1) (organisational,1) (approach,1) 
+
+4225 1 1 3791 7 (best,1) (practices,1) (business,1) (process,1) (redesign,2) (validation,1) (framework,1) 
+
+4247 1 3 4246 4248 4249 7 (agent-based,1) (manufacturing,1) (execution,1) (systems,1) (short-series,1) (production,1) (scheduling,1) 
+
+4308 1 3 4309 4310 4311 8 (contribution,1) (fuzzy,1) (reasoning,1) (method,1) (knowledge,1) (integration,1) (defect,1) (recognition,1) 
+
+4324 1 2 4325 4326 9 (time,1) (compression,1) (design,1) (decision,1) (support,1) (intelligent,1) (transport,1) (systems,1) (deployment,1) 
+
+4343 1 4 4344 4345 4346 4347 8 (fpga-based,1) (startup,1) (ac,1) (electric,1) (drives,1) (application,1) (greenhouse,1) (ventilation,1) 
+
+4442 1 4 4443 4444 4445 4446 8 (real,1) (time,1) (process,1) (management,1) (using,1) (rfid,1) (data,1) (mining,1) 
+
+4520 3 5 4519 5359 5360 15749 15750 19 (non-linear,1) (redesign,1) (methodology,1) (manufacturing,1) (systems,1) (smes,1) (modelling,1) (technique,1) (re-engineering,1) (business,1) (processes,1) (controlled,1) (iso,1) (factors,1) (affecting,1) (implementation,1) (process,1) (based,1) (change,1) 
+
+4564 1 2 4565 4157 9 (simultaneous,1) (control,1) (vehicle,1) (routing,1) (inventory,1) (dynamic,1) (inbound,1) (supply,1) (chain,1) 
+
+4586 1 3 4583 4584 4585 5 (interoperability,1) (evaluation,1) (models,1) (systematic,1) (review,1) 
+
+4637 1 2 4638 4639 6 (optimal,1) (sequencing,1) (tasks,1) (aluminium,1) (smelter,1) (casthouse,1) 
+
+4679 1 2 4678 4680 8 (performance,1) (analysis,1) (multiple,1) (vehicle,1) (tandem,1) (inter-vehicle,1) (buffers,1) (blocking,1) 
+
+4706 1 1 150 8 (design,1) (management,1) (flexible,1) (process,1) (variants,1) (using,1) (templates,1) (rules,1) 
+
+4768 1 4 4669 4769 4770 4670 10 (web,1) (services,1) (process-view,1) (combined,1) (approach,1) (process,1) (management,1) (collaborative,1) (product,1) (development,1) 
+
+4831 1 2 4830 4832 8 (uml,1) (approach,1) (metamodelling,1) (automated,1) (production,1) (systems,1) (monitoring,1) (purpose,1) 
+
+4851 3 7 4850 4363 4852 4853 4339 4939 4940 19 (modeling,1) (evaluating,1) (information,1) (leakage,1) (caused,1) (inferences,1) (supply,3) (chains,2) (secure,1) (collaboration,2) (global,2) (design,1) (chain,3) (environment,2) (problem,1) (analysis,1) (literature,1) (review,1) (management,1) 
+
+4954 1 4 3719 4955 3717 3715 9 (systematic,1) (review,1) (survey,1) (jit,1) (implementation,1) (mexican,1) (maquiladoras,1) (case,1) (study,1) 
+
+4988 1 4 4986 4987 3647 4989 9 (semantic,1) (annotation,1) (knowledge,1) (explicitation,1) (product,1) (lifecycle,1) (management,1) (context,1) (survey,1) 
+
+5015 2 5 5013 5014 5016 5017 5949 9 (framework,2) (virtual,2) (enterprise,2) (control,1) (holonic,1) (manufacturing,1) (paradigm,1) (operation,1) (management,1) 
+
+5026 3 3 5459 5896 5897 27 (mobile,1) (multi-agent,1) (based,1) (distributed,1) (information,2) (platform,2) (madip,1) (wide-area,1) (e-health,1) (monitoring,1) (enabling,1) (successful,1) (collaboration,1) (rest-based,1) (web,1) (service,1) (technology,2) (oriented,1) (collaborative,2) (product,2) (development,1) (internet,1) (virtual,1) (reality,1) (environment,1) (effective,1) (design,1) 
+
+5104 1 3 5103 4981 4980 9 (new,1) (process,1) (knowledge,1) (representation,1) (approach,1) (using,1) (parameter,1) (flow,1) (chart,1) 
+
+5109 1 5 4965 4966 4914 5110 3772 9 (group,1) (fuzzy,1) (ahp,1) (approach,1) (embed,1) (relevant,1) (data,1) (communicating,1) (material,1) 
+
+5129 2 4 2367 5130 4878 5299 16 (hybrid,1) (reality-based,1) (user,1) (experience,1) (evaluation,1) (context-aware,1) (smart,1) (home,1) (tangible,1) (authoring,1) (virtual,1) (scenes,1) (dynamic,1) (augmented,1) (reality,1) (environment,1) 
+
+5156 1 3 5154 5155 5157 10 (contribution,1) (ontology-based,1) (data,1) (modeling,1) (automatic,1) (integration,1) (electronic,1) (catalogues,1) (engineering,1) (databases,1) 
+
+5307 2 5 5305 5306 5308 6425 6426 17 (development,1) (engine,1) (crankshaft,1) (framework,1) (computer-aided,1) (innovation,1) (inventive,1) (problem,1) (solving,1) (based,1) (dialectical,1) (negation,1) (using,1) (evolutionary,1) (algorithms,1) (triz,1) (heuristics,1) 
+
+5444 1 3 5441 5442 5443 7 (client-oriented,1) (integration,1) (construction,1) (processes,1) (building,1) (gis,1) (systems,1) 
+
+5594 1 4 3808 4267 5595 3810 8 (workflow,1) (net,1) (similarity,1) (measure,1) (based,1) (transition,1) (adjacency,1) (relations,1) 
+
+5605 1 2 5606 5607 7 (choreography,1) (frameworks,1) (business,1) (integration,1) (addressing,1) (heterogeneous,1) (semantics,1) 
+
+5676 1 7 3926 3992 5433 5636 5637 5519 5638 5 (emerging,1) (information,1) (technologies,1) (enhanced,1) (healthcare,1) 
+
+5690 1 3 5689 5691 5692 8 (comparison,1) (retrieval,1) (process,1) (models,1) (using,1) (related,1) (cluster,1) (pairs,1) 
+
+5715 1 1 5716 7 (multi-sensor,1) (data,1) (fusion,1) (hybrid,1) (methodology,1) (comparative,1) (study,1) 
+
+5717 1 2 5718 5719 9 (model,1) (evaluating,1) (design,1) (change,1) (distributed,1) (manufacturing,2) (operations,1) (collaborative,1) (environment,1) 
+
+5736 1 4 5737 5738 5739 5740 10 (introducing,1) (quantitative,1) (analysis,1) (methods,1) (virtual,1) (environments,1) (real-time,1) (continuous,1) (ergonomic,1) (evaluations,1) 
+
+5775 1 2 5285 3702 10 (collaboration,1) (model,1) (new,1) (product,1) (development,1) (integration,1) (plm,1) (scm,1) (electronics,1) (industry,1) 
+
+5895 1 3 5894 4537 3705 10 (new,1) (design,1) (paradigm,1) (development,1) (custom-fit,1) (soft,1) (sockets,1) (lower,1) (limb,1) (prostheses,1) 
+
+5959 2 7 5958 5960 5961 5962 15979 15980 15981 18 (collaborative,1) (project,1) (planning,1) (case,1) (study,1) (seismic,1) (risk,1) (analysis,1) (using,1) (e-engineering,1) (hub,1) (innovative,1) (integrated,1) (framework,1) (effective,1) (collaboration,1) (environments,1) (construction,1) 
+
+5972 1 1 5233 4 (efficient,1) (collaboration,1) (main,1) (sub-suppliers,1) 
+
+6028 1 2 6029 6030 8 (impact,1) (shape,1) (demand,1) (distribution,1) (decision,1) (models,1) (operations,1) (management,1) 
+
+6047 1 3 6046 4182 4202 10 (framework,1) (early,1) (warning,1) (proactive,1) (control,1) (systems,1) (food,1) (supply,1) (chain,1) (networks,1) 
+
+6148 1 3 6147 6149 6150 8 (flexible,1) (ieee,1) (deadline-aware,1) (scheduling,1) (dpcss,1) (using,1) (priority-based,1) (csma-ca,1) 
+
+6315 2 3 6314 6316 6317 13 (assembly,1) (planning,1) (based,1) (semantic,1) (modeling,1) (approach,1) (fault-tolerant,1) (routing,1) (hypercubes,1) (using,1) (partial,1) (path,1) (set-up,1) 
+
+6391 1 2 6392 6393 10 (applying,1) (process,1) (monitoring,1) (multivariate,1) (analysis,1) (knowledge-based,1) (systems,1) (approach,1) (paperboard,1) (machine,1) 
+
+6439 1 1 6438 11 (effective,1) (digital,1) (collaboration,1) (construction,2) (industry,1) (case,1) (study,1) (bim,1) (deployment,1) (hospital,1) (project,1) 
+
+6458 1 1 6459 9 (machine,1) (vision,1) (based,1) (automatic,1) (separation,1) (touching,1) (convex,1) (shaped,1) (objects,1) 
+
+6549 1 3 6548 6550 4035 6 (arachne,1) (adaptive,1) (network,1) (strategy,1) (business,1) (environment,1) 
+
+6557 1 2 3702 3618 7 (interactive,1) (data-driven,1) (driving,1) (simulator,1) (using,1) (motion,1) (blending,1) 
+
+6644 1 2 6643 6645 4 (agent-based,1) (simulation,1) (simple,1) (market,1) 
+
+6660 1 2 6659 6661 7 (electronic,1) (business,1) (engineering,1) (exploiting,1) (potentials,1) (wireless,1) (world,1) 
+
+6670 1 2 6669 6671 10 (e-commerce,2) (adoption,1) (medium,1) (enterprises,1) (smes,1) (asia,1) (study,1) (early,1) (stages,1) (uptake,1) 
+
+6672 1 2 6673 6674 9 (satisfaction,1) (interpersonal,1) (internet,1) (interactions,1) (thai,1) (corporate,1) (banking,1) (exploratory,1) (study,1) 
+
+6777 1 3 6776 6778 6779 4 (ceo,1) (compensation,1) (accruals,1) (management,1) 
+
+6869 1 1 6868 6 (self-organisation,1) (evolving,1) (agent,1) (populations,1) (digital,1) (ecosystems,1) 
+
+6965 1 2 6963 6964 8 (mining,1) (permission,1) (patterns,1) (contrasting,1) (clean,1) (malicious,1) (android,1) (applications,1) 
+
+7064 1 7 7057 7058 7059 7060 7061 7062 7063 10 (sla-based,1) (management,1) (software,1) (licenses,1) (web,1) (service,1) (resources,1) (distributed,1) (computing,1) (infrastructures,1) 
+
+7071 1 1 7072 5 (fta,1) (design,1) (paradigm,1) (distributed,1) (systems,1) 
+
+7172 4 9 7171 7173 11195 10766 11196 17977 17978 17979 18388 30 (structured,1) (hierarchical,1) (model,2) (based,1) (rigorous,1) (binary,1) (tree,1) (code,1) (algorithm,1) (distributed,1) (data,1) (mining,1) (grid,2) (computing,1) (environments,1) (cross-domain,1) (learning,1) (multiple,1) (sources,2) (consensus,1) (regularization,1) (perspective,1) (erratum,1) (distinction,1) (commonality,1) (domains,1) (using,1) (generative,1) (text,1) (classification,1) 
+
+7277 1 1 7278 5 (easing,1) (parallel,1) (programming,1) (clusters,1) (java,1) 
+
+7292 1 2 7290 7291 6 (floating,1) (point,1) (arithmetic,1) (teaching,1) (computational,1) (science,1) 
+
+7303 1 7 7300 7301 7302 7304 7305 7306 7307 11 (modeling,1) (simulation,1) (natural,1) (disaster,1) (contingency,1) (planning,1) (driven,1) (high-resolution,1) (remote,1) (sensing,1) (images,1) 
+
+7331 1 4 7329 7330 7332 7053 6 (lattice,1) (bgk,1) (simulations,1) (flow,1) (symmetric,1) (bifurcation,1) 
+
+7372 3 21 7371 7373 7374 8986 8987 8988 8989 8990 8991 11123 11693 9308 11694 11695 11119 7832 11118 11124 11696 11697 10777 20 (gridlab--a,1) (grid,1) (application,1) (toolkit,1) (testbed,1) (astrophysics,1) (simulation,1) (collaboratory,1) (portal,1) (framework,1) (effective,1) (distributed,2) (research,1) (collaborative,1) (visualization,1) (data,1) (sets,1) (using,1) (high-speed,1) (networks,1) 
+
+7514 1 2 7512 7513 14 (novel,1) (non-functional,1) (matchmaking,1) (approach,1) (fuzzy,1) (user,1) (queries,1) (real,1) (world,1) (web,1) (services,1) (based,1) (rough,1) (sets,1) 
+
+7746 3 11 11994 11995 11996 11997 11998 11999 12000 12001 12002 12003 12004 19 (corba,1) (security,1) (web,1) (overview,1) (perspectives,1) (collaborative,1) (supercomputing,1) (networking,1) (european,1) (aerospace,1) (research,1) (industry,1) (scalable,1) (virtual,1) (environment,1) (scale,1) (scientific,1) (data,1) (analysis,1) 
+
+7810 1 1 7809 7 (poisonedwater,1) (improved,1) (approach,1) (accurate,1) (reputation,1) (ranking,1) (networks,1) 
+
+7839 1 3 7840 7841 7842 8 (universal,1) (performance,1) (factor,1) (multi-criteria,1) (evaluation,1) (multistage,1) (interconnection,1) (networks,1) 
+
+7906 1 22 7894 7895 7896 7897 7898 7899 7900 7901 7076 7902 7903 7904 7905 7907 7908 7909 7910 7911 7912 7913 7914 7915 13 (high,1) (performance,1) (digital,1) (media,1) (network,1) (hpdmnet,1) (advanced,1) (international,1) (research,1) (initiative,1) (global,1) (experimental,1) (testbed,1) 
+
+7959 1 2 7958 7960 3 (visualization,1) (dynamical,1) (systems,1) 
+
+8231 1 2 8230 8232 4 (high-performance,1) (management,1) (based,1) (java,1) 
+
+8250 1 4 8248 8249 8251 8252 7 (active,1) (security,1) (management,1) (based,1) (secure,1) (zone,1) (cooperation,1) 
+
+8287 1 4 8283 8284 8285 8286 10 (epass,1) (expressive,1) (attribute-based,1) (signature,1) (scheme,1) (privacy,1) (unforgeability,1) (guarantee,1) (internet,1) (things,1) 
+
+8311 1 2 8309 8310 7 (podos,1) (design,1) (implementation,1) (performance,1) (oriented,1) (linux,1) (cluster,1) 
+
+8344 6 15 9026 9027 9028 7344 8576 10005 1350 11147 11148 12711 7592 12712 12713 12714 12715 26 (fgcs,1) (special,1) (issue,1) (smart,2) (cards,1) (dutch,1) (parallel,2) (reduction,2) (machine,2) (project,1) (abstract,2) (machines,2) (programming,1) (language,1) (implementation,1) (using,1) (formal,1) (methods,1) (cultivate,1) (trust,1) (card,1) (operating,1) (systems,1) (experience,1) (clustered,1) (principles,1) 
+
+8357 2 4 8356 8358 8359 13512 14 (runtime,1) (power,2) (usage,1) (estimation,2) (hpc,2) (servers,1) (various,1) (classes,1) (real-life,1) (applications,2) (practical,1) (consumption,1) (real,1) (life,1) 
+
+8391 1 4 8392 8393 7816 7814 8 (automating,1) (metadata,1) (web,1) (service,1) (deployment,1) (problem,1) (solving,1) (environments,1) 
+
+8416 1 2 8417 8418 10 (design,1) (science,1) (research,1) (contribution,1) (business,1) (intelligence,1) (cloud,1) (systematic,1) (literature,1) (review,1) 
+
+8496 1 3 3448 8495 8497 10 (high,1) (volumes,1) (event,1) (stream,1) (indexing,1) (efficient,1) (multi-keyword,1) (searching,1) (cloud,1) (monitoring,1) 
+
+8578 1 1 8577 4 (framework,1) (model,1) (grid,1) (security,1) 
+
+8606 1 3 7330 7332 7053 6 (iterative,1) (momentum,1) (relaxation,1) (fast,1) (lattice-boltzmann,1) (simulations,1) 
+
+8639 1 2 8192 8193 6 (parallel,1) (object-oriented,1) (descriptions,1) (graph,1) (reduction,1) (machines,1) 
+
+8691 1 2 8689 8690 9 (implementation,1) (multifunctional,1) (logic,1) (gate,1) (based,1) (folding,1) (unfolding,1) (transitions,1) (protein,1) 
+
+8714 4 16 8715 8716 6987 8717 11644 11645 11646 8305 8552 7520 11963 8272 7537 13678 13679 13680 25 (constructing,1) (trusted,2) (virtual,3) (execution,3) (environment,3) (grids,2) (design,1) (implementation,1) (monitoring,1) (framework,1) (cloud,1) (platforms,1) (developing,1) (resource,1) (consolidation,1) (frameworks,1) (moldable,1) (machines,1) (clouds,1) (tee,1) (drtm,1) (based,1) (secure,1) (cloud-end,1) (computing,1) 
+
+8745 6 18 7288 8743 7281 8448 8744 7283 8746 8747 9596 9597 9598 9695 9696 9697 9698 11801 13615 11402 40 (starcave,1) (third-generation,1) (cave,1) (virtual,1) (reality,1) (optiportal,1) (archaeostor,1) (data,1) (curation,1) (research,1) (archeological,1) (frontier,1) (cglxtouch,1) (multi-user,1) (multi-touch,1) (approach,1) (ultra-high-resolution,1) (collaborative,2) (workspaces,1) (low,1) (bandwidth,1) (desktop,1) (video,1) (streaming,1) (tiled,3) (display,3) (environments,2) (giga-stack,1) (method,1) (visualizing,1) (giga-pixel,1) (layered,1) (imagery,1) (massively,1) (displays,1) (visualization,1) (high-resolution,1) (image,1) (collections,1) (walls,1) 
+
+8758 2 5 8323 8759 8322 11300 11301 24 (combining,1) (analytical,1) (modeling,1) (realistic,1) (simulation,2) (real,1) (experimentation,1) (optimization,1) (monte-carlo,1) (applications,1) (european,1) (grid,1) (infrastructure,1) (monte,1) (carlo,1) (heterogeneous,1) (distributed,1) (systems,1) (computing,1) (framework,1) (parallel,1) (merging,1) (checkpointing,1) (strategies,1) 
+
+8767 1 7 8761 8762 8763 8764 8765 8659 8766 6 (technology,1) (transfer,1) (prohpc,1) (ttn,1) (ens,1) (lyon,1) 
+
+8819 1 2 8818 8820 7 (gpu,1) (enhanced,1) (parallel,1) (computing,1) (scale,1) (data,1) (clustering,1) 
+
+8910 1 4 8911 8912 8913 8914 9 (multi-device,1) (task,1) (offloading,1) (time-constraints,1) (energy,1) (efficiency,1) (mobile,1) (cloud,1) (computing,1) 
+
+8939 1 7 8653 8935 8936 8937 8938 8940 8941 6 (dynamic,1) (steering,1) (hpc,1) (scientific,1) (workflows,1) (survey,1) 
+
+9043 2 1 10828 10 (exploiting,1) (or-parallelism,1) (logic,2) (programs,2) (review,1) (dialog,1) (dataflow,1) (model,1) (parallel,1) (execution,1) 
+
+9073 1 4 9074 9075 9076 7281 6 (virtual,1) (temporal,1) (bone,1) (tele-immersive,1) (educational,1) (environment,1) 
+
+9150 1 3 9148 8618 9149 6 (optimizing,1) (remote,1) (method,1) (invocation,1) (communication-computation,1) (overlap,1) 
+
+9239 1 14 9227 9228 9229 9230 7774 9231 9232 9233 9234 9235 9236 9237 9238 9240 5 (high-performance,1) (computing,1) (chemistry,1) (nw,1) (chem,1) 
+
+9268 1 4 9266 8074 9267 8925 6 (ddos,1) (defense,1) (web,1) (services,1) (cloud,1) (environment,1) 
+
+9270 2 4 9269 9271 9272 12987 12 (parallel,2) (software,1) (development,1) (disc,1) (programming,1) (environment,1) (using,1) (csp,1) (languages,1) (program,1) (workstation,1) (systems,1) 
+
+9283 1 3 9281 9282 9284 6 (reduction,1) (architecture,1) (optimal,1) (scheduling,1) (binary,1) (trees,1) 
+
+9325 1 1 9326 5 (achieving,1) (low,1) (cost,1) (synchronization,1) (multiprocessor,1) 
+
+9338 1 2 7607 9339 12 (extended,1) (attribute,1) (based,1) (access,1) (control,1) (model,1) (trust,1) (privacy,1) (application,1) (collaborative,1) (crisis,1) (management,1) 
+
+9355 2 6 9354 9356 9357 9358 17817 18025 17 (validating,1) (key,1) (constraints,1) (xml,1) (document,1) (using,1) (xpath,1) (structure,1) (checking,1) (exploring,1) (correlated,1) (subspaces,1) (efficient,1) (query,1) (processing,1) (sparse,1) (databases,1) 
+
+9537 1 0 6 (synchronous,1) (processor,1) (arrays,1) (integrated,1) (transputer,1) (network,1) 
+
+9643 1 4 9641 9642 9644 9645 10 (agility-oriented,1) (fuzziness-embedded,1) (semantic,1) (model,1) (collaborative,1) (cloud,1) (service,1) (search,1) (retrieval,1) (recommendation,1) 
+
+9701 1 2 9700 7078 8 (efficient,1) (replicated,1) (data,1) (access,1) (approach,1) (large-scale,1) (distributed,1) (systems,1) 
+
+9763 2 4 9761 7667 9762 9764 9 (special,1) (section,1) (applications,1) (distributed,1) (grid,1) (computing,1) (selected,1) (numerical,1) (algorithms,1) 
+
+9768 2 8 9765 9766 9767 11843 11844 7798 11845 7803 11 (privacy,1) (performance,1) (trade-off,1) (private,1) (search,1) (bio-medical,1) (data,1) (secure,1) (on-demand,1) (grid,1) (computing,1) 
+
+9822 1 2 9821 8885 7 (formation,1) (ant,1) (cemetery,1) (swarm,1) (intelligence,1) (statistical,1) (accident,1) 
+
+9841 1 2 8058 9842 8 (reconstruction,1) (three-dimensional,1) (complex,1) (geological,1) (objects,1) (using,1) (delaunay,1) (triangulation,1) 
+
+9888 1 0 5 (appraisal,1) (parallel,1) (processing,1) (research,1) (icot,1) 
+
+9938 1 4 9939 9940 9941 5854 8 (efficiently,1) (using,1) (connectivity,1) (information,1) (triangles,1) (mesh,1) (real-time,1) (renderin,1) 
+
+9962 1 4 9959 9960 9961 9963 5 (vizier,1) (unified,1) (interface,1) (astronomical,1) (catalogs,1) 
+
+10188 1 2 10186 10187 8 (fourier,1) (analysis,1) (turing-like,1) (pattern,1) (formation,1) (cellular,1) (automaton,1) (models,1) 
+
+10225 1 2 7017 10226 7 (minex,1) (latency-tolerant,1) (dynamic,1) (partitioner,1) (grid,1) (computing,1) (applications,1) 
+
+10230 2 7 10227 10228 8170 10229 10231 11521 7860 15 (hybrids,1) (support,1) (vector,1) (machine,1) (wrapper,1) (filter,1) (based,1) (framework,1) (malware,1) (detection,2) (survey,1) (anomaly,1) (techniques,1) (financial,1) (domain,1) 
+
+10243 1 4 10242 10244 7584 10245 7 (analysis,1) (user,1) (behaviors,1) (mining,1) (network,1) (data,1) (sets,1) 
+
+10290 2 1 10289 7 (comments,2) (theorem,1) (grid,2) (access,1) (control,2) (model,2) (semantic,1) 
+
+10299 1 2 10300 7667 5 (asynchronous,1) (algorithm,1) (netsolve,1) (global,1) (computing,1) 
+
+10325 1 1 10326 6 (secure,1) (broadcasting,1) (cryptosystem,1) (application,1) (grid,1) (computing,1) 
+
+10347 1 7 10344 7380 10345 7731 10346 7929 7927 9 (secure,1) (efficient,1) (ciphertext-policy,1) (attribute-based,1) (proxy,1) (re-encryption,1) (cloud,1) (data,1) (sharing,1) 
+
+10379 1 5 10378 10380 10381 10382 8580 8 (trade-offs,1) (matching,1) (jobs,1) (balancing,1) (load,1) (distributed,1) (desktop,1) (grids,1) 
+
+10462 2 8 9806 10463 10403 9805 12191 7621 7622 12192 13 (path,1) (achieving,1) (self-managed,1) (grid,1) (middleware,1) (energy-efficient,1) (multifaceted,1) (resource,1) (management,1) (profit-driven,1) (virtualized,1) (data,1) (centers,1) 
+
+10509 1 4 10507 10508 10510 10511 4 (wavelet-based,1) (medical,1) (image,1) (compression,1) 
+
+10537 1 3 10538 10539 10540 4 (performance,1) (gridftp,1) (overlay,1) (network,1) 
+
+10539 1 3 10537 10538 10540 4 (performance,1) (gridftp,1) (overlay,1) (network,1) 
+
+10577 1 5 10575 10576 8540 10578 10579 6 (enabling,1) (scalable,1) (scientific,1) (workflow,1) (management,1) (cloud,1) 
+
+10622 1 2 10623 10624 7 (discord,1) (model,1) (detecting,1) (unexpected,1) (demands,1) (mobile,1) (networks,1) 
+
+10653 1 3 10654 10655 10656 6 (managing,1) (application,1) (whitelists,1) (trusted,1) (distributed,1) (systems,1) 
+
+10718 1 0 8 (hpf,1) (high,1) (performance,1) (fortran,1) (advanced,1) (scientific,1) (engineering,1) (applications,1) 
+
+10728 1 6 10722 10723 10724 10725 10726 10727 8 (real-time,1) (data,2) (mining,1) (massive,1) (streams,1) (synoptic,1) (sky,1) (surveys,1) 
+
+10747 1 8 10745 10746 10748 10749 10750 10751 10752 10753 5 (helio,1) (discovery,1) (analysis,1) (data,1) (heliophysics,1) 
+
+10757 1 2 10756 10758 6 (group-oriented,1) (signature,1) (scheme,1) (distinguished,1) (signing,1) (authoritie,1) 
+
+10815 1 0 7 (approximation,1) (non-product,1) (form,1) (finite,1) (capacity,1) (queue,1) (systems,1) 
+
+10904 1 2 10903 10905 3 (hybrid,1) (architecture,1) (bioinformatics,1) 
+
+11013 1 3 11014 11015 11016 5 (knowledge,1) (logistics,1) (information,1) (grid,1) (environment,1) 
+
+11175 1 1 11174 6 (parallel,1) (version,1) (phase,1) (space,1) (evolution,1) (model,1) 
+
+11188 1 13 11183 11184 11185 11186 11187 8363 8522 11189 11190 11191 8364 8362 11192 9 (monitoring,1) (cache,1) (behavior,1) (parallel,1) (smp,1) (architectures,1) (related,1) (programming,1) (tools,1) 
+
+11200 1 1 11201 7 (extensible,1) (information,1) (model,1) (shared,1) (scientific,1) (data,1) (collections,1) 
+
+11244 1 9 11243 11245 11246 11247 11248 11249 11250 11251 11252 7 (advanced,1) (resource,1) (connector,1) (middleware,1) (lightweight,1) (computational,1) (grids,1) 
+
+11250 1 9 11243 11244 11245 11246 11247 11248 11249 11251 11252 7 (advanced,1) (resource,1) (connector,1) (middleware,1) (lightweight,1) (computational,1) (grids,1) 
+
+11265 1 6 11266 11267 11268 11269 11270 11271 7 (design,1) (implementation,1) (ogsa-dqp,1) (service-based,1) (distributed,1) (query,1) (processor,1) 
+
+11416 1 2 7632 1462 5 (logically,1) (instantaneous,1) (communication,2) (mode,1) (abstraction,1) 
+
+11456 1 22 11452 11453 8302 8301 11454 7059 10707 7622 7038 11455 7063 8665 8324 8810 5514 11457 11458 11459 11460 11461 11462 11463 6 (optimis,1) (holistic,1) (approach,1) (cloud,1) (service,1) (provisioning,1) 
+
+11498 1 3 11499 11500 11501 6 (vector,1) (quantization,1) (weighted,1) (version,1) (time-series,1) (forecasting,1) 
+
+11587 1 2 7515 11586 8 (definition,1) (modelling,1) (simulation,1) (grid,1) (computing,2) (scheduling,1) (high,1) (throughput,1) 
+
+11643 1 6 11637 11638 11639 11640 11641 11642 11 (abnormal,1) (traffic-indexed,1) (state,1) (estimation,1) (cyber-physical,1) (fusion,1) (approach,1) (smart,1) (grid,1) (attack,1) (detection,1) 
+
+11723 1 4 11719 11720 11721 11722 9 (anomaly,1) (detection,1) (identification,1) (scheme,1) (vm,1) (live,1) (migration,1) (cloud,1) (infrastructure,1) 
+
+11726 1 2 11724 11725 7 (power-aware,1) (code,1) (scheduling,1) (assisted,1) (power,1) (gating,1) (dvs,1) 
+
+11804 1 2 11802 11803 6 (lightweight,1) (attribute-based,1) (encryption,1) (scheme,1) (internet,1) (things,1) 
+
+11828 1 3 11827 862 11829 3 (charlotte,1) (metacomputing,1) (web,1) 
+
+11983 1 2 11984 11985 8 (extending,1) (lop,1) (model,1) (concurrent,1) (mpi,1) (communications,1) (multicore,1) (clusters,1) 
+
+12018 1 7 12012 12013 12014 12015 12016 12017 9882 7 (semantic,1) (information,1) (services,1) (traded,1) (resources,1) (grid,1) (e-markets,1) 
+
+12050 1 6 7833 9917 12048 12049 10932 7049 3 (metacomputing,1) (intercontinental,1) (networks,1) 
+
+12106 1 3 12107 12108 11541 4 (interdisciplinary,1) (virtual,1) (laboratory,1) (nanoscience,1) 
+
+12126 1 2 5560 451 9 (family,1) (enhanced,1) (alpha,1) (diversity,1) (models,1) (privacy,1) (preserving,1) (data,1) (publishing,1) 
+
+12139 1 3 12138 12140 12141 8 (faster,1) (pde-based,1) (simulations,1) (using,1) (robust,1) (composite,1) (linear,1) (solvers,1) 
+
+12193 1 1 7523 6 (semantics,1) (intelligent,1) (processing,1) (services,1) (big,1) (data,1) 
+
+12197 1 1 12198 5 (verifying,1) (delegation,1) (protocol,1) (grid,1) (systems,1) 
+
+12264 1 3 12262 12263 12265 6 (automatic,1) (extraction,1) (face,1) (contours,1) (images,1) (videos,1) 
+
+12301 1 3 8323 11242 12300 10 (service-oriented,1) (architecture,1) (enabling,1) (dynamic,1) (service,1) (grouping,1) (optimizing,1) (distributed,1) (workflow,1) (execution,1) 
+
+12336 1 8 12335 12337 12338 12339 12340 12341 12342 12343 6 (impact,1) (supercomputing,1) (capabilities,1) (materials,1) (science,1) (technology,1) 
+
+12393 1 3 12391 12392 12394 4 (javelin,1) (parallel,1) (computing,1) (internet,1) 
+
+12467 1 2 12468 8119 7 (deadline-constrained,1) (workflow,1) (scheduling,1) (algorithms,1) (infrastructure,1) (service,1) (clouds,1) 
+
+12477 1 2 12476 8956 7 (algorithms,1) (solving,1) (numerical,1) (linear,1) (algebra,1) (problems,1) (supercomputers,1) 
+
+12492 1 2 12493 12494 9 (dual-level,1) (key,1) (management,1) (secure,1) (grid,1) (communication,1) (dynamic,1) (hierarchical,1) (groups,1) 
+
+12549 2 3 12550 13170 13171 15 (profid,1) (practical,1) (frequent,1) (items,1) (discovery,1) (peer-to-peer,1) (networks,1) (flat,1) (hierarchical,1) (epidemics,1) (systems,1) (energy,1) (cost,1) (models,1) (analysis,1) 
+
+12598 1 3 12597 12599 781 6 (modeling,1) (performance,1) (analysis,1) (scale,1) (iaas,1) (clouds,1) 
+
+12678 1 5 7455 12676 4968 12677 4607 8 (hybrid,1) (model,1) (cloud,2) (providers,1) (consumers,1) (agree,1) (qos,1) (services,1) 
+
+12700 1 1 12699 4 (state-based,1) (search,1) (strategy,1) (unstructured,1) 
+
+12795 1 5 12796 12797 7092 9679 9179 6 (resource,1) (discovery,1) (allocation,1) (federated,1) (virtualized,1) (infrastructures,1) 
+
+12835 1 4 12831 12832 12833 12834 4 (charging,1) (accounting,1) (high-speed,1) (networks,1) 
+
+12843 1 6 12842 7847 7846 8303 4819 4475 8 (stochastic,1) (modeling,1) (dynamic,1) (right-sizing,1) (energy-efficiency,1) (cloud,1) (data,1) (centers,1) 
+
+12888 1 1 12887 5 (scalable,1) (authorization,1) (approach,1) (globus,1) (grid,1) 
+
+12965 1 5 12966 12967 12968 12969 11369 7 (mra,1) (scheduling,1) (data,1) (placement,1) (mapreduce,1) (heterogeneous,1) (environments,1) 
+
+12971 1 1 12972 5 (mipeg,1) (middleware,1) (infrastructure,1) (pervasive,1) (grids,1) 
+
+13033 1 2 13032 13034 10 (formal,1) (model-oriented,1) (software,1) (development,1) (methods,1) (vdm,1) (procos,1) (amp,1) (raise,1) (lacos,1) 
+
+13153 1 3 13152 13154 13155 6 (monte,1) (carlo,1) (grid,1) (financial,1) (risk,1) (management,1) 
+
+13262 1 6 13261 9810 9809 7786 7444 7787 5 (designing,1) (evaluating,1) (active,1) (grid,1) (architecture,1) 
+
+13280 1 2 13279 7250 15 (survey,1) (scheduling,1) (metrics,1) (improved,1) (ordering,1) (policy,1) (list,1) (schedulers,1) (operating,1) (workloads,1) (dependencies,1) (wide,1) (variation,1) (execution,1) (times,1) 
+
+13290 1 5 13286 13287 13288 13289 13291 10 (powerful,1) (use,1) (simulations,1) (quake-catcher,1) (network,1) (efficiently,1) (position,1) (low-cost,1) (earthquake,1) (sensors,1) 
+
+13324 1 3 13321 13322 13323 7 (service,1) (level,1) (agreement,1) (based,1) (adaptive,1) (grid,1) (superscheduling,1) 
+
+13333 1 4 13332 8810 13334 13335 9 (network,1) (mobility,1) (support,1) (web,1) (service-based,1) (grids,1) (session,1) (initiation,1) (protocol,1) 
+
+13406 1 2 13404 13405 8 (algorithmic,1) (re-structuring,1) (data,1) (replication,1) (protein,1) (structure,1) (comparison,1) (grid,1) 
+
+13418 1 3 8904 13417 8903 4 (federate,1) (migration,1) (hla-based,1) (simulation,1) 
+
+13478 1 0 3 (computational,1) (chemistry,1) (workstation-farm,1) 
+
+13499 1 4 8577 13500 13501 13502 4 (mgf,1) (grid-enabled,1) (mpi,1) (library,1) 
+
+13515 1 3 9724 13514 8585 4 (schemes,1) (privacy-preserving,1) (trust,1) (evaluation,1) 
+
+13562 1 1 11254 11 (incentive,1) (compatible,1) (distributed,1) (reputation,1) (mechanism,1) (based,1) (context,1) (similarity,1) (service,1) (oriented,1) (systems,1) 
+
+13666 1 4 13663 13664 13665 13667 9 (generic,1) (framework,1) (synchronized,1) (distributed,1) (data,1) (management,1) (archaeological,1) (related,1) (disciplines,1) 
+
+13698 1 1 13697 8 (digital,1) (broadcasting,1) (challenges,1) (opportunities,1) (european,1) (community,1) (radio,1) (broadcasters,1) 
+
+13707 1 1 13708 8 (business,1) (models,1) (operational,1) (issues,1) (chinese,1) (online,1) (game,1) (industry,1) 
+
+13715 1 3 13714 13716 13717 8 (energy,1) (efficiency,1) (mobile,1) (handsets,1) (measuring,1) (user,1) (attitudes,1) (behavior,1) 
+
+13771 1 2 13772 13773 6 (uses,1) (gratifications,1) (digital,1) (photo,1) (sharing,1) (facebook,1) 
+
+13804 1 0 6 (mass,1) (media,1) (sensational,1) (message,1) (metamorphic,1) (truths,1) 
+
+13908 1 2 13906 13907 6 (structural,1) (features,1) (deliberative,1) (quality,1) (online,1) (discussions,1) 
+
+13947 5 7 13945 13820 13946 13918 14325 13818 13819 34 (influence,2) (online,1) (forum,3) (sns,2) (use,1) (political,2) (discussion,2) (china,1) (assessing,1) (spirals,2) (trust,1) (perceived,1) (gratifications,1) (media,2) (service,1) (potential,1) (users,1) (exploring,1) (evolution,1) (digital,1) (television,1) (interplay,1) (economic,1) (interests,1) (technology,1) (fluidity,1) (on-demand,1) (webcasting,1) (adoption,1) (expanding,1) (menus,1) (audience,1) (content,1) (selection,1) 
+
+13993 1 1 13842 8 (lifestyle,1) (behavior,1) (closer,1) (look,1) (situational,1) (context,1) (mobile,1) (communication,1) 
+
+14027 1 3 14025 14026 14028 6 (convergence,1) (action,1) (case,1) (study,1) (norwegian,1) (internet,1) 
+
+14192 1 4 14189 14190 14191 14193 6 (framework,1) (managing,1) (lifecycle,1) (transactional,1) (e-government,1) (services,1) 
+
+14251 1 1 14252 6 (employees,1) (privacy,1) (vs,1) (employers,1) (security,1) (balanced,1) 
+
+14291 1 3 14290 14292 14293 11 (determinants,1) (player,1) (acceptance,2) (mobile,1) (social,1) (network,1) (games,1) (application,1) (extended,1) (technology,1) (model,1) 
+
+14296 1 0 6 (unification,1) (cyber-jurisdiction,1) (rules,1) (just,1) (close,1) (eu,1) 
+
+14329 1 5 13852 14327 14328 14330 13851 7 (services,1) (stupid,1) (identifying,1) (killer,1) (applications,1) (next-generation,1) (networks,1) 
+
+14357 3 10 9502 14358 14359 14447 14448 14721 8037 14762 14763 14434 18 (evaluation,1) (teleteaching,1) (services,2) (atm,1) (ip,1) (networks,1) (broadband,2) (municipal,1) (optical,1) (greece,1) (suitable,1) (business,1) (model,1) (efficient,1) (web-based,1) (open,1) (distance,1) (learning,1) 
+
+14376 1 5 9502 14374 13894 14375 13895 9 (policy,1) (recommendations,1) (public,1) (administrators,1) (free,1) (open,1) (source,1) (software,1) (usage,1) 
+
+14382 2 5 14380 14381 13775 14687 14087 13 (analysis,1) (users,1) (non-users,1) (smartphone,1) (applications,1) (barriers,1) (drivers,1) (adoption,1) (current,1) (future,1) (mobile,1) (services,1) (finland,1) 
+
+14419 1 3 14417 14418 14420 11 (mobile,1) (learning,1) (m-learning,1) (adoption,1) (middle,1) (east,1) (lessons,1) (learned,1) (educationally,1) (advanced,1) (countries,1) 
+
+14428 1 1 14427 5 (ubiquitous,1) (computing,1) (overview,1) (technology,1) (impacts,1) 
+
+14523 1 4 14427 14520 14521 14522 5 (perspectives,1) (ambient,1) (intelligence,1) (home,1) (environment,1) 
+
+14566 1 2 14565 14056 9 (time,1) (displacement,1) (effect,1) (online,1) (video,1) (services,1) (media,1) (south,1) (korea,1) 
+
+14629 1 0 7 (online,1) (news,1) (reports,1) (air,1) (quality,1) (issues,1) (beijing,1) 
+
+14650 1 0 4 (determinants,1) (adoption,1) (e-business,1) (technologies,1) 
+
+14697 1 3 14694 14695 14696 6 (technological,1) (development,1) (brazilian,1) (telecommunications,1) (past,1) (decades,1) 
+
+14774 1 3 14775 14776 14777 6 (platform,1) (proliferation,1) (implications,1) (domestic,1) (content,1) (policies,1) 
+
+14778 1 0 10 (participation,1) (radio,1) (convergence,1) (corporate,1) (logic,1) (audience,1) (input,1) (new,1) (media,1) (zambia,1) 
+
+14882 1 0 4 (internet,1) (marketing,1) (amp,1) (smes,1) 
+
+14883 8 9 14884 14885 14892 14893 14894 14895 14932 14963 14976 66 (investigation,1) (student,1) (learning,3) (assistance,2) (online,3) (academic,2) (help-seeking,1) (mobile,1) (application,1) (quasi-experimental,1) (approach,1) (evaluating,2) (development,3) (firms,2) (comparing,1) (views,1) (advertisers,1) (advertising,1) (agencies,1) (likes,1) (meet,1) (blind,1) (dating,1) (internet,1) (developing,1) (hierarchy,1) (model,1) (selection,1) (social,1) (media,2) (manager,1) (improving,1) (students,1) (computing,1) (skills,1) (attitudes,1) (web-mediated,1) (self-regulated,1) (feedback,1) (problem-solving,1) (environment,1) (optimal,1) (korean,1) (dramas,1) (commercial,1) (tv,1) (stations,1) (taiwan,1) (using,1) (ahp,1) (different,1) (key,1) (processes,1) (implementation,1) (knowledge,1) (management,1) (ic,1) (designers,1) (distributors,1) (manufacturers,1) (virtual,1) (products,1) (games,1) (grey,1) (relational,1) (analysis,1) 
+
+14924 1 1 14923 10 (electronic,1) (customer,1) (relationship,1) (management,1) (sme,1) (marketing,1) (practice,1) (exploring,1) (potential,1) (synergies,1) 
+
+14932 1 2 14892 14883 7 (developing,1) (hierarchy,1) (model,1) (selection,1) (social,1) (media,1) (manager,1) 
+
+14941 1 0 9 (electronic,1) (voting,1) (using,1) (identity,1) (domain,1) (separation,1) (hardware,1) (security,1) (modules,1) 
+
+14985 1 2 14986 14987 6 (adoption,1) (pbl,1) (online,1) (environments,1) (student,1) (perspectives,1) 
+
+15075 1 0 5 (reading,1) (processes,1) (groundwork,1) (software,1) (studies,1) 
+
+15088 1 0 11 (gaming,1) (ad,1) (diction,1) (discourse,1) (identity,1) (time,1) (play,1) (production,1) (gamer,1) (addiction,1) (myth,1) 
+
+15089 1 2 15090 15091 9 (cheesers,1) (pullers,1) (glitchers,1) (rhetoric,1) (sportsmanship,1) (discourse,1) (online,1) (sports,1) (gamers,1) 
+
+15126 1 0 4 (survey,1) (first-person,1) (shooters,1) (avatars,1) 
+
+15191 1 2 15190 15192 9 (e-entrepreneurship,1) (strategies,1) (overcome,1) (barriers,1) (market,1) (entry,1) (theory,1) (cybernetics,1) (perspective,1) 
+
+15309 2 1 15310 17 (new,1) (ventures,1) (based,1) (open,2) (innovation,1) (empirical,1) (analysis,1) (start-up,1) (firms,1) (embedded,2) (linux,1) (research,1) (marketing,1) (emerging,1) (key,1) (issues,1) (questions,1) 
+
+15385 1 0 8 (information,2) (knowledge,1) (technology,2) (management,1) (national,1) (policies,1) (sustainable,1) (development,1) 
+
+15469 1 3 15470 8196 15471 8 (reference,1) (model,1) (integration,1) (framework,1) (building,1) (enterprise,1) (computing,1) (platform,1) 
+
+15547 2 3 15544 15545 15546 13 (managing,1) (strategic,1) (innovation,1) (analysis,1) (dr,1) (reddy,1) (laboratories,1) (global,1) (pharmaceutical,1) (industry,1) (changing,1) (competitive,1) (landscape,1) 
+
+15559 1 2 15560 15561 8 (strategy,1) (transformation,1) (technological,1) (convergence,1) (evidence,1) (printed,1) (electronics,1) (industry,1) 
+
+15571 2 2 15572 15573 8 (impacts,1) (relationships,1) (evolving,1) (disciplines,1) (integrating,1) (product,1) (technology,1) (development,1) 
+
+15674 1 1 15673 12 (organisational,1) (learning,1) (new,1) (product,1) (development,1) (process,1) (findings,1) (case,1) (studies,1) (brazilian,1) (manufacturing,1) (companies,1) 
+
+15774 2 2 15772 15773 11 (edi,1) (performance,1) (automotive,1) (supply,1) (chain,1) (impact,1) (information,1) (systems,1) (technology,1) (operations,1) (management,1) 
+
+15918 1 3 15916 15917 15919 6 (relevance,1) (innovation,1) (production-related,1) (services,1) (manufacturing,1) (industry,1) 
+
+16018 1 2 16016 16017 6 (measuring,1) (dynamic,1) (technical,1) (change,1) (technometric,1) (approach,1) 
+
+16024 2 1 16025 6 (firm,1) (size,1) (impact,2) (continuous,2) (improvement,2) (dispersion,1) 
+
+16033 1 2 16032 16034 5 (managing,1) (ideas,1) (development,1) (new,1) (products,1) 
+
+16055 1 1 16056 6 (motivations,1) (academics,1) (interact,1) (industry,1) (case,1) (nanoscience,1) 
+
+16166 1 1 15718 9 (evaluating,1) (large-scale,1) (research,1) (development,1) (program,1) (japan,1) (methods,1) (findings,1) (insights,1) 
+
+16201 1 1 15782 4 (innovation,1) (location,1) (multinational,1) (firm,1) 
+
+16272 1 1 16273 7 (managing,1) (technologies,1) (industrial,1) (cluster,2) (case,1) (toolmakers,1) (slovenia,1) 
+
+16300 1 3 16297 16298 16299 9 (holistic,1) (knowledge,1) (sharing,1) (framework,1) (high-tech,1) (firms,1) (game,1) (co-opetition,1) (perspectives,1) 
+
+16384 3 8 16382 16383 16606 16607 16608 17333 17334 17335 20 (bridging,1) (islands,1) (knowledge,2) (framework,1) (sharing,1) (mechanisms,1) (linking,1) (business,2) (ecosystem,2) (lifecycle,1) (platform,1) (strategy,1) (triple,1) (view,1) (technology,2) (application,1) (organisation,1) (extension,1) (facilitating,1) (substitution,1) 
+
+16469 1 1 16468 10 (steps,1) (consumer-driven,1) (innovation,1) (machine,1) (ordinary,1) (product,1) (categories,1) (later,1) (lifecycle,1) (stages,1) 
+
+16666 1 1 16667 7 (fractal,1) (perspective,1) (competencies,1) (necessary,1) (managing,1) (information,1) (systems,1) 
+
+16671 1 1 16642 8 (mode,1) (quadruple,1) (helix,1) (st,1) (century,1) (fractal,1) (innovation,1) (ecosystem,1) 
+
+16686 1 2 16685 16687 8 (open,1) (innovation,1) (process,2) (industries,1) (lifecycle,1) (perspective,1) (development,1) (equipment,1) 
+
+16745 1 4 16746 16747 15626 15205 6 (internal,1) (technology,1) (valuation,1) (real,1) (world,1) (issues,1) 
+
+16752 1 2 16753 16613 11 (moderating,1) (role,1) (social,1) (networks,1) (radical,1) (innovation,1) (process,1) (multidimensionality,1) (human,1) (capital-based,1) (analysis,1) 
+
+16792 1 2 4984 16793 6 (synchronised,1) (design,1) (platform,1) (performance,1) (measurement,1) (www,1) 
+
+16796 1 1 16797 8 (sources,1) (innovation,1) (combinations,1) (strengths,1) (benefits,1) (npd,1) (project,1) (level,1) 
+
+16819 1 3 16817 16818 16820 7 (venture,1) (capital,1) (trigger,1) (innovation,1) (new,1) (evidence,1) (china,1) 
+
+16861 1 0 4 (creating,1) (support,1) (change,1) (strategy,1) 
+
+16864 1 6 16862 16863 16865 16866 16867 16868 13 (seed,1) (systems,1) (african,1) (food,1) (security,1) (linking,1) (molecular,1) (genetic,1) (analysis,1) (cultivator,1) (knowledge,1) (west,1) (africa,1) 
+
+16906 1 1 16694 11 (dynamics,1) (technological,1) (learning,1) (inside,1) (latecomer,1) (firm,1) (evidence,1) (capital,1) (goods,1) (industry,1) (brazil,1) 
+
+17066 1 0 9 (management,1) (technology,1) (sme,1) (case,1) (study,1) (hind,1) (high,1) (vacuum,1) (pvt,1) 
+
+17086 1 0 6 (striving,1) (kakushin,1) (continuous,1) (innovation,1) (st,1) (century,1) 
+
+17164 1 1 17165 7 (framework,1) (assessing,1) (innovation,1) (collaboration,1) (partners,1) (application,1) (brics,1) 
+
+17195 1 4 15182 17193 17194 15447 6 (problem,1) (using,1) (hierarchy,1) (implementing,1) (organisational,1) (innovation,1) 
+
+17305 1 1 17306 5 (internet,1) (competitive,1) (strategy,1) (boundaries,1) (firm,1) 
+
+17316 1 1 17317 7 (effectiveness,1) (compensation,1) (strategies,1) (international,1) (technology,1) (intensive,1) (firms,1) 
+
+17431 1 3 17430 17432 9050 6 (gridvideo,1) (practical,1) (example,1) (nonscientific,1) (application,1) (grid,1) 
+
+17442 1 5 17441 17443 17444 17445 17446 8 (dryadeparent,1) (efficient,1) (robust,1) (closed,1) (attribute,1) (tree,1) (mining,1) (algorithm,1) 
+
+17447 1 2 17448 1191 8 (mining,1) (generalized,1) (associations,1) (semantic,1) (relations,1) (textual,1) (web,1) (content,1) 
+
+17484 1 3 17483 17485 17486 3 (conditional,1) (anomaly,1) (detection,1) 
+
+17522 7 11 18428 18429 18430 18431 18432 18433 18434 17475 18841 18842 17424 37 (change,1) (diagnosis,1) (evolving,2) (data,3) (streams,2) (analytical,1) (properties,1) (high-dimensional,1) (randomization,1) (recurring,1) (novel,1) (class,1) (detection,1) (using,1) (class-based,1) (ensemble,1) (stream,1) (breaking,1) (barrier,1) (transferring,1) (link,1) (information,1) (networks,1) (new,1) (approach,1) (online,2) (generation,1) (association,1) (rules,1) (mining,1) (associations,1) (collective,1) (strength,1) (survey,1) (uncertain,1) (algorithms,1) (applications,1) 
+
+17539 2 8 17536 17537 17538 17540 17664 19395 19254 19396 13 (publishing,1) (search,1) (logs,1) (comparative,1) (study,1) (privacy,2) (guarantees,1) (angel,1) (enhancing,1) (utility,1) (generalization,1) (preserving,1) (publication,1) 
+
+17558 1 2 17559 17560 9 (hot,1) (topic,1) (extraction,1) (based,1) (timeline,1) (analysis,1) (multidimensional,1) (sentence,1) (modeling,1) 
+
+17627 2 4 17626 17419 19081 19082 18 (incrests,1) (real-time,1) (incremental,1) (short,1) (text,1) (summarization,1) (comment,1) (streams,1) (social,1) (network,1) (services,1) (general,1) (model,1) (sequential,1) (pattern,1) (mining,1) (progressive,1) (database,1) 
+
+17634 6 8 17772 17773 17774 19474 3567 19938 19939 19940 24 (state,2) (journal,1) (editorial,1) (anonymization,3) (local,2) (recoding,1) (data,1) (attribute,1) (hierarchical,2) (taxonomies,1) (interactive,1) (approach,1) (mining,1) (gene,1) (expression,1) (transactions,1) (continuous,1) (k-means,1) (monitoring,1) (low,1) (reporting,1) (cost,1) (sensor,1) (networks,1) 
+
+17687 1 2 17686 17688 11 (automated,1) (reasoning,1) (using,1) (possibilistic,1) (logic,1) (semantics,1) (belief,1) (revision,1) (variable,1) (certainty,1) (weights,1) 
+
+17742 1 3 17673 17671 17672 7 (inverted,1) (linear,1) (quadtree,1) (efficient,1) (spatial,1) (keyword,1) (search,1) 
+
+17815 1 1 17816 2 (cluster-based,1) (boosting,1) 
+
+17837 1 1 8182 4 (combinatorial,1) (optimization,1) (distributed,1) (queries,1) 
+
+17842 1 4 9921 17841 17843 17844 6 (supporting,1) (dynamic,1) (interactions,1) (web-based,1) (information,1) (sources,1) 
+
+17849 1 2 17642 17848 2 (logic-based,1) (transformation,1) 
+
+17909 1 1 17908 10 (context,1) (sitbac,1) (models,1) (privacy,1) (preservation,1) (experimental,1) (comparison,1) (model,1) (comprehension,1) (synthesis,1) 
+
+17923 1 1 17833 8 (nonadaptive,1) (mastermind,1) (algorithms,1) (string,1) (vector,1) (databases,1) (case,1) (studies,1) 
+
+17940 1 2 17938 17939 5 (linear,1) (spiral,1) (hashing,1) (expansible,1) (files,1) 
+
+17959 1 3 17960 17961 17962 6 (time-series,1) (classification,1) (cote,1) (collective,1) (transformation-based,1) (ensembles,1) 
+
+18027 1 3 18026 18028 18029 7 (hierarchical,1) (decision,1) (tree,1) (induction,1) (distributed,1) (genomic,1) (databases,1) 
+
+18092 1 3 17460 18093 18094 7 (learning,1) (ambient,1) (intelligent,1) (world,1) (enabling,1) (technologies,1) (practices,1) 
+
+18157 1 5 18152 18153 18154 18155 18156 8 (efficient,1) (r-tree,1) (based,1) (indexing,1) (scheme,1) (server-centric,1) (cloud,1) (storage,1) 
+
+18183 2 3 18182 17565 18882 13 (estimating,1) (block,1) (accesses,1) (database,1) (organizations,1) (decision,1) (model,1) (choosing,1) (optimal,1) (level,1) (storage,1) (temporal,1) (databases,1) 
+
+18240 1 1 18241 4 (cocite,1) (coordinating,1) (changes,1) (text,1) 
+
+18245 1 2 18243 18244 6 (reliability,1) (ai,1) (planning,1) (software,1) (real-time,1) (applications,1) 
+
+18397 1 1 18398 7 (cross-language,1) (learning,1) (bots,1) (users,1) (detect,1) (vandalism,1) (wikipedia,1) 
+
+18408 1 1 17419 5 (design,1) (analysis,1) (privacy-preserving,1) (svm,1) (classifier,1) 
+
+18453 1 2 18454 18455 7 (improved,1) (algorithm,1) (incremental,1) (recomputation,1) (active,1) (relational,1) (expressions,1) 
+
+18582 2 2 12223 18056 12 (range-based,1) (skyline,1) (queries,2) (mobile,1) (environments,1) (reverse,1) (keyword,1) (search,1) (spatio-textual,1) (top-$k$,1) (location-based,1) (services,1) 
+
+18611 1 2 18610 18612 7 (data,1) (structure,1) (association,1) (rule,1) (mining,1) (t-trees,1) (p-trees,1) 
+
+18760 1 4 18756 18757 18758 18759 6 (graph-based,1) (framework,1) (multiparadigmatic,1) (visual,1) (access,1) (databases,1) 
+
+18878 4 9 18879 18880 18881 18951 6492 8710 18978 28 18995 21 (providing,1) (flexible,1) (process,1) (support,1) (project-centered,1) (learning,1) (wanted,1) (know,1) (datalog,1) (dared,1) (ask,1) (effective,1) (scheduling,1) (detached,1) (rules,1) (active,2) (databases,1) (compile-time,1) (runtime,1) (analysis,1) (behaviors,1) 
+
+18908 1 3 18907 18655 18909 6 (diverse,1) (power,1) (iteration,1) (embeddings,1) (theory,1) (practice,1) 
+
+18927 1 5 18928 18929 18930 18931 18932 8 (hierarchical,1) (tensor-based,1) (approach,1) (compressing,1) (updating,1) (querying,1) (geospatial,1) (data,1) 
+
+18941 1 5 18940 18942 18943 18944 18945 6 (listwise,1) (learning,1) (rank,1) (exploring,1) (structure,1) (objects,1) 
+
+19016 1 4 18843 16600 18621 17464 8 (finding,1) (causality,1) (responsibility,1) (probabilistic,1) (reverse,1) (skyline,1) (query,1) (non-answers,1) 
+
+19038 1 1 18036 6 (wise,1) (world,1) (wide,1) (web,1) (resource,1) (database,1) 
+
+19085 1 4 19083 19084 19086 19087 4 (validation,1) (automated,1) (model,1) (generator,1) 
+
+19158 1 4 19157 10687 18342 18345 7 (clustering-guided,1) (sparse,1) (structural,1) (learning,1) (unsupervised,1) (feature,1) (selection,1) 
+
+19167 1 3 19164 19165 19166 7 (co-clusterd,1) (distributed,1) (framework,1) (data,1) (co-clustering,1) (sequential,1) (updates,1) 
+
+19254 2 8 19252 19253 5733 18250 17664 19395 17539 19396 14 (robust,1) (median,1) (reversion,1) (strategy,1) (online,1) (portfolio,1) (selection,1) (angel,1) (enhancing,1) (utility,1) (generalization,1) (privacy,1) (preserving,1) (publication,1) 
+
+19273 1 12 19262 19263 19264 19265 19266 19267 14816 19268 19269 19270 19271 19272 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19285 1 2 19284 8683 10 (cdama,1) (concealed,1) (data,1) (aggregation,1) (scheme,1) (multiple,1) (applications,1) (wireless,1) (sensor,1) (networks,1) 
+
+19302 2 5 19300 19301 19303 19857 19858 12 (serimi,1) (class-based,1) (matching,2) (instance,1) (heterogeneous,1) (datasets,1) (runtime,1) (optimizations,1) (tree-based,1) (machine,1) (learning,1) (models,1) 
+
+19319 1 1 18519 7 (design,1) (ldv,1) (multilevel,1) (secure,1) (relational,1) (database,1) (management,1) 
+
+19409 1 3 19408 19410 19411 6 (effective,1) (techniques,1) (naive,1) (bayes,1) (text,1) (classification,1) 
+
+19419 1 3 19417 19418 3490 5 (robust,1) (model-based,1) (learning,1) (spatial-em,1) (algorithm,1) 
+
+19435 1 4 19434 3567 19436 19437 7 (survey,1) (functional,1) (module,1) (detection,1) (protein-protein,1) (interaction,1) (networks,1) 
+
+19436 1 4 19434 3567 19435 19437 7 (survey,1) (functional,1) (module,1) (detection,1) (protein-protein,1) (interaction,1) (networks,1) 
+
+19572 1 3 19570 17864 19571 7 (effective,1) (navigation,1) (query,1) (results,1) (based,1) (concept,1) (hierarchies,1) 
+
+19613 1 1 11084 7 (trusteddb,1) (trusted,1) (hardware-based,1) (database,1) (privacy,1) (data,1) (confidentiality,1) 
+
+19637 1 4 19634 19635 19636 19638 8 (practical,1) (ensemble,1) (classification,1) (error,1) (bounds,1) (different,1) (operating,1) (points,1) 
+
+19643 1 4 17966 17964 19644 19645 4 (fusing,1) (monotonic,1) (decision,1) (trees,1) 
+
+19683 1 1 19684 6 (unsupervised,1) (learning,1) (mixed,1) (numeric,1) (nominal,1) (data,1) 
+
+19697 1 1 19696 5 (bias,1) (correction,1) (sample,1) (big,1) (data,1) 
+
+19789 1 3 19790 19311 452 5 (privacy-preserving,1) (content-protecting,1) (location,1) (based,1) (queries,1) 
+
+19821 1 5 19820 19822 19823 18857 19824 6 (mining,1) (order-preserving,1) (submatrices,1) (data,1) (repeated,1) (measurements,1) 
+
+19824 1 5 19820 19821 19822 19823 18857 6 (mining,1) (order-preserving,1) (submatrices,1) (data,1) (repeated,1) (measurements,1) 
+

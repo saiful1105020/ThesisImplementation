@@ -1,0 +1,1005 @@
+<Keyword> <No of vertices> <vertex1> <vertex2> .... <vertexN> 
+nested 2 109 110 
+calculate 1 199 
+d-primitive 2 277 278 
+managing 1 56 
+multicomputers 2 18446 19544 
+supersets 1 130 
+time 9 48 49 299 298 1250 581 582 177 178 
+disk-based 2 18446 17937 
+semantics 15 20 44 56 565 1284 564 878 96 982 461 1218 1535 1257 58 343 
+movement 1 707 
+asymmetric 2 581 582 
+taxonomy 5 2479 2478 2480 2481 2482 
+product-service 9 4496 5948 3606 3922 5809 5810 6525 6526 6527 
+objects 4 895 749 1614 1615 
+generation 13 18562 5021 5022 5023 5024 1146 896 895 749 1614 1615 748 750 
+assertional 1 20 
+timed 7 628 629 114 699 700 701 702 
+normalisierungsproblems 1 69 
+disjunctive 2 277 278 
+queueing 5 37 1546 1664 192 193 
+pascal 3 243 122 729 
+behandlung 1 69 
+ndigkeitssatz 1 189 
+prefix 2 144 145 
+constructive 1 122 
+codes 2 277 278 
+bin 1 581 
+big 3 17937 19694 19695 
+array 2 48 49 
+dynamic 13 4845 4844 4846 26 27 28 114 699 700 701 702 185 186 
+knowledge 12 4871 2479 6480 6481 6482 2478 2480 2481 2482 107 15557 15558 
+parameterized 2 82 83 
+incorporating 2 5750 5751 
+behavior 2 77 78 
+rejection 2 50 51 
+commerce 4 59 4393 4394 4395 
+auml 3 40 69 189 
+partly 2 172 173 
+object-oriented 2 112 419 
+ascending 1 130 
+ianov 1 1250 
+classes 2 850 849 
+corrigenda 2 96 982 
+multi-mode 1 6791 
+choices 2 174 209 
+increasing 3 184 185 186 
+join 2 18446 19544 
+specifications 12 4870 5084 5085 5083 44 1835 56 289 117 118 119 1547 
+standards 3 11672 13587 13588 
+new 1 150 
+datalog 3 18878 18951 6492 
+predicative 3 58 342 343 
+testing 3 66 67 211 
+rel 1 99 
+multiprocessor 3 184 185 186 
+transactions 2 109 110 
+physical 6 4870 6033 6034 6035 6036 6037 
+computational 5 50 51 57 1218 628 
+settings 2 581 582 
+tool 3 107 15557 15558 
+distributed 15 5808 20 8710 8186 850 8187 50 18490 18446 582 17607 184 185 186 376 
+parsers 2 47 100 
+firms 1 591 
+dynamically 1 114 
+architecture 7 5499 4388 5501 59 4393 4394 4395 
+points-to 2 706 1697 
+pdm 4 4870 5084 5085 5083 
+software 2 5750 5751 
+reactivity 2 299 298 
+height 3 32 1687 1688 
+priority 2 37 541 
+technological 1 591 
+composition 1 36 
+permutations 2 40 303 
+rdf 2 3886 3888 
+processing 3 50 18490 18446 
+embedding 2 99 1598 
+opportunistic 1 130 
+eines 1 189 
+processes 19 2479 20 32 56 1284 96 97 98 57 461 1218 1257 178 1076 1077 205 210 211 223 
+automatic 6 5021 5022 5023 5024 57 156 
+code 11 29 1146 894 896 1147 104 1394 966 211 954 593 
+detached 4 28 18878 8710 18978 
+bounds 5 48 49 1656 185 186 
+schaltkreise 1 189 
+assumptions 2 54 1095 
+netcom 2 105 7945 
+active 5 28 18878 8710 18978 18995 
+behavioral 2 112 113 
+orders 6 29 1146 894 896 1147 99 
+streams 2 88 777 
+toolset 2 3606 3605 
+fast 7 48 49 68 490 1361 196 197 
+sparse 3 17937 19694 19695 
+extending 1 18741 
+evidence 1 591 
+optimally 1 47 
+analysis 21 18878 18978 18995 32 1159 1160 35 1125 37 1546 47 104 511 309 512 183 190 486 706 942 1697 
+simulation 11 4870 6033 6034 6035 6036 6037 4496 5948 3606 3922 132 
+life-cycle 2 3886 3888 
+business 1 6791 
+negation 1 122 
+proofs 2 118 1547 
+sequential 8 582 17607 174 209 205 206 488 707 
+possible 1 18562 
+generalization 2 93 1299 
+complementary 2 1284 96 
+packing 3 172 581 1109 
+tries 1 32 
+cost-effective 6 11672 11673 11674 11675 11676 11677 
+lar 1 169 
+population 1 17730 
+law 2 192 193 
+recognizable 1 111 
+subsequence 1 130 
+semantic 15 6492 6491 5114 4496 59 4393 4394 4395 99 1578 1579 108 110 18415 18416 
+derandomization 2 48 49 
+variance 1 132 
+iterative 8 909 19224 19225 168 195 486 706 942 
+gray 7 29 1146 894 896 1147 895 749 
+transformation 4 1267 1266 57 1218 
+expected 2 32 47 
+relations 6 1267 1266 111 144 145 776 
+mechatronic 4 4870 5438 5439 5440 
+intermittent 2 80 81 
+dense 6 17937 19694 19695 146 277 278 
+graphs 8 17851 93 1299 512 1179 115 116 136 
+characterisation 2 5602 5604 
+generalized 6 18741 749 748 750 833 1649 
+multiconnection 1 21 
+inference 1 141 
+lower 3 48 49 1656 
+improves 2 25 1267 
+ndig 1 40 
+reusable 3 4845 4844 4846 
+aggregates 3 909 19224 19225 
+substitution 1 36 
+szlig 2 40 303 
+stretching 1 581 
+calculation 2 174 175 
+languages 23 6492 6491 5114 4496 47 54 1095 1284 96 833 298 1237 140 144 145 146 147 578 776 1245 277 278 156 
+improved 4 5021 5022 5023 5024 
+commutativity-based 3 110 18415 18416 
+given 5 29 1146 894 896 1147 
+hex 1 40 
+social 2 582 17607 
+processe 2 96 982 
+programmed 2 17937 19809 
+tokens 2 20 1573 
+convex 2 115 116 
+constructing 1 100 
+support 20 4871 6480 6481 6482 4845 5467 5468 5469 5470 18878 18879 18880 18881 6492 19764 19765 5810 6525 6526 6527 
+searching 1 17851 
+job 4 82 83 172 173 
+equilibrium 2 37 1546 
+distribution 5 107 19581 19582 19583 19584 
+criterion 1 20 
+verification 11 20 57 309 299 298 1708 112 419 141 768 769 
+abstraction 7 107 19581 19582 19583 19584 112 419 
+specification-oriented 2 56 1284 
+compositional 3 52 53 57 
+virtual 9 5656 5657 5658 11672 11673 11674 11675 11676 11677 
+binary 11 894 896 895 749 33 34 47 144 145 776 206 
+genericity 3 593 591 592 
+proof 6 1284 309 299 109 110 169 
+space 3 59 60 61 
+statistical 1 17937 
+explaining 1 130 
+distance 4 8710 8186 850 8187 
+clean 1 168 
+subscribe 5 107 19581 19582 19583 19584 
+visiting 1 29 
+wscpc 4 59 4393 4394 4395 
+dimensions 3 4845 4844 4846 
+nonfinite 2 170 171 
+probabilistic 4 32 174 209 189 
+construction 5 17851 17850 21 86 142 
+products 3 4845 4844 4846 
+primitive 3 88 144 145 
+diagrams 3 4388 4990 4845 
+note 7 47 87 140 144 145 146 147 
+editorial 4 4870 4832 56 1413 
+links 1 581 
+g-tree 1 150 
+stationarity 1 39 
+reasoning 3 169 177 178 
+prefetching 1 164 
+index-based 2 18446 19544 
+maximal 1 188 
+improvement 5 3606 3605 107 15557 15558 
+modular 10 4845 5467 5468 5469 5470 118 1547 178 1076 1077 
+method 3 100 309 299 
+capabilities 1 591 
+efficiency 2 210 211 
+square 2 172 581 
+manufacturing 6 4523 4525 6492 6491 5114 4496 
+single 1 164 
+scalability 4 8186 8187 8184 8185 
+proposition 2 4523 4525 
+type 2 44 1835 
+algebraic 13 472 470 471 473 57 1218 628 112 113 117 118 119 1547 
+related 5 144 145 146 147 189 
+family 3 5499 4388 5501 
+plm 7 3886 3888 4845 5467 5468 5469 5470 
+action 5 2479 2478 2480 2481 2482 
+applications 19 4870 6475 19601 19602 6033 6034 6035 6036 6037 11672 13587 13588 3922 5809 5810 32 99 1598 188 
+cycle 3 4496 5948 3606 
+bei 1 69 
+locking 4 109 110 18415 18416 
+means 2 5602 5604 
+embedded 3 4845 4844 4846 
+safedpi 3 211 954 593 
+strong 2 1656 581 
+translations 3 488 486 487 
+durch 1 69 
+hybrid 5 56 1413 299 298 1708 
+conceptual 2 850 849 
+quotation 3 4388 6160 6161 
+k-means 2 18446 17937 
+verifying 1 20 
+multi-disk 1 164 
+requirements 10 4845 4844 4846 6492 6491 5114 4496 4495 56 289 
+considered 1 58 
+paths 6 749 748 750 96 97 98 
+bipolar 3 133 134 135 
+automatically 2 25 1267 
+grid 5 25 12293 11672 13587 13588 
+compute 1 127 
+non-standard 2 1218 1257 
+develop 1 591 
+algebras 3 1656 88 777 
+innovation 4 107 15557 15558 591 
+derivational 1 49 
+retracts 1 79 
+reuse 3 4845 4844 4846 
+generating 4 4845 4844 4846 47 
+problem 9 490 70 130 581 582 183 188 204 205 
+prams 3 966 12785 12786 
+anonymization 2 582 17607 
+algorithmic 1 169 
+interface 6 4870 5438 5439 5440 1547 1759 
+concepts 1 198 
+database 1 1675 
+optimizing 3 104 150 151 
+two-station 2 37 424 
+refinements 2 52 53 
+plan 4 5021 5022 5023 5024 
+identification 3 4845 4844 4846 
+implementation 2 490 1547 
+additionsdauer 1 189 
+registers 1 47 
+consistent 2 1284 96 
+technique 5 4388 4990 4845 1267 1266 
+restarts 2 172 173 
+ambiguity 1 966 
+flow 9 461 1218 1535 104 511 309 512 188 190 
+production 5 4832 4830 4831 4496 4495 
+feedback 2 115 116 
+practices 3 107 15557 15558 
+concurrent 12 4867 4868 4869 4870 4871 54 55 96 982 57 1218 211 
+variants 2 150 4706 
+boolean 7 68 490 834 1489 1250 196 197 
+copy 1 56 
+static 3 26 27 28 
+modifications 1 707 
+inherently 3 47 834 833 
+quantification 1 111 
+ist 1 40 
+calls 1 141 
+coordinating 2 96 982 
+structures 10 8186 8187 8184 8185 1146 896 895 749 77 78 
+variables 2 857 127 
+models 10 6791 37 1664 57 1218 628 299 298 154 155 
+hypercube 2 93 1299 
+permutation 2 115 1029 
+objective-oriented 5 2479 2478 2480 2481 2482 
+devices 1 142 
+bipartite 2 115 116 
+buddy 2 92 93 
+complex 6 5021 5022 5023 5024 4496 4495 
+demonic 2 174 209 
+organizing 1 150 
+minimum 2 115 116 
+coordination 1 5808 
+use 2 857 104 
+sccs 2 22 23 
+schedulers 2 54 1095 
+life 3 4496 5948 3606 
+gamma 3 17937 19694 19695 
+fixpoints 2 84 85 
+revisited 2 20 581 
+best 1 68 
+csma 2 35 1125 
+paralleladdierwerk 1 189 
+customization 3 5499 4388 5501 
+publish 5 107 19581 19582 19583 19584 
+correctness 10 44 1284 66 67 88 777 299 298 118 1547 
+procedure 1 141 
+allocate 2 1109 1333 
+learning 4 18878 18879 18880 18881 
+deletion 3 133 134 135 
+assignment 2 581 582 
+progress 2 54 1095 
+hierarchies 1 188 
+e-maintenance 2 4496 4495 
+identified 3 4845 4844 4846 
+computer-aided 3 5499 4388 5501 
+science 5 2479 2478 2480 2481 2482 
+practical 1 100 
+modeled 1 35 
+space-bounded 1 833 
+automating 2 17851 17850 
+synchronizing 1 198 
+eliminating 2 100 130 
+control 1 1675 
+condition 2 5750 5751 
+program-analysis 1 707 
+cost 5 1675 33 34 48 49 
+motzkin 3 749 748 750 
+enabler 5 4867 4868 4869 4870 4871 
+prolog 3 57 1218 628 
+failure 1 122 
+rankings 1 20 
+cosy 3 96 97 98 
+benchmark 2 4496 4495 
+sound 1 56 
+summarize 3 17937 19694 19695 
+case 2 92 93 
+innovative 4 4832 16225 16226 591 
+situational-calculus 2 298 1237 
+additive 1 47 
+singapore 1 591 
+peer-to-peer 4 8186 8187 8184 8185 
+hpf-like 3 26 12529 12530 
+crc 3 4388 4389 4390 
+performance 12 5083 5081 5021 5082 26 12529 12530 50 18490 18446 92 93 
+bi-catenation 2 146 578 
+multiple 4 37 424 52 53 
+uncertainty 2 20 114 
+cross-bifix-free 4 894 896 895 749 
+protocol 2 35 1125 
+regular 6 144 145 146 178 1076 1077 
+primitives 3 96 982 86 
+erratum 7 37 424 58 342 343 122 729 
+general 14 20 1146 896 895 749 37 424 1664 49 878 100 486 706 942 
+inductive 1 79 
+representative 3 26 27 28 
+unit 1 100 
+effect 3 50 18490 18446 
+smes 1 6791 
+bunches 2 84 1704 
+actual 2 40 303 
+incompletely 2 206 488 
+interoperable 3 5656 5657 5658 
+automated 3 4832 4830 4831 
+non-approximability 2 706 1697 
+domains 3 99 1578 1579 
+ccs 6 54 1095 57 461 1218 1257 
+uml 7 4870 5084 5085 5083 4832 4830 4831 
+extensions 1 18562 
+hierarchical 4 37 1664 150 151 
+invariant 2 80 81 
+tree 9 47 490 104 1394 966 196 197 206 707 
+accepted 1 833 
+sprouts 3 99 1578 1579 
+industry 2 4523 4525 
+strategies 6 4388 4990 4845 82 83 164 
+subtyping 2 112 113 
+submodule 1 1675 
+random 8 749 748 750 32 1159 1160 1687 1688 
+deriving 2 1267 1266 
+inevitability 2 80 81 
+heights 1 32 
+non 3 749 748 750 
+symmetries 1 199 
+und 1 189 
+homomorphism 1 131 
+logical 1 142 
+recurrence 2 1267 1266 
+planning 7 4523 4525 25 12293 11672 4496 4495 
+vertex 2 115 116 
+conventions 2 58 343 
+closure 1 18741 
+approaches 3 117 118 119 
+ranking 2 1109 1333 
+legacy 3 11672 13587 13588 
+anarchy 1 581 
+stream 3 56 565 564 
+sieve 1 130 
+range 3 32 1159 1160 
+assembly 2 1547 1759 
+complexity 10 32 40 303 49 1656 833 1649 133 134 135 
+secure 1 582 
+techniques 4 4495 3606 3922 132 
+mapping 2 109 110 
+query-answering 3 6492 19764 19765 
+dared 3 18878 18951 6492 
+words 10 29 1146 894 896 1147 895 749 47 144 145 
+starting 2 581 582 
+capacity 5 4523 4525 25 12293 11672 
+robust 2 1109 1333 
+applying 1 99 
+persistence 1 74 
+characteristics 3 26 27 28 
+framework 3 5656 5657 5658 
+notions 4 54 55 66 67 
+process 21 4523 4525 4388 5083 6160 6161 5081 5021 5082 5022 5023 5024 18878 18879 18880 18881 44 1656 132 150 4706 
+combinatorial 4 895 749 1614 1615 
+degree 1 966 
+chain 3 5808 3606 3922 
+shuffle 4 146 578 170 171 
+databases 13 1675 28 18878 8710 18978 8186 850 8187 849 18446 17937 108 582 
+recommender 1 18562 
+compiler 7 26 12529 12530 1284 878 472 69 
+addenda 2 96 982 
+improving 3 4388 6160 6161 
+finite-state 1 732 
+connected 2 18446 19544 
+structural 1 39 
+used 3 4388 4990 4845 
+scheduling 15 25 12293 11672 28 18878 8710 18978 4495 3606 3922 82 83 184 185 186 
+semiconductor 2 4523 4525 
+mass 3 5499 4388 5501 
+dependency 1 108 
+model-based 6 5114 4496 5113 5115 5116 5117 
+survey 3 18562 3606 3922 
+algorithms 19 17851 25 1267 1266 48 49 50 51 18446 19544 909 19224 19225 88 777 130 196 197 205 
+recursion 6 20 80 81 84 85 88 
+metadata 2 3886 3888 
+mergeable 1 188 
+enterprise 1 6475 
+stable 2 37 541 
+formal 7 5499 4388 5501 1284 96 982 833 
+fringe-balanced 1 32 
+gobang 1 40 
+hiding 2 56 565 
+representation 6 6492 6491 5114 4496 512 1179 
+lexical 1 183 
+parser 1 1557 
+slices 2 706 707 
+ein 1 189 
+issue 3 54 55 56 
+state 8 3922 5809 133 134 135 488 486 487 
+attribute 5 101 102 103 104 707 
+purpose 3 4832 4830 4831 
+oracle 1 833 
+evaluation 17 4388 5083 4990 4845 5081 5021 5082 4495 3606 3922 101 102 103 104 196 197 707 
+transformational 2 56 289 
+upper 2 33 34 
+finding 2 115 1029 
+epsilon 1 1557 
+computations 3 309 310 299 
+borings 4 5021 5022 5023 5024 
+definition 5 4388 4990 4845 1284 243 
+evaluating 2 1267 1266 
+tasks 2 1109 1333 
+context-free 1 47 
+grammatiken 1 69 
+decidable 4 74 488 486 487 
+personalization 2 19601 19602 
+address 1 20 
+equational 2 170 171 
+segmenting 1 17730 
+controllable 1 114 
+special 5 54 55 56 105 7945 
+group 2 110 980 
+browsing 4 8710 8186 850 8187 
+average 1 47 
+storage 2 187 1818 
+formula 1 136 
+total 2 299 298 
+using 21 19601 19602 5083 5081 5021 5082 1267 1266 57 59 4393 4394 4395 88 777 109 110 112 419 150 4706 
+controlling 3 211 954 593 
+workflows 5 107 19581 19582 19583 19584 
+predicate 1 878 
+unbounded 4 84 85 174 209 
+nonatomic 2 20 1573 
+free 1 20 
+axiomatising 1 211 
+search 10 5808 8186 8187 8184 8185 32 1159 1160 33 34 
+e-commerce 1 6791 
+interfaces 1 142 
+contribution 1 58 
+laws 1 84 
+features 2 298 1237 
+sorting 5 25 48 49 105 106 
+projections 4 68 490 834 1489 
+sustainability 2 3606 3605 
+monitoring 5 5750 5751 4832 4830 4831 
+patterns 1 17898 
+configurator 3 4388 4990 4845 
+moving 2 1547 1759 
+multidisciplinary 4 4870 5438 5439 5440 
+petri 9 461 1218 1535 152 153 199 204 205 1238 
+boundedly 2 187 1818 
+observational 1 1547 
+optimization 2 17937 188 
+number 5 47 127 184 185 186 
+papers 2 105 7945 
+subclasses 3 59 60 61 
+orthogonality 2 77 78 
+projects 6 4388 4832 4990 4845 16225 16226 
+optimierende 1 69 
+blocking 2 50 51 
+editor 1 56 
+emptiness-problem 1 189 
+automata 14 628 629 834 833 87 104 1394 966 111 114 699 700 701 702 
+behavioural 4 117 118 119 1547 
+view 3 99 110 980 
+discovery 1 17898 
+review 2 1109 1333 
+classifications 3 146 277 278 
+zeitkomplexit 1 69 
+optimum 2 33 34 
+knowledge-based 4 5810 6525 6526 6527 
+execution 9 57 1218 628 107 19581 19582 19583 19584 114 
+programming 9 1284 878 96 243 58 298 1237 140 156 
+prefix-primitive 4 144 145 776 1245 
+mappings 2 99 1598 
+domain 2 107 108 
+axiomatizability 2 170 171 
+preemptions 3 184 185 186 
+relationships 5 4867 4868 4869 4870 4871 
+checking 12 732 57 461 64 1652 1653 1654 1655 1656 178 1076 1077 
+cocomparability 2 115 116 
+caching 2 20 164 
+clustering 4 18446 17937 582 17607 
+look 3 298 1453 130 
+workload 3 26 27 28 
+safe 5 107 19581 19582 19583 19584 
+linear 5 1267 1266 44 1835 17937 
+jumps 2 1284 857 
+integer 2 105 106 
+affix 1 70 
+web 4 59 4393 4394 4395 
+ones 1 195 
+operator 1 142 
+gain 3 184 185 186 
+autodense 4 144 145 146 147 
+history 1 857 
+forever 1 17730 
+lazy 1 20 
+configuration 9 4871 6480 6481 6482 4388 4990 4845 6160 6161 
+comments 1 198 
+bound 2 33 34 
+methods 8 4870 6033 6034 6035 6036 6037 80 81 
+communicating 2 56 1284 
+versus 1 581 
+normal 4 1284 878 472 77 
+permitting 2 185 186 
+splitting 1 20 
+completion 1 79 
+logic-based 4 104 511 309 512 
+mizar 2 122 729 
+bayesian 2 17937 19809 
+theories 4 1284 96 1547 1759 
+ieh 2 93 1299 
+classifiers 2 17937 19809 
+templates 2 150 4706 
+enhancing 1 6791 
+environments 3 25 12293 11672 
+efficacy 3 110 18415 18416 
+adjustability 3 4845 4844 4846 
+optran 4 101 102 103 104 
+measurement 4 5083 5081 5021 5082 
+detection 2 5750 5751 
+pushdown 1 1250 
+maximum 9 37 424 541 1546 115 1029 184 185 186 
+recursive 9 17937 88 309 310 299 1250 152 153 195 
+similarity 4 8186 8187 8184 8185 
+queries 1 17937 
+three-element 2 277 278 
+involution 3 144 145 776 
+diagnostics 2 5750 5751 
+mobile 3 211 954 593 
+does 1 17730 
+angelic 2 174 209 
+ict 2 3606 3605 
+consensus 2 150 151 
+correction 1 156 
+existing 6 11672 11673 11674 11675 11676 11677 
+transformers 1 84 
+integration 12 4870 6033 6034 6035 6036 6037 5114 4496 5113 5115 5116 5117 
+experience 3 178 1076 1077 
+types 1 206 
+fragment 4 62 63 64 65 
+grammars 6 1557 47 833 70 77 707 
+individuals 1 17730 
+termination 6 58 343 84 298 1453 168 
+functionality 1 18741 
+parallel 11 19421 48 49 105 106 107 19581 19582 19583 19584 581 
+uniform 5 749 748 750 56 565 
+communication 4 110 980 185 186 
+annihilators 4 144 145 776 1245 
+audit 3 107 15557 15558 
+game 5 114 699 700 701 702 
+centralized 2 582 17607 
+methodology 3 58 342 343 
+message 2 211 223 
+approximation 5 37 541 490 581 582 
+interprocedural 1 707 
+acceptors 1 189 
+huffman 1 68 
+approach 34 6791 4749 6475 4832 5021 4830 4831 5022 5023 5024 11672 13587 13588 5114 4496 5113 5115 5116 5117 1284 878 472 470 471 473 57 104 511 309 512 299 298 1237 122 
+arrays 2 187 1818 
+eco 4 895 749 1614 1615 
+gurevich 1 205 
+np 3 59 60 61 
+entropy 6 37 424 541 1546 40 303 
+thailand 1 591 
+implementations 2 118 1547 
+operation 1 206 
+od 1 58 
+correct 4 472 470 471 473 
+lifecycle 8 4749 4867 4868 4869 4870 4871 3606 3605 
+minimizing 1 1675 
+concurrency 5 54 55 56 565 564 
+simulations 1 20 
+synthesis 11 25 472 470 471 473 62 63 64 65 204 205 
+programs 18 25 1267 289 80 81 309 299 298 112 419 122 729 141 768 769 168 174 209 
+ring 2 18446 19544 
+structure 8 4870 5084 5085 5083 4845 4844 4846 150 
+services 6 59 4393 4394 4395 110 980 
+metamodelling 3 4832 4830 4831 
+theorem 1 205 
+predictive 2 19601 19602 
+channels 2 185 186 
+data-centric 5 107 19581 19582 19583 19584 
+reality 6 5114 4496 5113 5115 5116 5117 
+flexible 8 5750 5751 18878 18879 18880 18881 150 4706 
+novelty 2 5750 5751 
+enabling 3 11672 13587 13588 
+bounded 7 20 1573 59 60 61 111 189 
+operating 1 86 
+delay 4 20 22 23 211 
+records 1 32 
+pi 1 39 
+novel 2 93 1299 
+gap 2 40 303 
+evaluate 1 47 
+meta-model 4 4871 6480 6481 6482 
+hardware 4 472 470 471 473 
+development 11 4388 4990 4845 5467 5468 5469 5470 5810 6525 6526 6527 
+lr 3 1557 47 100 
+formula-based 1 57 
+fairness 2 54 1095 
+closer 2 298 1453 
+backtracking 3 309 310 299 
+algorithm 15 20 1573 1146 896 895 749 68 490 1361 188 196 197 486 706 942 
+unexpected 1 17898 
+solve 1 99 
+equivalence 6 732 44 54 55 80 81 
+kontextsensitiven 1 69 
+situation 2 5602 5604 
+weakly 1 140 
+q-ary 5 29 1146 894 896 1147 
+equilibria 1 581 
+schemes 12 50 18490 18446 1250 581 582 184 185 186 376 187 1818 
+heaps 1 188 
+min-max 2 581 582 
+expressive 2 22 23 
+machines 5 833 172 173 206 488 
+ontology-based 2 4749 6475 
+product 36 3886 3888 4749 4867 4868 4869 4870 4871 5499 4388 5501 5084 5085 5083 4832 4389 4390 4990 4845 6160 6161 16225 16226 4844 4846 5467 5468 5469 5470 59 4393 4394 4395 309 146 578 
+sql 3 18741 17937 19809 
+specified 2 206 488 
+proposal 2 3606 3605 
+queues 4 37 424 50 51 
+inhorizontally 1 582 
+design 36 4870 1675 17851 5499 4388 5501 5083 5438 5439 5440 6033 6034 6035 6036 6037 4832 17850 5081 5021 5082 16225 16226 4496 5948 3606 5810 6525 6526 6527 56 289 1284 878 472 150 4706 
+polynomial 1 131 
+replacement 1 74 
+second 1 88 
+parametric 6 64 1652 1653 1654 1655 1656 
+study 6 4496 4495 32 117 118 119 
+competency 2 5602 5604 
+computing 9 25 12293 11672 177 178 184 185 186 376 
+procedures 1 195 
+buffer 1 205 
+partitioning 3 50 18490 18446 
+hoare-like 1 56 
+prioritized 2 35 1125 
+sets 11 17937 19694 19695 68 490 834 1489 833 1649 115 116 
+competence 1 2479 
+motzkins 1 29 
+combining 3 54 55 56 
+challenges 2 3922 5809 
+or-parallel 3 57 1218 628 
+controlled 1 1675 
+malaysia 1 591 
+exhaustive 6 1146 896 895 749 1614 1615 
+preorder 2 210 211 
+machine 1 58 
+comparison 16 11672 11673 11674 11675 11676 11677 8186 8187 8184 8185 4495 3606 3922 198 706 707 
+expressions 2 196 197 
+statement 1 878 
+describing 5 99 1578 1579 177 178 
+matching 2 115 1029 
+surjective 4 68 490 834 1489 
+branching 4 32 299 298 1250 
+issues 5 3886 3888 26 12529 12530 
+incremental 2 1557 707 
+controller 4 62 63 64 65 
+stack 1 44 
+project-centered 4 18878 18879 18880 18881 
+mining 8 19421 6492 19764 19765 909 19224 19225 582 
+context-sensitive 3 77 87 140 
+equivalent 1 195 
+nonplanar 2 834 833 
+three-stage 1 21 
+type-based 1 190 
+uuml 1 189 
+theory 11 3922 5809 5810 32 39 44 1835 84 1704 170 171 
+runtime 3 18878 18978 18995 
+compositionality 3 54 55 56 
+improve 8 19601 19602 5114 4496 5113 5115 5116 5117 
+enhanced 1 164 
+cyber 6 4870 6033 6034 6035 6036 6037 
+pspace-vollst 1 40 
+stage 1 35 
+k-d 3 32 1159 1160 
+network 2 37 1664 
+online 2 172 581 
+real 1 127 
+selected 1 6791 
+clocked 3 299 298 1708 
+conservation 2 192 193 
+layout 3 4388 4990 4845 
+mixed 6 5114 4496 5113 5115 5116 5117 
+abstract 2 57 461 
+application 7 3886 3888 4523 4525 110 18415 18416 
+worst 2 92 93 
+synchronization 1 205 
+resource 1 20 
+ii 1 289 
+transition 6 64 1652 1653 1654 1655 1656 
+controllability 5 114 699 700 701 702 
+productions 2 1557 100 
+customers 3 17730 19601 19602 
+know 3 18878 18951 6492 
+inclusion 1 1675 
+section 2 105 7945 
+real-world 3 110 18415 18416 
+necessary 1 127 
+procedure-type 3 141 768 769 
+pasca 2 1284 243 
+refinement 12 20 54 55 64 1652 1653 1654 1655 1656 84 174 175 
+collaborative 8 4871 6480 6481 6482 59 4393 4394 4395 
+characterization 4 17898 112 113 206 
+minimal 3 17898 206 488 
+optimal 6 184 185 186 376 196 197 
+dispatcher 1 86 
+nature 1 707 
+decomposition 3 37 1664 136 
+forward 1 20 
+high-level 5 96 982 966 12785 12786 
+ccs-like 2 54 1095 
+composed 1 732 
+coverings 2 206 488 
+homogeneous 1 136 
+defined 2 40 303 
+students-enterprises 3 4832 16225 16226 
+context-sensitivity 1 140 
+available 2 172 173 
+look-ahead 1 183 
+mittlere 1 189 
+price 1 581 
+staggered 2 35 1125 
+metric 2 565 564 
+kernels 1 86 
+steiner 3 68 490 1361 
+independence 2 107 108 
+invariants 1 36 
+face 1 20 
+mre 2 37 1664 
+wheel 1 130 
+specifying 3 909 19224 19225 
+simple 2 1656 114 
+data 26 6492 5114 4496 19764 19765 5113 5115 5116 5117 44 1835 17937 19694 19695 1284 461 1218 1535 77 78 84 104 150 174 175 187 
+collection 2 172 173 
+running 2 172 173 
+continuation 1 44 
+axiomatic 6 44 1835 1284 243 299 298 
+loops 1 169 
+utilization 2 3606 3605 
+reply 1 198 
+predicat 1 84 
+compiling 1 44 
+direct 1 309 
+matrix 3 17937 19694 19695 
+implemented 2 54 1095 
+factor 5 29 1146 894 896 1147 
+interoperability 4 5083 5081 5021 5082 
+fault 4 184 185 186 376 
+ambiguous 1 47 
+selection 3 104 1394 966 
+enterprises 3 5656 5657 5658 
+preference 1 20 
+modeling 8 3886 3888 6475 19601 19602 5656 5657 5658 
+synchrony 2 110 980 
+observable 2 204 1238 
+multihead 1 87 
+invited 2 105 7945 
+actions 2 54 55 
+lattices 1 99 
+queue 5 20 1573 35 37 541 
+simplification 1 20 
+mtl 4 62 63 64 65 
+coroutines 1 857 
+finite 7 966 111 206 488 486 487 211 
+assertions 2 80 81 
+bakery 2 20 1573 
+mesh-conected 2 48 49 
+benchmarking 3 4495 3606 3922 
+udfs 1 17937 
+triesort 1 32 
+networks 12 21 50 51 461 1218 1535 114 582 17607 178 1076 1077 
+nondeterminacy 2 84 85 
+index 3 50 18490 18446 
+association 2 19421 582 
+maintenance 6 5114 4496 5113 5115 5116 5117 
+transitive 1 18741 
+relation 3 66 67 99 
+xml 3 6492 19764 19765 
+copewith 1 20 
+sto 2 40 303 
+providing 6 18878 18879 18880 18881 110 980 
+workflow 4 4870 5084 5085 5083 
+logic 6 299 298 1250 169 211 223 
+size 1 136 
+input 1 142 
+transitions 2 628 629 
+generated 1 47 
+comparative 5 58 343 117 118 119 
+require 1 591 
+syntax-errors 1 156 
+empirical 1 591 
+quorum 2 150 151 
+model 15 4870 5438 5439 5440 26 27 28 17937 57 461 140 177 178 1076 1077 
+sub 4 62 63 64 65 
+weight 1 47 
+density 1 47 
+d-languages 3 144 146 578 
+supertype 2 112 419 
+nets 9 461 1218 1535 152 153 199 204 205 1238 
+longest 1 130 
+engineering 11 4867 4868 4869 4870 4871 6480 6481 6482 3922 5809 5810 
+wcs-analysis 1 140 
+weighted 5 32 1687 1688 92 93 
+problematic 2 298 1237 
+complete 9 56 59 60 61 82 83 112 113 188 
+tolerant 4 184 185 186 376 
+servers 2 37 424 
+allocation 3 20 185 186 
+hash-based 2 18446 19544 
+real-time 2 56 289 
+supply 3 5808 3606 3922 
+hardness 1 732 
+ancestor 1 1675 
+compilers 1 104 
+conflicts 3 172 581 1109 
+icon 5 2479 2478 2480 2481 2482 
+functions 6 1284 857 127 136 196 197 
+systolic 2 88 777 
+markov 1 132 
+recovery 4 184 185 186 376 
+needed 1 47 
+finiteness 2 1218 1257 
+infinite 1 169 
+dataflow 5 88 777 486 706 942 
+directed 2 57 461 
+temporal 5 84 299 298 1250 114 
+service 3 4495 3606 3922 
+calculus 4 39 58 107 108 
+operations 4 144 145 776 1245 
+certain 3 54 1095 127 
+lexicographically 1 47 
+avoiding 7 29 1146 894 896 1147 895 749 
+behaviors 3 18878 18978 18995 
+initial 2 88 206 
+agile 3 5656 5657 5658 
+processor 2 48 49 
+bisimilarity 1 1656 
+integer-darstellungen 1 69 
+information 12 4523 4525 4496 4495 53 907 908 909 77 78 104 190 
+fork 3 966 12785 12786 
+problems 7 59 60 61 99 188 189 707 
+form 3 1284 878 472 
+exclusion 2 20 1573 
+pi-calculus 4 190 593 591 592 
+multiprogramming 2 154 155 
+art 2 3922 5809 
+vollst 1 189 
+interaction 1 24 
+monotone 1 136 
+strategic 2 4496 4495 
+analytics 3 17937 19694 19695 
+fair 3 54 1095 84 
+obtain 2 196 197 
+branch-and-bound 2 196 197 
+trees 17 32 1159 1160 1687 1688 33 34 47 53 907 908 909 68 490 1361 188 206 
+computation 2 17937 104 
+cube 4 18446 19544 172 581 
+language 14 1284 878 96 243 97 98 58 87 966 12785 12786 211 954 593 
+ask 3 18878 18951 6492 
+des 1 69 
+collaboration 4 5083 5081 5021 5082 
+query 5 17851 17850 50 18490 18446 
+elemental 2 565 564 
+costs 3 150 151 187 
+wanted 3 18878 18951 6492 
+effective 4 28 18878 8710 18978 
+possibilities 2 109 110 
+version 1 1675 
+dual 4 20 1573 84 85 
+removing 1 58 
+multi-granularity 2 109 110 
+deterministic 1 205 
+modal 8 64 1652 1653 1654 1655 1656 211 223 
+algebra 3 88 99 206 
+multidimensional 1 150 
+delays 2 35 1125 
+mathematical 1 35 
+atomicity 1 20 
+research 4 3886 3888 3922 5809 
+liveness 3 20 204 1238 
+mutual 2 20 1573 
+industrial 6 2479 3606 3922 3605 5809 5810 
+blackboard 2 52 53 
+relational 5 18446 17937 107 108 127 
+cloud 6 11672 11673 11674 11675 11676 11677 
+based 17 4870 5084 5085 5083 20 1573 11672 13587 13588 35 1125 44 56 96 97 98 142 
+functional 4 77 78 177 178 
+on-line 2 172 173 
+splittings 2 99 1598 
+power 2 22 23 
+transformer 1 878 
+reduction 3 57 461 132 
+linked 3 4832 16225 16226 
+user-defined 3 909 19224 19225 
+time-space 1 1675 
+cards 3 4388 4389 4390 
+work 2 5602 5604 
+systems 57 4870 4523 4525 732 18562 5438 5439 5440 6033 6034 6035 6036 6037 4832 4830 4831 6492 6491 5114 4496 4495 5948 3606 3922 3605 5809 5810 6525 6526 6527 37 1546 52 53 54 55 56 289 1413 57 64 1652 1653 1654 1655 1656 74 92 93 299 298 1708 164 177 178 192 193 
+spaces 2 77 78 
+higher-order 2 84 85 
+predicate-transformer 1 20 
+letter 1 56 
+class 6 4388 4990 4845 96 982 195 
+modelling 15 4870 4523 4525 5602 5604 4388 6033 6034 6035 6036 6037 4389 4390 84 85 
+properties 14 49 80 81 309 122 729 144 145 776 277 278 488 486 487 
+d-words 3 144 146 578 
+monotonic 2 196 197 
+programme 1 189 
+kolmogorov 2 833 1649 
+environment 3 4845 4844 4846 
+market 3 4845 4844 4846 
+average-case 1 47 
+program 12 1267 1266 56 289 1284 857 104 511 309 512 706 707 
+word 2 277 278 
+passing 2 211 223 
+closed-loop 2 3886 3888 
+management 25 4749 4867 4868 4869 4870 4871 2479 6480 6481 6482 5114 4496 5113 5115 5116 5117 53 907 908 909 107 15557 15558 150 4706 
+efficient 17 1557 1267 1266 18446 17937 62 63 64 65 490 114 188 486 706 942 707 591 
+campus 6 11672 11673 11674 11675 11676 11677 
+specific 3 4845 4844 4846 
+behaviour 2 177 178 
+contained 3 1250 277 278 
+object 2 850 849 
+encodings 1 187 
+lycklama-hadzilacos 1 20 
+parameter 3 141 768 769 
+graph 2 115 1029 
+order 5 44 1835 565 564 88 
+vector 3 74 581 582 
+two-dimensional 3 172 581 1109 
+rule 1 17898 
+die 2 69 189 
+parsing 1 70 
+operators 4 22 23 127 211 
+representations 1 1284 
+unrestricted 1 707 
+forms 3 17851 17850 77 
+lists 2 44 1835 
+extendible 2 187 1818 
+multitype 2 154 155 
+profit 2 48 49 
+verschiedener 1 69 
+urgent 2 628 629 
+proving 11 1284 857 1218 1257 80 81 122 729 178 1076 1077 
+degrees 1 140 
+calculi 2 24 56 
+families 2 82 83 
+rules 11 19421 28 18878 8710 18978 56 141 150 4706 169 582 
+technologies 4 4523 4525 3606 3605 
+multimedia 4 8710 8186 850 8187 
+massive 1 17851 
+state-of-the-art 1 18562 
+specification 9 4845 4844 4846 96 97 98 88 112 419 
+context 9 6475 19601 19602 3606 3922 53 907 908 909 
+cluster 6 11672 11673 11674 11675 11676 11677 
+cyclic 5 35 37 424 309 299 
+compile-time 3 18878 18978 18995 
+preservation 1 108 

@@ -29,7 +29,12 @@ public class ThesisPrecompute {
          * WRITE INVERTED LIST INTO A FILE
          */
         
-        InvertedIndexGenerator.Generator("Dataset10k/Phase1.txt");
+        InvertedIndexGenerator.Generator("inputData/Phase1.txt");
+        InvertedIndexGenerator.writeList("inputData/InvertedList.txt");
+        
+        GraphPartitionReader gp = new GraphPartitionReader("inputPartitionData/Partitions/","partitionInvertedList/");
+        gp.generateKeywordBlockList();
+        gp.generateKeywordPortalList();
     }
     
     

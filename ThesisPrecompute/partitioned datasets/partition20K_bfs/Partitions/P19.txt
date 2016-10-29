@@ -1,0 +1,804 @@
+< Author_ID  Paper_Count  Adjacent_Count  <Adjacent_List>  Keyword_Count  <(Keyword,Score)> >
+
+1993 1 2 1994 1995 12 (disparity-based,1) (just-noticeable-difference,1) (model,1) (perceptual,1) (stereoscopic,1) (video,1) (coding,1) (using,1) (depth,1) (focus,1) (blur,1) (effect,1) 
+
+1994 2 4 1993 1995 3127 3128 20 (disparity-based,1) (just-noticeable-difference,1) (model,1) (perceptual,1) (stereoscopic,2) (video,1) (coding,1) (using,2) (depth,1) (focus,1) (blur,1) (effect,1) (visual,1) (comfort,1) (enhancement,1) (images,1) (saliency-adaptive,1) (nonlinear,1) (disparity,1) (mapping,1) 
+
+1995 2 4 1993 1994 3127 3128 20 (disparity-based,1) (just-noticeable-difference,1) (model,1) (perceptual,1) (stereoscopic,2) (video,1) (coding,1) (using,2) (depth,1) (focus,1) (blur,1) (effect,1) (visual,1) (comfort,1) (enhancement,1) (images,1) (saliency-adaptive,1) (nonlinear,1) (disparity,1) (mapping,1) 
+
+3127 1 3 1994 3128 1995 10 (visual,1) (comfort,1) (enhancement,1) (stereoscopic,1) (images,1) (using,1) (saliency-adaptive,1) (nonlinear,1) (disparity,1) (mapping,1) 
+
+3128 1 3 1994 3127 1995 10 (visual,1) (comfort,1) (enhancement,1) (stereoscopic,1) (images,1) (using,1) (saliency-adaptive,1) (nonlinear,1) (disparity,1) (mapping,1) 
+
+1996 1 3 1997 1998 1999 10 (temperature-dependent,1) (electrical,1) (dielectric,1) (properties,1) (nematic,1) (liquid,1) (crystals,1) (doped,1) (ferroelectric,1) (particles,1) 
+
+1997 1 3 1996 1998 1999 10 (temperature-dependent,1) (electrical,1) (dielectric,1) (properties,1) (nematic,1) (liquid,1) (crystals,1) (doped,1) (ferroelectric,1) (particles,1) 
+
+1998 1 3 1996 1997 1999 10 (temperature-dependent,1) (electrical,1) (dielectric,1) (properties,1) (nematic,1) (liquid,1) (crystals,1) (doped,1) (ferroelectric,1) (particles,1) 
+
+1999 3 8 1996 1997 1998 2170 2171 2172 2222 2223 21 (temperature-dependent,1) (electrical,1) (dielectric,2) (properties,2) (nematic,1) (liquid,2) (crystals,1) (doped,1) (ferroelectric,1) (particles,1) (characterization,1) (voltage,1) (holding,1) (ratio,1) (blue-phase,1) (cells,1) (recovery,1) (electrically,1) (resistive,1) (degraded,1) (crystal,1) 
+
+2170 1 3 2171 2172 1999 7 (dielectric,1) (characterization,1) (voltage,1) (holding,1) (ratio,1) (blue-phase,1) (cells,1) 
+
+2171 1 3 2170 2172 1999 7 (dielectric,1) (characterization,1) (voltage,1) (holding,1) (ratio,1) (blue-phase,1) (cells,1) 
+
+2172 1 3 2170 2171 1999 7 (dielectric,1) (characterization,1) (voltage,1) (holding,1) (ratio,1) (blue-phase,1) (cells,1) 
+
+2222 1 2 1999 2223 7 (recovery,1) (electrically,1) (resistive,1) (properties,1) (degraded,1) (liquid,1) (crystal,1) 
+
+2223 1 2 1999 2222 7 (recovery,1) (electrically,1) (resistive,1) (properties,1) (degraded,1) (liquid,1) (crystal,1) 
+
+2000 1 2 2001 2002 5 (vital,1) (electromagnetic,1) (integrated,1) (tactile,1) (display,1) 
+
+2001 1 2 2000 2002 5 (vital,1) (electromagnetic,1) (integrated,1) (tactile,1) (display,1) 
+
+2002 1 2 2000 2001 5 (vital,1) (electromagnetic,1) (integrated,1) (tactile,1) (display,1) 
+
+2003 1 7 2004 2005 2006 2007 2008 2009 2010 10 (flexible,1) (transparent,1) (electrodes,1) (electrochemically,1) (exfoliated,1) (graphene,1) (sheets,1) (low-cost,1) (graphite,1) (pieces,1) 
+
+2004 1 7 2003 2005 2006 2007 2008 2009 2010 10 (flexible,1) (transparent,1) (electrodes,1) (electrochemically,1) (exfoliated,1) (graphene,1) (sheets,1) (low-cost,1) (graphite,1) (pieces,1) 
+
+2005 1 7 2003 2004 2006 2007 2008 2009 2010 10 (flexible,1) (transparent,1) (electrodes,1) (electrochemically,1) (exfoliated,1) (graphene,1) (sheets,1) (low-cost,1) (graphite,1) (pieces,1) 
+
+2006 1 7 2003 2004 2005 2007 2008 2009 2010 10 (flexible,1) (transparent,1) (electrodes,1) (electrochemically,1) (exfoliated,1) (graphene,1) (sheets,1) (low-cost,1) (graphite,1) (pieces,1) 
+
+2007 1 7 2003 2004 2005 2006 2008 2009 2010 10 (flexible,1) (transparent,1) (electrodes,1) (electrochemically,1) (exfoliated,1) (graphene,1) (sheets,1) (low-cost,1) (graphite,1) (pieces,1) 
+
+2008 1 7 2003 2004 2005 2006 2007 2009 2010 10 (flexible,1) (transparent,1) (electrodes,1) (electrochemically,1) (exfoliated,1) (graphene,1) (sheets,1) (low-cost,1) (graphite,1) (pieces,1) 
+
+2009 1 7 2003 2004 2005 2006 2007 2008 2010 10 (flexible,1) (transparent,1) (electrodes,1) (electrochemically,1) (exfoliated,1) (graphene,1) (sheets,1) (low-cost,1) (graphite,1) (pieces,1) 
+
+2010 1 7 2003 2004 2005 2006 2007 2008 2009 10 (flexible,1) (transparent,1) (electrodes,1) (electrochemically,1) (exfoliated,1) (graphene,1) (sheets,1) (low-cost,1) (graphite,1) (pieces,1) 
+
+2011 1 1 2012 9 (quantitative,1) (measurement,1) (lcd,1) (pdp,1) (tvs,1) (human,1) (visual,1) (preference,1) (fatigue,1) 
+
+2012 2 6 2011 2408 2409 2410 2411 2412 18 (quantitative,1) (measurement,1) (lcd,1) (pdp,2) (tvs,1) (human,1) (visual,1) (preference,1) (fatigue,1) (dependence,1) (thermal,1) (characteristics,1) (variation,1) (image,1) (sticking,1) (phenomenon,1) (dielectric,1) (loss,1) 
+
+2408 1 5 2409 2410 2411 2412 2012 10 (dependence,1) (thermal,1) (characteristics,1) (variation,1) (image,1) (sticking,1) (phenomenon,1) (pdp,1) (dielectric,1) (loss,1) 
+
+2409 1 5 2408 2410 2411 2412 2012 10 (dependence,1) (thermal,1) (characteristics,1) (variation,1) (image,1) (sticking,1) (phenomenon,1) (pdp,1) (dielectric,1) (loss,1) 
+
+2410 1 5 2408 2409 2411 2412 2012 10 (dependence,1) (thermal,1) (characteristics,1) (variation,1) (image,1) (sticking,1) (phenomenon,1) (pdp,1) (dielectric,1) (loss,1) 
+
+2411 1 5 2408 2409 2410 2412 2012 10 (dependence,1) (thermal,1) (characteristics,1) (variation,1) (image,1) (sticking,1) (phenomenon,1) (pdp,1) (dielectric,1) (loss,1) 
+
+2412 1 5 2408 2409 2410 2411 2012 10 (dependence,1) (thermal,1) (characteristics,1) (variation,1) (image,1) (sticking,1) (phenomenon,1) (pdp,1) (dielectric,1) (loss,1) 
+
+2013 2 5 2014 2015 16423 16424 16425 15 (investigation,1) (technological,1) (trends,1) (flexible,1) (display,1) (fabrication,1) (patent,1) (analysis,1) (integration,1) (framework,1) (innovation,1) (assessment,1) (knowledge-intensive,1) (service,1) (industry,1) 
+
+2014 1 2 2013 2015 8 (investigation,1) (technological,1) (trends,1) (flexible,1) (display,1) (fabrication,1) (patent,1) (analysis,1) 
+
+2015 1 2 2013 2014 8 (investigation,1) (technological,1) (trends,1) (flexible,1) (display,1) (fabrication,1) (patent,1) (analysis,1) 
+
+16423 1 3 2013 16424 16425 7 (integration,1) (framework,1) (innovation,1) (assessment,1) (knowledge-intensive,1) (service,1) (industry,1) 
+
+16424 1 3 16423 2013 16425 7 (integration,1) (framework,1) (innovation,1) (assessment,1) (knowledge-intensive,1) (service,1) (industry,1) 
+
+16425 1 3 16423 2013 16424 7 (integration,1) (framework,1) (innovation,1) (assessment,1) (knowledge-intensive,1) (service,1) (industry,1) 
+
+2022 3 1 2161 16 (led,3) (brightness,2) (control,1) (video,1) (display,2) (application,1) (numerical,1) (comparison,1) (directivity,1) (approximation,1) (functions,1) (displays,1) (pwm,1) (dimming,1) (linearity,1) (investigation,1) 
+
+2161 1 1 2022 8 (numerical,1) (comparison,1) (led,1) (directivity,1) (approximation,1) (functions,1) (video,1) (displays,1) 
+
+2023 1 2 2024 2025 8 (introduction,1) (editable,1) (visual,1) (object,1) (description,1) (schema,1) (mobile,1) (applications,1) 
+
+2024 1 2 2023 2025 8 (introduction,1) (editable,1) (visual,1) (object,1) (description,1) (schema,1) (mobile,1) (applications,1) 
+
+2025 1 2 2023 2024 8 (introduction,1) (editable,1) (visual,1) (object,1) (description,1) (schema,1) (mobile,1) (applications,1) 
+
+2026 1 1 2027 13 (novel,1) (voltage,1) (programming,1) (n-channel,1) (tft,1) (pixel,1) (circuit,1) (low,1) (power,1) (high,1) (performance,1) (amoled,1) (displays,1) 
+
+2027 1 1 2026 13 (novel,1) (voltage,1) (programming,1) (n-channel,1) (tft,1) (pixel,1) (circuit,1) (low,1) (power,1) (high,1) (performance,1) (amoled,1) (displays,1) 
+
+2028 7 8 2807 2808 2845 2846 2856 2857 3014 3015 37 (nuancing,1) (relationship,1) (motion,5) (sickness,5) (postural,5) (stability,4) (equally,3) (moved,3) (really,2) (sick,1) (viewing,1) (stimuli,1) (tv,1) (screen,1) (visual,1) (display,1) (enhancing,1) (comfort,1) (counteracting,2) (airsickness,1) (theory,1) (visually,1) (induced,1) (internal,1) (external,1) (fields,1) (view,1) (affect,1) (cybersickness,1) (image,1) (safety,1) (images,1) (essential,1) (cause,1) (symptoms,1) (increase,1) (sway,1) 
+
+2807 2 2 2028 2808 17 (equally,1) (moved,1) (really,1) (sick,1) (viewing,1) (motion,3) (stimuli,2) (tv,1) (screen,1) (images,1) (essential,1) (cause,1) (sickness,1) (symptoms,1) (increase,1) (postural,1) (sway,1) 
+
+2808 2 2 2807 2028 17 (equally,1) (moved,1) (really,1) (sick,1) (viewing,1) (motion,3) (stimuli,2) (tv,1) (screen,1) (images,1) (essential,1) (cause,1) (sickness,1) (symptoms,1) (increase,1) (postural,1) (sway,1) 
+
+2845 1 2 2028 2846 6 (visual,1) (display,1) (enhancing,1) (comfort,1) (counteracting,1) (airsickness,1) 
+
+2846 1 2 2845 2028 6 (visual,1) (display,1) (enhancing,1) (comfort,1) (counteracting,1) (airsickness,1) 
+
+2856 1 2 2028 2857 5 (theory,1) (visually,1) (induced,1) (motion,1) (sickness,1) 
+
+2857 1 2 2028 2856 5 (theory,1) (visually,1) (induced,1) (motion,1) (sickness,1) 
+
+3014 1 2 3015 2028 6 (internal,1) (external,1) (fields,1) (view,1) (affect,1) (cybersickness,1) 
+
+3015 1 2 3014 2028 6 (internal,1) (external,1) (fields,1) (view,1) (affect,1) (cybersickness,1) 
+
+2029 2 8 2030 2031 2032 2033 2034 2035 2636 2637 24 (quantitative,1) (evaluation,2) (effects,1) (visually-induced,1) (motion,1) (sickness,1) (based,1) (causal,1) (coherence,1) (functions,1) (blood,1) (pressure,1) (heart,1) (rate,1) (temporal,1) (relationship,1) (physiological,1) (index,1) (subjective,1) (score,1) (using,1) (average,1) (mutual,1) (information,1) 
+
+2030 3 8 2029 2031 2032 2033 2034 2035 2636 2637 30 (quantitative,1) (evaluation,2) (effects,1) (visually-induced,1) (motion,1) (sickness,1) (based,2) (causal,1) (coherence,1) (functions,1) (blood,1) (pressure,1) (heart,1) (rate,1) (temporal,1) (relationship,1) (physiological,1) (index,1) (subjective,1) (score,1) (using,1) (average,1) (mutual,1) (information,1) (assessing,1) (comfortable,1) (visual,1) (environment,1) (human,1) (factors,1) 
+
+2031 2 8 2029 2030 2032 2033 2034 2035 2636 2637 24 (quantitative,1) (evaluation,2) (effects,1) (visually-induced,1) (motion,1) (sickness,1) (based,1) (causal,1) (coherence,1) (functions,1) (blood,1) (pressure,1) (heart,1) (rate,1) (temporal,1) (relationship,1) (physiological,1) (index,1) (subjective,1) (score,1) (using,1) (average,1) (mutual,1) (information,1) 
+
+2032 1 6 2029 2030 2031 2033 2034 2035 14 (quantitative,1) (evaluation,1) (effects,1) (visually-induced,1) (motion,1) (sickness,1) (based,1) (causal,1) (coherence,1) (functions,1) (blood,1) (pressure,1) (heart,1) (rate,1) 
+
+2033 2 8 2029 2030 2031 2032 2034 2035 2636 2637 24 (quantitative,1) (evaluation,2) (effects,1) (visually-induced,1) (motion,1) (sickness,1) (based,1) (causal,1) (coherence,1) (functions,1) (blood,1) (pressure,1) (heart,1) (rate,1) (temporal,1) (relationship,1) (physiological,1) (index,1) (subjective,1) (score,1) (using,1) (average,1) (mutual,1) (information,1) 
+
+2034 2 8 2029 2030 2031 2032 2033 2035 2636 2637 24 (quantitative,1) (evaluation,2) (effects,1) (visually-induced,1) (motion,1) (sickness,1) (based,1) (causal,1) (coherence,1) (functions,1) (blood,1) (pressure,1) (heart,1) (rate,1) (temporal,1) (relationship,1) (physiological,1) (index,1) (subjective,1) (score,1) (using,1) (average,1) (mutual,1) (information,1) 
+
+2035 2 8 2029 2030 2031 2032 2033 2034 2636 2637 24 (quantitative,1) (evaluation,2) (effects,1) (visually-induced,1) (motion,1) (sickness,1) (based,1) (causal,1) (coherence,1) (functions,1) (blood,1) (pressure,1) (heart,1) (rate,1) (temporal,1) (relationship,1) (physiological,1) (index,1) (subjective,1) (score,1) (using,1) (average,1) (mutual,1) (information,1) 
+
+2636 1 7 2029 2030 2031 2637 2033 2034 2035 11 (evaluation,1) (temporal,1) (relationship,1) (physiological,1) (index,1) (subjective,1) (score,1) (using,1) (average,1) (mutual,1) (information,1) 
+
+2637 1 7 2029 2030 2031 2636 2033 2034 2035 11 (evaluation,1) (temporal,1) (relationship,1) (physiological,1) (index,1) (subjective,1) (score,1) (using,1) (average,1) (mutual,1) (information,1) 
+
+2044 2 3 2045 2046 2047 10 (complete,1) (electrical,1) (optical,1) (simulation,1) (electronic,1) (paper,1) (steady,1) (state,1) (current,1) (epids,1) 
+
+2045 7 13 2044 2046 2047 2522 2523 2524 2525 2526 2809 3063 3292 3293 3294 41 (complete,1) (electrical,1) (optical,1) (simulation,1) (electronic,1) (paper,1) (led,3) (projector,2) (liquid,4) (crystal,3) (silicon,2) (light,1) (valves,1) (fly,2) (eye,1) (integrator,3) (steady,2) (state,1) (current,1) (epids,1) (compact,1) (tapered,1) (pipes,1) (moderate,1) (output,1) (applications,1) (stereoscopic,2) (polarized,1) (viewing,1) (extended,1) (color,1) (gamut,1) (comparison,2) (lcos,1) (projection,1) (architectures,1) (using,2) (leds,1) (efficient,1) (illumination,1) (engine,1) 
+
+2046 2 3 2044 2045 2047 10 (complete,1) (electrical,1) (optical,1) (simulation,1) (electronic,1) (paper,1) (steady,1) (state,1) (current,1) (epids,1) 
+
+2047 2 3 2044 2045 2046 10 (complete,1) (electrical,1) (optical,1) (simulation,1) (electronic,1) (paper,1) (steady,1) (state,1) (current,1) (epids,1) 
+
+2522 2 5 2523 2524 2525 2045 2526 17 (led,1) (projector,1) (liquid,1) (crystal,1) (silicon,1) (light,2) (valves,1) (fly,1) (eye,1) (integrator,1) (comparison,1) (output,1) (lcos,1) (projection,1) (architectures,1) (using,1) (leds,1) 
+
+2523 4 9 2522 2524 2525 2045 2526 3063 3292 3293 3294 26 (led,2) (projector,1) (liquid,3) (crystal,2) (silicon,1) (light,1) (valves,1) (fly,2) (eye,1) (integrator,1) (stereoscopic,1) (polarized,1) (viewing,1) (extended,1) (color,1) (gamut,1) (comparison,2) (output,1) (lcos,1) (projection,1) (architectures,1) (using,2) (leds,1) (efficient,1) (illumination,1) (engine,1) 
+
+2524 4 9 2522 2523 2525 2045 2526 3063 3292 3293 3294 26 (led,2) (projector,1) (liquid,3) (crystal,2) (silicon,1) (light,1) (valves,1) (fly,2) (eye,1) (integrator,1) (stereoscopic,1) (polarized,1) (viewing,1) (extended,1) (color,1) (gamut,1) (comparison,2) (output,1) (lcos,1) (projection,1) (architectures,1) (using,2) (leds,1) (efficient,1) (illumination,1) (engine,1) 
+
+2525 4 9 2522 2523 2524 2045 2526 2809 3292 3293 3294 26 (led,3) (projector,2) (liquid,3) (crystal,2) (silicon,1) (light,1) (valves,1) (fly,4) (eye,3) (integrator,2) (compact,1) (tapered,1) (pipes,1) (moderate,1) (output,1) (applications,1) (comparison,2) (lcos,1) (projection,1) (architectures,2) (using,1) (leds,1) (color,1) (efficient,1) (illumination,1) (engine,1) 
+
+2526 4 9 2522 2523 2524 2525 2045 3063 3292 3293 3294 26 (led,2) (projector,1) (liquid,3) (crystal,2) (silicon,1) (light,1) (valves,1) (fly,2) (eye,1) (integrator,1) (stereoscopic,1) (polarized,1) (viewing,1) (extended,1) (color,1) (gamut,1) (comparison,2) (output,1) (lcos,1) (projection,1) (architectures,1) (using,2) (leds,1) (efficient,1) (illumination,1) (engine,1) 
+
+2809 1 2 2525 2045 9 (compact,1) (led,1) (projector,1) (tapered,1) (light,2) (pipes,1) (moderate,1) (output,1) (applications,1) 
+
+3063 1 4 2524 2523 2045 2526 7 (stereoscopic,1) (projector,1) (polarized,1) (viewing,1) (extended,1) (color,1) (gamut,1) 
+
+3292 1 7 2525 3293 3294 2045 2524 2523 2526 7 (lcos,1) (color,1) (projector,1) (efficient,1) (led,1) (illumination,1) (engine,1) 
+
+3293 1 7 2525 3292 3294 2045 2524 2523 2526 7 (lcos,1) (color,1) (projector,1) (efficient,1) (led,1) (illumination,1) (engine,1) 
+
+3294 1 7 2525 3292 3293 2045 2524 2523 2526 7 (lcos,1) (color,1) (projector,1) (efficient,1) (led,1) (illumination,1) (engine,1) 
+
+2048 1 4 2049 2050 2051 2052 11 (optimization,1) (sustain,1) (pulse,1) (parameters,1) (luminous,1) (efficacy,1) (improvement,1) (ac,1) (plasma,1) (display,1) (panel,1) 
+
+2049 1 4 2048 2050 2051 2052 11 (optimization,1) (sustain,1) (pulse,1) (parameters,1) (luminous,1) (efficacy,1) (improvement,1) (ac,1) (plasma,1) (display,1) (panel,1) 
+
+2050 1 4 2048 2049 2051 2052 11 (optimization,1) (sustain,1) (pulse,1) (parameters,1) (luminous,1) (efficacy,1) (improvement,1) (ac,1) (plasma,1) (display,1) (panel,1) 
+
+2051 1 4 2048 2049 2050 2052 11 (optimization,1) (sustain,1) (pulse,1) (parameters,1) (luminous,1) (efficacy,1) (improvement,1) (ac,1) (plasma,1) (display,1) (panel,1) 
+
+2052 1 4 2048 2049 2050 2051 11 (optimization,1) (sustain,1) (pulse,1) (parameters,1) (luminous,1) (efficacy,1) (improvement,1) (ac,1) (plasma,1) (display,1) (panel,1) 
+
+2053 1 3 2054 2055 2056 8 (real,1) (increases,1) (perceived,1) (depth,1) (anaglyphs,1) (does,1) (cancel,1) (stereo-anomaly,1) 
+
+2054 1 3 2053 2055 2056 8 (real,1) (increases,1) (perceived,1) (depth,1) (anaglyphs,1) (does,1) (cancel,1) (stereo-anomaly,1) 
+
+2055 1 3 2053 2054 2056 8 (real,1) (increases,1) (perceived,1) (depth,1) (anaglyphs,1) (does,1) (cancel,1) (stereo-anomaly,1) 
+
+2056 1 3 2053 2054 2055 8 (real,1) (increases,1) (perceived,1) (depth,1) (anaglyphs,1) (does,1) (cancel,1) (stereo-anomaly,1) 
+
+2057 1 3 2058 2059 2060 12 (new,1) (red,1) (colour,1) (emitting,1) (phosphor,1) (zns,1) (mn,1) (co-doped,1) (ba,1) (electroluminescent,1) (el,1) (displays,1) 
+
+2058 1 3 2057 2059 2060 12 (new,1) (red,1) (colour,1) (emitting,1) (phosphor,1) (zns,1) (mn,1) (co-doped,1) (ba,1) (electroluminescent,1) (el,1) (displays,1) 
+
+2059 1 3 2057 2058 2060 12 (new,1) (red,1) (colour,1) (emitting,1) (phosphor,1) (zns,1) (mn,1) (co-doped,1) (ba,1) (electroluminescent,1) (el,1) (displays,1) 
+
+2060 1 3 2057 2058 2059 12 (new,1) (red,1) (colour,1) (emitting,1) (phosphor,1) (zns,1) (mn,1) (co-doped,1) (ba,1) (electroluminescent,1) (el,1) (displays,1) 
+
+2067 3 4 2068 2069 2070 2961 23 (viewing,5) (angle,4) (effects,4) (wide,3) (field,2) (video,2) (projection,1) (images,3) (human,2) (equilibrium,2) (dependency,1) (presence,1) (image,2) (relationship,1) (evaluation,1) (indices,2) (visually-induced,1) (motion,1) (sickness,1) (wide-field,1) (subjective,1) (autonomic,1) (nervous,1) 
+
+2068 2 4 2067 2069 2070 2961 16 (viewing,3) (angle,2) (effects,2) (wide,1) (field,2) (video,2) (projection,1) (images,1) (human,1) (equilibrium,1) (dependency,1) (presence,1) (image,1) (relationship,1) (evaluation,1) (indices,1) 
+
+2069 3 4 2067 2068 2070 2961 23 (viewing,5) (angle,4) (effects,4) (wide,3) (field,2) (video,2) (projection,1) (images,3) (human,2) (equilibrium,2) (dependency,1) (presence,1) (image,2) (relationship,1) (evaluation,1) (indices,2) (visually-induced,1) (motion,1) (sickness,1) (wide-field,1) (subjective,1) (autonomic,1) (nervous,1) 
+
+2070 1 3 2067 2068 2069 10 (viewing,1) (angle,1) (effects,1) (wide,1) (field,1) (video,1) (projection,1) (images,1) (human,1) (equilibrium,1) 
+
+2961 2 3 2067 2068 2069 18 (viewing,4) (angle,3) (dependency,3) (presence,3) (wide,2) (field,1) (image,1) (relationship,1) (evaluation,1) (indices,2) (visually-induced,1) (motion,1) (sickness,1) (wide-field,1) (images,1) (subjective,1) (autonomic,1) (nervous,1) 
+
+2074 1 2 2075 2076 4 (perceptual,1) (attributes,1) (crosstalk,1) (images,1) 
+
+2075 1 2 2074 2076 4 (perceptual,1) (attributes,1) (crosstalk,1) (images,1) 
+
+2076 4 6 2074 2075 2092 2080 2434 3119 22 (perceptual,1) (attributes,1) (crosstalk,1) (images,1) (visual,3) (discomfort,2) (tv,1) (assessment,2) (methods,1) (modeling,1) (impact,1) (video,1) (characteristics,1) (subtitles,1) (comfort,1) (reading,1) (performance,1) (screening,1) (tool,1) (complaints,1) (stereoscopic,1) (content,1) 
+
+2092 3 4 2076 2080 2434 3119 18 (visual,3) (discomfort,2) (tv,1) (assessment,2) (methods,1) (modeling,1) (impact,1) (video,1) (characteristics,1) (subtitles,1) (comfort,1) (reading,1) (performance,1) (screening,1) (tool,1) (complaints,1) (stereoscopic,1) (content,1) 
+
+2080 6 14 2077 2078 2079 2092 2076 2336 2337 2338 2434 2882 2883 2884 2204 3119 47 (new,1) (characterization,1) (method,1) (define,1) (viewing,1) (angle,1) (range,1) (matrix,1) (displays,1) (visual,3) (discomfort,2) (tv,1) (assessment,2) (methods,1) (modeling,1) (added,1) (value,1) (autostereoscopic,1) (multiview,1) (display,1) (advertising,1) (public,1) (environment,1) (impact,1) (video,1) (characteristics,1) (subtitles,1) (comfort,1) (just,1) (noticeable,1) (difference,1) (black,1) (level,1) (white,2) (chroma,1) (natural,1) (images,1) (measured,1) (different,1) (countries,1) (reading,1) (performance,1) (screening,1) (tool,1) (complaints,1) (stereoscopic,1) (content,1) 
+
+2434 1 3 2092 2076 2080 7 (impact,1) (video,1) (characteristics,1) (subtitles,1) (visual,1) (comfort,1) (tv,1) 
+
+3119 1 3 2092 2076 2080 8 (reading,1) (performance,1) (screening,1) (tool,1) (visual,1) (complaints,1) (stereoscopic,1) (content,1) 
+
+2077 1 3 2078 2079 2080 9 (new,1) (characterization,1) (method,1) (define,1) (viewing,1) (angle,1) (range,1) (matrix,1) (displays,1) 
+
+2078 1 3 2077 2079 2080 9 (new,1) (characterization,1) (method,1) (define,1) (viewing,1) (angle,1) (range,1) (matrix,1) (displays,1) 
+
+2079 3 7 2077 2078 2080 12455 12456 12457 12458 23 (new,1) (characterization,1) (method,1) (define,1) (viewing,1) (angle,1) (range,1) (matrix,1) (displays,1) (state,1) (art,1) (dynamic,1) (symbolic,1) (execution,1) (automated,1) (test,1) (generation,1) (fpm,1) (four-factors,1) (propagation,1) (model,1) (passive,1) (worms,1) 
+
+2336 1 3 2337 2338 2080 8 (added,1) (value,1) (autostereoscopic,1) (multiview,1) (display,1) (advertising,1) (public,1) (environment,1) 
+
+2337 1 3 2336 2338 2080 8 (added,1) (value,1) (autostereoscopic,1) (multiview,1) (display,1) (advertising,1) (public,1) (environment,1) 
+
+2338 1 3 2336 2337 2080 8 (added,1) (value,1) (autostereoscopic,1) (multiview,1) (display,1) (advertising,1) (public,1) (environment,1) 
+
+2882 1 4 2883 2884 2204 2080 12 (just,1) (noticeable,1) (difference,1) (black,1) (level,2) (white,1) (chroma,1) (natural,1) (images,1) (measured,1) (different,1) (countries,1) 
+
+2883 1 4 2882 2884 2204 2080 12 (just,1) (noticeable,1) (difference,1) (black,1) (level,2) (white,1) (chroma,1) (natural,1) (images,1) (measured,1) (different,1) (countries,1) 
+
+2884 2 5 2882 2883 2204 2080 2888 17 (just,1) (noticeable,1) (difference,1) (black,1) (level,2) (white,1) (chroma,1) (natural,1) (images,1) (measured,1) (different,1) (countries,1) (motion,1) (adaptive,1) (deblurring,1) (filter,1) (lcd,1) 
+
+2204 3 9 2205 2206 2207 2208 2882 2883 2884 2080 2888 24 (self,1) (assembly,1) (polymer,1) (microlens,1) (array,1) (integral,1) (imaging,1) (just,1) (noticeable,1) (difference,1) (black,1) (level,2) (white,1) (chroma,1) (natural,1) (images,1) (measured,1) (different,1) (countries,1) (motion,1) (adaptive,1) (deblurring,1) (filter,1) (lcd,1) 
+
+12455 2 4 2079 12456 12457 12458 14 (state,1) (art,1) (dynamic,1) (symbolic,1) (execution,1) (automated,1) (test,1) (generation,1) (fpm,1) (four-factors,1) (propagation,1) (model,1) (passive,1) (worms,1) 
+
+12456 1 4 2079 12455 12457 12458 8 (state,1) (art,1) (dynamic,1) (symbolic,1) (execution,1) (automated,1) (test,1) (generation,1) 
+
+12457 1 4 2079 12455 12456 12458 8 (state,1) (art,1) (dynamic,1) (symbolic,1) (execution,1) (automated,1) (test,1) (generation,1) 
+
+12458 3 6 2079 12455 12456 12457 14262 13820 19 (state,1) (art,1) (dynamic,1) (symbolic,1) (execution,1) (automated,1) (test,1) (generation,1) (fpm,1) (four-factors,1) (propagation,1) (model,1) (passive,1) (worms,1) (person,1) (effect,1) (internet,1) (pornography,1) (china,1) 
+
+2888 1 2 2204 2884 5 (motion,1) (adaptive,1) (deblurring,1) (filter,1) (lcd,1) 
+
+2205 1 4 2204 2206 2207 2208 7 (self,1) (assembly,1) (polymer,1) (microlens,1) (array,1) (integral,1) (imaging,1) 
+
+2206 1 4 2204 2205 2207 2208 7 (self,1) (assembly,1) (polymer,1) (microlens,1) (array,1) (integral,1) (imaging,1) 
+
+2207 1 4 2204 2205 2206 2208 7 (self,1) (assembly,1) (polymer,1) (microlens,1) (array,1) (integral,1) (imaging,1) 
+
+2208 1 4 2204 2205 2206 2207 7 (self,1) (assembly,1) (polymer,1) (microlens,1) (array,1) (integral,1) (imaging,1) 
+
+14262 2 3 12458 13820 14282 15 (person,1) (effect,1) (internet,1) (pornography,1) (china,1) (empirical,1) (study,1) (social,2) (network,1) (site,1) (exploring,1) (effects,1) (capital,1) (information,1) (disclosure,1) 
+
+13820 11 13 13817 13818 13819 13918 13919 13945 13946 13947 14262 12458 14325 14512 14685 73 (parameter,1) (estimation,1) (validity,1) (relationship,1) (robustness,1) (comparison,1) (telephone,1) (internet,2) (survey,1) (techniques,1) (reassessing,1) (public,1) (support,3) (access,2) (cablevision,1) (faded,1) (passion,1) (examination,1) (factors,1) (contributing,1) (south,1) (korea,1) (global,1) (leadership,1) (broadband,1) (adoption,1) (influence,3) (online,2) (forum,1) (sns,1) (use,1) (political,2) (discussion,1) (china,1) (assessing,2) (spirals,1) (trust,1) (person,3) (effect,2) (pornography,1) (exploring,1) (evolution,1) (digital,1) (television,2) (interplay,1) (economic,2) (interests,1) (role,1) (media,2) (uses,1) (gratifications,2) (multimedia,1) (cable,1) (dtv,1) (standards,1) (transition,1) (comparative,2) (policy,1) (analysis,1) (abundance,1) (arrives,1) (choices,1) (maximization,1) (predictors,1) (doctoral,1) (programs,1) (information,1) (technologies,1) (expanding,1) (menus,1) (audience,1) (content,1) (selection,1) 
+
+14282 1 1 14262 10 (empirical,1) (study,1) (social,2) (network,1) (site,1) (exploring,1) (effects,1) (capital,1) (information,1) (disclosure,1) 
+
+13817 1 3 13818 13819 13820 10 (parameter,1) (estimation,1) (validity,1) (relationship,1) (robustness,1) (comparison,1) (telephone,1) (internet,1) (survey,1) (techniques,1) 
+
+13818 4 4 13817 13819 13820 13947 30 (parameter,1) (estimation,1) (validity,1) (relationship,1) (robustness,1) (comparison,1) (telephone,1) (internet,1) (survey,1) (techniques,1) (reassessing,1) (public,2) (support,1) (access,1) (cablevision,1) (faded,1) (passion,1) (television,1) (abundance,1) (arrives,1) (cable,1) (choices,1) (maximization,1) (influence,1) (expanding,1) (media,1) (menus,1) (audience,1) (content,1) (selection,1) 
+
+13819 5 5 13817 13818 13820 14685 13947 35 (parameter,1) (estimation,1) (validity,1) (relationship,1) (robustness,1) (comparison,1) (telephone,1) (internet,1) (survey,1) (techniques,1) (reassessing,1) (public,2) (support,2) (access,1) (cablevision,1) (faded,1) (passion,1) (television,1) (abundance,1) (arrives,1) (cable,1) (choices,1) (maximization,1) (predictors,1) (doctoral,1) (programs,1) (media,2) (information,1) (technologies,1) (influence,1) (expanding,1) (menus,1) (audience,1) (content,1) (selection,1) 
+
+13918 3 6 13919 13820 13945 13946 13947 14325 27 (examination,1) (factors,1) (contributing,1) (south,1) (korea,1) (global,1) (leadership,1) (broadband,1) (adoption,1) (influence,1) (online,2) (forum,1) (sns,1) (use,1) (political,2) (discussion,1) (china,1) (assessing,2) (spirals,1) (trust,1) (exploring,1) (evolution,1) (digital,1) (television,1) (interplay,1) (economic,1) (interests,1) 
+
+13919 1 2 13918 13820 9 (examination,1) (factors,1) (contributing,1) (south,1) (korea,1) (global,1) (leadership,1) (broadband,1) (adoption,1) 
+
+13945 1 4 13820 13946 13947 13918 11 (influence,1) (online,2) (forum,1) (sns,1) (use,1) (political,1) (discussion,1) (china,1) (assessing,1) (spirals,1) (trust,1) 
+
+13946 2 4 13945 13820 13947 13918 17 (influence,1) (online,2) (forum,1) (sns,1) (use,1) (political,1) (discussion,1) (china,1) (assessing,1) (spirals,1) (trust,1) (dtv,1) (standards,1) (transition,1) (comparative,1) (policy,1) (analysis,1) 
+
+13947 5 7 13945 13820 13946 13918 14325 13818 13819 34 (influence,2) (online,1) (forum,3) (sns,2) (use,1) (political,2) (discussion,2) (china,1) (assessing,1) (spirals,2) (trust,1) (perceived,1) (gratifications,1) (media,2) (service,1) (potential,1) (users,1) (exploring,1) (evolution,1) (digital,1) (television,1) (interplay,1) (economic,1) (interests,1) (technology,1) (fluidity,1) (on-demand,1) (webcasting,1) (adoption,1) (expanding,1) (menus,1) (audience,1) (content,1) (selection,1) 
+
+14325 1 3 13918 13820 13947 9 (exploring,1) (evolution,1) (digital,1) (television,1) (china,1) (interplay,1) (economic,1) (political,1) (interests,1) 
+
+14512 1 1 13820 8 (exploring,1) (role,1) (media,1) (uses,1) (gratifications,1) (multimedia,1) (cable,1) (adoption,1) 
+
+14685 1 2 13819 13820 7 (predictors,1) (support,1) (doctoral,1) (programs,1) (media,1) (information,1) (technologies,1) 
+
+2081 2 1 2082 17 (human,1) (perceptions,1) (mura,1) (affect,1) (lcd,1) (market,1) (values,1) (evaluation,1) (detection,1) (discrimination,1) (ability,1) (peripheral,1) (vision,1) (notification,1) (information,1) (based,1) (displays,1) 
+
+2082 2 1 2081 17 (human,1) (perceptions,1) (mura,1) (affect,1) (lcd,1) (market,1) (values,1) (evaluation,1) (detection,1) (discrimination,1) (ability,1) (peripheral,1) (vision,1) (notification,1) (information,1) (based,1) (displays,1) 
+
+2083 1 6 2084 2085 2086 2087 2088 2089 14 (synthesis,1) (submicron-sized,1) (spherical,1) (green,1) (phosphors,1) (reverse,1) (emulsion,1) (method,1) (application,1) (phosphor,1) (inks,1) (ink-jet,1) (process,1) (pdp,1) 
+
+2084 1 6 2083 2085 2086 2087 2088 2089 14 (synthesis,1) (submicron-sized,1) (spherical,1) (green,1) (phosphors,1) (reverse,1) (emulsion,1) (method,1) (application,1) (phosphor,1) (inks,1) (ink-jet,1) (process,1) (pdp,1) 
+
+2085 1 6 2083 2084 2086 2087 2088 2089 14 (synthesis,1) (submicron-sized,1) (spherical,1) (green,1) (phosphors,1) (reverse,1) (emulsion,1) (method,1) (application,1) (phosphor,1) (inks,1) (ink-jet,1) (process,1) (pdp,1) 
+
+2086 1 6 2083 2084 2085 2087 2088 2089 14 (synthesis,1) (submicron-sized,1) (spherical,1) (green,1) (phosphors,1) (reverse,1) (emulsion,1) (method,1) (application,1) (phosphor,1) (inks,1) (ink-jet,1) (process,1) (pdp,1) 
+
+2087 1 6 2083 2084 2085 2086 2088 2089 14 (synthesis,1) (submicron-sized,1) (spherical,1) (green,1) (phosphors,1) (reverse,1) (emulsion,1) (method,1) (application,1) (phosphor,1) (inks,1) (ink-jet,1) (process,1) (pdp,1) 
+
+2088 1 6 2083 2084 2085 2086 2087 2089 14 (synthesis,1) (submicron-sized,1) (spherical,1) (green,1) (phosphors,1) (reverse,1) (emulsion,1) (method,1) (application,1) (phosphor,1) (inks,1) (ink-jet,1) (process,1) (pdp,1) 
+
+2089 1 6 2083 2084 2085 2086 2087 2088 14 (synthesis,1) (submicron-sized,1) (spherical,1) (green,1) (phosphors,1) (reverse,1) (emulsion,1) (method,1) (application,1) (phosphor,1) (inks,1) (ink-jet,1) (process,1) (pdp,1) 
+
+2090 1 1 2091 3 (factor,1) (structure,1) (cybersickness,1) 
+
+2091 1 1 2090 3 (factor,1) (structure,1) (cybersickness,1) 
+
+2103 2 5 2104 2105 2106 2827 2828 10 (visual,1) (gamma,1) (correction,1) (lcd,1) (displays,1) (colour,1) (management,1) (displaying,1) (microscope,1) (images,1) 
+
+2104 1 3 2103 2105 2106 5 (visual,1) (gamma,1) (correction,1) (lcd,1) (displays,1) 
+
+2105 2 5 2103 2104 2106 2904 2905 7 (visual,2) (gamma,2) (correction,1) (lcd,2) (displays,2) (limitations,1) (corrections,1) 
+
+2106 2 5 2103 2104 2105 2904 2905 7 (visual,2) (gamma,2) (correction,1) (lcd,2) (displays,2) (limitations,1) (corrections,1) 
+
+2827 1 2 2103 2828 5 (colour,1) (management,1) (displaying,1) (microscope,1) (images,1) 
+
+2828 1 2 2103 2827 5 (colour,1) (management,1) (displaying,1) (microscope,1) (images,1) 
+
+2904 1 3 2905 2105 2106 6 (limitations,1) (visual,1) (gamma,1) (corrections,1) (lcd,1) (displays,1) 
+
+2905 1 3 2904 2105 2106 6 (limitations,1) (visual,1) (gamma,1) (corrections,1) (lcd,1) (displays,1) 
+
+2110 1 3 2111 2112 2113 12 (two-stage,1) (dither,1) (enhance,1) (gray,1) (scales,1) (based,1) (real-time,1) (motion,1) (detection,1) (plasma,1) (display,1) (panel,1) 
+
+2111 1 3 2110 2112 2113 12 (two-stage,1) (dither,1) (enhance,1) (gray,1) (scales,1) (based,1) (real-time,1) (motion,1) (detection,1) (plasma,1) (display,1) (panel,1) 
+
+2112 1 3 2110 2111 2113 12 (two-stage,1) (dither,1) (enhance,1) (gray,1) (scales,1) (based,1) (real-time,1) (motion,1) (detection,1) (plasma,1) (display,1) (panel,1) 
+
+2113 1 3 2110 2111 2112 12 (two-stage,1) (dither,1) (enhance,1) (gray,1) (scales,1) (based,1) (real-time,1) (motion,1) (detection,1) (plasma,1) (display,1) (panel,1) 
+
+2115 1 1 2116 7 (subjective,1) (evaluation,1) (visual,1) (fatigue,1) (caused,1) (motion,1) (images,1) 
+
+2116 1 1 2115 7 (subjective,1) (evaluation,1) (visual,1) (fatigue,1) (caused,1) (motion,1) (images,1) 
+
+2124 1 4 2125 2126 2127 2128 8 (design,1) (system-on-glass,1) (poly-si,1) (tft,1) (oleds,1) (using,1) (mixed-signals,1) (simulation,1) 
+
+2125 1 4 2124 2126 2127 2128 8 (design,1) (system-on-glass,1) (poly-si,1) (tft,1) (oleds,1) (using,1) (mixed-signals,1) (simulation,1) 
+
+2126 1 4 2124 2125 2127 2128 8 (design,1) (system-on-glass,1) (poly-si,1) (tft,1) (oleds,1) (using,1) (mixed-signals,1) (simulation,1) 
+
+2127 1 4 2124 2125 2126 2128 8 (design,1) (system-on-glass,1) (poly-si,1) (tft,1) (oleds,1) (using,1) (mixed-signals,1) (simulation,1) 
+
+2128 1 4 2124 2125 2126 2127 8 (design,1) (system-on-glass,1) (poly-si,1) (tft,1) (oleds,1) (using,1) (mixed-signals,1) (simulation,1) 
+
+2129 1 2 2130 2131 8 (distortion-free,1) (data,1) (hiding,1) (scheme,1) (high,1) (dynamic,1) (range,1) (images,1) 
+
+2130 2 6 2129 2131 19290 19291 19292 17990 15 (distortion-free,1) (data,1) (hiding,1) (scheme,1) (high,1) (dynamic,1) (range,1) (images,1) (framework,1) (enabling,1) (user,1) (preference,1) (profiling,1) (wi-fi,1) (logs,1) 
+
+2131 2 5 2129 2130 2292 3125 2293 13 (distortion-free,1) (data,1) (hiding,1) (scheme,2) (high,1) (dynamic,1) (range,1) (images,1) (reversible,1) (image,1) (steganographic,1) (predictive,1) (coding,1) 
+
+19290 1 4 19291 19292 2130 17990 7 (framework,1) (enabling,1) (user,1) (preference,1) (profiling,1) (wi-fi,1) (logs,1) 
+
+19291 1 4 19290 19292 2130 17990 7 (framework,1) (enabling,1) (user,1) (preference,1) (profiling,1) (wi-fi,1) (logs,1) 
+
+19292 1 4 19290 19291 2130 17990 7 (framework,1) (enabling,1) (user,1) (preference,1) (profiling,1) (wi-fi,1) (logs,1) 
+
+17990 8 14 17989 18131 18254 18255 18510 18906 19290 19291 19292 2130 19589 19590 19744 19745 50 (graph-based,1) (approach,1) (discovering,1) (various,1) (types,1) (association,2) (rules,2) (d-list,1) (data,3) (structure,2) (efficient,1) (video,1) (query,1) (processing,1) (hiding,1) (sensitive,1) (limited,1) (effects,1) (adaptive,1) (access,1) (method,1) (broadcast,1) (error-prone,1) (mobile,1) (environment,1) (optimizing,2) (queries,1) (foreign,1) (functions,1) (distributed,1) (framework,1) (enabling,1) (user,1) (preference,1) (profiling,1) (wi-fi,1) (logs,1) (determining,1) ($-most,1) (demanding,1) (products,1) (maximum,1) (expected,1) (number,1) (total,1) (customers,1) (evaluating,1) (aggregate,1) (operations,1) (imprecise,1) 
+
+2292 2 5 2290 2291 2293 3125 2131 16 (novel,1) (authenticatable,1) (color,1) (visual,1) (secret,1) (sharing,1) (scheme,2) (using,1) (non-expanded,1) (meaningful,1) (shares,1) (reversible,1) (image,1) (steganographic,1) (predictive,1) (coding,1) 
+
+3125 1 3 2292 2293 2131 6 (reversible,1) (image,1) (steganographic,1) (scheme,1) (predictive,1) (coding,1) 
+
+2293 2 5 2290 2291 2292 3125 2131 16 (novel,1) (authenticatable,1) (color,1) (visual,1) (secret,1) (sharing,1) (scheme,2) (using,1) (non-expanded,1) (meaningful,1) (shares,1) (reversible,1) (image,1) (steganographic,1) (predictive,1) (coding,1) 
+
+17989 1 1 17990 7 (graph-based,1) (approach,1) (discovering,1) (various,1) (types,1) (association,1) (rules,1) 
+
+18131 1 1 17990 7 (d-list,1) (data,1) (structure,1) (efficient,1) (video,1) (query,1) (processing,1) 
+
+18254 1 2 18255 17990 6 (hiding,1) (sensitive,1) (association,1) (rules,1) (limited,1) (effects,1) 
+
+18255 1 2 18254 17990 6 (hiding,1) (sensitive,1) (association,1) (rules,1) (limited,1) (effects,1) 
+
+18510 1 1 17990 8 (adaptive,1) (access,1) (method,1) (broadcast,1) (data,1) (error-prone,1) (mobile,1) (environment,1) 
+
+18906 1 1 17990 6 (optimizing,1) (queries,1) (foreign,1) (functions,1) (distributed,1) (environment,1) 
+
+19589 1 2 19590 17990 9 (determining,1) ($-most,1) (demanding,1) (products,1) (maximum,1) (expected,1) (number,1) (total,1) (customers,1) 
+
+19590 1 2 19589 17990 9 (determining,1) ($-most,1) (demanding,1) (products,1) (maximum,1) (expected,1) (number,1) (total,1) (customers,1) 
+
+19744 1 2 17990 19745 5 (evaluating,1) (aggregate,1) (operations,1) (imprecise,1) (data,1) 
+
+19745 1 2 17990 19744 5 (evaluating,1) (aggregate,1) (operations,1) (imprecise,1) (data,1) 
+
+2290 1 3 2291 2292 2293 11 (novel,1) (authenticatable,1) (color,1) (visual,1) (secret,1) (sharing,1) (scheme,1) (using,1) (non-expanded,1) (meaningful,1) (shares,1) 
+
+2291 1 3 2290 2292 2293 11 (novel,1) (authenticatable,1) (color,1) (visual,1) (secret,1) (sharing,1) (scheme,1) (using,1) (non-expanded,1) (meaningful,1) (shares,1) 
+
+2138 2 3 2139 2140 2141 25 (random,1) (dot,1) (generation,1) (scheme,1) (using,1) (molecular,1) (dynamics,1) (method,1) (illumination,1) (design,1) (round,1) (plane,1) (led,1) (source,1) (light,1) (guide,1) (feasibility,1) (study,1) (edge-lit,1) (backlight,1) (dual-panel,1) (display,1) (simple,1) (configuration,1) (model,1) 
+
+2139 2 3 2138 2140 2141 25 (random,1) (dot,1) (generation,1) (scheme,1) (using,1) (molecular,1) (dynamics,1) (method,1) (illumination,1) (design,1) (round,1) (plane,1) (led,1) (source,1) (light,1) (guide,1) (feasibility,1) (study,1) (edge-lit,1) (backlight,1) (dual-panel,1) (display,1) (simple,1) (configuration,1) (model,1) 
+
+2140 1 3 2138 2139 2141 16 (random,1) (dot,1) (generation,1) (scheme,1) (using,1) (molecular,1) (dynamics,1) (method,1) (illumination,1) (design,1) (round,1) (plane,1) (led,1) (source,1) (light,1) (guide,1) 
+
+2141 1 3 2138 2139 2140 16 (random,1) (dot,1) (generation,1) (scheme,1) (using,1) (molecular,1) (dynamics,1) (method,1) (illumination,1) (design,1) (round,1) (plane,1) (led,1) (source,1) (light,1) (guide,1) 
+
+2142 1 2 2143 2144 11 (investigation,1) (top-emitting,1) (organic,1) (light-emitting,1) (devices,1) (highly,1) (saturated,1) (color,1) (employing,1) (metal-mirror,1) (structure,1) 
+
+2143 1 2 2142 2144 11 (investigation,1) (top-emitting,1) (organic,1) (light-emitting,1) (devices,1) (highly,1) (saturated,1) (color,1) (employing,1) (metal-mirror,1) (structure,1) 
+
+2144 1 2 2142 2143 11 (investigation,1) (top-emitting,1) (organic,1) (light-emitting,1) (devices,1) (highly,1) (saturated,1) (color,1) (employing,1) (metal-mirror,1) (structure,1) 
+
+2145 1 0 7 (implementation,1) (led,1) (tile,1) (controller,1) (high-quality,1) (image,1) (display,1) 
+
+2146 2 2 2147 2148 19 (structural,1) (characterization,1) (optical,1) (properties,1) (dysprosium,2) (doped,2) (strontium,1) (calcium,1) (magnesium,2) (di-silicate,2) (phosphor,2) (solid,2) (state,2) (reaction,2) (method,2) (di-strontium,1) (white,1) (light,1) (emitting,1) 
+
+2147 2 2 2146 2148 19 (structural,1) (characterization,1) (optical,1) (properties,1) (dysprosium,2) (doped,2) (strontium,1) (calcium,1) (magnesium,2) (di-silicate,2) (phosphor,2) (solid,2) (state,2) (reaction,2) (method,2) (di-strontium,1) (white,1) (light,1) (emitting,1) 
+
+2148 2 2 2146 2147 19 (structural,1) (characterization,1) (optical,1) (properties,1) (dysprosium,2) (doped,2) (strontium,1) (calcium,1) (magnesium,2) (di-silicate,2) (phosphor,2) (solid,2) (state,2) (reaction,2) (method,2) (di-strontium,1) (white,1) (light,1) (emitting,1) 
+
+2149 1 6 2150 2151 2152 2153 2154 2155 11 (effect,1) (electron,1) (transport,1) (layer,1) (engineering,1) (based,1) (blue,1) (phosphorescent,1) (organic,1) (light-emitting,1) (diodes,1) 
+
+2150 2 10 2149 2151 2152 2153 2154 2155 2688 2394 2689 2690 18 (effect,1) (electron,1) (transport,1) (layer,2) (engineering,1) (based,1) (blue,1) (phosphorescent,1) (organic,2) (light-emitting,2) (diodes,2) (improved,2) (efficiency,1) (lifetime,1) (green,1) (using,1) (charge,1) (control,1) 
+
+2151 2 10 2149 2150 2152 2153 2154 2155 2688 2394 2689 2690 18 (effect,1) (electron,1) (transport,1) (layer,2) (engineering,1) (based,1) (blue,1) (phosphorescent,1) (organic,2) (light-emitting,2) (diodes,2) (improved,2) (efficiency,1) (lifetime,1) (green,1) (using,1) (charge,1) (control,1) 
+
+2152 3 14 2149 2150 2151 2153 2154 2155 2390 2391 2392 2393 2394 2688 2689 2690 23 (effect,1) (electron,1) (transport,1) (layer,2) (engineering,1) (based,1) (blue,2) (phosphorescent,1) (organic,3) (light-emitting,3) (diodes,3) (electroluminescent,3) (materials,2) (phenylanthracene-substituted,2) (fluorene,2) (derivatives,2) (improved,1) (efficiency,1) (lifetime,1) (green,1) (using,1) (charge,1) (control,1) 
+
+2153 1 6 2149 2150 2151 2152 2154 2155 11 (effect,1) (electron,1) (transport,1) (layer,1) (engineering,1) (based,1) (blue,1) (phosphorescent,1) (organic,1) (light-emitting,1) (diodes,1) 
+
+2154 2 11 2149 2150 2151 2152 2153 2155 2390 2391 2392 2393 2394 16 (effect,1) (electron,1) (transport,1) (layer,1) (engineering,1) (based,2) (blue,1) (phosphorescent,2) (organic,2) (light-emitting,2) (diodes,2) (electroluminescent,1) (materials,1) (phenylanthracene-substituted,1) (fluorene,1) (derivatives,1) 
+
+2155 3 14 2149 2150 2151 2152 2153 2154 2390 2391 2392 2393 2394 2688 2689 2690 23 (effect,1) (electron,1) (transport,1) (layer,2) (engineering,1) (based,1) (blue,2) (phosphorescent,1) (organic,3) (light-emitting,3) (diodes,3) (electroluminescent,3) (materials,2) (phenylanthracene-substituted,2) (fluorene,2) (derivatives,2) (improved,1) (efficiency,1) (lifetime,1) (green,1) (using,1) (charge,1) (control,1) 
+
+2688 1 7 2150 2151 2394 2152 2689 2690 2155 12 (improved,1) (efficiency,1) (lifetime,1) (green,1) (phosphorescent,1) (organic,1) (light-emitting,1) (diodes,1) (using,1) (charge,1) (control,1) (layer,1) 
+
+2394 2 12 2390 2391 2392 2393 2152 2155 2154 2688 2150 2151 2689 2690 19 (blue,1) (electroluminescent,1) (materials,1) (based,1) (phenylanthracene-substituted,1) (fluorene,1) (derivatives,1) (organic,2) (light-emitting,2) (diodes,2) (improved,1) (efficiency,1) (lifetime,1) (green,1) (phosphorescent,1) (using,1) (charge,1) (control,1) (layer,1) 
+
+2689 1 7 2688 2150 2151 2394 2152 2690 2155 12 (improved,1) (efficiency,1) (lifetime,1) (green,1) (phosphorescent,1) (organic,1) (light-emitting,1) (diodes,1) (using,1) (charge,1) (control,1) (layer,1) 
+
+2690 1 7 2688 2150 2151 2394 2152 2689 2155 12 (improved,1) (efficiency,1) (lifetime,1) (green,1) (phosphorescent,1) (organic,1) (light-emitting,1) (diodes,1) (using,1) (charge,1) (control,1) (layer,1) 
+
+2390 1 7 2391 2392 2393 2152 2394 2155 2154 10 (blue,1) (electroluminescent,1) (materials,1) (based,1) (phenylanthracene-substituted,1) (fluorene,1) (derivatives,1) (organic,1) (light-emitting,1) (diodes,1) 
+
+2391 1 7 2390 2392 2393 2152 2394 2155 2154 10 (blue,1) (electroluminescent,1) (materials,1) (based,1) (phenylanthracene-substituted,1) (fluorene,1) (derivatives,1) (organic,1) (light-emitting,1) (diodes,1) 
+
+2392 1 7 2390 2391 2393 2152 2394 2155 2154 10 (blue,1) (electroluminescent,1) (materials,1) (based,1) (phenylanthracene-substituted,1) (fluorene,1) (derivatives,1) (organic,1) (light-emitting,1) (diodes,1) 
+
+2393 1 7 2390 2391 2392 2152 2394 2155 2154 10 (blue,1) (electroluminescent,1) (materials,1) (based,1) (phenylanthracene-substituted,1) (fluorene,1) (derivatives,1) (organic,1) (light-emitting,1) (diodes,1) 
+
+2156 1 0 8 (reading,1) (chinese,1) (horizontal,1) (vertical,1) (leading,1) (display,2) (liquid-colour,1) (television,1) 
+
+2157 2 3 2158 2159 2160 13 (synthesis,1) (characterization,1) (luminescent,2) (eu,1) (hmap,1) (sub,2) (tb,5) (complexes,5) (properties,4) (europium,1) (terbium,1) (hydroxy,1) (dimethoxyacetophenone,1) 
+
+2158 2 3 2157 2159 2160 13 (synthesis,1) (characterization,1) (luminescent,2) (eu,1) (hmap,1) (sub,2) (tb,5) (complexes,5) (properties,4) (europium,1) (terbium,1) (hydroxy,1) (dimethoxyacetophenone,1) 
+
+2159 2 3 2157 2158 2160 13 (synthesis,1) (characterization,1) (luminescent,2) (eu,1) (hmap,1) (sub,2) (tb,5) (complexes,5) (properties,4) (europium,1) (terbium,1) (hydroxy,1) (dimethoxyacetophenone,1) 
+
+2160 2 3 2157 2158 2159 13 (synthesis,1) (characterization,1) (luminescent,2) (eu,1) (hmap,1) (sub,2) (tb,5) (complexes,5) (properties,4) (europium,1) (terbium,1) (hydroxy,1) (dimethoxyacetophenone,1) 
+
+2162 2 5 2163 2164 3192 3193 2844 19 (color,1) (image,1) (authentication,1) (tamper,1) (detection,1) (remedy,1) (based,1) (bch,1) (bayer,1) (pattern,1) (visual,1) (multiple-secret,1) (sharing,1) (flexible,1) (general,1) (access,1) (structure,1) (random,1) (grids,1) 
+
+2163 3 6 2162 2164 2843 2844 3192 3193 26 (color,1) (image,1) (authentication,1) (tamper,1) (detection,1) (remedy,1) (based,1) (bch,1) (bayer,1) (pattern,1) (random,2) (grid-based,1) (cyclic,1) (access,1) (structure,2) (vss,2) (scheme,1) (multiple,1) (secret,1) (images,1) (visual,1) (multiple-secret,1) (sharing,1) (flexible,1) (general,1) (grids,1) 
+
+2164 1 2 2162 2163 10 (color,1) (image,1) (authentication,1) (tamper,1) (detection,1) (remedy,1) (based,1) (bch,1) (bayer,1) (pattern,1) 
+
+3192 1 4 3193 2162 2844 2163 9 (visual,1) (multiple-secret,1) (sharing,1) (flexible,1) (general,1) (access,1) (structure,1) (random,1) (grids,1) 
+
+3193 1 4 3192 2162 2844 2163 9 (visual,1) (multiple-secret,1) (sharing,1) (flexible,1) (general,1) (access,1) (structure,1) (random,1) (grids,1) 
+
+2844 2 5 2163 2843 3192 3193 2162 16 (random,2) (grid-based,1) (cyclic,1) (access,1) (structure,2) (vss,2) (scheme,1) (multiple,1) (secret,1) (images,1) (visual,1) (multiple-secret,1) (sharing,1) (flexible,1) (general,1) (grids,1) 
+
+2843 1 2 2163 2844 10 (random,1) (grid-based,1) (cyclic,1) (access,1) (structure,1) (vss,1) (scheme,1) (multiple,1) (secret,1) (images,1) 
+
+2165 3 12 2166 2473 3076 3077 3078 3079 3080 3204 3205 3206 3207 3208 22 (flexible-characteristics,1) (inspection,1) (flexible,2) (substrates,1) (using,1) (image,1) (feedback,1) (control,1) (transparent,1) (electrodes,1) (based,1) (conducting,1) (polymers,1) (display,1) (applications,1) (alternative,1) (bend-testing,1) (technique,1) (indium,1) (tin,1) (oxide,1) (film,1) 
+
+2166 1 1 2165 8 (flexible-characteristics,1) (inspection,1) (flexible,1) (substrates,1) (using,1) (image,1) (feedback,1) (control,1) 
+
+2473 3 7 2474 3076 3077 3078 2165 3079 3080 21 (integration,1) (polymer-dispersed,1) (liquid,1) (crystal,1) (composites,1) (conducting,2) (polymer,1) (films,1) (fabrication,1) (flexible,1) (display,3) (devices,2) (transparent,1) (electrodes,1) (based,1) (polymers,1) (applications,1) (innovative,1) (progress,1) (materials,1) (technologies,1) 
+
+3076 1 6 2473 3077 3078 2165 3079 3080 7 (transparent,1) (electrodes,1) (based,1) (conducting,1) (polymers,1) (display,1) (applications,1) 
+
+3077 1 6 2473 3076 3078 2165 3079 3080 7 (transparent,1) (electrodes,1) (based,1) (conducting,1) (polymers,1) (display,1) (applications,1) 
+
+3078 1 6 2473 3076 3077 2165 3079 3080 7 (transparent,1) (electrodes,1) (based,1) (conducting,1) (polymers,1) (display,1) (applications,1) 
+
+3079 1 6 2473 3076 3077 3078 2165 3080 7 (transparent,1) (electrodes,1) (based,1) (conducting,1) (polymers,1) (display,1) (applications,1) 
+
+3080 1 6 2473 3076 3077 3078 2165 3079 7 (transparent,1) (electrodes,1) (based,1) (conducting,1) (polymers,1) (display,1) (applications,1) 
+
+3204 2 7 3205 3206 2165 3207 3208 19971 14552 16 (alternative,1) (bend-testing,1) (technique,1) (flexible,1) (indium,1) (tin,1) (oxide,1) (film,1) (dynamic,1) (discretization,1) (approach,1) (constructing,1) (decision,1) (trees,1) (continuous,1) (label,1) 
+
+3205 1 5 3204 3206 2165 3207 3208 8 (alternative,1) (bend-testing,1) (technique,1) (flexible,1) (indium,1) (tin,1) (oxide,1) (film,1) 
+
+3206 1 5 3204 3205 2165 3207 3208 8 (alternative,1) (bend-testing,1) (technique,1) (flexible,1) (indium,1) (tin,1) (oxide,1) (film,1) 
+
+3207 1 5 3204 3205 3206 2165 3208 8 (alternative,1) (bend-testing,1) (technique,1) (flexible,1) (indium,1) (tin,1) (oxide,1) (film,1) 
+
+3208 1 5 3204 3205 3206 2165 3207 8 (alternative,1) (bend-testing,1) (technique,1) (flexible,1) (indium,1) (tin,1) (oxide,1) (film,1) 
+
+2474 1 1 2473 12 (integration,1) (polymer-dispersed,1) (liquid,1) (crystal,1) (composites,1) (conducting,1) (polymer,1) (films,1) (fabrication,1) (flexible,1) (display,1) (devices,1) 
+
+19971 1 2 3204 14552 8 (dynamic,1) (discretization,1) (approach,1) (constructing,1) (decision,1) (trees,1) (continuous,1) (label,1) 
+
+14552 2 3 14551 19971 3204 15 (involuntary,1) (migration,1) (cyberspaces,1) (case,1) (msn,1) (messenger,1) (discontinuation,1) (dynamic,1) (discretization,1) (approach,1) (constructing,1) (decision,1) (trees,1) (continuous,1) (label,1) 
+
+14551 1 1 14552 7 (involuntary,1) (migration,1) (cyberspaces,1) (case,1) (msn,1) (messenger,1) (discontinuation,1) 
+
+2175 1 1 2176 7 (color,1) (constancy,1) (visual,1) (compensation,1) (projector,1) (displayed,1) (image,1) 
+
+2176 2 3 2175 19558 19559 18 (color,1) (constancy,1) (visual,1) (compensation,1) (projector,1) (displayed,1) (image,1) (unsupervised,1) (hybrid,1) (feature,1) (extraction,1) (selection,1) (high-dimensional,1) (non-gaussian,1) (data,1) (clustering,1) (variational,1) (inference,1) 
+
+19558 1 2 19559 2176 11 (unsupervised,1) (hybrid,1) (feature,1) (extraction,1) (selection,1) (high-dimensional,1) (non-gaussian,1) (data,1) (clustering,1) (variational,1) (inference,1) 
+
+19559 2 2 19558 2176 19 (unsupervised,1) (hybrid,1) (feature,2) (extraction,1) (selection,1) (high-dimensional,1) (non-gaussian,1) (data,1) (clustering,2) (variational,2) (inference,1) (model-based,1) (approach,1) (discrete,1) (weighting,1) (using,1) (map,1) (stochastic,1) (complexity,1) 
+
+2177 1 2 2178 2179 10 (hybrid,1) (method,1) (modelling,1) (light,1) (leakage,1) (spherical,1) (object,1) (liquid,1) (crystal,1) (layer,1) 
+
+2178 1 2 2177 2179 10 (hybrid,1) (method,1) (modelling,1) (light,1) (leakage,1) (spherical,1) (object,1) (liquid,1) (crystal,1) (layer,1) 
+
+2179 1 2 2177 2178 10 (hybrid,1) (method,1) (modelling,1) (light,1) (leakage,1) (spherical,1) (object,1) (liquid,1) (crystal,1) (layer,1) 
+
+2189 1 3 2190 2191 2192 10 (autostereoscopic,1) (multi-view,1) (display,2) (pivot,1) (function,1) (using,1) (image,1) (square,1) (subpixel,1) (structure,1) 
+
+2190 1 3 2189 2191 2192 10 (autostereoscopic,1) (multi-view,1) (display,2) (pivot,1) (function,1) (using,1) (image,1) (square,1) (subpixel,1) (structure,1) 
+
+2191 1 3 2189 2190 2192 10 (autostereoscopic,1) (multi-view,1) (display,2) (pivot,1) (function,1) (using,1) (image,1) (square,1) (subpixel,1) (structure,1) 
+
+2192 1 3 2189 2190 2191 10 (autostereoscopic,1) (multi-view,1) (display,2) (pivot,1) (function,1) (using,1) (image,1) (square,1) (subpixel,1) (structure,1) 
+
+2193 3 5 2194 2195 2413 3120 3121 28 (equivalent,1) (circuit,2) (model,1) (characteristic,1) (parameters,1) (ac,1) (pdp,1) (discharge,2) (cells,1) (real-time,1) (image,1) (processor,1) (combining,1) (dynamic,1) (contrast,1) (ratio,1) (enhancement,1) (inverse,1) (gamma,1) (correction,1) (adaptive,1) (address,2) (energy,1) (recovery,1) (reducing,1) (power,1) (color,1) (pdps,1) 
+
+2194 3 5 2193 2195 2413 3120 3121 28 (equivalent,1) (circuit,2) (model,1) (characteristic,1) (parameters,1) (ac,1) (pdp,1) (discharge,2) (cells,1) (real-time,1) (image,1) (processor,1) (combining,1) (dynamic,1) (contrast,1) (ratio,1) (enhancement,1) (inverse,1) (gamma,1) (correction,1) (adaptive,1) (address,2) (energy,1) (recovery,1) (reducing,1) (power,1) (color,1) (pdps,1) 
+
+2195 1 2 2193 2194 9 (equivalent,1) (circuit,1) (model,1) (characteristic,1) (parameters,1) (ac,1) (pdp,1) (discharge,1) (cells,1) 
+
+2413 1 2 2193 2194 12 (real-time,1) (image,1) (processor,1) (combining,1) (dynamic,1) (contrast,1) (ratio,1) (enhancement,1) (inverse,1) (gamma,1) (correction,1) (pdp,1) 
+
+3120 1 3 2193 2194 3121 9 (adaptive,1) (address,2) (energy,1) (recovery,1) (circuit,1) (reducing,1) (power,1) (color,1) (pdps,1) 
+
+3121 1 3 3120 2193 2194 9 (adaptive,1) (address,2) (energy,1) (recovery,1) (circuit,1) (reducing,1) (power,1) (color,1) (pdps,1) 
+
+2200 2 3 2201 2202 2203 18 (optimized,1) (pda,1) (orientation,1) (screen,1) (layout,1) (chinese,1) (vocabulary,2) (learning,2) (young,1) (children,1) (preferences,2) (images,2) (used,1) (dynamic,1) (graphical,1) (interfaces,1) (computer-assisted,1) (english,1) 
+
+2201 3 10 2200 2202 2203 2829 2830 2831 2832 2833 2834 2835 23 (optimized,1) (pda,1) (orientation,1) (screen,1) (layout,1) (chinese,1) (vocabulary,2) (learning,2) (young,1) (children,1) (augmented,2) (reality,2) (educational,1) (activities,2) (disabilities,1) (preferences,1) (images,1) (used,1) (dynamic,1) (graphical,1) (interfaces,1) (computer-assisted,1) (english,1) 
+
+2202 2 3 2200 2201 2203 18 (optimized,1) (pda,1) (orientation,1) (screen,1) (layout,1) (chinese,1) (vocabulary,2) (learning,2) (young,1) (children,1) (preferences,2) (images,2) (used,1) (dynamic,1) (graphical,1) (interfaces,1) (computer-assisted,1) (english,1) 
+
+2203 2 4 2200 2201 2202 3174 16 (optimized,1) (pda,1) (orientation,1) (screen,1) (layout,1) (chinese,1) (vocabulary,1) (learning,1) (young,1) (children,1) (factors,1) (influencing,1) (usability,1) (icons,1) (lcd,1) (touchscreen,1) 
+
+2829 1 7 2201 2830 2831 2832 2833 2834 2835 6 (augmented,1) (reality,1) (educational,1) (activities,1) (children,1) (disabilities,1) 
+
+2830 1 7 2201 2829 2831 2832 2833 2834 2835 6 (augmented,1) (reality,1) (educational,1) (activities,1) (children,1) (disabilities,1) 
+
+2831 1 7 2201 2829 2830 2832 2833 2834 2835 6 (augmented,1) (reality,1) (educational,1) (activities,1) (children,1) (disabilities,1) 
+
+2832 1 7 2201 2829 2830 2831 2833 2834 2835 6 (augmented,1) (reality,1) (educational,1) (activities,1) (children,1) (disabilities,1) 
+
+2833 1 7 2201 2829 2830 2831 2832 2834 2835 6 (augmented,1) (reality,1) (educational,1) (activities,1) (children,1) (disabilities,1) 
+
+2834 1 7 2201 2829 2830 2831 2832 2833 2835 6 (augmented,1) (reality,1) (educational,1) (activities,1) (children,1) (disabilities,1) 
+
+2835 1 7 2201 2829 2830 2831 2832 2833 2834 6 (augmented,1) (reality,1) (educational,1) (activities,1) (children,1) (disabilities,1) 
+
+3174 1 1 2203 6 (factors,1) (influencing,1) (usability,1) (icons,1) (lcd,1) (touchscreen,1) 
+
+2212 2 3 2213 2214 12257 21 (effects,1) (monitor,1) (size,1) (accuracy,1) (time,1) (needed,1) (detect,1) (cephalometric,1) (radiographs,1) (landmarks,1) (mining,1) (massive,1) (datasets,1) (unsupervised,1) (parallel,1) (clustering,1) (grid,1) (novel,1) (algorithms,1) (case,1) (study,1) 
+
+2213 2 3 2212 2214 12257 21 (effects,1) (monitor,1) (size,1) (accuracy,1) (time,1) (needed,1) (detect,1) (cephalometric,1) (radiographs,1) (landmarks,1) (mining,1) (massive,1) (datasets,1) (unsupervised,1) (parallel,1) (clustering,1) (grid,1) (novel,1) (algorithms,1) (case,1) (study,1) 
+
+2214 1 2 2212 2213 10 (effects,1) (monitor,1) (size,1) (accuracy,1) (time,1) (needed,1) (detect,1) (cephalometric,1) (radiographs,1) (landmarks,1) 
+
+12257 1 2 2212 2213 11 (mining,1) (massive,1) (datasets,1) (unsupervised,1) (parallel,1) (clustering,1) (grid,1) (novel,1) (algorithms,1) (case,1) (study,1) 
+
+2215 1 2 2216 2217 5 (visual-quality,1) (evaluation,1) (methodology,1) (multiview,1) (displays,1) 
+
+2216 1 2 2215 2217 5 (visual-quality,1) (evaluation,1) (methodology,1) (multiview,1) (displays,1) 
+
+2217 1 2 2215 2216 5 (visual-quality,1) (evaluation,1) (methodology,1) (multiview,1) (displays,1) 
+
+2218 2 4 2219 2220 2221 2558 22 (characteristics,1) (polycrystalline,1) (si,2) (tfts,1) (fabricated,1) (glass,1) (substrates,1) (excimer,2) (laser,2) (annealing,2) (nickel-sputtered,1) (amorphous,1) (films,2) (effects,1) (single,1) (double,1) (overlap,1) (scanned,1) (solid,1) (phase,1) (crystallized,1) (silicon,1) 
+
+2219 2 4 2218 2220 2221 2558 22 (characteristics,1) (polycrystalline,1) (si,2) (tfts,1) (fabricated,1) (glass,1) (substrates,1) (excimer,2) (laser,2) (annealing,2) (nickel-sputtered,1) (amorphous,1) (films,2) (effects,1) (single,1) (double,1) (overlap,1) (scanned,1) (solid,1) (phase,1) (crystallized,1) (silicon,1) 
+
+2220 1 3 2218 2219 2221 13 (characteristics,1) (polycrystalline,1) (si,2) (tfts,1) (fabricated,1) (glass,1) (substrates,1) (excimer,1) (laser,1) (annealing,1) (nickel-sputtered,1) (amorphous,1) (films,1) 
+
+2221 2 4 2218 2219 2220 2558 22 (characteristics,1) (polycrystalline,1) (si,2) (tfts,1) (fabricated,1) (glass,1) (substrates,1) (excimer,2) (laser,2) (annealing,2) (nickel-sputtered,1) (amorphous,1) (films,2) (effects,1) (single,1) (double,1) (overlap,1) (scanned,1) (solid,1) (phase,1) (crystallized,1) (silicon,1) 
+
+2558 1 3 2218 2219 2221 13 (effects,1) (single,1) (double,1) (overlap,1) (scanned,1) (excimer,1) (laser,1) (annealing,1) (solid,1) (phase,1) (crystallized,1) (silicon,1) (films,1) 
+
+2224 3 10 2225 2226 2227 2228 2465 2466 2467 2468 2469 2794 16 (design,1) (novel,1) (symmetric,1) (microprism,1) (array,1) (dual-view,1) (display,3) (influence,2) (polarized,1) (autonomic,1) (nervous,1) (activities,1) (high-brightness,1) (diffractive,1) (stereoscopic,1) (technology,1) 
+
+2225 1 4 2224 2226 2227 2228 7 (design,1) (novel,1) (symmetric,1) (microprism,1) (array,1) (dual-view,1) (display,1) 
+
+2226 2 5 2224 2225 2227 2228 2794 11 (design,1) (novel,1) (symmetric,1) (microprism,1) (array,1) (dual-view,1) (display,2) (high-brightness,1) (diffractive,1) (stereoscopic,1) (technology,1) 
+
+2227 1 4 2224 2225 2226 2228 7 (design,1) (novel,1) (symmetric,1) (microprism,1) (array,1) (dual-view,1) (display,1) 
+
+2228 1 4 2224 2225 2226 2227 7 (design,1) (novel,1) (symmetric,1) (microprism,1) (array,1) (dual-view,1) (display,1) 
+
+2465 1 5 2224 2466 2467 2468 2469 6 (influence,1) (polarized,1) (display,1) (autonomic,1) (nervous,1) (activities,1) 
+
+2466 1 5 2224 2465 2467 2468 2469 6 (influence,1) (polarized,1) (display,1) (autonomic,1) (nervous,1) (activities,1) 
+
+2467 1 5 2224 2465 2466 2468 2469 6 (influence,1) (polarized,1) (display,1) (autonomic,1) (nervous,1) (activities,1) 
+
+2468 1 5 2224 2465 2466 2467 2469 6 (influence,1) (polarized,1) (display,1) (autonomic,1) (nervous,1) (activities,1) 
+
+2469 1 5 2224 2465 2466 2467 2468 6 (influence,1) (polarized,1) (display,1) (autonomic,1) (nervous,1) (activities,1) 
+
+2794 1 2 2224 2226 5 (high-brightness,1) (diffractive,1) (stereoscopic,1) (display,1) (technology,1) 
+
+2230 3 3 2231 2232 2389 25 (electrochromic,2) (organic,1) (polymeric,1) (materials,2) (display,1) (applications,1) (quantification,1) (colour,1) (stimuli,1) (calculation,1) (cie,1) (chromaticity,1) (coordinates,1) (luminance,1) (data,1) (application,1) (situ,2) (colorimetry,1) (studies,1) (colorimetric,1) (measurement,1) (study,1) (electrochromism,1) (di-n-heptyl,1) (viologen,1) 
+
+2231 1 2 2230 2232 6 (electrochromic,1) (organic,1) (polymeric,1) (materials,1) (display,1) (applications,1) 
+
+2232 2 2 2230 2231 13 (electrochromic,1) (organic,1) (polymeric,1) (materials,1) (display,1) (applications,1) (situ,1) (colorimetric,1) (measurement,1) (study,1) (electrochromism,1) (di-n-heptyl,1) (viologen,1) 
+
+2389 1 1 2230 15 (quantification,1) (colour,1) (stimuli,1) (calculation,1) (cie,1) (chromaticity,1) (coordinates,1) (luminance,1) (data,1) (application,1) (situ,1) (colorimetry,1) (studies,1) (electrochromic,1) (materials,1) 
+
+2233 1 1 2234 10 (design,1) (evolution,1) (web-based,1) (screen,1) (management,1) (middleware,1) (interactive,1) (multipurpose,1) (public,1) (displays,1) 
+
+2234 1 1 2233 10 (design,1) (evolution,1) (web-based,1) (screen,1) (management,1) (middleware,1) (interactive,1) (multipurpose,1) (public,1) (displays,1) 
+
+2235 2 1 2236 13 (differentiation,2) (arched,1) (surface,1) (packaging,2) (influence,1) (findability,1) (logo,2) (typography,1) (displays,1) (displayability,1) (assessment,1) (design,1) (bottle,1) 
+
+2236 2 1 2235 13 (differentiation,2) (arched,1) (surface,1) (packaging,2) (influence,1) (findability,1) (logo,2) (typography,1) (displays,1) (displayability,1) (assessment,1) (design,1) (bottle,1) 
+
+2241 1 3 2242 2243 2244 6 (control,1) (inkjet,1) (printed,1) (profiles,1) (solvent-vapor,1) (annealing,1) 
+
+2242 1 3 2241 2243 2244 6 (control,1) (inkjet,1) (printed,1) (profiles,1) (solvent-vapor,1) (annealing,1) 
+
+2243 1 3 2241 2242 2244 6 (control,1) (inkjet,1) (printed,1) (profiles,1) (solvent-vapor,1) (annealing,1) 
+
+2244 1 3 2241 2242 2243 6 (control,1) (inkjet,1) (printed,1) (profiles,1) (solvent-vapor,1) (annealing,1) 
+
+2245 1 8 2246 2247 2248 2249 2250 2251 2252 2253 7 (design,1) (characterization,1) (new,1) (lanthanide,1) (fluorides,1) (optical,1) (properties,1) 
+
+2246 1 8 2245 2247 2248 2249 2250 2251 2252 2253 7 (design,1) (characterization,1) (new,1) (lanthanide,1) (fluorides,1) (optical,1) (properties,1) 
+
+2247 1 8 2245 2246 2248 2249 2250 2251 2252 2253 7 (design,1) (characterization,1) (new,1) (lanthanide,1) (fluorides,1) (optical,1) (properties,1) 
+
+2248 1 8 2245 2246 2247 2249 2250 2251 2252 2253 7 (design,1) (characterization,1) (new,1) (lanthanide,1) (fluorides,1) (optical,1) (properties,1) 
+
+2249 1 8 2245 2246 2247 2248 2250 2251 2252 2253 7 (design,1) (characterization,1) (new,1) (lanthanide,1) (fluorides,1) (optical,1) (properties,1) 
+
+2250 1 8 2245 2246 2247 2248 2249 2251 2252 2253 7 (design,1) (characterization,1) (new,1) (lanthanide,1) (fluorides,1) (optical,1) (properties,1) 
+
+2251 1 8 2245 2246 2247 2248 2249 2250 2252 2253 7 (design,1) (characterization,1) (new,1) (lanthanide,1) (fluorides,1) (optical,1) (properties,1) 
+
+2252 1 8 2245 2246 2247 2248 2249 2250 2251 2253 7 (design,1) (characterization,1) (new,1) (lanthanide,1) (fluorides,1) (optical,1) (properties,1) 
+
+2253 2 9 2245 2246 2247 2248 2249 2250 2251 2252 3266 11 (design,1) (characterization,1) (new,1) (lanthanide,2) (fluorides,1) (optical,1) (properties,2) (facile,1) (synthesis,1) (vanadates,1) (luminescent,1) 
+
+3266 1 1 2253 6 (facile,1) (synthesis,1) (lanthanide,1) (vanadates,1) (luminescent,1) (properties,1) 
+
+2262 1 3 2263 2264 2265 6 (comparing,1) (reading,1) (processes,1) (e-ink,1) (displays,1) (print,1) 
+
+2263 1 3 2262 2264 2265 6 (comparing,1) (reading,1) (processes,1) (e-ink,1) (displays,1) (print,1) 
+
+2264 1 3 2262 2263 2265 6 (comparing,1) (reading,1) (processes,1) (e-ink,1) (displays,1) (print,1) 
+
+2265 1 3 2262 2263 2264 6 (comparing,1) (reading,1) (processes,1) (e-ink,1) (displays,1) (print,1) 
+
+2266 1 3 2267 2268 2269 13 (improvement,1) (color,1) (purity,1) (electrical,1) (characteristics,1) (co-doping,1) (method,1) (flexible,1) (red-light,1) (organic,1) (light,1) (emitting,1) (devices,1) 
+
+2267 1 3 2266 2268 2269 13 (improvement,1) (color,1) (purity,1) (electrical,1) (characteristics,1) (co-doping,1) (method,1) (flexible,1) (red-light,1) (organic,1) (light,1) (emitting,1) (devices,1) 
+
+2268 1 3 2266 2267 2269 13 (improvement,1) (color,1) (purity,1) (electrical,1) (characteristics,1) (co-doping,1) (method,1) (flexible,1) (red-light,1) (organic,1) (light,1) (emitting,1) (devices,1) 
+
+2269 1 3 2266 2267 2268 13 (improvement,1) (color,1) (purity,1) (electrical,1) (characteristics,1) (co-doping,1) (method,1) (flexible,1) (red-light,1) (organic,1) (light,1) (emitting,1) (devices,1) 
+
+2270 1 4 2271 2272 2273 2274 13 (selection,1) (character,1) (background,1) (colour,1) (combinations,1) (onscreen,1) (searching,1) (tasks,1) (eye,1) (movement,1) (subjective,1) (performance,1) (approach,1) 
+
+2271 1 4 2270 2272 2273 2274 13 (selection,1) (character,1) (background,1) (colour,1) (combinations,1) (onscreen,1) (searching,1) (tasks,1) (eye,1) (movement,1) (subjective,1) (performance,1) (approach,1) 
+
+2272 1 4 2270 2271 2273 2274 13 (selection,1) (character,1) (background,1) (colour,1) (combinations,1) (onscreen,1) (searching,1) (tasks,1) (eye,1) (movement,1) (subjective,1) (performance,1) (approach,1) 
+
+2273 1 4 2270 2271 2272 2274 13 (selection,1) (character,1) (background,1) (colour,1) (combinations,1) (onscreen,1) (searching,1) (tasks,1) (eye,1) (movement,1) (subjective,1) (performance,1) (approach,1) 
+
+2274 1 4 2270 2271 2272 2273 13 (selection,1) (character,1) (background,1) (colour,1) (combinations,1) (onscreen,1) (searching,1) (tasks,1) (eye,1) (movement,1) (subjective,1) (performance,1) (approach,1) 
+
+2275 1 4 2276 2277 2278 2279 9 (observation,1) (cnt-fed,1) (various,1) (vacuum,1) (levels,1) (calculation,1) (number,1) (electron-gas,1) (collisions,1) 
+
+2276 1 4 2275 2277 2278 2279 9 (observation,1) (cnt-fed,1) (various,1) (vacuum,1) (levels,1) (calculation,1) (number,1) (electron-gas,1) (collisions,1) 
+
+2277 1 4 2275 2276 2278 2279 9 (observation,1) (cnt-fed,1) (various,1) (vacuum,1) (levels,1) (calculation,1) (number,1) (electron-gas,1) (collisions,1) 
+
+2278 2 6 2275 2276 2277 2279 10071 10072 21 (observation,1) (cnt-fed,1) (various,1) (vacuum,1) (levels,1) (calculation,1) (number,1) (electron-gas,1) (collisions,1) (new,1) (multi-objective,1) (bi-level,1) (programming,1) (model,1) (energy,1) (locality,1) (aware,1) (multi-job,1) (scheduling,1) (cloud,1) (computing,1) 
+
+2279 1 4 2275 2276 2277 2278 9 (observation,1) (cnt-fed,1) (various,1) (vacuum,1) (levels,1) (calculation,1) (number,1) (electron-gas,1) (collisions,1) 
+
+10071 1 2 2278 10072 12 (new,1) (multi-objective,1) (bi-level,1) (programming,1) (model,1) (energy,1) (locality,1) (aware,1) (multi-job,1) (scheduling,1) (cloud,1) (computing,1) 
+
+10072 1 2 2278 10071 12 (new,1) (multi-objective,1) (bi-level,1) (programming,1) (model,1) (energy,1) (locality,1) (aware,1) (multi-job,1) (scheduling,1) (cloud,1) (computing,1) 
+
+2280 1 1 2281 12 (reversible,1) (data,1) (hiding,1) (algorithm,1) (based,1) (probabilistic,1) (dna-xor,1) (secret,1) (sharing,1) (scheme,1) (color,1) (images,1) 
+
+2281 1 1 2280 12 (reversible,1) (data,1) (hiding,1) (algorithm,1) (based,1) (probabilistic,1) (dna-xor,1) (secret,1) (sharing,1) (scheme,1) (color,1) (images,1) 
+
+2282 1 1 2283 8 (relationships,1) (automobile,1) (head-up,1) (display,1) (presentation,1) (images,1) (drivers,1) (kansei,1) 
+
+2283 1 1 2282 8 (relationships,1) (automobile,1) (head-up,1) (display,1) (presentation,1) (images,1) (drivers,1) (kansei,1) 
+
+2284 3 8 2285 2286 2287 2288 2289 2405 2406 2407 26 (medical,2) (device,2) (design,1) (context,1) (model,1) (user-device,1) (interaction,1) (consequences,1) (virtual,1) (reality,1) (induced,1) (symptoms,1) (effects,1) (vrise,1) (comparison,1) (head,1) (mounted,1) (display,1) (hmd,1) (desktop,2) (projection,1) (systems,1) (displays,1) (special,1) (issue,1) (editorial,1) 
+
+2285 1 5 2284 2286 2287 2288 2289 8 (medical,1) (device,1) (design,1) (context,1) (model,1) (user-device,1) (interaction,1) (consequences,1) 
+
+2286 1 5 2284 2285 2287 2288 2289 8 (medical,1) (device,1) (design,1) (context,1) (model,1) (user-device,1) (interaction,1) (consequences,1) 
+
+2287 1 5 2284 2285 2286 2288 2289 8 (medical,1) (device,1) (design,1) (context,1) (model,1) (user-device,1) (interaction,1) (consequences,1) 
+
+2288 1 5 2284 2285 2286 2287 2289 8 (medical,1) (device,1) (design,1) (context,1) (model,1) (user-device,1) (interaction,1) (consequences,1) 
+
+2289 1 5 2284 2285 2286 2287 2288 8 (medical,1) (device,1) (design,1) (context,1) (model,1) (user-device,1) (interaction,1) (consequences,1) 
+
+2405 1 3 2284 2406 2407 14 (virtual,1) (reality,1) (induced,1) (symptoms,1) (effects,1) (vrise,1) (comparison,1) (head,1) (mounted,1) (display,2) (hmd,1) (desktop,1) (projection,1) (systems,1) 
+
+2406 1 3 2284 2405 2407 14 (virtual,1) (reality,1) (induced,1) (symptoms,1) (effects,1) (vrise,1) (comparison,1) (head,1) (mounted,1) (display,2) (hmd,1) (desktop,1) (projection,1) (systems,1) 
+
+2407 1 3 2284 2405 2406 14 (virtual,1) (reality,1) (induced,1) (symptoms,1) (effects,1) (vrise,1) (comparison,1) (head,1) (mounted,1) (display,2) (hmd,1) (desktop,1) (projection,1) (systems,1) 
+
+2294 1 4 2295 2296 2297 2298 10 (illumination,1) (distribution,1) (preserved,1) (colour,1) (substitution,1) (algorithm,1) (based,1) (dichromatic,1) (reflection,1) (model,1) 
+
+2295 1 4 2294 2296 2297 2298 10 (illumination,1) (distribution,1) (preserved,1) (colour,1) (substitution,1) (algorithm,1) (based,1) (dichromatic,1) (reflection,1) (model,1) 
+
+2296 1 4 2294 2295 2297 2298 10 (illumination,1) (distribution,1) (preserved,1) (colour,1) (substitution,1) (algorithm,1) (based,1) (dichromatic,1) (reflection,1) (model,1) 
+
+2297 1 4 2294 2295 2296 2298 10 (illumination,1) (distribution,1) (preserved,1) (colour,1) (substitution,1) (algorithm,1) (based,1) (dichromatic,1) (reflection,1) (model,1) 
+
+2298 1 4 2294 2295 2296 2297 10 (illumination,1) (distribution,1) (preserved,1) (colour,1) (substitution,1) (algorithm,1) (based,1) (dichromatic,1) (reflection,1) (model,1) 
+
+2299 1 4 2300 2301 2302 2303 13 (low,1) (operating-voltage,1) (high,1) (power-efficiency,1) (oled,1) (employing,1) (moo,1) (sub,2) (doped,1) (cupc,1) (hole,1) (injection,1) (layer,1) 
+
+2300 1 4 2299 2301 2302 2303 13 (low,1) (operating-voltage,1) (high,1) (power-efficiency,1) (oled,1) (employing,1) (moo,1) (sub,2) (doped,1) (cupc,1) (hole,1) (injection,1) (layer,1) 
+
+2301 1 4 2299 2300 2302 2303 13 (low,1) (operating-voltage,1) (high,1) (power-efficiency,1) (oled,1) (employing,1) (moo,1) (sub,2) (doped,1) (cupc,1) (hole,1) (injection,1) (layer,1) 
+
+2302 1 4 2299 2300 2301 2303 13 (low,1) (operating-voltage,1) (high,1) (power-efficiency,1) (oled,1) (employing,1) (moo,1) (sub,2) (doped,1) (cupc,1) (hole,1) (injection,1) (layer,1) 
+
+2303 1 4 2299 2300 2301 2302 13 (low,1) (operating-voltage,1) (high,1) (power-efficiency,1) (oled,1) (employing,1) (moo,1) (sub,2) (doped,1) (cupc,1) (hole,1) (injection,1) (layer,1) 
+
+2304 1 1 2305 9 (fabrication,1) (characterization,1) (pb-free,1) (transparent,1) (dielectric,1) (layer,1) (plasma,1) (display,1) (panel,1) 
+
+2305 1 1 2304 9 (fabrication,1) (characterization,1) (pb-free,1) (transparent,1) (dielectric,1) (layer,1) (plasma,1) (display,1) (panel,1) 
+
+2306 1 0 7 (editorial,1) (special,1) (issue,1) (organic,1) (displays,2) (published,1) (volume,1) 
+
+2307 2 3 2308 19759 19760 9 (adaptive-hierarchical,1) (filtering,1) (approach,1) (noise,1) (removal,1) (location,1) (fingerprinting,1) (decorrelated,1) (space,1) 
+
+2308 1 1 2307 5 (adaptive-hierarchical,1) (filtering,1) (approach,1) (noise,1) (removal,1) 
+
+19759 1 2 2307 19760 4 (location,1) (fingerprinting,1) (decorrelated,1) (space,1) 
+
+19760 1 2 19759 2307 4 (location,1) (fingerprinting,1) (decorrelated,1) (space,1) 
+
+2309 1 2 2310 2311 12 (electrochromic,1) (devices,1) (based,1) (wide,1) (band-gap,1) (nanocrystalline,1) (semiconductors,1) (functionalized,1) (mononuclear,1) (charge,1) (transfer,1) (compounds,1) 
+
+2310 1 2 2309 2311 12 (electrochromic,1) (devices,1) (based,1) (wide,1) (band-gap,1) (nanocrystalline,1) (semiconductors,1) (functionalized,1) (mononuclear,1) (charge,1) (transfer,1) (compounds,1) 
+
+2311 1 2 2309 2310 12 (electrochromic,1) (devices,1) (based,1) (wide,1) (band-gap,1) (nanocrystalline,1) (semiconductors,1) (functionalized,1) (mononuclear,1) (charge,1) (transfer,1) (compounds,1) 
+
+2312 3 7 2313 2314 3263 3264 3265 3317 3318 25 (visual,1) (fatigue,1) (caused,1) (stereoscopic,1) (images,1) (search,1) (requirement,1) (prevent,1) (review,1) (time-frequency,1) (structure,1) (image,1) (motion,1) (vectors,1) (cybersickness,1) (intervals,1) (determined,1) (biosignals,1) (vergence,1) (eye,1) (movements,1) (signifying,1) (depth,1) (perception,1) (movies,1) 
+
+2313 2 5 2312 2314 3317 3263 3318 16 (visual,1) (fatigue,1) (caused,1) (stereoscopic,1) (images,1) (search,1) (requirement,1) (prevent,1) (review,1) (vergence,1) (eye,1) (movements,1) (signifying,1) (depth,1) (perception,1) (movies,1) 
+
+2314 1 2 2312 2313 9 (visual,1) (fatigue,1) (caused,1) (stereoscopic,1) (images,1) (search,1) (requirement,1) (prevent,1) (review,1) 
+
+3263 2 6 3264 2312 3265 2313 3317 3318 16 (time-frequency,1) (structure,1) (image,1) (motion,1) (vectors,1) (cybersickness,1) (intervals,1) (determined,1) (biosignals,1) (vergence,1) (eye,1) (movements,1) (signifying,1) (depth,1) (perception,1) (movies,1) 
+
+3264 1 3 3263 2312 3265 9 (time-frequency,1) (structure,1) (image,1) (motion,1) (vectors,1) (cybersickness,1) (intervals,1) (determined,1) (biosignals,1) 
+
+3265 1 3 3263 3264 2312 9 (time-frequency,1) (structure,1) (image,1) (motion,1) (vectors,1) (cybersickness,1) (intervals,1) (determined,1) (biosignals,1) 
+
+3317 1 4 2313 3263 2312 3318 7 (vergence,1) (eye,1) (movements,1) (signifying,1) (depth,1) (perception,1) (movies,1) 
+
+3318 1 4 2313 3317 3263 2312 7 (vergence,1) (eye,1) (movements,1) (signifying,1) (depth,1) (perception,1) (movies,1) 
+
+2315 1 1 2316 5 (modelling,1) (vcr-like,1) (video,1) (content,1) (navigation,1) 
+
+2316 2 2 2315 3135 11 (modelling,1) (vcr-like,1) (video,2) (content,1) (navigation,1) (analysing,1) (user,1) (physiological,1) (responses,1) (affective,1) (summarisation,1) 
+
+3135 1 1 2316 7 (analysing,1) (user,1) (physiological,1) (responses,1) (affective,1) (video,1) (summarisation,1) 
+
+2317 1 0 10 (year,1) (retrospective,1) (review,1) (visual,1) (complaints,1) (illusions,1) (associated,1) (monocular,1) (helmet-mounted,1) (display,1) 
+
+2318 1 2 2319 2320 6 (intra-visual,1) (conflict,1) (visually,1) (induced,1) (motion,1) (sickness,1) 
+
+2319 3 7 2318 2320 2701 2702 2703 3027 3028 19 (intra-visual,1) (conflict,1) (visually,2) (induced,2) (motion,2) (sickness,2) (genre-dependent,1) (effects,1) (film,2) (presence,2) (protagonist,1) (perception,1) (brightness,1) (contrast,1) (affect,1) (passively-flown,1) (fixed-base,1) (flight,1) (simulator,1) 
+
+2320 1 2 2318 2319 6 (intra-visual,1) (conflict,1) (visually,1) (induced,1) (motion,1) (sickness,1) 
+
+2701 1 3 2702 2703 2319 8 (genre-dependent,1) (effects,1) (film,1) (presence,1) (motion,1) (sickness,1) (protagonist,1) (perception,1) 
+
+2702 1 3 2701 2703 2319 8 (genre-dependent,1) (effects,1) (film,1) (presence,1) (motion,1) (sickness,1) (protagonist,1) (perception,1) 
+
+2703 1 3 2701 2702 2319 8 (genre-dependent,1) (effects,1) (film,1) (presence,1) (motion,1) (sickness,1) (protagonist,1) (perception,1) 
+
+3027 1 2 3028 2319 11 (brightness,1) (contrast,1) (affect,1) (visually,1) (induced,1) (motion,1) (sickness,1) (passively-flown,1) (fixed-base,1) (flight,1) (simulator,1) 
+
+3028 1 2 3027 2319 11 (brightness,1) (contrast,1) (affect,1) (visually,1) (induced,1) (motion,1) (sickness,1) (passively-flown,1) (fixed-base,1) (flight,1) (simulator,1) 
+
+2321 1 4 2322 2323 2324 2325 8 (highly,1) (efficient,1) (phosphorescent,1) (polymer,1) (oleds,1) (fabricated,1) (screen,1) (printing,1) 
+
+2322 1 4 2321 2323 2324 2325 8 (highly,1) (efficient,1) (phosphorescent,1) (polymer,1) (oleds,1) (fabricated,1) (screen,1) (printing,1) 
+
+2323 1 4 2321 2322 2324 2325 8 (highly,1) (efficient,1) (phosphorescent,1) (polymer,1) (oleds,1) (fabricated,1) (screen,1) (printing,1) 
+
+2324 1 4 2321 2322 2323 2325 8 (highly,1) (efficient,1) (phosphorescent,1) (polymer,1) (oleds,1) (fabricated,1) (screen,1) (printing,1) 
+
+2325 1 4 2321 2322 2323 2324 8 (highly,1) (efficient,1) (phosphorescent,1) (polymer,1) (oleds,1) (fabricated,1) (screen,1) (printing,1) 
+
+2326 1 5 2327 2328 2329 2330 2331 6 (effect,1) (multilayer,1) (quantum,1) (structure,1) (characteristics,1) (oleds,1) 
+
+2327 1 5 2326 2328 2329 2330 2331 6 (effect,1) (multilayer,1) (quantum,1) (structure,1) (characteristics,1) (oleds,1) 
+
+2328 1 5 2326 2327 2329 2330 2331 6 (effect,1) (multilayer,1) (quantum,1) (structure,1) (characteristics,1) (oleds,1) 
+
+2329 1 5 2326 2327 2328 2330 2331 6 (effect,1) (multilayer,1) (quantum,1) (structure,1) (characteristics,1) (oleds,1) 
+
+2330 1 5 2326 2327 2328 2329 2331 6 (effect,1) (multilayer,1) (quantum,1) (structure,1) (characteristics,1) (oleds,1) 
+
+2331 1 5 2326 2327 2328 2329 2330 6 (effect,1) (multilayer,1) (quantum,1) (structure,1) (characteristics,1) (oleds,1) 
+
+2339 1 2 2340 2341 12 (survey,1) (motion,1) (sickness-like,1) (symptoms,1) (provoked,1) (viewing,1) (video,1) (movie,1) (junior,1) (high,1) (school,1) (class,1) 
+

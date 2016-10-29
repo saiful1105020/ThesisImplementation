@@ -1,0 +1,804 @@
+< Author_ID  Paper_Count  Adjacent_Count  <Adjacent_List>  Keyword_Count  <(Keyword,Score)> >
+
+14695 1 3 14694 14696 14697 6 (technological,1) (development,1) (brazilian,1) (telecommunications,1) (past,1) (decades,1) 
+
+14696 1 3 14694 14695 14697 6 (technological,1) (development,1) (brazilian,1) (telecommunications,1) (past,1) (decades,1) 
+
+14697 1 3 14694 14695 14696 6 (technological,1) (development,1) (brazilian,1) (telecommunications,1) (past,1) (decades,1) 
+
+14698 1 1 14699 7 (differences,1) (lte,1) (service,1) (customers,1) (business,1) (policy,1) (implications,1) 
+
+14699 1 1 14698 7 (differences,1) (lte,1) (service,1) (customers,1) (business,1) (policy,1) (implications,1) 
+
+14702 1 0 8 (use,1) (web,1) (style,1) (technologies,1) (chinese,1) (civil,1) (society,1) (organizations,1) 
+
+14703 1 0 3 (mobile,1) (drm--usability,1) (door,1) 
+
+14709 1 0 6 (resistance,1) (channels,1) (television,1) (distribution,1) (multiplatform,1) (era,1) 
+
+14712 1 2 14713 14714 10 (does,1) (proactive,1) (personality,1) (mitigate,1) (adverse,1) (effect,1) (technostress,1) (productivity,1) (mobile,1) (environment,1) 
+
+14713 2 3 14712 14714 14879 18 (does,1) (proactive,1) (personality,1) (mitigate,1) (adverse,1) (effect,1) (technostress,1) (productivity,1) (mobile,1) (environment,1) (perceived,1) (utility,1) (online,1) (auctions,1) (joint-effect,1) (vendor,1) (product,1) (pricing,1) 
+
+14714 1 2 14712 14713 10 (does,1) (proactive,1) (personality,1) (mitigate,1) (adverse,1) (effect,1) (technostress,1) (productivity,1) (mobile,1) (environment,1) 
+
+14879 1 1 14713 8 (perceived,1) (utility,1) (online,1) (auctions,1) (joint-effect,1) (vendor,1) (product,1) (pricing,1) 
+
+14715 1 2 14716 14717 6 (effect,1) (online,1) (interruptions,1) (quality,1) (cognitive,1) (performance,1) 
+
+14716 1 2 14715 14717 6 (effect,1) (online,1) (interruptions,1) (quality,1) (cognitive,1) (performance,1) 
+
+14717 1 2 14715 14716 6 (effect,1) (online,1) (interruptions,1) (quality,1) (cognitive,1) (performance,1) 
+
+14719 1 0 10 (connecting,1) (business,1) (models,1) (service,1) (platform,1) (designs,1) (exploiting,1) (potential,1) (scenario,1) (modeling,1) 
+
+14726 1 0 12 (emotional,1) (criticism,1) (public,1) (engagement,1) (weibo,1) (users,1) (discuss,1) (peking,1) (university,1) (statues,1) (wear,1) (face-masks,1) 
+
+14728 1 2 14729 14730 8 (young,1) (school,1) (children,1) (use,1) (digital,1) (devices,1) (parental,1) (rules,1) 
+
+14729 1 2 14728 14730 8 (young,1) (school,1) (children,1) (use,1) (digital,1) (devices,1) (parental,1) (rules,1) 
+
+14730 1 2 14728 14729 8 (young,1) (school,1) (children,1) (use,1) (digital,1) (devices,1) (parental,1) (rules,1) 
+
+14731 1 0 8 (evolutionary,1) (dynamics,1) (media,1) (convergence,1) (early,1) (mobile,1) (web,1) (standardisation,1) 
+
+14732 1 0 9 (post-industrialism,1) (silicon,1) (valley,1) (models,1) (industrial,1) (governance,1) (australian,1) (public,1) (policy,1) 
+
+14733 1 2 14734 14735 11 (understanding,1) (emotions,1) (experienced,1) (using,1) (mobile,2) (phone,1) (public,1) (social,1) (usability,1) (cellular,1) (telephones,1) 
+
+14734 1 2 14733 14735 11 (understanding,1) (emotions,1) (experienced,1) (using,1) (mobile,2) (phone,1) (public,1) (social,1) (usability,1) (cellular,1) (telephones,1) 
+
+14735 1 2 14733 14734 11 (understanding,1) (emotions,1) (experienced,1) (using,1) (mobile,2) (phone,1) (public,1) (social,1) (usability,1) (cellular,1) (telephones,1) 
+
+14736 1 0 8 (technological,1) (innovations,1) (mobile,1) (phone,1) (diffusion,1) (lessons,1) (learned,1) (japan,1) 
+
+14737 2 2 15892 15893 12 (economic,1) (perspective,1) (software,1) (licenses--open,1) (source,1) (maintainers,1) (user-developers,1) (implementing,1) (lean,1) (surgery,1) (lessons,1) (implications,1) 
+
+15892 2 2 14737 15893 12 (implementing,1) (lean,1) (surgery,1) (lessons,1) (implications,1) (developing,1) (organisational,1) (capability,1) (dimensions,1) (situations,1) (managerial,1) (challenges,1) 
+
+15893 1 2 14737 15892 5 (implementing,1) (lean,1) (surgery,1) (lessons,1) (implications,1) 
+
+14738 1 1 14739 8 (reducing,1) (asymmetric,1) (information,1) (insurance,1) (markets,1) (cars,1) (black,1) (boxes,1) 
+
+14739 1 1 14738 8 (reducing,1) (asymmetric,1) (information,1) (insurance,1) (markets,1) (cars,1) (black,1) (boxes,1) 
+
+14742 1 3 14743 14744 14745 9 (creating,1) (virtual,1) (community,1) (enhance,1) (member,1) (services,1) (credit,1) (unions,1) (e-commerce,1) 
+
+14743 1 3 14742 14744 14745 9 (creating,1) (virtual,1) (community,1) (enhance,1) (member,1) (services,1) (credit,1) (unions,1) (e-commerce,1) 
+
+14744 1 3 14742 14743 14745 9 (creating,1) (virtual,1) (community,1) (enhance,1) (member,1) (services,1) (credit,1) (unions,1) (e-commerce,1) 
+
+14745 1 3 14742 14743 14744 9 (creating,1) (virtual,1) (community,1) (enhance,1) (member,1) (services,1) (credit,1) (unions,1) (e-commerce,1) 
+
+14748 1 1 14749 6 (generic,1) (architecture,1) (data,1) (internet,1) (telephony,1) (nigeria,1) 
+
+14749 1 1 14748 6 (generic,1) (architecture,1) (data,1) (internet,1) (telephony,1) (nigeria,1) 
+
+14751 1 1 14752 6 (consumer,1) (preferences,1) (improvements,1) (mobile,1) (telecommunication,1) (services,1) 
+
+14752 1 1 14751 6 (consumer,1) (preferences,1) (improvements,1) (mobile,1) (telecommunication,1) (services,1) 
+
+14756 1 1 14757 11 (integrating,1) (social,1) (networks,1) (lobbying,1) (campaign,1) (case,1) (study,1) (intermarch,1) (eacute,1) (supermarket,1) (chain,1) 
+
+14757 1 1 14756 11 (integrating,1) (social,1) (networks,1) (lobbying,1) (campaign,1) (case,1) (study,1) (intermarch,1) (eacute,1) (supermarket,1) (chain,1) 
+
+14761 1 0 10 (community,1) (media,1) (flavour,1) (decade,1) (worldwide,1) (keynote,1) (address,1) (amarc,1) (europe,1) (conference,1) 
+
+14764 1 1 14765 5 (acceptance,1) (mobile,1) (banking,1) (framework,1) (pakistan,1) 
+
+14765 1 1 14764 5 (acceptance,1) (mobile,1) (banking,1) (framework,1) (pakistan,1) 
+
+14768 1 0 3 (internet,1) (telephony,1) (india,1) 
+
+14769 1 1 14770 7 (cultural,1) (contradictions,1) (anytime,1) (economy,1) (reframing,1) (communication,1) (technology,1) 
+
+14770 1 1 14769 7 (cultural,1) (contradictions,1) (anytime,1) (economy,1) (reframing,1) (communication,1) (technology,1) 
+
+14771 1 0 9 (edge,1) (amarc,1) (europe,1) (movement,1) (entrepreneurs,1) (grassroots,1) (notes,1) (bucharest,1) (meeting,1) 
+
+14774 1 3 14775 14776 14777 6 (platform,1) (proliferation,1) (implications,1) (domestic,1) (content,1) (policies,1) 
+
+14775 2 6 14774 14776 14777 15878 15879 15880 11 (platform,1) (proliferation,1) (implications,1) (domestic,1) (content,1) (policies,1) (indicators,1) (support,1) (innovation,1) (cluster,1) (policy,1) 
+
+14776 1 3 14774 14775 14777 6 (platform,1) (proliferation,1) (implications,1) (domestic,1) (content,1) (policies,1) 
+
+14777 1 3 14774 14775 14776 6 (platform,1) (proliferation,1) (implications,1) (domestic,1) (content,1) (policies,1) 
+
+15878 1 3 15879 14775 15880 5 (indicators,1) (support,1) (innovation,1) (cluster,1) (policy,1) 
+
+15879 1 3 15878 14775 15880 5 (indicators,1) (support,1) (innovation,1) (cluster,1) (policy,1) 
+
+15880 1 3 15878 15879 14775 5 (indicators,1) (support,1) (innovation,1) (cluster,1) (policy,1) 
+
+14778 1 0 10 (participation,1) (radio,1) (convergence,1) (corporate,1) (logic,1) (audience,1) (input,1) (new,1) (media,1) (zambia,1) 
+
+14780 1 3 14781 14782 14783 9 (facebook,1) (virtual,1) (classroom,1) (social,1) (networking,1) (learning,1) (teaching,1) (serbian,1) (students,1) 
+
+14781 1 3 14780 14782 14783 9 (facebook,1) (virtual,1) (classroom,1) (social,1) (networking,1) (learning,1) (teaching,1) (serbian,1) (students,1) 
+
+14782 1 3 14780 14781 14783 9 (facebook,1) (virtual,1) (classroom,1) (social,1) (networking,1) (learning,1) (teaching,1) (serbian,1) (students,1) 
+
+14783 1 3 14780 14781 14782 9 (facebook,1) (virtual,1) (classroom,1) (social,1) (networking,1) (learning,1) (teaching,1) (serbian,1) (students,1) 
+
+14793 1 1 14794 5 (foom,1) (diagrammatic,1) (illustration,1) (object-z,1) (specifications,1) 
+
+14794 1 1 14793 5 (foom,1) (diagrammatic,1) (illustration,1) (object-z,1) (specifications,1) 
+
+14795 1 1 14796 5 (reliable,1) (flexible,1) (type,1) (object-oriented,1) (programming,1) 
+
+14796 1 1 14795 5 (reliable,1) (flexible,1) (type,1) (object-oriented,1) (programming,1) 
+
+14797 1 2 14798 14799 5 (object-oriented,1) (denotational,1) (semantics,1) (programming,1) (language,1) 
+
+14798 2 3 14797 14799 14817 10 (object-oriented,1) (denotational,1) (semantics,1) (programming,1) (language,1) (defining,1) (composition,1) (operators,1) (object,1) (interaction,1) 
+
+14799 1 2 14797 14798 5 (object-oriented,1) (denotational,1) (semantics,1) (programming,1) (language,1) 
+
+14817 1 1 14798 5 (defining,1) (composition,1) (operators,1) (object,1) (interaction,1) 
+
+14800 2 2 14803 14804 15 (task,1) (scripts,1) (use,1) (cases,1) (scenarios,1) (object,1) (oriented,1) (analysis,2) (coupling,1) (cohesion,1) (valid,1) (metrics,1) (suite,1) (object-oriented,1) (design,1) 
+
+14803 1 2 14804 14800 8 (coupling,1) (cohesion,1) (valid,1) (metrics,1) (suite,1) (object-oriented,1) (analysis,1) (design,1) 
+
+14804 1 2 14803 14800 8 (coupling,1) (cohesion,1) (valid,1) (metrics,1) (suite,1) (object-oriented,1) (analysis,1) (design,1) 
+
+14801 1 1 14802 7 (perceptual,1) (complexity,1) (object,1) (oriented,1) (systems,1) (student,1) (view,1) 
+
+14802 1 1 14801 7 (perceptual,1) (complexity,1) (object,1) (oriented,1) (systems,1) (student,1) (view,1) 
+
+14805 1 0 3 (abstracting,1) (object,1) (state,1) 
+
+14806 1 1 14807 9 (encapsulation,1) (composition,1) (orthogonal,1) (operators,1) (mixins,1) (solution,1) (multiple,1) (inheritance,1) (problems,1) 
+
+14807 1 1 14806 9 (encapsulation,1) (composition,1) (orthogonal,1) (operators,1) (mixins,1) (solution,1) (multiple,1) (inheritance,1) (problems,1) 
+
+14808 1 2 14809 14810 5 (objvprolog-d,1) (distributed,1) (object-oriented,1) (programming,1) (logic,1) 
+
+14809 1 2 14808 14810 5 (objvprolog-d,1) (distributed,1) (object-oriented,1) (programming,1) (logic,1) 
+
+14810 1 2 14808 14809 5 (objvprolog-d,1) (distributed,1) (object-oriented,1) (programming,1) (logic,1) 
+
+14811 1 0 4 (implementation,1) (telos,1) (common,1) (lisp,1) 
+
+14812 1 2 14813 14814 7 (sympal,1) (software,1) (environment,1) (implicit,1) (concurrent,1) (object-oriented,1) (programming,1) 
+
+14813 1 2 14812 14814 7 (sympal,1) (software,1) (environment,1) (implicit,1) (concurrent,1) (object-oriented,1) (programming,1) 
+
+14814 1 2 14812 14813 7 (sympal,1) (software,1) (environment,1) (implicit,1) (concurrent,1) (object-oriented,1) (programming,1) 
+
+14815 1 1 14816 6 (use,1) (static,1) (typing,1) (support,1) (operations,1) (frameworks,1) 
+
+14816 2 13 14815 19262 19263 19264 19265 19266 19267 19268 19269 19270 19271 19272 19273 12 (use,1) (static,1) (typing,1) (support,1) (operations,1) (frameworks,1) (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19262 1 12 19263 19264 19265 19266 19267 14816 19268 19269 19270 19271 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19263 1 12 19262 19264 19265 19266 19267 14816 19268 19269 19270 19271 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19264 1 12 19262 19263 19265 19266 19267 14816 19268 19269 19270 19271 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19265 1 12 19262 19263 19264 19266 19267 14816 19268 19269 19270 19271 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19266 1 12 19262 19263 19264 19265 19267 14816 19268 19269 19270 19271 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19267 1 12 19262 19263 19264 19265 19266 14816 19268 19269 19270 19271 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19268 1 12 19262 19263 19264 19265 19266 19267 14816 19269 19270 19271 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19269 1 12 19262 19263 19264 19265 19266 19267 14816 19268 19270 19271 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19270 1 12 19262 19263 19264 19265 19266 19267 14816 19268 19269 19271 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19271 1 12 19262 19263 19264 19265 19266 19267 14816 19268 19269 19270 19272 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19272 1 12 19262 19263 19264 19265 19266 19267 14816 19268 19269 19270 19271 19273 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+19273 1 12 19262 19263 19264 19265 19266 19267 14816 19268 19269 19270 19271 19272 6 (electronic,1) (things,1) (work,1) (articles,1) (early,1) (prototypes,1) 
+
+14818 1 0 6 (e-business,1) (ethnic,2) (minority,1) (businesses,1) (case,1) (entrepreneurs,1) 
+
+14819 1 4 14820 14821 14822 14823 8 (quantifying,1) (factors,1) (influencing,1) (adoption,1) (internet,1) (banking,1) (services,1) (greece,1) 
+
+14820 1 4 14819 14821 14822 14823 8 (quantifying,1) (factors,1) (influencing,1) (adoption,1) (internet,1) (banking,1) (services,1) (greece,1) 
+
+14821 1 4 14819 14820 14822 14823 8 (quantifying,1) (factors,1) (influencing,1) (adoption,1) (internet,1) (banking,1) (services,1) (greece,1) 
+
+14822 1 4 14819 14820 14821 14823 8 (quantifying,1) (factors,1) (influencing,1) (adoption,1) (internet,1) (banking,1) (services,1) (greece,1) 
+
+14823 1 4 14819 14820 14821 14822 8 (quantifying,1) (factors,1) (influencing,1) (adoption,1) (internet,1) (banking,1) (services,1) (greece,1) 
+
+14824 2 1 14825 12 (innovation,1) (learning,2) (innovative,1) (tools,1) (techniques,1) (qualitative,1) (study,1) (adoption,1) (bring,1) (device,1) (byod,1) (practice,1) 
+
+14825 1 1 14824 5 (innovation,1) (learning,2) (innovative,1) (tools,1) (techniques,1) 
+
+14826 1 1 14827 12 (ict,1) (enabled,1) (conceptual,1) (framework,1) (determining,1) (epidemic,1) (susceptibility,1) (acute,1) (type,1) (response,1) (exemplar,1) (india,1) 
+
+14827 1 1 14826 12 (ict,1) (enabled,1) (conceptual,1) (framework,1) (determining,1) (epidemic,1) (susceptibility,1) (acute,1) (type,1) (response,1) (exemplar,1) (india,1) 
+
+14828 3 6 14829 14830 14888 14889 14890 14891 18 (costs,1) (e-learning,3) (support,2) (investigation,1) (projects,1) (examining,1) (diffusion,1) (sustainability,2) (strategies,1) (weblog,1) (data,1) (practice,1) (educational,1) (institution,1) (organizational,1) (learning,1) (attributes,1) (capabilities,1) 
+
+14829 1 2 14828 14830 5 (costs,1) (e-learning,1) (support,1) (investigation,1) (projects,1) 
+
+14830 2 4 14828 14829 14888 14889 11 (costs,1) (e-learning,2) (support,1) (investigation,1) (projects,1) (examining,1) (diffusion,1) (sustainability,1) (strategies,1) (weblog,1) (data,1) 
+
+14888 1 3 14828 14889 14830 7 (examining,1) (diffusion,1) (sustainability,1) (e-learning,1) (strategies,1) (weblog,1) (data,1) 
+
+14889 1 3 14828 14888 14830 7 (examining,1) (diffusion,1) (sustainability,1) (e-learning,1) (strategies,1) (weblog,1) (data,1) 
+
+14890 1 2 14828 14891 9 (diffusion,1) (e-learning,1) (practice,1) (educational,1) (institution,1) (organizational,1) (learning,1) (attributes,1) (capabilities,1) 
+
+14891 1 2 14890 14828 9 (diffusion,1) (e-learning,1) (practice,1) (educational,1) (institution,1) (organizational,1) (learning,1) (attributes,1) (capabilities,1) 
+
+14831 1 2 14832 14833 9 (examination,1) (user,1) (habits,1) (google,1) (analytic,1) (data,1) (academic,1) (education,1) (platforms,1) 
+
+14832 1 2 14831 14833 9 (examination,1) (user,1) (habits,1) (google,1) (analytic,1) (data,1) (academic,1) (education,1) (platforms,1) 
+
+14833 1 2 14831 14832 9 (examination,1) (user,1) (habits,1) (google,1) (analytic,1) (data,1) (academic,1) (education,1) (platforms,1) 
+
+14834 1 1 14835 8 (factors,1) (affecting,1) (e-commerce,1) (adoption,1) (hotels,1) (comparative,1) (case,1) (study,1) 
+
+14835 1 1 14834 8 (factors,1) (affecting,1) (e-commerce,1) (adoption,1) (hotels,1) (comparative,1) (case,1) (study,1) 
+
+14838 1 0 9 (requirements,1) (properties,1) (qualified,1) (electronic,1) (delivery,1) (systems,1) (egovernment,1) (austrian,1) (experience,1) 
+
+14841 1 1 14842 12 (study,1) (role,1) (open,1) (education,2) (faculty,1) (leader,1) (distance,1) (learning,1) (turkey,1) (higher,1) (educational-social,1) (dynamics,1) 
+
+14842 1 1 14841 12 (study,1) (role,1) (open,1) (education,2) (faculty,1) (leader,1) (distance,1) (learning,1) (turkey,1) (higher,1) (educational-social,1) (dynamics,1) 
+
+14843 1 2 14844 14845 6 (e-assessment,1) (driver,1) (cultural,1) (change,1) (network-centric,1) (learning,1) 
+
+14844 1 2 14843 14845 6 (e-assessment,1) (driver,1) (cultural,1) (change,1) (network-centric,1) (learning,1) 
+
+14845 1 2 14843 14844 6 (e-assessment,1) (driver,1) (cultural,1) (change,1) (network-centric,1) (learning,1) 
+
+14846 1 0 10 (factors,1) (influencing,1) (e-commerce,1) (growth,1) (comparative,1) (study,1) (central,1) (asian,1) (transition,1) (economies,1) 
+
+14847 1 2 14848 14849 15 (measuring,1) (lecturers,1) (perception,1) (transition,1) (e-learning,1) (systems,1) (digital,1) (divide,1) (case,1) (study,1) (school,1) (business,1) (administration,1) (istanbul,1) (university,1) 
+
+14848 1 2 14847 14849 15 (measuring,1) (lecturers,1) (perception,1) (transition,1) (e-learning,1) (systems,1) (digital,1) (divide,1) (case,1) (study,1) (school,1) (business,1) (administration,1) (istanbul,1) (university,1) 
+
+14849 2 3 14847 14848 15018 20 (measuring,1) (lecturers,1) (perception,1) (transition,2) (e-learning,2) (systems,1) (digital,1) (divide,1) (case,1) (study,1) (school,1) (business,1) (administration,1) (istanbul,1) (university,1) (roadmap,1) (implement,1) (rapid,1) (proposal,1) (model,1) 
+
+15018 1 1 14849 7 (roadmap,1) (implement,1) (rapid,1) (transition,1) (proposal,1) (e-learning,1) (model,1) 
+
+14850 1 1 14851 8 (model,1) (leadership,1) (behavior,1) (massively,1) (multiplayer,1) (online,1) (role-playing,1) (games,1) 
+
+14851 1 1 14850 8 (model,1) (leadership,1) (behavior,1) (massively,1) (multiplayer,1) (online,1) (role-playing,1) (games,1) 
+
+14852 1 1 14853 5 (measuring,1) (acceptance,1) (internet,1) (technology,1) (consumers,1) 
+
+14853 1 1 14852 5 (measuring,1) (acceptance,1) (internet,1) (technology,1) (consumers,1) 
+
+14854 1 4 14855 14856 14857 14858 11 (people,1) (continue,1) (play,1) (social,2) (network,1) (game,1) (sng,1) (empirical,1) (study,1) (emotional,1) (perspectives,1) 
+
+14855 3 8 14854 14856 14857 14858 14942 15222 15223 15224 29 (people,1) (continue,1) (play,1) (social,2) (network,1) (game,1) (sng,1) (empirical,1) (study,1) (emotional,1) (perspectives,1) (determinants,1) (adopting,1) (intelligent,1) (broadband,1) (services,1) (residential,1) (community,1) (exploring,1) (effective,1) (model,1) (new,1) (product,1) (development,1) (medical,1) (devices,1) (knowledge,1) (cluster,1) (approach,1) 
+
+14856 1 4 14854 14855 14857 14858 11 (people,1) (continue,1) (play,1) (social,2) (network,1) (game,1) (sng,1) (empirical,1) (study,1) (emotional,1) (perspectives,1) 
+
+14857 1 4 14854 14855 14856 14858 11 (people,1) (continue,1) (play,1) (social,2) (network,1) (game,1) (sng,1) (empirical,1) (study,1) (emotional,1) (perspectives,1) 
+
+14858 1 4 14854 14855 14856 14857 11 (people,1) (continue,1) (play,1) (social,2) (network,1) (game,1) (sng,1) (empirical,1) (study,1) (emotional,1) (perspectives,1) 
+
+14942 1 1 14855 7 (determinants,1) (adopting,1) (intelligent,1) (broadband,1) (services,1) (residential,1) (community,1) 
+
+15222 1 3 15223 14855 15224 11 (exploring,1) (effective,1) (model,1) (new,1) (product,1) (development,1) (medical,1) (devices,1) (knowledge,1) (cluster,1) (approach,1) 
+
+15223 1 3 15222 14855 15224 11 (exploring,1) (effective,1) (model,1) (new,1) (product,1) (development,1) (medical,1) (devices,1) (knowledge,1) (cluster,1) (approach,1) 
+
+15224 2 4 15222 15223 14855 17009 22 (exploring,1) (effective,1) (model,1) (new,1) (product,1) (development,1) (medical,1) (devices,1) (knowledge,1) (cluster,1) (approach,1) (building,1) (global,1) (products,1) (competing,1) (innovation,2) (role,1) (chinese,1) (university,1) (spin-outs,1) (required,1) (capabilities,1) 
+
+17009 1 1 15224 11 (building,1) (global,1) (products,1) (competing,1) (innovation,2) (role,1) (chinese,1) (university,1) (spin-outs,1) (required,1) (capabilities,1) 
+
+14862 1 2 14863 14864 9 (teachers,2) (perceptions,1) (interactive,1) (boards,1) (teaching,1) (learning,1) (case,1) (arab,1) (israel,1) 
+
+14863 2 2 14862 14864 13 (teachers,2) (perceptions,1) (interactive,1) (boards,1) (teaching,1) (learning,2) (case,1) (arab,1) (israel,1) (wiki,1) (interaction,1) (tracks,1) (geometry,1) 
+
+14864 1 2 14862 14863 9 (teachers,2) (perceptions,1) (interactive,1) (boards,1) (teaching,1) (learning,1) (case,1) (arab,1) (israel,1) 
+
+14865 1 4 14866 14867 14868 14869 11 (electronic,1) (voting,1) (means,1) (digital,1) (terrestrial,1) (television,1) (infrastructure,1) (security,1) (issues,1) (real,1) (test-bed,1) 
+
+14866 1 4 14865 14867 14868 14869 11 (electronic,1) (voting,1) (means,1) (digital,1) (terrestrial,1) (television,1) (infrastructure,1) (security,1) (issues,1) (real,1) (test-bed,1) 
+
+14867 1 4 14865 14866 14868 14869 11 (electronic,1) (voting,1) (means,1) (digital,1) (terrestrial,1) (television,1) (infrastructure,1) (security,1) (issues,1) (real,1) (test-bed,1) 
+
+14868 1 4 14865 14866 14867 14869 11 (electronic,1) (voting,1) (means,1) (digital,1) (terrestrial,1) (television,1) (infrastructure,1) (security,1) (issues,1) (real,1) (test-bed,1) 
+
+14869 1 4 14865 14866 14867 14868 11 (electronic,1) (voting,1) (means,1) (digital,1) (terrestrial,1) (television,1) (infrastructure,1) (security,1) (issues,1) (real,1) (test-bed,1) 
+
+14870 1 1 14871 8 (adoption,1) (web-based,1) (supply,1) (chain,1) (management,1) (applications,1) (institutional,1) (perspective,1) 
+
+14871 1 1 14870 8 (adoption,1) (web-based,1) (supply,1) (chain,1) (management,1) (applications,1) (institutional,1) (perspective,1) 
+
+14872 1 0 8 (city,1) (bits,1) (e-topia,1) (space,1) (citizenship,1) (community,1) (global,1) (strategy,1) 
+
+14876 1 2 14877 14878 17 (household,1) (internet,1) (adoption,1) (model,2) (based,1) (integration,1) (technology,1) (acceptance,1) (theory,2) (planned,1) (behavior,1) (uses,1) (gratifications,1) (empirical,1) (study,1) (iranian,1) (households,1) 
+
+14877 1 2 14876 14878 17 (household,1) (internet,1) (adoption,1) (model,2) (based,1) (integration,1) (technology,1) (acceptance,1) (theory,2) (planned,1) (behavior,1) (uses,1) (gratifications,1) (empirical,1) (study,1) (iranian,1) (households,1) 
+
+14878 2 5 14876 14877 14938 14939 14940 27 (household,1) (internet,1) (adoption,1) (model,2) (based,1) (integration,1) (technology,1) (acceptance,2) (theory,1) (planned,2) (behavior,1) (uses,1) (gratifications,1) (empirical,1) (study,1) (iranian,1) (households,1) (role,1) (subjective,1) (norms,1) (perceived,1) (behavioral,1) (control,1) (tax,1) (payers,1) (e-tax,1) (payment,1) 
+
+14938 1 3 14878 14939 14940 11 (role,1) (subjective,1) (norms,1) (perceived,1) (behavioral,1) (control,1) (tax,1) (payers,1) (acceptance,1) (e-tax,1) (payment,1) 
+
+14939 1 3 14878 14938 14940 11 (role,1) (subjective,1) (norms,1) (perceived,1) (behavioral,1) (control,1) (tax,1) (payers,1) (acceptance,1) (e-tax,1) (payment,1) 
+
+14940 1 3 14878 14938 14939 11 (role,1) (subjective,1) (norms,1) (perceived,1) (behavioral,1) (control,1) (tax,1) (payers,1) (acceptance,1) (e-tax,1) (payment,1) 
+
+14880 1 0 9 (exploration,1) (e-learning,1) (methods,1) (factors,1) (hindering,1) (usage,1) (empirical,1) (case,1) (investigation,1) 
+
+14882 1 0 4 (internet,1) (marketing,1) (amp,1) (smes,1) 
+
+14883 8 9 14884 14885 14892 14893 14894 14895 14932 14963 14976 66 (investigation,1) (student,1) (learning,3) (assistance,2) (online,3) (academic,2) (help-seeking,1) (mobile,1) (application,1) (quasi-experimental,1) (approach,1) (evaluating,2) (development,3) (firms,2) (comparing,1) (views,1) (advertisers,1) (advertising,1) (agencies,1) (likes,1) (meet,1) (blind,1) (dating,1) (internet,1) (developing,1) (hierarchy,1) (model,1) (selection,1) (social,1) (media,2) (manager,1) (improving,1) (students,1) (computing,1) (skills,1) (attitudes,1) (web-mediated,1) (self-regulated,1) (feedback,1) (problem-solving,1) (environment,1) (optimal,1) (korean,1) (dramas,1) (commercial,1) (tv,1) (stations,1) (taiwan,1) (using,1) (ahp,1) (different,1) (key,1) (processes,1) (implementation,1) (knowledge,1) (management,1) (ic,1) (designers,1) (distributors,1) (manufacturers,1) (virtual,1) (products,1) (games,1) (grey,1) (relational,1) (analysis,1) 
+
+14884 3 4 14883 14885 14976 14894 31 (investigation,1) (student,1) (learning,3) (assistance,2) (online,2) (academic,1) (help-seeking,1) (mobile,1) (application,1) (quasi-experimental,1) (approach,1) (improving,1) (students,1) (computing,1) (skills,1) (attitudes,1) (web-mediated,1) (self-regulated,1) (feedback,1) (problem-solving,1) (environment,1) (different,1) (key,1) (processes,1) (implementation,1) (knowledge,1) (management,1) (ic,1) (designers,1) (distributors,1) (manufacturers,1) 
+
+14885 1 2 14883 14884 11 (investigation,1) (student,1) (learning,1) (assistance,1) (online,1) (academic,1) (help-seeking,1) (mobile,1) (application,1) (quasi-experimental,1) (approach,1) 
+
+14892 4 4 14893 14883 14932 14963 33 (evaluating,2) (mobile,1) (application,1) (development,1) (firms,1) (comparing,1) (views,1) (advertisers,1) (advertising,1) (agencies,1) (developing,1) (hierarchy,1) (model,1) (selection,1) (social,2) (media,1) (manager,1) (optimal,1) (korean,1) (dramas,1) (commercial,1) (tv,1) (stations,1) (taiwan,1) (using,1) (ahp,1) (virtual,1) (products,1) (online,1) (games,1) (grey,1) (relational,1) (analysis,1) 
+
+14893 1 2 14892 14883 10 (evaluating,1) (mobile,1) (application,1) (development,1) (firms,1) (comparing,1) (views,1) (advertisers,1) (advertising,1) (agencies,1) 
+
+14894 2 4 14883 14895 14884 14976 15 (likes,1) (meet,1) (blind,1) (dating,1) (internet,1) (different,1) (key,1) (processes,1) (implementation,1) (knowledge,1) (management,1) (ic,1) (designers,1) (distributors,1) (manufacturers,1) 
+
+14895 1 2 14894 14883 5 (likes,1) (meet,1) (blind,1) (dating,1) (internet,1) 
+
+14932 1 2 14892 14883 7 (developing,1) (hierarchy,1) (model,1) (selection,1) (social,1) (media,1) (manager,1) 
+
+14963 1 2 14892 14883 10 (optimal,1) (selection,1) (korean,1) (dramas,1) (commercial,1) (tv,1) (stations,1) (taiwan,1) (using,1) (ahp,1) 
+
+14976 1 3 14884 14883 14894 10 (different,1) (key,1) (processes,1) (implementation,1) (knowledge,1) (management,1) (ic,1) (designers,1) (distributors,1) (manufacturers,1) 
+
+14886 2 2 14955 14956 10 (investigating,1) (attitude,1) (students,1) (online,1) (learning,1) (analysis,1) (education,1) (category,1) (app,1) (markets,1) 
+
+14955 1 2 14956 14886 5 (analysis,1) (education,1) (category,1) (app,1) (markets,1) 
+
+14956 1 2 14955 14886 5 (analysis,1) (education,1) (category,1) (app,1) (markets,1) 
+
+14896 1 3 14897 14898 14899 10 (business,1) (sales,1) (growth,1) (internationalization,1) (links,1) (web,1) (site,1) (functions,1) (united,1) (kingdom,1) 
+
+14897 1 3 14896 14898 14899 10 (business,1) (sales,1) (growth,1) (internationalization,1) (links,1) (web,1) (site,1) (functions,1) (united,1) (kingdom,1) 
+
+14898 1 3 14896 14897 14899 10 (business,1) (sales,1) (growth,1) (internationalization,1) (links,1) (web,1) (site,1) (functions,1) (united,1) (kingdom,1) 
+
+14899 1 3 14896 14897 14898 10 (business,1) (sales,1) (growth,1) (internationalization,1) (links,1) (web,1) (site,1) (functions,1) (united,1) (kingdom,1) 
+
+14900 1 1 14901 5 (e-commerce,1) (training,1) (virtual,1) (commerce,1) (simulation,1) 
+
+14901 1 1 14900 5 (e-commerce,1) (training,1) (virtual,1) (commerce,1) (simulation,1) 
+
+14902 1 1 14903 11 (employees,1) (perceptions,1) (biometric,1) (technology,1) (adoption,1) (e-government,1) (exploratory,1) (study,1) (kingdom,1) (saudi,1) (arabia,1) 
+
+14903 1 1 14902 11 (employees,1) (perceptions,1) (biometric,1) (technology,1) (adoption,1) (e-government,1) (exploratory,1) (study,1) (kingdom,1) (saudi,1) (arabia,1) 
+
+14904 1 0 5 (theoretical,1) (technology,1) (adoption,1) (rate,1) (model,1) 
+
+14905 1 2 14906 14907 8 (students,1) (satisfaction,1) (e-learning,1) (case,1) (study,1) (virtual,1) (university,1) (pakistan,1) 
+
+14906 1 2 14905 14907 8 (students,1) (satisfaction,1) (e-learning,1) (case,1) (study,1) (virtual,1) (university,1) (pakistan,1) 
+
+14907 1 2 14905 14906 8 (students,1) (satisfaction,1) (e-learning,1) (case,1) (study,1) (virtual,1) (university,1) (pakistan,1) 
+
+14908 1 1 14909 6 (use,1) (virtual,1) (classrooms,1) (online,1) (learning,1) (environments,1) 
+
+14909 1 1 14908 6 (use,1) (virtual,1) (classrooms,1) (online,1) (learning,1) (environments,1) 
+
+14910 1 1 14911 13 (impact,1) (in-group,1) (membership,1) (e-loyalty,1) (women,1) (online,1) (shoppers,1) (application,1) (social,1) (identity,1) (approach,1) (website,1) (design,1) 
+
+14911 1 1 14910 13 (impact,1) (in-group,1) (membership,1) (e-loyalty,1) (women,1) (online,1) (shoppers,1) (application,1) (social,1) (identity,1) (approach,1) (website,1) (design,1) 
+
+14912 1 1 14913 9 (modeling,1) (determinants,1) (affecting,1) (consumers,1) (acceptance,1) (use,1) (information,1) (communications,1) (technology,1) 
+
+14913 1 1 14912 9 (modeling,1) (determinants,1) (affecting,1) (consumers,1) (acceptance,1) (use,1) (information,1) (communications,1) (technology,1) 
+
+14914 1 1 14915 5 (interactive,1) (self-assessment,1) (questions,1) (virtual,1) (environment,1) 
+
+14915 1 1 14914 5 (interactive,1) (self-assessment,1) (questions,1) (virtual,1) (environment,1) 
+
+14916 1 2 14917 14918 7 (e-commerce,1) (institutionalization,1) (smes,1) (developed,1) (countries,1) (model,1) (instrument,1) 
+
+14917 1 2 14916 14918 7 (e-commerce,1) (institutionalization,1) (smes,1) (developed,1) (countries,1) (model,1) (instrument,1) 
+
+14918 1 2 14916 14917 7 (e-commerce,1) (institutionalization,1) (smes,1) (developed,1) (countries,1) (model,1) (instrument,1) 
+
+14919 1 2 14920 14921 8 (multi-dimensional,1) (factors,1) (impacting,1) (e-government,1) (adoption,1) (botswana,1) (mozambique,1) (malawi,1) 
+
+14920 1 2 14919 14921 8 (multi-dimensional,1) (factors,1) (impacting,1) (e-government,1) (adoption,1) (botswana,1) (mozambique,1) (malawi,1) 
+
+14921 1 2 14919 14920 8 (multi-dimensional,1) (factors,1) (impacting,1) (e-government,1) (adoption,1) (botswana,1) (mozambique,1) (malawi,1) 
+
+14923 1 1 14924 10 (electronic,1) (customer,1) (relationship,1) (management,1) (sme,1) (marketing,1) (practice,1) (exploring,1) (potential,1) (synergies,1) 
+
+14924 1 1 14923 10 (electronic,1) (customer,1) (relationship,1) (management,1) (sme,1) (marketing,1) (practice,1) (exploring,1) (potential,1) (synergies,1) 
+
+14925 1 2 14926 14927 11 (ict,1) (web,1) (tools,1) (influencing,1) (civic,1) (engagement,1) (modern,1) (democracies,1) (exploratory,1) (analysis,1) (india,1) 
+
+14926 1 2 14925 14927 11 (ict,1) (web,1) (tools,1) (influencing,1) (civic,1) (engagement,1) (modern,1) (democracies,1) (exploratory,1) (analysis,1) (india,1) 
+
+14927 1 2 14925 14926 11 (ict,1) (web,1) (tools,1) (influencing,1) (civic,1) (engagement,1) (modern,1) (democracies,1) (exploratory,1) (analysis,1) (india,1) 
+
+14937 2 3 14998 14999 15000 14 (determinants,1) (e-payment,1) (systems,1) (success,1) (user,1) (satisfaction,1) (perspective,1) (evaluation,1) (webct,1) (course,1) (content,1) (management,1) (university,1) (botswana,1) 
+
+14998 1 3 14937 14999 15000 7 (evaluation,1) (webct,1) (course,1) (content,1) (management,1) (university,1) (botswana,1) 
+
+14999 1 3 14937 14998 15000 7 (evaluation,1) (webct,1) (course,1) (content,1) (management,1) (university,1) (botswana,1) 
+
+15000 1 3 14937 14998 14999 7 (evaluation,1) (webct,1) (course,1) (content,1) (management,1) (university,1) (botswana,1) 
+
+14941 1 0 9 (electronic,1) (voting,1) (using,1) (identity,1) (domain,1) (separation,1) (hardware,1) (security,1) (modules,1) 
+
+14945 1 2 14946 14947 6 (big,1) (data,1) (management,1) (challenges,1) (meteorological,1) (organisation,1) 
+
+14946 1 2 14945 14947 6 (big,1) (data,1) (management,1) (challenges,1) (meteorological,1) (organisation,1) 
+
+14947 1 2 14945 14946 6 (big,1) (data,1) (management,1) (challenges,1) (meteorological,1) (organisation,1) 
+
+14948 1 0 8 (performative,1) (actions,1) (e-adoption,1) (processes,1) (strategic,1) (efforts,1) (local,1) (government,1) 
+
+14949 1 1 14950 5 (evolution,1) (development,1) (growth,1) (electronic,1) (money,1) 
+
+14950 1 1 14949 5 (evolution,1) (development,1) (growth,1) (electronic,1) (money,1) 
+
+14951 1 0 5 (intranet,1) (quality,1) (manual,1) (higher,1) (education,1) 
+
+14952 2 2 14953 14990 16 (assessing,1) (citizens,1) (acceptance,1) (mobile,1) (voting,1) (developing,1) (countries,1) (case,1) (egypt,2) (exploring,1) (factors,1) (affecting,1) (intention,1) (use,1) (auction,1) (websites,1) 
+
+14953 1 1 14952 9 (assessing,1) (citizens,1) (acceptance,1) (mobile,1) (voting,1) (developing,1) (countries,1) (case,1) (egypt,1) 
+
+14990 1 1 14952 8 (exploring,1) (factors,1) (affecting,1) (intention,1) (use,1) (auction,1) (websites,1) (egypt,1) 
+
+14954 1 0 6 (gender,1) (age,1) (moderators,1) (predictors,1) (e-government,1) (acceptance,1) 
+
+14957 1 2 14958 14959 6 (web,1) (site,1) (localization,2) (practices,1) (insights,1) (industry,1) 
+
+14958 1 2 14957 14959 6 (web,1) (site,1) (localization,2) (practices,1) (insights,1) (industry,1) 
+
+14959 1 2 14957 14958 6 (web,1) (site,1) (localization,2) (practices,1) (insights,1) (industry,1) 
+
+14960 1 2 14961 14962 7 (trust,1) (e-commerce,1) (social,1) (networks,1) (vs,1) (institutional,1) (credibility,1) 
+
+14961 1 2 14960 14962 7 (trust,1) (e-commerce,1) (social,1) (networks,1) (vs,1) (institutional,1) (credibility,1) 
+
+14962 1 2 14960 14961 7 (trust,1) (e-commerce,1) (social,1) (networks,1) (vs,1) (institutional,1) (credibility,1) 
+
+14964 1 0 7 (satisfying,1) (public,1) (relations,1) (promise,1) (social,1) (media,1) (uae,1) 
+
+14965 1 0 10 (supporting,1) (online,1) (collaborative,1) (mathematical,1) (exploration,1) (studying,1) (development,1) (collective,1) (knowledge,1) (math-towers,1) 
+
+14966 1 1 14967 5 (digital,1) (natives,1) (adversity,1) (drive,1) (change,1) 
+
+14967 1 1 14966 5 (digital,1) (natives,1) (adversity,1) (drive,1) (change,1) 
+
+14968 1 0 7 (examining,1) (mobile,1) (banking,1) (user,1) (trust,1) (tripartite,1) (perspective,1) 
+
+14969 1 2 14970 14971 10 (information,1) (systems,1) (innovations,1) (adoption,1) (diffusion,1) (smes,1) (current,1) (status,1) (future,1) (prospects,1) 
+
+14970 1 2 14969 14971 10 (information,1) (systems,1) (innovations,1) (adoption,1) (diffusion,1) (smes,1) (current,1) (status,1) (future,1) (prospects,1) 
+
+14971 1 2 14969 14970 10 (information,1) (systems,1) (innovations,1) (adoption,1) (diffusion,1) (smes,1) (current,1) (status,1) (future,1) (prospects,1) 
+
+14972 1 3 14973 14974 14975 11 (discrete,1) (event,1) (simulation,1) (real,1) (time,1) (locating,1) (systems,1) (technology,1) (integration,1) (process,1) (improvement,1) 
+
+14973 2 5 14972 14974 14975 15019 15020 23 (discrete,1) (event,1) (simulation,1) (real,1) (time,1) (locating,1) (systems,1) (technology,2) (integration,1) (process,1) (improvement,1) (utility,1) (allocation,1) (matrix,1) (optimizing,1) (telehealth,1) (services,1) (case,1) (study,1) (telemonitoring,1) (congestive,1) (heart,1) (failure,1) 
+
+14974 1 3 14972 14973 14975 11 (discrete,1) (event,1) (simulation,1) (real,1) (time,1) (locating,1) (systems,1) (technology,1) (integration,1) (process,1) (improvement,1) 
+
+14975 1 3 14972 14973 14974 11 (discrete,1) (event,1) (simulation,1) (real,1) (time,1) (locating,1) (systems,1) (technology,1) (integration,1) (process,1) (improvement,1) 
+
+15019 1 2 14973 15020 13 (utility,1) (technology,1) (allocation,1) (matrix,1) (optimizing,1) (telehealth,1) (services,1) (case,1) (study,1) (telemonitoring,1) (congestive,1) (heart,1) (failure,1) 
+
+15020 1 2 14973 15019 13 (utility,1) (technology,1) (allocation,1) (matrix,1) (optimizing,1) (telehealth,1) (services,1) (case,1) (study,1) (telemonitoring,1) (congestive,1) (heart,1) (failure,1) 
+
+14977 1 2 14978 14979 8 (user,1) (acceptance,1) (location-based,1) (mobile,1) (advertising,1) (empirical,1) (study,1) (iran,1) 
+
+14978 1 2 14977 14979 8 (user,1) (acceptance,1) (location-based,1) (mobile,1) (advertising,1) (empirical,1) (study,1) (iran,1) 
+
+14979 1 2 14977 14978 8 (user,1) (acceptance,1) (location-based,1) (mobile,1) (advertising,1) (empirical,1) (study,1) (iran,1) 
+
+14980 1 3 14981 14982 14983 9 (effect,1) (online,1) (collaboration,1) (environment,1) (prospective,1) (teachers,1) (attitude,1) (evaluation,1) (opinions,1) 
+
+14981 1 3 14980 14982 14983 9 (effect,1) (online,1) (collaboration,1) (environment,1) (prospective,1) (teachers,1) (attitude,1) (evaluation,1) (opinions,1) 
+
+14982 1 3 14980 14981 14983 9 (effect,1) (online,1) (collaboration,1) (environment,1) (prospective,1) (teachers,1) (attitude,1) (evaluation,1) (opinions,1) 
+
+14983 1 3 14980 14981 14982 9 (effect,1) (online,1) (collaboration,1) (environment,1) (prospective,1) (teachers,1) (attitude,1) (evaluation,1) (opinions,1) 
+
+14984 1 0 10 (driving,1) (architecture,1) (innovation,1) (roles,1) (competing,1) (organizational,1) (cultures,1) (collaborating,1) (upper,1) (echelons,1) 
+
+14985 1 2 14986 14987 6 (adoption,1) (pbl,1) (online,1) (environments,1) (student,1) (perspectives,1) 
+
+14986 1 2 14985 14987 6 (adoption,1) (pbl,1) (online,1) (environments,1) (student,1) (perspectives,1) 
+
+14987 1 2 14985 14986 6 (adoption,1) (pbl,1) (online,1) (environments,1) (student,1) (perspectives,1) 
+
+14988 1 1 14989 6 (impact,1) (e-adoption,1) (teaching,2) (learning,1) (context,1) (french,1) 
+
+14989 1 1 14988 6 (impact,1) (e-adoption,1) (teaching,2) (learning,1) (context,1) (french,1) 
+
+14991 1 0 11 (future,1) (developments,1) (e-modules,1) (role,1) (interactive,1) (tools,1) (multimedia,1) (teaching,1) (european,1) (studies,1) (online,1) 
+
+14992 1 2 14993 14994 9 (assessment,1) (method,1) (integrated,1) (e-commerce,1) (readiness,1) (construction,1) (organizations,1) (developing,1) (countries,1) 
+
+14993 1 2 14992 14994 9 (assessment,1) (method,1) (integrated,1) (e-commerce,1) (readiness,1) (construction,1) (organizations,1) (developing,1) (countries,1) 
+
+14994 1 2 14992 14993 9 (assessment,1) (method,1) (integrated,1) (e-commerce,1) (readiness,1) (construction,1) (organizations,1) (developing,1) (countries,1) 
+
+14995 1 2 14996 14997 7 (conceptual,1) (framework,1) (online,1) (stock,1) (trading,1) (service,1) (adoption,1) 
+
+14996 1 2 14995 14997 7 (conceptual,1) (framework,1) (online,1) (stock,1) (trading,1) (service,1) (adoption,1) 
+
+14997 1 2 14995 14996 7 (conceptual,1) (framework,1) (online,1) (stock,1) (trading,1) (service,1) (adoption,1) 
+
+15001 1 2 15002 15003 9 (social,1) (commerce,1) (theory,1) (planned,1) (behavior,1) (paradigm,1) (analysis,1) (purchase,1) (intention,1) 
+
+15002 1 2 15001 15003 9 (social,1) (commerce,1) (theory,1) (planned,1) (behavior,1) (paradigm,1) (analysis,1) (purchase,1) (intention,1) 
+
+15003 1 2 15001 15002 9 (social,1) (commerce,1) (theory,1) (planned,1) (behavior,1) (paradigm,1) (analysis,1) (purchase,1) (intention,1) 
+
+15004 1 0 9 (determinants,1) (e-banking,1) (bruneian,1) (corporate,1) (customers,1) (application,1) (theory,1) (planned,1) (behavior,1) 
+
+15008 1 2 15009 15010 16 (implementing,1) (scanned,1) (medical,1) (record,1) (systems,1) (australia,1) (structured,1) (case,1) (study,1) (envisioned,1) (changes,1) (elective,1) (admissions,1) (process,1) (victorian,1) (hospital,1) 
+
+15009 1 2 15008 15010 16 (implementing,1) (scanned,1) (medical,1) (record,1) (systems,1) (australia,1) (structured,1) (case,1) (study,1) (envisioned,1) (changes,1) (elective,1) (admissions,1) (process,1) (victorian,1) (hospital,1) 
+
+15010 1 2 15008 15009 16 (implementing,1) (scanned,1) (medical,1) (record,1) (systems,1) (australia,1) (structured,1) (case,1) (study,1) (envisioned,1) (changes,1) (elective,1) (admissions,1) (process,1) (victorian,1) (hospital,1) 
+
+15011 1 2 15012 15013 6 (adoption,1) (e-government,1) (services,1) (case,1) (electronic,1) (approval,1) 
+
+15012 1 2 15011 15013 6 (adoption,1) (e-government,1) (services,1) (case,1) (electronic,1) (approval,1) 
+
+15013 2 4 15011 15012 17331 17332 12 (adoption,1) (e-government,1) (services,1) (case,1) (electronic,1) (approval,1) (practical,1) (approach,1) (beginning,1) (process,1) (technology,1) (roadmapping,1) 
+
+17331 1 2 15013 17332 6 (practical,1) (approach,1) (beginning,1) (process,1) (technology,1) (roadmapping,1) 
+
+17332 1 2 15013 17331 6 (practical,1) (approach,1) (beginning,1) (process,1) (technology,1) (roadmapping,1) 
+
+15014 1 2 15015 15016 6 (determinants,1) (e-commerce,1) (adoption,1) (medium-sized,1) (enterprises,1) (malaysia,1) 
+
+15015 1 2 15014 15016 6 (determinants,1) (e-commerce,1) (adoption,1) (medium-sized,1) (enterprises,1) (malaysia,1) 
+
+15016 1 2 15014 15015 6 (determinants,1) (e-commerce,1) (adoption,1) (medium-sized,1) (enterprises,1) (malaysia,1) 
+
+15017 1 0 6 (e-society,1) (policy,1) (interoperability,1) (social,1) (web,1) (networks,1) 
+
+15021 1 0 6 (casual,2) (review,1) (reading,1) (jesper,1) (juul,1) (revolution,1) 
+
+15022 1 0 4 (weather,2) (simulating,1) (virtual,1) (environments,1) 
+
+15023 2 1 15077 12 (achievement,1) (machine,1) (understanding,1) (xbox,1) (achievements,1) (gaming,1) (practices,1) (special,1) (issue,1) (game,1) (reward,1) (systems,1) 
+
+15077 1 1 15023 5 (special,1) (issue,1) (game,1) (reward,1) (systems,1) 
+
+15024 1 0 4 (interactivity,1) (inhabitation,1) (pragmatist,1) (aesthetics,1) 
+
+15025 1 0 7 (self-portrayal,1) (simulated,1) (life,1) (projecting,1) (personality,1) (values,1) (sims,1) 
+
+15026 3 0 11 (action,1) (games,3) (telling,2) (stories,1) (brief,1) (note,1) (narratives,1) (repeatedly,1) (lost,1) (art,1) (studying,1) 
+
+15027 1 0 2 (gaming,1) (situation,1) 
+
+15028 1 0 6 (electronic,1) (empire,1) (orientalism,1) (revisited,1) (military,1) (shooter,1) 
+
+15029 1 0 6 (myth,1) (metaphor,1) (case,1) (narrative,1) (digital,1) (media,1) 
+
+15030 1 1 15031 7 (living,1) (virtual,1) (life,1) (social,1) (dynamics,1) (online,1) (gaming,1) 
+
+15031 1 1 15030 7 (living,1) (virtual,1) (life,1) (social,1) (dynamics,1) (online,1) (gaming,1) 
+
+15032 2 1 15138 13 (gaming,1) (culture,1) (boundaries,1) (play,1) (player-centred,1) (game,2) (design,2) (experiences,1) (using,1) (scenario,1) (study,1) (inform,1) (mobile,1) 
+
+15138 1 1 15032 9 (player-centred,1) (game,2) (design,2) (experiences,1) (using,1) (scenario,1) (study,1) (inform,1) (mobile,1) 
+
+15033 1 0 6 (character,1) (difference,1) (procedurality,1) (rhetoric,1) (roleplaying,1) (games,1) 
+
+15034 1 0 9 (table,1) (stand,1) (leg,1) (critical,1) (ludological,1) (thoughts,1) (star,1) (wars,1) (galaxies,1) 
+
+15035 1 0 2 (procrustean,1) (probe,1) 
+
+15036 1 0 7 (seams,1) (fall,1) (apart,1) (video,1) (game,1) (space,1) (player,1) 
+
+15037 1 4 15038 15039 15040 15041 4 (dynamic,1) (lighting,1) (tension,1) (games,1) 
+
+15038 1 4 15037 15039 15040 15041 4 (dynamic,1) (lighting,1) (tension,1) (games,1) 
+
+15039 1 4 15037 15038 15040 15041 4 (dynamic,1) (lighting,1) (tension,1) (games,1) 
+
+15040 1 4 15037 15038 15039 15041 4 (dynamic,1) (lighting,1) (tension,1) (games,1) 
+
+15041 1 4 15037 15038 15039 15040 4 (dynamic,1) (lighting,1) (tension,1) (games,1) 
+
+15042 1 1 15043 12 (guest,1) (editors,1) (introduction,1) (papers,1) (conference,1) (playing,1) (future,1) (development,1) (directions,1) (gaming,1) (manchester,1) (april,1) 
+
+15043 1 1 15042 12 (guest,1) (editors,1) (introduction,1) (papers,1) (conference,1) (playing,1) (future,1) (development,1) (directions,1) (gaming,1) (manchester,1) (april,1) 
+
+15044 2 0 8 (defining,1) (game,1) (mechanics,1) (http,1) (gamestudies,1) (org,1) (articles,1) (sicart_ap,1) 
+
+15045 1 0 6 (pretty,1) (hate,1) (machines,1) (review,1) (gameplay,1) (mode,1) 
+
+15046 1 0 8 (play,1) (dead,1) (genre,1) (affect,1) (silent,1) (hill,1) (planescape,1) (torment,1) 
+
+15047 1 1 15048 11 (subjective,1) (measures,1) (influence,1) (music,1) (customization,1) (video,1) (game,1) (play,1) (experience,1) (pilot,1) (study,1) 
+
+15048 1 1 15047 11 (subjective,1) (measures,1) (influence,1) (music,1) (customization,1) (video,1) (game,1) (play,1) (experience,1) (pilot,1) (study,1) 
+
+15049 1 0 8 (tags,1) (threads,1) (frames,1) (synthesis,1) (interaction,1) (ritual,1) (livejournal,1) (roleplaying,1) 
+
+15050 1 0 4 (unplaying,1) (unreview,1) (critical,1) (play,1) 
+
+15051 2 1 15139 12 (interaction,1) (forms,1) (communicative,1) (actions,1) (multiplayer,1) (games,1) (hunt,1) (collaborative,1) (war,1) (gaming,1) (case,1) (battlefield,1) 
+
+15139 1 1 15051 6 (hunt,1) (collaborative,1) (war,1) (gaming,1) (case,1) (battlefield,1) 
+
+15052 1 0 7 (digital,1) (culture,1) (play,1) (identity,1) (world,1) (warcraft,1) (reader,2) 
+
+15053 1 0 14 (street,1) (fighter,1) (king,1) (fighters,1) (hong,1) (kong,1) (study,1) (cultural,1) (consumption,1) (localization,1) (japanese,1) (games,1) (asian,1) (context,1) 
+
+15054 1 0 6 (optimizing,1) (play,1) (theorycraft,1) (changes,1) (gameplay,1) (design,1) 
+
+15055 1 0 4 (productive,1) (paradox,1) (critical,1) (play,1) 
+
+15056 1 0 4 (world,1) (warcraft,1) (service,1) (space,1) 
+
+15057 1 0 7 (audio,1) (gameplay,1) (analysis,1) (pvp,1) (battlegrounds,1) (world,1) (warcraft,1) 
+
+15058 1 0 7 (quests,1) (context,1) (comparative,1) (analysis,1) (discworld,1) (world,1) (warcraft,1) 
+
+15059 1 0 4 (formal,1) (models,1) (game,1) (design,1) 
+
+15060 5 0 21 (ending,1) (written,1) (conversation,5) (rand,4) (miller,3) (game,2) (noir,1) (tim,1) (schafer,1) (sims,1) (battlebots,1) (cellular,1) (automata,1) (god,1) (wright,1) (raph,1) (koster,1) (player,1) (faces,1) (louis,1) (castle,1) 
+
+15061 1 0 6 (worldness,1) (everquest,1) (exploring,1) (st,1) (century,1) (fiction,1) 
+
+15062 2 2 15063 15066 12 (game,1) (analysis,1) (developing,1) (methodological,1) (toolkit,1) (qualitative,1) (study,1) (games,1) (achievements,1) (motivations,1) (rewards,1) (faunasphere,1) 
+
+15063 1 1 15062 8 (game,1) (analysis,1) (developing,1) (methodological,1) (toolkit,1) (qualitative,1) (study,1) (games,1) 
+
+15066 1 1 15062 4 (achievements,1) (motivations,1) (rewards,1) (faunasphere,1) 
+
+15064 4 1 15065 16 (interview,2) (brad,1) (mcquaid,1) (kevin,1) (mcpherson,1) (critical,1) (aesthetic,1) (virtual-world,1) (geographies,1) (chris,1) (lena,1) (special,1) (issue,1) (eq,1) (years,1) (later,1) 
+
+15065 3 1 15064 14 (interview,1) (brad,1) (mcquaid,1) (kevin,1) (mcpherson,1) (critical,1) (aesthetic,1) (virtual-world,1) (geographies,1) (special,1) (issue,1) (eq,1) (years,1) (later,1) 
+
+15067 2 0 9 (loading,1) (dice,1) (challenge,1) (videogames,1) (congenial,1) (design,1) (review,1) (casual,1) (revolution,1) 
+
+15068 1 0 7 (bish,1) (jo,1) (games,1) (techno-intimacy,1) (virtually,1) (human,1) (japan,1) 
+
+15069 1 0 6 (hats,2) (affect,1) (study,2) (achievements,1) (team,1) (fortress,1) 
+
+15070 1 0 3 (review,1) (germans,1) (play,1) 
+
+15071 1 0 5 (playful,1) (approximation,1) (huizinga,1) (homo,1) (ludens,1) 
+
+15072 1 0 8 (accidental,1) (carjack,1) (ethnography,1) (gameworld,1) (tourism,1) (grand,1) (theft,1) (auto,1) 
+
+15073 1 0 5 (tensions,1) (meaning,1) (construction,1) (persuasion,1) (games,1) 
+
+15074 1 0 8 (befriending,1) (ogres,1) (wood-elves,1) (relationship,1) (formation,1) (social,1) (architecture,1) (norrath,1) 
+
+15075 1 0 5 (reading,1) (processes,1) (groundwork,1) (software,1) (studies,1) 
+
+15076 2 0 12 (dungeon,1) (ivory,1) (tower,1) (vive,1) (la,1) (difference,1) (ou,1) (liaison,1) (dangereuse,1) (game,1) (studies,1) (year,1) 
+
+15078 1 0 4 (warioware,1) (teach,1) (game,1) (design,1) 
+
+15079 1 0 6 (rarity,1) (power,1) (balance,1) (collectible,1) (object,1) (games,1) 
+
+15080 1 0 8 (uneasy,1) (lies,1) (head,2) (wears,1) (crown,1) (interactivity,1) (signification,1) (heels,1) 
+
+15081 1 2 15082 15083 8 (survey,1) (method,1) (assessing,1) (perceptions,1) (game,2) (consumer,1) (playtest,1) (design,1) 
+
+15082 1 2 15081 15083 8 (survey,1) (method,1) (assessing,1) (perceptions,1) (game,2) (consumer,1) (playtest,1) (design,1) 
+
+15083 1 2 15081 15082 8 (survey,1) (method,1) (assessing,1) (perceptions,1) (game,2) (consumer,1) (playtest,1) (design,1) 
+
+15084 1 0 5 (norrath,1) (new,1) (forms,1) (old,1) (institutions,1) 
+
+15085 1 0 4 (play,1) (approach,1) (videogame,1) (music,1) 
+
+15086 1 1 15087 3 (leisure,1) (games,1) (dialogue,1) 
+
+15087 1 1 15086 3 (leisure,1) (games,1) (dialogue,1) 
+
+15088 1 0 11 (gaming,1) (ad,1) (diction,1) (discourse,1) (identity,1) (time,1) (play,1) (production,1) (gamer,1) (addiction,1) (myth,1) 
+
+15089 1 2 15090 15091 9 (cheesers,1) (pullers,1) (glitchers,1) (rhetoric,1) (sportsmanship,1) (discourse,1) (online,1) (sports,1) (gamers,1) 
+
+15090 1 2 15089 15091 9 (cheesers,1) (pullers,1) (glitchers,1) (rhetoric,1) (sportsmanship,1) (discourse,1) (online,1) (sports,1) (gamers,1) 
+
+15091 1 2 15089 15090 9 (cheesers,1) (pullers,1) (glitchers,1) (rhetoric,1) (sportsmanship,1) (discourse,1) (online,1) (sports,1) (gamers,1) 
+
+15092 1 3 15093 15094 15095 7 (balancing,1) (risk,1) (reward,1) (develop,1) (optimal,1) (hot-hand,1) (game,1) 
+
+15093 1 3 15092 15094 15095 7 (balancing,1) (risk,1) (reward,1) (develop,1) (optimal,1) (hot-hand,1) (game,1) 
+
+15094 1 3 15092 15093 15095 7 (balancing,1) (risk,1) (reward,1) (develop,1) (optimal,1) (hot-hand,1) (game,1) 
+
+15095 1 3 15092 15093 15094 7 (balancing,1) (risk,1) (reward,1) (develop,1) (optimal,1) (hot-hand,1) (game,1) 
+
+15096 1 0 1 (fun,1) 
+
+15097 1 0 5 (playing,1) (players,1) (potential,1) (methodologies,1) (muds,1) 
+
+15098 1 0 9 (guest,1) (editor,1) (introduction,1) (selected,1) (papers,1) (game,1) (cultures,1) (conference,1) (bristol,1) 
+
+15099 1 1 15100 6 (improving,1) (game,1) (narrative,1) (using,1) (polti,1) (ratios,1) 
+
+15100 1 1 15099 6 (improving,1) (game,1) (narrative,1) (using,1) (polti,1) (ratios,1) 
+
+15101 1 0 6 (unlocking,1) (gameworld,1) (rewards,1) (space,1) (time,1) (videogames,1) 
+
+15102 1 0 3 (social,1) (realism,1) (gaming,1) 
+
+15103 1 0 4 (cultural,1) (framing,1) (video,1) (games,1) 
+
+15104 1 0 4 (moral,1) (decision,1) (making,1) (fallout,1) 
+
+15105 2 0 14 (games,3) (economists,2) (play,1) (implications,1) (economic,1) (game,1) (theory,1) (study,1) (tragedies,1) (ludic,1) (commons,1) (understanding,1) (cooperation,1) (multiplayer,1) 
+
+15106 1 0 3 (interactive,1) (cinema,1) (oxymoron,1) 
+
+15107 1 0 12 (learning,1) (play,1) (playing,1) (learn,1) (critical,1) (account,1) (models,1) (communication,1) (informing,1) (educational,1) (research,1) (gameplay,1) 
+
+15108 1 0 5 (virtual,1) (torture,1) (videogames,1) (war,1) (terror,1) 
+
+15109 1 2 15110 15111 12 (latin,1) (america,1) (new,1) (cultural,1) (industries,1) (play,1) (old,1) (games,1) (banana,1) (republic,1) (donkey,1) (kong,1) 
+
+15110 1 2 15109 15111 12 (latin,1) (america,1) (new,1) (cultural,1) (industries,1) (play,1) (old,1) (games,1) (banana,1) (republic,1) (donkey,1) (kong,1) 
+
+15111 1 2 15109 15110 12 (latin,1) (america,1) (new,1) (cultural,1) (industries,1) (play,1) (old,1) (games,1) (banana,1) (republic,1) (donkey,1) (kong,1) 
+
+15112 1 0 8 (making,1) (water,1) (techno-historic,1) (limits,1) (game,1) (aesthetics,1) (myst,1) (doom,1) 
+
+15113 2 1 15147 13 (hackers,1) (history,1) (game,1) (design,1) (racing,1) (beam,1) (novices,1) (gamers,1) (scholars,1) (exploring,1) (challenges,1) (teaching,1) (games,1) 
+
+15147 1 1 15113 7 (novices,1) (gamers,1) (scholars,1) (exploring,1) (challenges,1) (teaching,1) (games,1) 
+
+15114 1 0 2 (combat,1) (context,1) 
+
+15115 2 2 15116 15117 17 (players,1) (biography,1) (played,1) (sociality,1) (everquest,1) (critical,1) (theory,1) (political,1) (economy,1) (game,1) (studies,1) (review,1) (games,2) (empire,1) (global,1) (capitalism,1) (video,1) 
+
+15116 1 2 15115 15117 5 (players,1) (biography,1) (played,1) (sociality,1) (everquest,1) 
+
+15117 1 2 15115 15116 5 (players,1) (biography,1) (played,1) (sociality,1) (everquest,1) 
+
+15118 1 0 9 (agony,1) (exidy,1) (history,1) (video,1) (game,1) (violence,1) (legacy,1) (death,1) (race,1) 
+
+15119 1 1 15120 8 (victorian,1) (snakes,1) (cultural,1) (history,1) (mobile,1) (games,1) (experience,1) (movement,1) 
+
+15120 1 1 15119 8 (victorian,1) (snakes,1) (cultural,1) (history,1) (mobile,1) (games,1) (experience,1) (movement,1) 
+
+15121 1 0 7 (games,1) (words,1) (dialogue,1) (conventions,1) (final,1) (fantasy,1) (vii,1) 
+
+15122 1 0 9 (possible,1) (build,1) (dramatically,1) (compelling,1) (interactive,1) (digital,1) (entertainment,1) (form,1) (games,1) 
+
+15123 1 0 5 (screw,1) (grue,1) (mediality,1) (metalepsis,1) (recapture,1) 
+
+15124 1 0 8 (constitutive,1) (tensions,1) (gaming,3) (field,2) (uk,1) (magazines,1) (formation,1) (culture,1) 
+
+15125 1 0 1 (love,1) 
+
+15126 1 0 4 (survey,1) (first-person,1) (shooters,1) (avatars,1) 
+
+15127 1 0 10 (myths,1) (monsters,1) (markets,1) (ethos,1) (identification,1) (video,1) (game,1) (adaptations,1) (lord,1) (rings,1) 
+
+15128 1 0 7 (myth,1) (ergodic,1) (videogame,1) (thoughts,1) (player-character,1) (relationships,1) (videogames,1) 
+
+15129 1 0 8 (semiotics,1) (time,1) (structure,1) (ludic,1) (space,1) (foundation,1) (analysis,1) (design,1) 
+
+15130 2 0 8 (halo,1) (anatomy,1) (fps,1) (meaningful,1) (read,1) (rules,1) (play,1) (reviewed,1) 
+
+15131 1 0 4 (playing,1) (gaming,1) (reflections,1) (classifications,1) 
+
+15132 1 3 15133 15134 15135 8 (tombstones,1) (uncanny,1) (monuments,1) (epic,1) (quests,1) (memorials,1) (world,1) (warcraft,1) 
+
+15133 1 3 15132 15134 15135 8 (tombstones,1) (uncanny,1) (monuments,1) (epic,1) (quests,1) (memorials,1) (world,1) (warcraft,1) 
+
+15134 1 3 15132 15133 15135 8 (tombstones,1) (uncanny,1) (monuments,1) (epic,1) (quests,1) (memorials,1) (world,1) (warcraft,1) 
+
+15135 1 3 15132 15133 15134 8 (tombstones,1) (uncanny,1) (monuments,1) (epic,1) (quests,1) (memorials,1) (world,1) (warcraft,1) 
+
+15136 1 0 6 (pastoral,1) (sublime,1) (elder,1) (scrolls,1) (iv,1) (oblivion,1) 
+
+15137 1 0 3 (narrative,1) (games,1) (theory,1) 
+
+15140 1 2 15141 15142 9 (diminutive,1) (subjects,1) (design,1) (strategy,1) (driving,1) (sales,1) (preschoolers,1) (nintendo,1) (ds,1) 
+
+15141 1 2 15140 15142 9 (diminutive,1) (subjects,1) (design,1) (strategy,1) (driving,1) (sales,1) (preschoolers,1) (nintendo,1) (ds,1) 
+

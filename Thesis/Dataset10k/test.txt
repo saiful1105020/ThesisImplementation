@@ -1,0 +1,196 @@
+Node id: 326
+Adjacency List: 
+348	349	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 347
+Adjacency List: 
+1276	1277	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 348
+Adjacency List: 
+326	349	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 349
+Adjacency List: 
+326	348	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1027
+Adjacency List: 
+1028	1696	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1028
+Adjacency List: 
+1027	1696	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1053
+Adjacency List: 
+
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1191
+Adjacency List: 
+1192	1193	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1192
+Adjacency List: 
+1191	1193	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1193
+Adjacency List: 
+1191	1192	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1276
+Adjacency List: 
+347	1277	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1277
+Adjacency List: 
+347	1276	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1362
+Adjacency List: 
+1414	1415	1416	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1373
+Adjacency List: 
+1374	1375	1376	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1374
+Adjacency List: 
+1373	1375	1376	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1375
+Adjacency List: 
+1373	1374	1376	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1376
+Adjacency List: 
+1373	1374	1375	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1414
+Adjacency List: 
+1362	1415	1416	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1415
+Adjacency List: 
+1362	1414	1416	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1416
+Adjacency List: 
+1362	1414	1415	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1512
+Adjacency List: 
+1513	1514	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1513
+Adjacency List: 
+1512	1514	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1514
+Adjacency List: 
+1512	1513	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1668
+Adjacency List: 
+1669	1670	1671	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1669
+Adjacency List: 
+1668	1670	1671	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1670
+Adjacency List: 
+1668	1669	1671	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1671
+Adjacency List: 
+1668	1669	1670	
+ <Keyword, Influence Score> Pairs: 
+
+
+---------------
+Node id: 1696
+Adjacency List: 
+1027	1028	
+ <Keyword, Influence Score> Pairs: 
+
+
+BUILD SUCCESSFUL (total time: 12 seconds)

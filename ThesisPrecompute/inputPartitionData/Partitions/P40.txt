@@ -1,0 +1,804 @@
+< Author_ID  Paper_Count  Adjacent_Count  <Adjacent_List>  Keyword_Count  <(Keyword,Score)> >
+
+14651 1 5 13752 13748 13749 14652 14653 11 (applying,1) (theory,1) (planned,1) (behavior,1) (adolescents,1) (acceptance,1) (online,1) (friendship,1) (requests,1) (sent,1) (strangers,1) 
+
+14652 2 8 13752 13748 14651 13749 14653 14704 14705 14706 20 (applying,1) (theory,1) (planned,1) (behavior,1) (adolescents,1) (acceptance,1) (online,1) (friendship,1) (requests,1) (sent,1) (strangers,1) (automatic,1) (monitoring,1) (cyberbullying,1) (social,1) (networking,1) (sites,1) (technological,1) (feasibility,1) (desirability,1) 
+
+14653 1 5 13752 13748 14651 13749 14652 11 (applying,1) (theory,1) (planned,1) (behavior,1) (adolescents,1) (acceptance,1) (online,1) (friendship,1) (requests,1) (sent,1) (strangers,1) 
+
+14704 1 3 14705 14706 14652 9 (automatic,1) (monitoring,1) (cyberbullying,1) (social,1) (networking,1) (sites,1) (technological,1) (feasibility,1) (desirability,1) 
+
+14705 1 3 14704 14706 14652 9 (automatic,1) (monitoring,1) (cyberbullying,1) (social,1) (networking,1) (sites,1) (technological,1) (feasibility,1) (desirability,1) 
+
+14706 1 3 14704 14705 14652 9 (automatic,1) (monitoring,1) (cyberbullying,1) (social,1) (networking,1) (sites,1) (technological,1) (feasibility,1) (desirability,1) 
+
+13754 3 2 13755 14245 24 (exploring,1) (relationship,1) (urbanized,1) (malaysian,1) (youth,1) (mobile,2) (phones,1) (quantitative,1) (approach,1) (enhancing,1) (classroom,1) (interaction,1) (immap,1) (interactive,1) (messaging,1) (app,1) (students,1) (learning,2) (styles,1) (effects,1) (use,1) (social,1) (media,1) (technology,1) 
+
+13755 1 1 13754 9 (exploring,1) (relationship,1) (urbanized,1) (malaysian,1) (youth,1) (mobile,1) (phones,1) (quantitative,1) (approach,1) 
+
+14245 2 1 13754 16 (enhancing,1) (classroom,1) (interaction,1) (immap,1) (interactive,1) (mobile,1) (messaging,1) (app,1) (students,1) (learning,2) (styles,1) (effects,1) (use,1) (social,1) (media,1) (technology,1) 
+
+13756 1 0 8 (factors,1) (hinder,1) (success,1) (sim-based,1) (mobile,1) (nfc,1) (service,1) (deployments,1) 
+
+13759 1 0 6 (visual,1) (object-relationship,1) (query,1) (language,1) (user-database,1) (interaction,1) 
+
+13760 1 2 13761 13762 10 (analyzing,1) (competitive,1) (collaborative,1) (differences,1) (mobile,1) (ecosystems,1) (using,1) (abstracted,1) (strategy,1) (networks,1) 
+
+13761 1 2 13760 13762 10 (analyzing,1) (competitive,1) (collaborative,1) (differences,1) (mobile,1) (ecosystems,1) (using,1) (abstracted,1) (strategy,1) (networks,1) 
+
+13762 1 2 13760 13761 10 (analyzing,1) (competitive,1) (collaborative,1) (differences,1) (mobile,1) (ecosystems,1) (using,1) (abstracted,1) (strategy,1) (networks,1) 
+
+13763 1 1 13764 5 (unwillingness-to-communicate,1) (perceptions,1) (internet,1) (self-disclosure,1) (icq,1) 
+
+13764 13 7 13763 13954 14058 14269 14324 14636 14701 91 (unwillingness-to-communicate,2) (perceptions,1) (internet,5) (self-disclosure,4) (icq,3) (blurring,2) (public,1) (private,2) (behaviors,1) (space,1) (policy,1) (challenges,1) (use,3) (improper,2) (cell,1) (phone,4) (effects,3) (gratification-opportunities,2) (gratifications-obtained,1) (preferences,2) (instant,1) (messaging,1) (e-mail,1) (college,4) (students,3) (gratifications,2) (pager,2) (sociability,1) (information-seeking,1) (entertainment,2) (utility,1) (fashion,2) (status,1) (expectancy-value,1) (attitudes,2) (psychological,2) (empowerment,1) (experienced,2) (chinese,1) (women,1) (workplace,1) (motives,1) (sms,1) (mobile,1) (impacts,1) (net-generation,2) (attributes,1) (seductive,1) (properties,1) (mapping,1) (ict,1) (home,1) (telecommuting,1) (practices,1) (perspective,1) (work,1) (family,1) (border,1) (theory,1) (owning,1) (using,1) (new,2) (media,2) (technology,1) (predictors,1) (quality,1) (life,1) (predicting,1) (tablet,1) (study,2) (gratifications-sought,1) (leisure,3) (boredom,2) (multitasking,1) (assessing,1) (displacement,1) (addicted,1) (candy,1) (crush,2) (saga,1) (exploratory,1) (linking,1) (factors,1) (social,1) (game,2) (addiction,1) (multiple,1) (determinants,1) (roles,1) (activities,2) (support,1) 
+
+13954 5 3 13764 14344 14345 41 (blurring,1) (public,2) (private,1) (behaviors,1) (space,1) (policy,1) (challenges,1) (use,3) (improper,2) (cell,1) (phone,3) (gratifications,2) (pager,1) (sociability,1) (information-seeking,1) (entertainment,2) (utility,1) (fashion,1) (status,1) (examining,1) (user,1) (behavioral,1) (response,1) (sms,1) (ads,1) (implications,1) (evolution,1) (mobile,1) (bona-fide,1) (medium,2) (motivations,1) (using,2) (mass,1) (communications,1) (owning,1) (new,1) (media,1) (technology,1) (predictors,1) (quality,1) (life,1) 
+
+14058 1 1 13764 9 (effects,1) (gratification-opportunities,1) (gratifications-obtained,1) (preferences,1) (instant,1) (messaging,1) (e-mail,1) (college,1) (students,1) 
+
+14269 1 1 13764 11 (effects,1) (expectancy-value,1) (attitudes,1) (use,1) (internet,1) (psychological,1) (empowerment,1) (experienced,1) (chinese,1) (women,1) (workplace,1) 
+
+14324 2 1 13764 18 (mapping,1) (ict,1) (use,2) (home,1) (telecommuting,1) (practices,1) (perspective,1) (work,1) (family,1) (border,1) (theory,1) (predicting,1) (tablet,1) (study,1) (gratifications-sought,1) (leisure,1) (boredom,1) (multitasking,1) 
+
+14636 3 2 13764 14727 23 (assessing,1) (displacement,1) (effects,1) (internet,2) (growth,1) (adversity,1) (non-economic,1) (factors,1) (telecommunications,1) (development,1) (china,1) (multiple,1) (determinants,1) (life,1) (quality,1) (roles,1) (activities,2) (use,1) (new,1) (media,1) (social,1) (support,1) (leisure,1) 
+
+14701 1 1 13764 13 (addicted,1) (candy,1) (crush,1) (saga,1) (exploratory,1) (study,1) (linking,1) (psychological,1) (factors,1) (mobile,1) (social,1) (game,1) (addiction,1) 
+
+14344 1 2 13954 14345 12 (examining,1) (user,1) (behavioral,1) (response,1) (sms,1) (ads,1) (implications,1) (evolution,1) (mobile,1) (phone,1) (bona-fide,1) (medium,1) 
+
+14345 1 2 13954 14344 12 (examining,1) (user,1) (behavioral,1) (response,1) (sms,1) (ads,1) (implications,1) (evolution,1) (mobile,1) (phone,1) (bona-fide,1) (medium,1) 
+
+14727 1 1 14636 7 (growth,1) (adversity,1) (non-economic,1) (factors,1) (telecommunications,1) (development,1) (china,1) 
+
+13767 1 0 9 (portuguese,1) (urban,1) (opposition,1) (hierarchical,1) (organization,1) (cyberspace,1) (vs,1) (physical,1) (space,1) 
+
+13768 2 1 14700 25 (impact,1) (online,1) (user-generated,1) (satire,1) (young,1) (people,1) (political,1) (attitudes,1) (testing,1) (moderating,1) (role,1) (knowledge,1) (discussion,1) (digital,1) (media,1) (use,1) (participation,1) (leadership,1) (social,1) (protests,1) (case,1) (tiananmen,1) (commemoration,1) (hong,1) (kong,1) 
+
+14700 1 1 13768 12 (digital,1) (media,1) (use,1) (participation,1) (leadership,1) (social,1) (protests,1) (case,1) (tiananmen,1) (commemoration,1) (hong,1) (kong,1) 
+
+13769 1 1 13770 8 (web,1) (personalization,1) (state,1) (art,1) (future,1) (avenues,1) (research,1) (practice,1) 
+
+13770 2 2 13769 13845 13 (web,1) (personalization,1) (state,1) (art,1) (future,1) (avenues,1) (research,1) (practice,1) (mobile,1) (banking,1) (adoption,1) (literature,1) (review,1) 
+
+13845 1 1 13770 5 (mobile,1) (banking,1) (adoption,1) (literature,1) (review,1) 
+
+13771 1 2 13772 13773 6 (uses,1) (gratifications,1) (digital,1) (photo,1) (sharing,1) (facebook,1) 
+
+13772 1 2 13771 13773 6 (uses,1) (gratifications,1) (digital,1) (photo,1) (sharing,1) (facebook,1) 
+
+13773 1 2 13771 13772 6 (uses,1) (gratifications,1) (digital,1) (photo,1) (sharing,1) (facebook,1) 
+
+13774 2 3 13775 14098 14161 15 (share,1) (predicting,1) (potential,1) (use,1) (new,2) (technology,1) (threats,1) (opportunities,1) (audiovisual,1) (cultural,1) (heritage,1) (archive,1) (services,1) (dutch,1) (case,1) 
+
+13775 12 17 13774 13853 13854 13855 14086 14087 14098 14101 14157 14280 14380 14381 14382 14397 14398 14687 14750 72 (share,1) (predicting,1) (potential,1) (use,4) (new,3) (technology,2) (mobile,5) (customer,4) (segmentation,5) (based,4) (smartphone,3) (measurement,2) (introduction,1) (special,2) (issue,1) (lifestyle,2) (communication,1) (internet,3) (extension,2) (fixed,1) (web,1) (fixed-mobile,1) (reinforcement,1) (mediator,1) (context,1) (future,1) (ubiquitous,2) (social,1) (network,1) (services,2) (q-sort,1) (analysis,1) (interplay,2) (costs,1) (trust,1) (loyalty,1) (service,1) (industry,2) (transition,1) (moderating,1) (effect,1) (adoption,1) (effectiveness,1) (control,1) (mechanisms,2) (platform,1) (ecosystem,1) (users,1) (non-users,1) (applications,2) (enhancing,1) (value,1) (click-and-mortar,1) (e-commerce,1) (implications,1) (geographical,1) (market,1) (reach,1) (type,1) (barriers,1) (drivers,1) (current,1) (finland,1) (dynamic,1) (model,1) (cyber-entrepreneurship,1) (cluster,1) (formation,1) (united,1) (states,1) (low,1) (countries,1) 
+
+14098 2 4 13854 13775 14161 13774 21 (mobile,1) (internet,1) (extension,1) (fixed,1) (web,1) (fixed-mobile,1) (reinforcement,1) (mediator,1) (context,1) (use,2) (future,1) (threats,1) (opportunities,1) (new,1) (audiovisual,1) (cultural,1) (heritage,1) (archive,1) (services,1) (dutch,1) (case,1) 
+
+14161 1 2 14098 13774 10 (threats,1) (opportunities,1) (new,1) (audiovisual,1) (cultural,1) (heritage,1) (archive,1) (services,1) (dutch,1) (case,1) 
+
+13853 1 3 13775 13854 13855 6 (mobile,1) (customer,1) (segmentation,1) (based,1) (smartphone,1) (measurement,1) 
+
+13854 6 9 13853 13775 13855 14086 14087 14098 14101 14280 14287 42 (mobile,5) (customer,4) (segmentation,3) (based,2) (smartphone,1) (measurement,1) (introduction,2) (special,1) (issue,1) (lifestyle,1) (communication,1) (internet,1) (extension,1) (fixed,1) (web,1) (fixed-mobile,1) (reinforcement,1) (mediator,1) (context,1) (use,1) (future,1) (interplay,1) (costs,2) (trust,1) (loyalty,1) (service,1) (industry,1) (transition,1) (moderating,1) (effect,1) (adoption,1) (effectiveness,1) (control,1) (mechanisms,1) (platform,1) (ecosystem,1) (designing,1) (viable,1) (business,1) (models,1) (context-aware,1) (services,1) 
+
+13855 1 3 13853 13775 13854 6 (mobile,1) (customer,1) (segmentation,1) (based,1) (smartphone,1) (measurement,1) 
+
+14086 2 4 13775 13854 14087 14283 13 (introduction,1) (special,1) (issue,1) (lifestyle,1) (mobile,2) (communication,1) (attitude-based,1) (latent,1) (class,1) (segmentation,1) (analysis,1) (phone,1) (users,1) 
+
+14087 3 6 13775 13854 14086 14283 14687 14382 20 (introduction,1) (special,1) (issue,1) (lifestyle,1) (mobile,3) (communication,2) (attitude-based,1) (latent,1) (class,1) (segmentation,1) (analysis,1) (phone,1) (users,1) (barriers,1) (drivers,1) (adoption,1) (current,1) (future,1) (services,1) (finland,1) 
+
+14101 3 3 13775 14157 13854 20 (ubiquitous,1) (use,1) (mobile,2) (social,1) (network,1) (services,2) (context,1) (q-sort,1) (analysis,1) (interplay,1) (costs,1) (trust,1) (loyalty,1) (service,1) (industry,1) (transition,1) (moderating,1) (effect,1) (smartphone,1) (adoption,1) 
+
+14157 1 2 13775 14101 5 (mobile,1) (services,1) (context,1) (q-sort,1) (analysis,1) 
+
+14280 1 2 13854 13775 6 (effectiveness,1) (control,1) (mechanisms,1) (mobile,1) (platform,1) (ecosystem,1) 
+
+14380 1 3 14381 14382 13775 5 (analysis,1) (users,1) (non-users,1) (smartphone,1) (applications,1) 
+
+14381 1 3 14380 14382 13775 5 (analysis,1) (users,1) (non-users,1) (smartphone,1) (applications,1) 
+
+14382 2 5 14380 14381 13775 14687 14087 13 (analysis,1) (users,1) (non-users,1) (smartphone,1) (applications,1) (barriers,1) (drivers,1) (adoption,1) (current,1) (future,1) (mobile,1) (services,1) (finland,1) 
+
+14397 1 2 13775 14398 10 (enhancing,1) (customer,2) (value,1) (click-and-mortar,1) (e-commerce,1) (implications,1) (geographical,1) (market,1) (reach,1) (type,1) 
+
+14398 1 2 14397 13775 10 (enhancing,1) (customer,2) (value,1) (click-and-mortar,1) (e-commerce,1) (implications,1) (geographical,1) (market,1) (reach,1) (type,1) 
+
+14687 1 3 13775 14382 14087 8 (barriers,1) (drivers,1) (adoption,1) (current,1) (future,1) (mobile,1) (services,1) (finland,1) 
+
+14750 1 1 13775 10 (dynamic,1) (model,1) (cyber-entrepreneurship,1) (cluster,1) (formation,1) (applications,1) (united,1) (states,1) (low,1) (countries,1) 
+
+14287 1 1 13854 7 (designing,1) (viable,1) (business,1) (models,1) (context-aware,1) (mobile,1) (services,1) 
+
+14283 1 2 14086 14087 8 (attitude-based,1) (latent,1) (class,1) (segmentation,1) (analysis,1) (mobile,1) (phone,1) (users,1) 
+
+13776 1 1 13777 8 (evaluating,1) (practice-centered,1) (awareness,1) (cross-boundary,1) (telehealth,1) (decision,1) (support,1) (systems,1) 
+
+13777 1 1 13776 8 (evaluating,1) (practice-centered,1) (awareness,1) (cross-boundary,1) (telehealth,1) (decision,1) (support,1) (systems,1) 
+
+13778 2 3 13779 13780 13781 18 (determinants,1) (backers,1) (funding,1) (intention,1) (crowdfunding,1) (social,2) (exchange,1) (theory,1) (regulatory,1) (focus,1) (effects,1) (psychological,1) (ownership,1) (tam,1) (media,1) (loyalty,1) (integrated,1) (model,1) 
+
+13779 2 3 13778 13780 13781 18 (determinants,1) (backers,1) (funding,1) (intention,1) (crowdfunding,1) (social,2) (exchange,1) (theory,1) (regulatory,1) (focus,1) (effects,1) (psychological,1) (ownership,1) (tam,1) (media,1) (loyalty,1) (integrated,1) (model,1) 
+
+13780 2 3 13778 13779 13781 18 (determinants,1) (backers,1) (funding,1) (intention,1) (crowdfunding,1) (social,2) (exchange,1) (theory,1) (regulatory,1) (focus,1) (effects,1) (psychological,1) (ownership,1) (tam,1) (media,1) (loyalty,1) (integrated,1) (model,1) 
+
+13781 1 3 13778 13779 13780 10 (determinants,1) (backers,1) (funding,1) (intention,1) (crowdfunding,1) (social,1) (exchange,1) (theory,1) (regulatory,1) (focus,1) 
+
+13782 1 1 13783 7 (adoption,1) (erp,1) (systems,1) (does,1) (information,1) (transparency,1) (matter,1) 
+
+13783 1 1 13782 7 (adoption,1) (erp,1) (systems,1) (does,1) (information,1) (transparency,1) (matter,1) 
+
+13784 1 1 13785 13 (employee,1) (perception,1) (electronic,1) (monitoring,1) (work,1) (place,1) (impact,1) (job,1) (satisfaction,1) (software,1) (professionals,1) (sri,1) (lanka,1) 
+
+13785 1 1 13784 13 (employee,1) (perception,1) (electronic,1) (monitoring,1) (work,1) (place,1) (impact,1) (job,1) (satisfaction,1) (software,1) (professionals,1) (sri,1) (lanka,1) 
+
+13786 2 0 16 (digital,2) (turn,1) (radio,1) (critique,3) (institutional,2) (organizational,1) (modeling,1) (new,1) (practices,2) (cultures,1) (introduction,2) (critical,1) (reflections,1) (technological,1) (convergence,1) (emerging,1) 
+
+13787 1 1 13788 8 (coexistence,1) (cooperation,1) (experiments,1) (intercultural,1) (broadcasting,1) (swiss,1) (community,1) (radios,1) 
+
+13788 1 1 13787 8 (coexistence,1) (cooperation,1) (experiments,1) (intercultural,1) (broadcasting,1) (swiss,1) (community,1) (radios,1) 
+
+13791 1 2 13792 13793 6 (influence,1) (social,1) (media,1) (fan,1) (reactionary,1) (behaviors,1) 
+
+13792 1 2 13791 13793 6 (influence,1) (social,1) (media,1) (fan,1) (reactionary,1) (behaviors,1) 
+
+13793 1 2 13791 13792 6 (influence,1) (social,1) (media,1) (fan,1) (reactionary,1) (behaviors,1) 
+
+13794 1 0 8 (stochastic,1) (total,1) (cost,1) (ownership,1) (optimization,1) (video,1) (streaming,1) (services,1) 
+
+13795 1 2 13796 13797 12 (conjoint,1) (analysis,1) (preferences,1) (hrd,1) (managers,1) (employees,1) (effective,1) (implementation,1) (m-learning,1) (case,1) (south,1) (korea,1) 
+
+13796 1 2 13795 13797 12 (conjoint,1) (analysis,1) (preferences,1) (hrd,1) (managers,1) (employees,1) (effective,1) (implementation,1) (m-learning,1) (case,1) (south,1) (korea,1) 
+
+13797 2 5 13795 13796 14394 14395 14396 20 (conjoint,1) (analysis,1) (preferences,1) (hrd,1) (managers,1) (employees,1) (effective,1) (implementation,1) (m-learning,1) (case,1) (south,1) (korea,1) (user,1) (acceptance,1) (wearable,1) (devices,1) (extended,1) (perspective,1) (perceived,1) (value,1) 
+
+14394 1 3 14395 13797 14396 8 (user,1) (acceptance,1) (wearable,1) (devices,1) (extended,1) (perspective,1) (perceived,1) (value,1) 
+
+14395 1 3 14394 13797 14396 8 (user,1) (acceptance,1) (wearable,1) (devices,1) (extended,1) (perspective,1) (perceived,1) (value,1) 
+
+14396 1 3 14394 14395 13797 8 (user,1) (acceptance,1) (wearable,1) (devices,1) (extended,1) (perspective,1) (perceived,1) (value,1) 
+
+13798 2 1 13799 11 (political,1) (sociology,1) (internet,1) (local,1) (governance,1) (anti-politics,1) (triumph,1) (postmodern,1) (populism,1) (promotional,1) (cultures,1) 
+
+13799 2 1 13798 11 (political,1) (sociology,1) (internet,1) (local,1) (governance,1) (anti-politics,1) (triumph,1) (postmodern,1) (populism,1) (promotional,1) (cultures,1) 
+
+13800 1 0 6 (gast,1) (arbajterski,1) (adio,1) (migration,1) (media,1) (serbia,1) 
+
+13801 1 1 13802 8 (new,1) (technology,1) (communities,1) (networking,1) (problems,1) (prospects,1) (orchestrating,1) (change,1) 
+
+13802 1 1 13801 8 (new,1) (technology,1) (communities,1) (networking,1) (problems,1) (prospects,1) (orchestrating,1) (change,1) 
+
+13804 1 0 6 (mass,1) (media,1) (sensational,1) (message,1) (metamorphic,1) (truths,1) 
+
+13805 1 0 7 (community,1) (portal,1) (challenge--is,1) (technology,1) (barrier,1) (local,1) (authorities,1) 
+
+13806 1 1 13807 8 (impact,1) (free,1) (open,1) (source,1) (licensing,1) (operating,1) (software,1) (markets,1) 
+
+13807 1 1 13806 8 (impact,1) (free,1) (open,1) (source,1) (licensing,1) (operating,1) (software,1) (markets,1) 
+
+13808 1 2 13809 13810 5 (customer,1) (oriented,1) (enterprise,1) (architecture,1) (framework,1) 
+
+13809 1 2 13808 13810 5 (customer,1) (oriented,1) (enterprise,1) (architecture,1) (framework,1) 
+
+13810 1 2 13808 13809 5 (customer,1) (oriented,1) (enterprise,1) (architecture,1) (framework,1) 
+
+13811 2 3 13812 13813 13814 12 (moderating,1) (effect,1) (learning,2) (styles,1) (management,1) (success,1) (predicting,1) (behavioral,1) (intention,1) (mobile,1) (internet,1) (usage,1) 
+
+13812 2 3 13811 13813 13814 12 (moderating,1) (effect,1) (learning,2) (styles,1) (management,1) (success,1) (predicting,1) (behavioral,1) (intention,1) (mobile,1) (internet,1) (usage,1) 
+
+13813 2 3 13811 13812 13814 12 (moderating,1) (effect,1) (learning,2) (styles,1) (management,1) (success,1) (predicting,1) (behavioral,1) (intention,1) (mobile,1) (internet,1) (usage,1) 
+
+13814 1 3 13811 13812 13813 6 (moderating,1) (effect,1) (learning,2) (styles,1) (management,1) (success,1) 
+
+13815 3 0 18 (brain-computer,1) (interface,1) (frontier,1) (telemedicine,3) (human-computer,2) (interaction,1) (segmentation-based,1) (compression,1) (new,2) (frontiers,1) (telecommunication,1) (clustering-based,1) (connected,1) (cloud,1) (databases,1) (long-term,1) (care,1) (applications,1) 
+
+13816 1 0 8 (successfully,1) (promote,1) (ict,1) (usage,1) (comparative,1) (analysis,1) (denmark,1) (japan,1) 
+
+13821 1 1 13822 11 (communities,1) (strangerhoods,1) (internet,1) (mobile,1) (phones,1) (changing,1) (nature,1) (radio,1) (cultures,1) (south,1) (africa,1) 
+
+13822 1 1 13821 11 (communities,1) (strangerhoods,1) (internet,1) (mobile,1) (phones,1) (changing,1) (nature,1) (radio,1) (cultures,1) (south,1) (africa,1) 
+
+13823 1 0 7 (cyber,1) (elites,1) (survey,1) (internet,1) (cafe,1) (users,1) (uganda,1) 
+
+13825 1 1 13826 9 (participants,1) (given,1) (mobile,1) (phone,1) (use,1) (effects,1) (novelty,1) (vs,1) (utility,1) 
+
+13826 1 1 13825 9 (participants,1) (given,1) (mobile,1) (phone,1) (use,1) (effects,1) (novelty,1) (vs,1) (utility,1) 
+
+13827 1 1 13828 3 (internet,1) (telephony,1) (signaling,1) 
+
+13828 2 2 13827 14218 9 (internet,1) (telephony,1) (signaling,1) (computational,1) (object,1) (approach,1) (network,1) (systems,1) (management,1) 
+
+14218 1 1 13828 6 (computational,1) (object,1) (approach,1) (network,1) (systems,1) (management,1) 
+
+13829 1 0 6 (short,1) (message,1) (service,1) (standards,1) (infrastructure,1) (innovation,1) 
+
+13830 2 0 13 (implementing,1) (strategies,1) (digital,1) (pay,1) (television,1) (europe,1) (case,1) (greece,1) (redundant,1) (information,1) (society,1) (european,1) (union,1) 
+
+13831 3 6 13832 14473 14474 14475 14746 14747 26 (predicting,2) (acceptance,2) (cloud-based,1) (virtual,1) (learning,1) (environment,1) (roles,1) (self,1) (determination,1) (channel,1) (expansion,1) (theory,1) (nfc,1) (mobile,1) (credit,2) (card,1) (frontier,2) (payment,1) (understanding,1) (motivators,1) (music,1) (multi-stage,1) (mra-artificial,1) (neural,1) (network,1) (approach,1) 
+
+13832 1 1 13831 12 (predicting,1) (acceptance,1) (cloud-based,1) (virtual,1) (learning,1) (environment,1) (roles,1) (self,1) (determination,1) (channel,1) (expansion,1) (theory,1) 
+
+14473 3 7 14474 14475 13831 14746 14747 14766 14767 20 (nfc,1) (mobile,4) (credit,3) (card,2) (frontier,1) (payment,1) (understanding,1) (predicting,1) (motivators,1) (music,1) (acceptance,1) (multi-stage,1) (mra-artificial,1) (neural,1) (network,1) (approach,1) (advertising,2) (changing,1) (landscape,1) (industry,1) 
+
+14474 3 7 14473 14475 13831 14746 14747 14766 14767 20 (nfc,1) (mobile,4) (credit,3) (card,2) (frontier,1) (payment,1) (understanding,1) (predicting,1) (motivators,1) (music,1) (acceptance,1) (multi-stage,1) (mra-artificial,1) (neural,1) (network,1) (approach,1) (advertising,2) (changing,1) (landscape,1) (industry,1) 
+
+14475 1 3 14473 14474 13831 6 (nfc,1) (mobile,2) (credit,1) (card,1) (frontier,1) (payment,1) 
+
+14746 1 4 14473 14747 14474 13831 11 (understanding,1) (predicting,1) (motivators,1) (mobile,1) (music,1) (acceptance,1) (multi-stage,1) (mra-artificial,1) (neural,1) (network,1) (approach,1) 
+
+14747 1 4 14746 14473 14474 13831 11 (understanding,1) (predicting,1) (motivators,1) (mobile,1) (music,1) (acceptance,1) (multi-stage,1) (mra-artificial,1) (neural,1) (network,1) (approach,1) 
+
+14766 1 3 14473 14767 14474 5 (mobile,1) (advertising,2) (changing,1) (landscape,1) (industry,1) 
+
+14767 1 3 14766 14473 14474 5 (mobile,1) (advertising,2) (changing,1) (landscape,1) (industry,1) 
+
+13833 1 1 13834 6 (future,1) (business,1) (relationships--traditional,1) (electronic,1) (virtual,1) (hybrid,1) 
+
+13834 2 1 13833 8 (future,1) (business,1) (relationships--traditional,1) (electronic,1) (virtual,1) (hybrid,1) (alliance,1) (enigmas,1) 
+
+13835 1 1 13836 5 (brief,1) (history,1) (mobile,1) (communication,1) (europe,1) 
+
+13836 1 1 13835 5 (brief,1) (history,1) (mobile,1) (communication,1) (europe,1) 
+
+13837 1 0 11 (examining,1) (users,1) (intention,1) (continue,1) (using,1) (social,1) (network,1) (games,1) (flow,1) (experience,1) (perspective,1) 
+
+13838 1 0 8 (file-sharing--fight,1) (ignore,1) (compete,1) (paid,1) (download,1) (services,1) (vs,1) (p-networks,1) 
+
+13839 2 0 14 (want,1) (specifically,1) (cell,2) (phone,2) (age,1) (related,1) (study,2) (usage,1) (broad,1) (feature,1) (preferences,1) (finnish,1) (undergraduate,1) (students,1) 
+
+13840 1 0 11 (icann,2) (eu,1) (internet,1) (governance,2) (europe,1) (role,1) (formation,1) (corporation,1) (assigned,1) (names,1) (numbers,1) 
+
+13841 1 1 13842 7 (news,2) (consumption,1) (changing,1) (media,1) (ecology,1) (mesm-study,1) (mobile,1) 
+
+13842 2 2 13841 13993 14 (news,2) (consumption,1) (changing,1) (media,1) (ecology,1) (mesm-study,1) (mobile,2) (lifestyle,1) (behavior,1) (closer,1) (look,1) (situational,1) (context,1) (communication,1) 
+
+13993 1 1 13842 8 (lifestyle,1) (behavior,1) (closer,1) (look,1) (situational,1) (context,1) (mobile,1) (communication,1) 
+
+13846 1 2 13847 13848 12 (online,1) (ideal,1) (persona,1) (vs,1) (jealousy,1) (effect,1) (explanations,1) (selfies,1) (associated,1) (lower-quality,1) (romantic,1) (relationships,1) 
+
+13847 1 2 13846 13848 12 (online,1) (ideal,1) (persona,1) (vs,1) (jealousy,1) (effect,1) (explanations,1) (selfies,1) (associated,1) (lower-quality,1) (romantic,1) (relationships,1) 
+
+13848 1 2 13846 13847 12 (online,1) (ideal,1) (persona,1) (vs,1) (jealousy,1) (effect,1) (explanations,1) (selfies,1) (associated,1) (lower-quality,1) (romantic,1) (relationships,1) 
+
+13849 5 8 13850 13851 13852 14144 14145 14301 13963 14485 30 (living,1) (lab,1) (research,1) (approach,1) (mobile,4) (tv,3) (access,2) (premium,1) (content,1) (television,3) (platforms,2) (case,1) (sports,1) (context,1) (integrating,1) (trial,1) (expert,1) (user,1) (findings,1) (forecasting,1) (broadband,1) (internet,1) (adoption,2) (trains,1) (belgium,1) (new,1) (media,1) (usage,1) (flemish,1) (youngsters,1) 
+
+13850 1 3 13849 13851 13852 6 (living,1) (lab,1) (research,1) (approach,1) (mobile,1) (tv,1) 
+
+13851 7 12 13849 13850 13852 13963 14144 14145 14301 14327 14328 14329 14330 14485 48 (living,1) (lab,1) (research,1) (approach,1) (mobile,4) (tv,3) (ict-innovations,2) (today,1) (making,1) (traditional,1) (diffusion,1) (patterns,1) (obsolete,1) (preliminary,1) (insight,1) (increased,1) (importance,1) (access,1) (premium,1) (content,1) (television,3) (platforms,2) (case,1) (sports,1) (context,1) (integrating,1) (trial,1) (expert,1) (user,1) (findings,1) (services,1) (stupid,1) (identifying,1) (killer,1) (applications,1) (next-generation,1) (networks,1) (forecasting,1) (broadband,1) (internet,1) (adoption,2) (trains,1) (belgium,1) (new,1) (media,1) (usage,1) (flemish,1) (youngsters,1) 
+
+13852 7 12 13849 13850 13851 13913 14144 14145 14301 14327 14328 14329 14330 13963 45 (living,1) (lab,1) (research,1) (approach,1) (mobile,4) (tv,3) (mergers,2) (acquisitions,1) (broadcasting,2) (distribution,2) (challenges,1) (competition,1) (industrial,1) (media,1) (policy,1) (access,1) (premium,1) (content,1) (television,1) (platforms,4) (case,3) (sports,2) (context,1) (integrating,1) (trial,1) (expert,1) (user,1) (findings,1) (services,1) (stupid,1) (identifying,1) (killer,1) (applications,1) (next-generation,1) (networks,1) (forecasting,1) (broadband,1) (internet,1) (adoption,1) (trains,1) (belgium,1) (economic,1) (dimensions,1) (emerging,1) (policies,1) 
+
+14144 1 4 13852 14145 13849 13851 8 (access,1) (premium,1) (content,1) (mobile,2) (television,1) (platforms,1) (case,1) (sports,1) 
+
+14145 2 5 13852 14144 13849 13851 14482 21 (access,1) (premium,1) (content,2) (mobile,1) (television,2) (platforms,1) (case,1) (sports,1) (graduated,1) (regulation,1) (regulatable,1) (european,1) (audiovisual,1) (media,1) (services,1) (directive,1) (step,1) (industry,1) (giant,1) (leap,1) (legislator,1) 
+
+14301 1 3 13849 13851 13852 9 (content,1) (context,1) (mobile,1) (television,1) (integrating,1) (trial,1) (expert,1) (user,1) (findings,1) 
+
+13963 2 3 13851 13852 13849 17 (ict-innovations,1) (today,1) (making,1) (traditional,1) (diffusion,1) (patterns,1) (obsolete,1) (preliminary,1) (insight,1) (increased,1) (importance,1) (forecasting,1) (broadband,1) (internet,1) (adoption,1) (trains,1) (belgium,1) 
+
+14485 1 2 13849 13851 6 (new,1) (media,1) (adoption,1) (usage,1) (flemish,1) (youngsters,1) 
+
+14327 1 5 13852 14328 14329 14330 13851 7 (services,1) (stupid,1) (identifying,1) (killer,1) (applications,1) (next-generation,1) (networks,1) 
+
+14328 1 5 13852 14327 14329 14330 13851 7 (services,1) (stupid,1) (identifying,1) (killer,1) (applications,1) (next-generation,1) (networks,1) 
+
+14329 1 5 13852 14327 14328 14330 13851 7 (services,1) (stupid,1) (identifying,1) (killer,1) (applications,1) (next-generation,1) (networks,1) 
+
+14330 1 5 13852 14327 14328 14329 13851 7 (services,1) (stupid,1) (identifying,1) (killer,1) (applications,1) (next-generation,1) (networks,1) 
+
+13913 2 1 13852 15 (mergers,1) (acquisitions,1) (tv,1) (broadcasting,1) (distribution,2) (challenges,1) (competition,1) (industrial,1) (media,1) (policy,1) (television,1) (economic,1) (dimensions,1) (emerging,1) (policies,1) 
+
+14482 1 1 14145 14 (graduated,1) (regulation,1) (regulatable,1) (content,1) (european,1) (audiovisual,1) (media,1) (services,1) (directive,1) (step,1) (industry,1) (giant,1) (leap,1) (legislator,1) 
+
+13856 1 2 13857 13858 7 (potential,1) (dimensions,1) (local,1) (e-government,1) (services,1) (quality,1) (model,1) 
+
+13857 1 2 13856 13858 7 (potential,1) (dimensions,1) (local,1) (e-government,1) (services,1) (quality,1) (model,1) 
+
+13858 1 2 13856 13857 7 (potential,1) (dimensions,1) (local,1) (e-government,1) (services,1) (quality,1) (model,1) 
+
+13859 1 2 13860 13861 5 (multimedia,1) (friendly,1) (home,1) (wireless,1) (lans,1) 
+
+13860 1 2 13859 13861 5 (multimedia,1) (friendly,1) (home,1) (wireless,1) (lans,1) 
+
+13861 1 2 13859 13860 5 (multimedia,1) (friendly,1) (home,1) (wireless,1) (lans,1) 
+
+13862 1 1 13863 6 (hong,1) (kong,1) (singapore,1) (models,1) (telecommunications,1) (regulations,1) 
+
+13863 1 1 13862 6 (hong,1) (kong,1) (singapore,1) (models,1) (telecommunications,1) (regulations,1) 
+
+13864 1 0 5 (fixed,1) (mobile,1) (internet,1) (convergence,1) (fmic,1) 
+
+13865 1 0 10 (internet-based,1) (social,1) (sharing,1) (new,1) (form,1) (global,1) (production,1) (case,1) (seti,1) (home,1) 
+
+13866 1 1 13867 7 (yearning,1) (center,2) (parallels,1) (reversals,1) (chaco,1) (hubble,1) (facebook,1) 
+
+13867 1 1 13866 7 (yearning,1) (center,2) (parallels,1) (reversals,1) (chaco,1) (hubble,1) (facebook,1) 
+
+13868 1 1 13869 11 (journalism,1) (ethics,2) (digital,1) (environment,1) (journalistic,1) (codes,1) (adapted,1) (internet,1) (icts,1) (countries,1) (world,1) 
+
+13869 1 1 13868 11 (journalism,1) (ethics,2) (digital,1) (environment,1) (journalistic,1) (codes,1) (adapted,1) (internet,1) (icts,1) (countries,1) (world,1) 
+
+13870 1 1 13871 5 (milamu,1) (micro-language,1) (manipulating,1) (multimedia,1) (documents,1) 
+
+13871 4 2 13870 13949 18 (milamu,1) (micro-language,1) (manipulating,1) (multimedia,1) (documents,1) (mobile,3) (computing,3) (ubiquitous,2) (networking,2) (concepts,1) (technologies,2) (challenges,1) (technological,1) (developments,1) (socio-economic,1) (issues,1) (wireless,1) (communications,1) 
+
+13949 1 1 13871 7 (technological,1) (developments,1) (socio-economic,1) (issues,1) (wireless,1) (mobile,1) (communications,1) 
+
+13872 1 3 13873 13874 13875 8 (expectation-confirmation,1) (model,1) (continuance,1) (intention,1) (use,1) (mobile,1) (instant,1) (messaging,1) 
+
+13873 2 6 13872 13874 13875 13966 13967 13968 13 (expectation-confirmation,1) (model,1) (continuance,1) (intention,1) (use,2) (mobile,2) (instant,1) (messaging,1) (gratifications,1) (snss,1) (facebook,1) (kakaotalk,1) (korea,1) 
+
+13874 2 5 13872 13873 13875 14556 14557 18 (expectation-confirmation,1) (model,1) (continuance,1) (intention,1) (use,1) (mobile,1) (instant,1) (messaging,1) (determinants,1) (customer,1) (loyalty,1) (korean,1) (smartphone,1) (market,1) (moderating,1) (effects,1) (usage,1) (characteristics,1) 
+
+13875 4 10 13872 13873 13874 13966 13967 13968 14440 14441 14556 14557 27 (expectation-confirmation,1) (model,1) (continuance,1) (intention,1) (use,2) (mobile,2) (instant,1) (messaging,1) (gratifications,1) (snss,1) (facebook,1) (kakaotalk,1) (korea,1) (effects,2) (service,1) (interactivity,1) (satisfaction,1) (loyalty,1) (smartphone,2) (users,2) (determinants,1) (customer,1) (korean,1) (market,1) (moderating,1) (usage,1) (characteristics,1) 
+
+13966 1 4 13967 13873 13875 13968 7 (use,1) (gratifications,1) (mobile,1) (snss,1) (facebook,1) (kakaotalk,1) (korea,1) 
+
+13967 1 4 13966 13873 13875 13968 7 (use,1) (gratifications,1) (mobile,1) (snss,1) (facebook,1) (kakaotalk,1) (korea,1) 
+
+13968 2 6 13966 13967 13873 13875 14440 14441 14 (use,1) (gratifications,1) (mobile,1) (snss,1) (facebook,1) (kakaotalk,1) (korea,1) (effects,1) (service,1) (interactivity,1) (satisfaction,1) (loyalty,1) (smartphone,1) (users,1) 
+
+14556 2 3 13874 13875 14557 19 (determinants,1) (customer,1) (loyalty,1) (korean,1) (smartphone,1) (market,1) (moderating,1) (effects,1) (usage,2) (characteristics,1) (factors,1) (influencing,1) (low,1) (smart,1) (tv,1) (services,1) (terminal,1) (buyers,1) (korea,1) 
+
+14557 2 3 14556 13874 13875 19 (determinants,1) (customer,1) (loyalty,1) (korean,1) (smartphone,1) (market,1) (moderating,1) (effects,1) (usage,2) (characteristics,1) (factors,1) (influencing,1) (low,1) (smart,1) (tv,1) (services,1) (terminal,1) (buyers,1) (korea,1) 
+
+14440 1 3 13875 13968 14441 7 (effects,1) (service,1) (interactivity,1) (satisfaction,1) (loyalty,1) (smartphone,1) (users,1) 
+
+14441 1 3 14440 13875 13968 7 (effects,1) (service,1) (interactivity,1) (satisfaction,1) (loyalty,1) (smartphone,1) (users,1) 
+
+13876 3 4 13877 13926 14179 14320 28 (social,3) (media,2) (analyzing,2) (organizations,1) (usage,1) (patterns,1) (people,1) (access,1) (news,1) (mobile,2) (devices,1) (exploring,2) (role,2) (suitability,1) (perception,1) (motives,1) (use,1) (participatory,1) (deliberative,1) (democracy,1) (mediation,1) (effects,1) (perceived,1) (online,1) (deliberation,2) (interactive,1) (activities,1) (outcomes,1) 
+
+13877 3 4 13876 13926 14179 14320 28 (social,3) (media,2) (analyzing,2) (organizations,1) (usage,1) (patterns,1) (people,1) (access,1) (news,1) (mobile,2) (devices,1) (exploring,2) (role,2) (suitability,1) (perception,1) (motives,1) (use,1) (participatory,1) (deliberative,1) (democracy,1) (mediation,1) (effects,1) (perceived,1) (online,1) (deliberation,2) (interactive,1) (activities,1) (outcomes,1) 
+
+13926 2 4 13927 13877 14179 13876 20 (peer-group,1) (pressure,1) (moderator,1) (relationship,1) (attitude,1) (cyberbullying,2) (behaviors,1) (mobile,3) (instant,2) (messengers,1) (people,1) (access,1) (news,2) (devices,1) (exploring,1) (role,1) (suitability,1) (perception,1) (motives,1) (use,1) 
+
+14179 2 4 13926 13877 13876 14320 23 (people,1) (access,1) (news,2) (mobile,1) (devices,2) (exploring,2) (role,1) (suitability,1) (perception,1) (motives,1) (use,1) (participatory,1) (deliberative,1) (democracy,1) (mediation,1) (effects,1) (perceived,1) (online,2) (deliberation,1) (interactive,1) (activities,1) (social,1) (outcomes,1) 
+
+14320 1 3 13877 14179 13876 13 (participatory,1) (deliberative,1) (democracy,1) (exploring,1) (mediation,1) (effects,1) (perceived,1) (online,2) (deliberation,1) (interactive,1) (activities,1) (social,1) (outcomes,1) 
+
+13927 1 1 13926 10 (peer-group,1) (pressure,1) (moderator,1) (relationship,1) (attitude,1) (cyberbullying,2) (behaviors,1) (mobile,1) (instant,1) (messengers,1) 
+
+13878 1 1 13879 6 (rapidly,1) (co-evolving,1) (technology,1) (adoption,1) (diffusion,1) (models,1) 
+
+13879 1 1 13878 6 (rapidly,1) (co-evolving,1) (technology,1) (adoption,1) (diffusion,1) (models,1) 
+
+13882 1 3 13883 13884 13885 6 (factors,1) (affecting,1) (internet,1) (use,1) (saturated-access,1) (population,1) 
+
+13883 2 6 13882 13884 13885 14788 14789 14790 15 (factors,1) (affecting,1) (internet,1) (use,1) (saturated-access,1) (population,1) (motivations,1) (predictors,1) (information,1) (source,1) (perceptions,1) (traditional,1) (media,1) (new,1) (technologies,1) 
+
+13884 2 6 13882 13883 13885 14788 14789 14790 15 (factors,1) (affecting,1) (internet,1) (use,1) (saturated-access,1) (population,1) (motivations,1) (predictors,1) (information,1) (source,1) (perceptions,1) (traditional,1) (media,1) (new,1) (technologies,1) 
+
+13885 1 3 13882 13883 13884 6 (factors,1) (affecting,1) (internet,1) (use,1) (saturated-access,1) (population,1) 
+
+14788 1 4 13883 13884 14789 14790 9 (motivations,1) (predictors,1) (information,1) (source,1) (perceptions,1) (traditional,1) (media,1) (new,1) (technologies,1) 
+
+14789 1 4 13883 13884 14788 14790 9 (motivations,1) (predictors,1) (information,1) (source,1) (perceptions,1) (traditional,1) (media,1) (new,1) (technologies,1) 
+
+14790 1 4 13883 13884 14788 14789 9 (motivations,1) (predictors,1) (information,1) (source,1) (perceptions,1) (traditional,1) (media,1) (new,1) (technologies,1) 
+
+13886 2 1 13887 19 (exploring,1) (fluctuations,1) (citizen,1) (engagement,1) (local,1) (government,1) (facebook,1) (page,1) (japan,2) (wsis,1) (declaration,1) (principle,1) (plan,1) (action,1) (work,1) (digital,1) (stratification,1) (japanese,1) (society,1) 
+
+13887 1 1 13886 9 (exploring,1) (fluctuations,1) (citizen,1) (engagement,1) (local,1) (government,1) (facebook,1) (page,1) (japan,1) 
+
+13888 2 3 14237 14238 14239 18 (introducing,1) (cognitive,1) (systems,1) (wireless,1) (world,1) (motivations,1) (basic,1) (engineering,1) (challenges,1) (management,1) (scheme,1) (improving,1) (transportation,1) (efficiency,1) (contributing,1) (enhancement,1) (social,1) (fabric,1) 
+
+14237 1 3 14238 14239 13888 9 (management,1) (scheme,1) (improving,1) (transportation,1) (efficiency,1) (contributing,1) (enhancement,1) (social,1) (fabric,1) 
+
+14238 1 3 14237 14239 13888 9 (management,1) (scheme,1) (improving,1) (transportation,1) (efficiency,1) (contributing,1) (enhancement,1) (social,1) (fabric,1) 
+
+14239 1 3 14237 14238 13888 9 (management,1) (scheme,1) (improving,1) (transportation,1) (efficiency,1) (contributing,1) (enhancement,1) (social,1) (fabric,1) 
+
+13893 2 1 14584 18 (exploring,1) (perceptions,1) (online,2) (sport,1) (commentary,1) (test,1) (disposition,1) (effects,1) (hypothesis,1) (role,1) (website,1) (format,1) (blog,1) (use,1) (information-gathering,1) (acquaintance,1) (message,1) (assessment,1) 
+
+14584 1 1 13893 10 (role,1) (website,1) (format,1) (blog,1) (use,1) (information-gathering,1) (acquaintance,1) (online,1) (message,1) (assessment,1) 
+
+13896 1 0 7 (community,1) (informatics,1) (enabling,1) (communities,1) (information,1) (communication,1) (technologies,1) 
+
+13897 1 1 13898 6 (connected,1) (longitudinal,1) (field,1) (study,1) (mobile,1) (communication,1) 
+
+13898 1 1 13897 6 (connected,1) (longitudinal,1) (field,1) (study,1) (mobile,1) (communication,1) 
+
+13899 1 0 9 (bhoomi,1) (gyan,1) (ganga,1) (e-governance,1) (right,1) (information,1) (icts,1) (development,1) (india,1) 
+
+13900 1 1 13901 8 (model,1) (online,1) (game,1) (addiction,1) (role,1) (computer-mediated,1) (communication,1) (motives,1) 
+
+13901 1 1 13900 8 (model,1) (online,1) (game,1) (addiction,1) (role,1) (computer-mediated,1) (communication,1) (motives,1) 
+
+13902 2 1 14198 20 (mobile,1) (city,2) (applications,1) (brussels,1) (citizens,1) (smart,1) (trends,1) (challenges,1) (reality,1) (check,1) (high,2) (hopes,1) (deficit,1) (historic,1) (overview,1) (europe,1) (hdtv,2) (policy,1) (reflections,1) (future,1) 
+
+14198 1 1 13902 10 (high,2) (hopes,1) (deficit,1) (historic,1) (overview,1) (europe,1) (hdtv,2) (policy,1) (reflections,1) (future,1) 
+
+13903 3 2 14057 14425 12 (conference,1) (report,1) (community,3) (media,3) (ecrea,2) (ecc,3) (context,2) (european,1) (policies,1) (introduction,1) (long,1) (march,1) 
+
+14057 1 1 13903 5 (community,1) (media,2) (context,1) (european,1) (policies,1) 
+
+14425 2 2 13903 14470 14 (introduction,1) (community,1) (media,1) (long,1) (march,1) (mapping,1) (rhizome,1) (organizational,1) (informational,1) (networks,1) (brussels,1) (alternative,1) (radio,1) (stations,1) 
+
+14470 1 1 14425 9 (mapping,1) (rhizome,1) (organizational,1) (informational,1) (networks,1) (brussels,1) (alternative,1) (radio,1) (stations,1) 
+
+13904 1 0 9 (virtual,2) (space,1) (real,1) (identity,1) (exploring,2) (cultural,1) (chinese,1) (diaspora,1) (community,1) 
+
+13905 1 0 10 (culture,1) (consequences,1) (economic,1) (barriers,1) (owning,1) (mobile,1) (phones,1) (experienced,1) (women,1) (india,1) 
+
+13906 1 2 13907 13908 6 (structural,1) (features,1) (deliberative,1) (quality,1) (online,1) (discussions,1) 
+
+13907 1 2 13906 13908 6 (structural,1) (features,1) (deliberative,1) (quality,1) (online,1) (discussions,1) 
+
+13908 1 2 13906 13907 6 (structural,1) (features,1) (deliberative,1) (quality,1) (online,1) (discussions,1) 
+
+13909 1 2 13910 13911 12 (competitive,1) (dynamics,1) (korean,1) (video,1) (platform,1) (market,1) (traditional,1) (pay,1) (tv,1) (platforms,2) (vs,1) (ott,1) 
+
+13910 5 5 13909 13911 14130 14177 14379 45 (competitive,1) (dynamics,1) (korean,2) (video,1) (platform,1) (market,1) (traditional,1) (pay,1) (tv,1) (platforms,1) (vs,2) (ott,1) (firm,1) (characteristics,1) (influencing,1) (extent,1) (electronic,1) (billing,1) (adoption,1) (empirical,1) (study,2) (telecommunication,1) (industry,2) (telecommunications,1) (technology,1) (failed,2) (case,1) (wibro,1) (response,1) (potential,1) (information,1) (risk,1) (users,1) (valuation,1) (electromagnetic,1) (field,1) (mobile,1) (phones,1) (economic,1) (analysis,1) (wireless,1) (telephone,1) (responses,1) (new,1) (technologies,1) 
+
+13911 2 3 13909 13910 14130 18 (competitive,1) (dynamics,1) (korean,2) (video,1) (platform,1) (market,1) (traditional,1) (pay,1) (tv,1) (platforms,1) (vs,2) (ott,1) (telecommunications,1) (technology,1) (failed,1) (case,1) (study,1) (wibro,1) 
+
+14130 1 2 13910 13911 7 (korean,1) (telecommunications,1) (technology,1) (failed,1) (case,1) (study,1) (wibro,1) 
+
+14177 2 2 13910 14295 16 (response,1) (potential,1) (information,1) (technology,1) (risk,1) (users,1) (valuation,1) (electromagnetic,1) (field,1) (mobile,1) (phones,1) (meaning,1) (virtual,2) (entrepreneurship,1) (social,1) (worlds,1) 
+
+14379 1 1 13910 8 (economic,1) (analysis,1) (wireless,1) (telephone,1) (industry,1) (responses,1) (new,1) (technologies,1) 
+
+14295 1 1 14177 5 (meaning,1) (virtual,2) (entrepreneurship,1) (social,1) (worlds,1) 
+
+13914 1 1 13915 8 (discourse,1) (forbidden,1) (realm,1) (internet,1) (surveillance,1) (implications,1) (china,1) (blogosphere,1) 
+
+13915 2 2 13914 14383 16 (discourse,1) (forbidden,1) (realm,1) (internet,2) (surveillance,1) (implications,1) (china,2) (blogosphere,1) (split,1) (swaying,1) (approach,1) (building,1) (information,1) (society,1) (case,1) (cafes,1) 
+
+14383 1 1 13915 10 (split,1) (swaying,1) (approach,1) (building,1) (information,1) (society,1) (case,1) (internet,1) (cafes,1) (china,1) 
+
+13916 1 1 13917 13 (satisfaction,1) (outcome,1) (process,1) (web-based,1) (meetings,1) (idea,1) (generation,1) (selection,1) (roles,1) (instrumentality,1) (enjoyment,1) (interface,1) (design,1) 
+
+13917 1 1 13916 13 (satisfaction,1) (outcome,1) (process,1) (web-based,1) (meetings,1) (idea,1) (generation,1) (selection,1) (roles,1) (instrumentality,1) (enjoyment,1) (interface,1) (design,1) 
+
+13920 4 1 14272 26 (online,1) (blackmail,1) (czech,3) (children,3) (focused,2) (so-called,4) (sextortion,3) (analysis,2) (culprit,1) (victim,1) (behaviors,1) (facebook,1) (quantitative,1) (survey,1) (youth,1) (safety,1) (internet,1) (experiences,1) (republic,1) (poland,1) (misuse,1) (web,1) (cameras,1) (manipulate,1) (webcam,1) (trolling,1) 
+
+14272 1 1 13920 8 (children,1) (youth,1) (safety,1) (internet,1) (experiences,1) (czech,1) (republic,1) (poland,1) 
+
+13921 1 2 13922 13923 6 (functional,1) (separation,1) (european,1) (union,1) (debates,1) (challenges,1) 
+
+13922 4 4 13921 13923 14203 14204 25 (functional,1) (separation,1) (european,1) (union,1) (debates,1) (challenges,1) (exploring,1) (differences,1) (broadband,2) (access,1) (speeds,3) (glasgow,2) (public,1) (library,2) (internet,1) (areas,1) (deprivation,1) (case,1) (equality,1) (local,1) (loop,1) (unbundling,1) (uk,1) (telecommunications,1) (market,1) 
+
+13923 2 2 13921 13922 15 (functional,1) (separation,1) (european,1) (union,1) (debates,1) (challenges,1) (equality,1) (access,1) (local,1) (loop,1) (unbundling,1) (uk,1) (broadband,1) (telecommunications,1) (market,1) 
+
+14203 1 2 13922 14204 6 (exploring,1) (differences,1) (broadband,1) (access,1) (speeds,1) (glasgow,1) 
+
+14204 2 2 14203 13922 12 (exploring,1) (differences,1) (broadband,1) (access,2) (speeds,1) (glasgow,2) (public,1) (library,1) (internet,1) (areas,1) (deprivation,1) (case,1) 
+
+13924 5 1 13928 36 (study,2) (mobile,2) (number,1) (portability,1) (effects,1) (united,1) (states,1) (mvno,1) (diffusion,1) (market,1) (structure,1) (eu,1) (hong,1) (kong,1) (singapore,1) (virtual,1) (gratifications,1) (wireless,2) (internet,1) (portable,2) (reinforced,2) (unrealized,1) (voip,1) (debate,1) (information,1) (service,1) (telephone,1) (application,2) (new,1) (perspective,1) (convergence,1) (era,1) (prospectus,1) (tv,1) (bubble,1) (killer,1) 
+
+13928 1 1 13924 9 (study,1) (mvno,1) (diffusion,1) (market,1) (structure,1) (eu,1) (hong,1) (kong,1) (singapore,1) 
+
+13925 1 0 7 (globalization,1) (heterogenization,1) (cultural,1) (civilizational,1) (clustering,1) (telecommunicative,1) (space,1) 
+
+13929 1 0 11 (social,2) (networking,2) (time,1) (use,1) (scale,2) (sontus,1) (new,1) (instrument,1) (measuring,1) (spent,1) (sites,1) 
+
+13930 1 5 13931 13932 13933 13934 13935 9 (digital,1) (cities,1) (future,1) (extending,1) (home,1) (assistive,1) (technologies,1) (elderly,1) (disabled,1) 
+
+13931 1 5 13930 13932 13933 13934 13935 9 (digital,1) (cities,1) (future,1) (extending,1) (home,1) (assistive,1) (technologies,1) (elderly,1) (disabled,1) 
+
+13932 1 5 13930 13931 13933 13934 13935 9 (digital,1) (cities,1) (future,1) (extending,1) (home,1) (assistive,1) (technologies,1) (elderly,1) (disabled,1) 
+
+13933 1 5 13930 13931 13932 13934 13935 9 (digital,1) (cities,1) (future,1) (extending,1) (home,1) (assistive,1) (technologies,1) (elderly,1) (disabled,1) 
+
+13934 1 5 13930 13931 13932 13933 13935 9 (digital,1) (cities,1) (future,1) (extending,1) (home,1) (assistive,1) (technologies,1) (elderly,1) (disabled,1) 
+
+13935 1 5 13930 13931 13932 13933 13934 9 (digital,1) (cities,1) (future,1) (extending,1) (home,1) (assistive,1) (technologies,1) (elderly,1) (disabled,1) 
+
+13936 1 1 13937 6 (talking,1) (shop--contact,1) (centres,1) (dimensions,1) (social,1) (exclusion,1) 
+
+13937 1 1 13936 6 (talking,1) (shop--contact,1) (centres,1) (dimensions,1) (social,1) (exclusion,1) 
+
+13938 2 0 15 (measuring,1) (information,2) (society,1) (dynamics,1) (european,1) (data,1) (usage,1) (communication,2) (technologies,1) (europe,2) (systematic,1) (study,1) (internet-based,1) (political,1) (social,1) 
+
+13939 1 1 13940 6 (use,1) (facebook,1) (political,1) (commentary,1) (south,1) (africa,1) 
+
+13940 1 1 13939 6 (use,1) (facebook,1) (political,1) (commentary,1) (south,1) (africa,1) 
+
+13941 1 3 13942 13943 13944 15 (cultivation,1) (effects,1) (mass,1) (social,1) (media,1) (perceptions,1) (behavioural,1) (intentions,1) (post-disaster,1) (recovery,1) (case,1) (great,1) (east,1) (japan,1) (earthquake,1) 
+
+13942 2 3 13941 13943 13944 27 (cultivation,1) (effects,1) (mass,1) (social,1) (media,1) (perceptions,1) (behavioural,1) (intentions,1) (post-disaster,1) (recovery,1) (case,1) (great,1) (east,1) (japan,1) (earthquake,1) (rich,1) (information,1) (environmental,1) (issues,1) (poor,1) (reflections,1) (consumers,1) (green,1) (actions,1) (behavioral,1) (economic,1) (approach,1) 
+
+13943 2 3 13941 13942 13944 27 (cultivation,1) (effects,1) (mass,1) (social,1) (media,1) (perceptions,1) (behavioural,1) (intentions,1) (post-disaster,1) (recovery,1) (case,1) (great,1) (east,1) (japan,1) (earthquake,1) (rich,1) (information,1) (environmental,1) (issues,1) (poor,1) (reflections,1) (consumers,1) (green,1) (actions,1) (behavioral,1) (economic,1) (approach,1) 
+
+13944 1 3 13941 13942 13943 15 (cultivation,1) (effects,1) (mass,1) (social,1) (media,1) (perceptions,1) (behavioural,1) (intentions,1) (post-disaster,1) (recovery,1) (case,1) (great,1) (east,1) (japan,1) (earthquake,1) 
+
+13948 1 0 7 (businesses,1) (need,1) (speed,2) (impact,1) (broadband,1) (business,1) (presence,1) 
+
+13960 6 9 13961 13962 14306 14307 14505 14506 14533 14534 14535 41 (examining,1) (information,3) (sharing,3) (social,3) (networking,2) (communities,1) (applying,1) (theories,3) (capital,2) (attachment,1) (use,2) (media,1) (travel,2) (search,1) (understanding,1) (continued,1) (ubiquitous,1) (decision,2) (support,1) (usage,1) (behaviour,2) (communication,1) (types,1) (transactive,1) (memory,1) (systems,1) (perspective,2) (dual-route,1) (persuasive,1) (communications,1) (mobile,1) (tourism,1) (shopping,1) (exploring,1) (antecedents,1) (behavior,1) (intention,1) (internet,1) (banking,1) (korea,1) (adoption,1) 
+
+13961 1 2 13960 13962 10 (examining,1) (information,1) (sharing,1) (social,2) (networking,1) (communities,1) (applying,1) (theories,1) (capital,1) (attachment,1) 
+
+13962 2 2 13960 13961 14 (examining,1) (information,2) (sharing,1) (social,1) (networking,3) (communities,2) (applying,1) (theories,1) (capital,1) (attachment,1) (use,1) (media,1) (travel,1) (search,1) 
+
+14306 2 2 13960 14307 17 (understanding,1) (continued,1) (ubiquitous,1) (decision,1) (support,1) (usage,1) (behaviour,1) (exploring,1) (antecedents,1) (behavior,1) (intention,1) (use,1) (internet,1) (banking,1) (korea,1) (adoption,1) (perspective,1) 
+
+14307 1 2 14306 13960 7 (understanding,1) (continued,1) (ubiquitous,1) (decision,1) (support,1) (usage,1) (behaviour,1) 
+
+14505 1 2 13960 14506 12 (understanding,1) (communication,1) (types,1) (travel,1) (information,1) (sharing,1) (social,1) (media,1) (transactive,1) (memory,1) (systems,1) (perspective,1) 
+
+14506 1 2 13960 14505 12 (understanding,1) (communication,1) (types,1) (travel,1) (information,1) (sharing,1) (social,1) (media,1) (transactive,1) (memory,1) (systems,1) (perspective,1) 
+
+14533 1 3 13960 14534 14535 6 (dual-route,1) (persuasive,1) (communications,1) (mobile,1) (tourism,1) (shopping,1) 
+
+14534 1 3 14533 13960 14535 6 (dual-route,1) (persuasive,1) (communications,1) (mobile,1) (tourism,1) (shopping,1) 
+
+14535 1 3 14533 13960 14534 6 (dual-route,1) (persuasive,1) (communications,1) (mobile,1) (tourism,1) (shopping,1) 
+
+13964 1 1 13965 14 (effects,1) (internet,1) (usage,1) (financial,1) (development,1) (trade,1) (openness,1) (economic,1) (growth,1) (south,1) (africa,1) (time,1) (series,1) (analysis,1) 
+
+13965 1 1 13964 14 (effects,1) (internet,1) (usage,1) (financial,1) (development,1) (trade,1) (openness,1) (economic,1) (growth,1) (south,1) (africa,1) (time,1) (series,1) (analysis,1) 
+
+13969 1 7 13970 13971 13972 13973 13974 13975 13976 9 (wearable,1) (mobile,1) (sensors,1) (connected,1) (social,1) (media,1) (human,1) (well-being,1) (applications,1) 
+
+13970 1 7 13969 13971 13972 13973 13974 13975 13976 9 (wearable,1) (mobile,1) (sensors,1) (connected,1) (social,1) (media,1) (human,1) (well-being,1) (applications,1) 
+
+13971 1 7 13969 13970 13972 13973 13974 13975 13976 9 (wearable,1) (mobile,1) (sensors,1) (connected,1) (social,1) (media,1) (human,1) (well-being,1) (applications,1) 
+
+13972 1 7 13969 13970 13971 13973 13974 13975 13976 9 (wearable,1) (mobile,1) (sensors,1) (connected,1) (social,1) (media,1) (human,1) (well-being,1) (applications,1) 
+
+13973 1 7 13969 13970 13971 13972 13974 13975 13976 9 (wearable,1) (mobile,1) (sensors,1) (connected,1) (social,1) (media,1) (human,1) (well-being,1) (applications,1) 
+
+13974 1 7 13969 13970 13971 13972 13973 13975 13976 9 (wearable,1) (mobile,1) (sensors,1) (connected,1) (social,1) (media,1) (human,1) (well-being,1) (applications,1) 
+
+13975 1 7 13969 13970 13971 13972 13973 13974 13976 9 (wearable,1) (mobile,1) (sensors,1) (connected,1) (social,1) (media,1) (human,1) (well-being,1) (applications,1) 
+
+13976 1 7 13969 13970 13971 13972 13973 13974 13975 9 (wearable,1) (mobile,1) (sensors,1) (connected,1) (social,1) (media,1) (human,1) (well-being,1) (applications,1) 
+
+13978 1 2 13979 13980 8 (network,1) (spillovers,1) (alternative,1) (efficiency,1) (argument,1) (universal,1) (service,1) (policy,1) 
+
+13979 1 2 13978 13980 8 (network,1) (spillovers,1) (alternative,1) (efficiency,1) (argument,1) (universal,1) (service,1) (policy,1) 
+
+13980 1 2 13978 13979 8 (network,1) (spillovers,1) (alternative,1) (efficiency,1) (argument,1) (universal,1) (service,1) (policy,1) 
+
+13981 1 3 13982 13983 13984 8 (mobile,1) (services,1) (handset,1) (bundling,1) (governmental,1) (policies,1) (competitive,1) (market,1) 
+
+13982 2 5 13981 13983 13984 14260 14261 16 (mobile,1) (services,1) (handset,1) (bundling,1) (governmental,1) (policies,1) (competitive,1) (market,1) (trust,1) (government,1) (social,1) (media,1) (service,1) (citizen,1) (patronage,1) (behavior,1) 
+
+13983 1 3 13981 13982 13984 8 (mobile,1) (services,1) (handset,1) (bundling,1) (governmental,1) (policies,1) (competitive,1) (market,1) 
+
+13984 2 5 13981 13982 13983 14260 14261 16 (mobile,1) (services,1) (handset,1) (bundling,1) (governmental,1) (policies,1) (competitive,1) (market,1) (trust,1) (government,1) (social,1) (media,1) (service,1) (citizen,1) (patronage,1) (behavior,1) 
+
+14260 1 3 13982 14261 13984 8 (trust,1) (government,1) (social,1) (media,1) (service,1) (citizen,1) (patronage,1) (behavior,1) 
+
+14261 1 3 13982 14260 13984 8 (trust,1) (government,1) (social,1) (media,1) (service,1) (citizen,1) (patronage,1) (behavior,1) 
+
+13985 1 2 13986 13987 11 (understanding,1) (influence,1) (communication,1) (purchase,1) (decision,1) (online,1) (communities,1) (perspective,1) (information,1) (adoption,1) (model,1) 
+
+13986 1 2 13985 13987 11 (understanding,1) (influence,1) (communication,1) (purchase,1) (decision,1) (online,1) (communities,1) (perspective,1) (information,1) (adoption,1) (model,1) 
+
+13987 1 2 13985 13986 11 (understanding,1) (influence,1) (communication,1) (purchase,1) (decision,1) (online,1) (communities,1) (perspective,1) (information,1) (adoption,1) (model,1) 
+
+13988 1 0 5 (diverging,1) (information,1) (societies,1) (asia,1) (pacific,1) 
+
+13989 1 2 13990 13991 9 (love,1) (tinder,2) (untangling,1) (emerging,1) (adults,1) (motivations,1) (using,1) (dating,1) (application,1) 
+
+13990 1 2 13989 13991 9 (love,1) (tinder,2) (untangling,1) (emerging,1) (adults,1) (motivations,1) (using,1) (dating,1) (application,1) 
+
+13991 1 2 13989 13990 9 (love,1) (tinder,2) (untangling,1) (emerging,1) (adults,1) (motivations,1) (using,1) (dating,1) (application,1) 
+
+13992 1 0 8 (napoleon,1) (internet,1) (historical,1) (anthropological,1) (view,1) (culture,1) (punctuality,1) (instantaneity,1) 
+
+13994 1 0 5 (developing,1) (culture,1) (privacy,1) (global,1) (village,1) 
+
+13997 1 1 13998 6 (netizen,1) (myths,1) (misbeliefs,1) (vs,1) (realities,1) (perspectives,1) 
+
+13998 1 1 13997 6 (netizen,1) (myths,1) (misbeliefs,1) (vs,1) (realities,1) (perspectives,1) 
+
+13999 1 1 14000 9 (adoption,1) (use,1) (mobile,1) (phone,1) (rural,1) (china,2) (case,1) (study,1) (hubei,1) 
+
+14000 1 1 13999 9 (adoption,1) (use,1) (mobile,1) (phone,1) (rural,1) (china,2) (case,1) (study,1) (hubei,1) 
+
+14006 1 0 5 (amarc,1) (years,1) (community,1) (media,1) (activism,1) 
+
+14007 1 0 7 (citizen,1) (participation,1) (uses,1) (mobile,1) (technology,1) (radio,1) (broadcasting,1) 
+
+14008 1 3 14009 14010 14011 8 (english,1) (version,1) (social,1) (networks,1) (adoption,1) (scale,1) (validation,1) (study,1) 
+
+14009 1 3 14008 14010 14011 8 (english,1) (version,1) (social,1) (networks,1) (adoption,1) (scale,1) (validation,1) (study,1) 
+
+14010 1 3 14008 14009 14011 8 (english,1) (version,1) (social,1) (networks,1) (adoption,1) (scale,1) (validation,1) (study,1) 
+
+14011 1 3 14008 14009 14010 8 (english,1) (version,1) (social,1) (networks,1) (adoption,1) (scale,1) (validation,1) (study,1) 
+
+14012 2 3 14340 14341 14342 17 (integrated,1) (adoption,1) (model,1) (e-books,1) (mobile,2) (environment,1) (evidence,1) (south,2) (korea,2) (acceptance,1) (rejection,1) (tv,1) (young,1) (adults,1) (case,1) (college,1) (students,1) 
+
+14340 2 5 14341 14342 14012 14791 14792 23 (acceptance,1) (rejection,1) (mobile,1) (tv,1) (young,1) (adults,1) (case,1) (college,1) (students,1) (south,1) (korea,1) (new,1) (dimension,1) (digital,1) (divide,1) (exploring,1) (relationship,1) (broadband,1) (connection,1) (smartphone,1) (use,1) (communication,1) (competence,1) 
+
+14341 1 3 14340 14342 14012 11 (acceptance,1) (rejection,1) (mobile,1) (tv,1) (young,1) (adults,1) (case,1) (college,1) (students,1) (south,1) (korea,1) 
+
+14342 1 3 14340 14341 14012 11 (acceptance,1) (rejection,1) (mobile,1) (tv,1) (young,1) (adults,1) (case,1) (college,1) (students,1) (south,1) (korea,1) 
+
+14791 1 2 14340 14792 12 (new,1) (dimension,1) (digital,1) (divide,1) (exploring,1) (relationship,1) (broadband,1) (connection,1) (smartphone,1) (use,1) (communication,1) (competence,1) 
+
+14792 1 2 14340 14791 12 (new,1) (dimension,1) (digital,1) (divide,1) (exploring,1) (relationship,1) (broadband,1) (connection,1) (smartphone,1) (use,1) (communication,1) (competence,1) 
+
+14013 1 3 14014 14015 14016 8 (empirical,1) (study,1) (adoption,1) (information,1) (appliances,1) (focus,1) (interactive,1) (tv,1) 
+
+14014 1 3 14013 14015 14016 8 (empirical,1) (study,1) (adoption,1) (information,1) (appliances,1) (focus,1) (interactive,1) (tv,1) 
+
+14015 1 3 14013 14014 14016 8 (empirical,1) (study,1) (adoption,1) (information,1) (appliances,1) (focus,1) (interactive,1) (tv,1) 
+
+14016 1 3 14013 14014 14015 8 (empirical,1) (study,1) (adoption,1) (information,1) (appliances,1) (focus,1) (interactive,1) (tv,1) 
+
+14017 1 2 14018 14019 10 (mapping,1) (users,1) (perspectives,1) (outlining,1) (social,1) (impacts,1) (digitalization,1) (terrestrial,1) (tv,1) (brazil,1) 
+
+14018 1 2 14017 14019 10 (mapping,1) (users,1) (perspectives,1) (outlining,1) (social,1) (impacts,1) (digitalization,1) (terrestrial,1) (tv,1) (brazil,1) 
+
+14019 1 2 14017 14018 10 (mapping,1) (users,1) (perspectives,1) (outlining,1) (social,1) (impacts,1) (digitalization,1) (terrestrial,1) (tv,1) (brazil,1) 
+
+14025 1 3 14026 14027 14028 6 (convergence,1) (action,1) (case,1) (study,1) (norwegian,1) (internet,1) 
+
+14026 1 3 14025 14027 14028 6 (convergence,1) (action,1) (case,1) (study,1) (norwegian,1) (internet,1) 
+
+14027 1 3 14025 14026 14028 6 (convergence,1) (action,1) (case,1) (study,1) (norwegian,1) (internet,1) 
+
+14028 1 3 14025 14026 14027 6 (convergence,1) (action,1) (case,1) (study,1) (norwegian,1) (internet,1) 
+
+14029 1 0 13 (access,1) (local,1) (language,1) (public,1) (sphere,1) (phone-in,1) (tv,1) (programme,1) (platform,1) (citizen,1) (journalism,1) (nigerian,1) (election,1) 
+
+14030 1 1 14031 13 (comparative,1) (study,1) (knowledge,1) (construction,1) (online,1) (user,1) (support,1) (discussion,1) (forums,1) (chinese,1) (english-language,1) (cultural,1) (contexts,1) 
+
+14031 1 1 14030 13 (comparative,1) (study,1) (knowledge,1) (construction,1) (online,1) (user,1) (support,1) (discussion,1) (forums,1) (chinese,1) (english-language,1) (cultural,1) (contexts,1) 
+
+14032 1 1 14033 6 (borders,1) (mobile,1) (handset,1) (ecosystems,1) (coopetition,1) (inevitable,1) 
+
+14033 1 1 14032 6 (borders,1) (mobile,1) (handset,1) (ecosystems,1) (coopetition,1) (inevitable,1) 
+
+14035 1 2 14036 14037 5 (e-hospice,1) (traditional,1) (boundaries,1) (palliative,1) (care,1) 
+
+14036 1 2 14035 14037 5 (e-hospice,1) (traditional,1) (boundaries,1) (palliative,1) (care,1) 
+
+14037 1 2 14035 14036 5 (e-hospice,1) (traditional,1) (boundaries,1) (palliative,1) (care,1) 
+
+14038 2 0 23 (ownership,1) (cultural,1) (expression,1) (speech,1) (amp,1) (culture,1) (new,1) (intellectual,1) (property,1) (rights,1) (regime,1) (european,1) (union,1) (inventing,1) (e-regulation,1) (eu,1) (east,1) (asia,1) (conflicting,1) (social,1) (visions,1) (information,1) (society,1) 
+
+14039 1 2 14040 14041 10 (icts,1) (radio,2) (africa,1) (uptake,1) (ict,1) (influenced,1) (newsroom,1) (culture,1) (community,1) (journalists,1) 
+
+14040 1 2 14039 14041 10 (icts,1) (radio,2) (africa,1) (uptake,1) (ict,1) (influenced,1) (newsroom,1) (culture,1) (community,1) (journalists,1) 
+
+14041 1 2 14039 14040 10 (icts,1) (radio,2) (africa,1) (uptake,1) (ict,1) (influenced,1) (newsroom,1) (culture,1) (community,1) (journalists,1) 
+
+14044 1 1 14045 8 (responding,1) (media,1) (convergence,1) (regulating,1) (multi-screen,1) (television,1) (services,1) (thailand,1) 
+
+14045 1 1 14044 8 (responding,1) (media,1) (convergence,1) (regulating,1) (multi-screen,1) (television,1) (services,1) (thailand,1) 
+
+14046 3 0 24 (suppliers,1) (behavior,1) (post-adoption,1) (stage,1) (business-to-business,1) (e-reverse,1) (auctions,1) (empirical,2) (study,1) (investigation,1) (internet,1) (users,1) (perceptions,2) (national,1) (international,1) (e-shops,1) (consumers,1) (e-shopping,1) (advertisements,1) (promotional,1) (actions,1) (social,1) (networking,1) (sites,1) 
+
+14047 1 1 14048 6 (medical,1) (emergency,1) (alarm,1) (dissemination,1) (urban,1) (environments,1) 
+
+14048 1 1 14047 6 (medical,1) (emergency,1) (alarm,1) (dissemination,1) (urban,1) (environments,1) 
+
+14049 3 3 14050 14068 14545 25 (exploration,1) (user-generated,1) (wireless,1) (broadband,3) (infrastructures,2) (digital,1) (cities,1) (impact,1) (facilities,1) (service-based,1) (competition,1) (internet,1) (services,1) (provision,1) (canadian,1) (market,1) (regulation,1) (investment,1) (efficiency,1) (transition,1) (generation,1) (networks,1) (evidence,1) (european,1) (union,1) 
+
+14050 1 1 14049 7 (exploration,1) (user-generated,1) (wireless,1) (broadband,1) (infrastructures,1) (digital,1) (cities,1) 
+
+14068 1 1 14049 10 (impact,1) (facilities,1) (service-based,1) (competition,1) (internet,1) (services,1) (provision,1) (canadian,1) (broadband,1) (market,1) 
+
+14545 1 1 14049 10 (regulation,1) (investment,1) (efficiency,1) (transition,1) (generation,1) (broadband,1) (networks,1) (evidence,1) (european,1) (union,1) 
+
+14055 1 1 14056 10 (economic,1) (analysis,1) (media,1) (representative,1) (bundling,1) (strategy,1) (program,1) (quality,1) (korean,1) (experience,1) 
+
+14056 2 3 14055 14565 14566 18 (economic,1) (analysis,1) (media,2) (representative,1) (bundling,1) (strategy,1) (program,1) (quality,1) (korean,1) (experience,1) (time,1) (displacement,1) (effect,1) (online,1) (video,1) (services,1) (south,1) (korea,1) 
+
+14565 1 2 14056 14566 9 (time,1) (displacement,1) (effect,1) (online,1) (video,1) (services,1) (media,1) (south,1) (korea,1) 
+
+14566 1 2 14565 14056 9 (time,1) (displacement,1) (effect,1) (online,1) (video,1) (services,1) (media,1) (south,1) (korea,1) 
+
+14060 1 0 8 (liberalization,1) (policy,1) (production,1) (cost,1) (efficiency,1) (taiwan,1) (telecommunications,1) (industry,1) 
+
+14061 1 2 14062 14063 6 (new,1) (ethical,1) (challenges,1) (today,1) (engineering,1) (technology,1) 
+
+14062 1 2 14061 14063 6 (new,1) (ethical,1) (challenges,1) (today,1) (engineering,1) (technology,1) 
+
+14063 1 2 14061 14062 6 (new,1) (ethical,1) (challenges,1) (today,1) (engineering,1) (technology,1) 
+
+14064 1 1 14065 9 (decision,1) (support,1) (models,1) (selection,1) (internet,1) (access,1) (technologies,1) (rural,1) (communities,1) 
+
+14065 1 1 14064 9 (decision,1) (support,1) (models,1) (selection,1) (internet,1) (access,1) (technologies,1) (rural,1) (communities,1) 
+
+14066 2 1 14067 14 (tracing,1) (route,1) (china,2) (internet,1) (censorship,2) (empirical,1) (study,1) (factors,1) (affecting,1) (diffusion,1) (multivariate,1) (time,1) (series,1) (analysis,1) 
+
+14067 1 1 14066 7 (tracing,1) (route,1) (china,1) (internet,1) (censorship,1) (empirical,1) (study,1) 
+
+14070 2 0 12 (remote,1) (interactive,1) (non-repudiation,1) (multimedia-based,1) (m-learning,1) (low,1) (overhead,1) (scaled,1) (equalized,1) (harmonic-based,1) (voice,1) (authentication,1) 
+
+14071 2 2 14072 14596 10 (critical,1) (infrastructure,1) (protection,1) (vulnerability,1) (conundrum,1) (geographic,1) (perspective,1) (commercial,1) (internet,1) (survivability,1) 
+
+14072 3 2 14071 14596 17 (critical,1) (infrastructure,1) (protection,1) (vulnerability,1) (conundrum,1) (geodemographic,1) (correlates,1) (broadband,1) (access,1) (availability,1) (united,1) (states,1) (geographic,1) (perspective,1) (commercial,1) (internet,1) (survivability,1) 
+
+14596 1 2 14072 14071 5 (geographic,1) (perspective,1) (commercial,1) (internet,1) (survivability,1) 
+
+14073 1 1 14074 5 (mobile,1) (web,1) (under-privileged,1) (developing,1) (countries,1) 
+
+14074 1 1 14073 5 (mobile,1) (web,1) (under-privileged,1) (developing,1) (countries,1) 
+
+14075 1 0 5 (e-government,1) (familiarity,1) (influence,1) (jordanians,1) (perceptions,1) 
+
+14076 1 2 14077 14078 10 (experiment,1) (comparing,1) (grids,1) (item-by-item,1) (formats,1) (web,1) (surveys,1) (completed,1) (pcs,1) (smartphones,1) 
+
+14077 1 2 14076 14078 10 (experiment,1) (comparing,1) (grids,1) (item-by-item,1) (formats,1) (web,1) (surveys,1) (completed,1) (pcs,1) (smartphones,1) 
+
+14078 1 2 14076 14077 10 (experiment,1) (comparing,1) (grids,1) (item-by-item,1) (formats,1) (web,1) (surveys,1) (completed,1) (pcs,1) (smartphones,1) 
+
+14083 1 0 10 (cybersocialities,1) (networked,1) (communication,1) (social,1) (interaction,1) (wired,1) (city,1) (blacksburg,1) (va,1) (usa,1) 
+
+14084 1 0 10 (impact,1) (technology,1) (development,1) (pricing,1) (mobile,1) (data,1) (service,1) (provisioning,1) (usage,1) (diffusion,1) 
+
+14088 1 0 6 (socio-technical,1) (contract,1) (network,1) (governance,1) (ict,1) (turkey,1) 
+
+14090 1 1 14091 7 (coping,1) (tivo,1) (opportunities,1) (networked,1) (digital,1) (video,1) (recorder,1) 
+
+14091 1 1 14090 7 (coping,1) (tivo,1) (opportunities,1) (networked,1) (digital,1) (video,1) (recorder,1) 
+
+14092 1 3 14093 14094 14095 10 (understanding,1) (intentions,1) (illegal,1) (downloading,1) (comparative,1) (study,1) (american,1) (korean,1) (college,1) (students,1) 
+
+14093 1 3 14092 14094 14095 10 (understanding,1) (intentions,1) (illegal,1) (downloading,1) (comparative,1) (study,1) (american,1) (korean,1) (college,1) (students,1) 
+
+14094 1 3 14092 14093 14095 10 (understanding,1) (intentions,1) (illegal,1) (downloading,1) (comparative,1) (study,1) (american,1) (korean,1) (college,1) (students,1) 
+
+14095 1 3 14092 14093 14094 10 (understanding,1) (intentions,1) (illegal,1) (downloading,1) (comparative,1) (study,1) (american,1) (korean,1) (college,1) (students,1) 
+
+14096 1 1 14097 3 (license-exempt,1) (wi-fi,1) (complement,1) 
+
+14097 1 1 14096 3 (license-exempt,1) (wi-fi,1) (complement,1) 
+
+14107 1 1 14108 5 (ict,1) (impact,1) (competitiveness,1) (innovation,1) (environment,1) 
+
+14108 1 1 14107 5 (ict,1) (impact,1) (competitiveness,1) (innovation,1) (environment,1) 
+
+14109 7 0 33 (product,1) (use,2) (welfare,1) (case,1) (mobile,1) (phones,3) (africa,3) (distributional,2) (effects,2) (leapfrogging,1) (developing,2) (countries,2) (close,1) (digital,3) (divide,2) (mechanisms,2) (access,2) (internet,1) (rural,2) (areas,1) (relative,2) (absolute,2) (components,1) (information,1) (technology,1) (individuals,2) (rich,2) (poor,1) (disappearing,1) (human,1) (development,1) (report,1) (evaluation,1) 
+
+14110 1 4 14111 14112 14113 14114 6 (development,1) (hierarchical,1) (teletransmission,1) (environmental,1) (energy,1) (data,1) 
+
+14111 1 4 14110 14112 14113 14114 6 (development,1) (hierarchical,1) (teletransmission,1) (environmental,1) (energy,1) (data,1) 
+
+14112 1 4 14110 14111 14113 14114 6 (development,1) (hierarchical,1) (teletransmission,1) (environmental,1) (energy,1) (data,1) 
+
+14113 1 4 14110 14111 14112 14114 6 (development,1) (hierarchical,1) (teletransmission,1) (environmental,1) (energy,1) (data,1) 
+
+14114 1 4 14110 14111 14112 14113 6 (development,1) (hierarchical,1) (teletransmission,1) (environmental,1) (energy,1) (data,1) 
+
+14117 1 0 6 (better,1) (abundant,1) (information,1) (leads,1) (unanticipated,1) (outcomes,1) 
+
+14118 1 0 6 (movie,1) (piracy,1) (peer-to-peer,1) (networks--the,1) (case,1) (kazaa,1) 
+
+14119 2 0 17 (technology,1) (standards-setting,1) (wireless,1) (telecommunications,1) (industry,1) (study,1) (generations,1) (digital,1) (standards,1) (development,1) (telecommunication,1) (information,1) (industries,1) (patent,1) (policy,1) (criterion,1) (non-obviousness,1) 
+
+14120 1 0 7 (video,1) (quality,1) (vs,1) (mobile,1) (data,1) (billing,1) (plans,1) 
+
+14121 1 3 14122 14123 14124 6 (interdependent,1) (technology,1) (attributes,1) (diffusion,1) (consumer,1) (electronics,1) 
+
+14122 1 3 14121 14123 14124 6 (interdependent,1) (technology,1) (attributes,1) (diffusion,1) (consumer,1) (electronics,1) 
+
+14123 1 3 14121 14122 14124 6 (interdependent,1) (technology,1) (attributes,1) (diffusion,1) (consumer,1) (electronics,1) 
+
+14124 1 3 14121 14122 14123 6 (interdependent,1) (technology,1) (attributes,1) (diffusion,1) (consumer,1) (electronics,1) 
+
+14125 2 0 16 (digital,1) (inequalities,2) (implications,1) (social,1) (study,1) (internet,2) (penetration,1) (university,1) (students,1) (south,2) (africa,1) (participation,1) (citizenship,1) (use,1) (african,1) (youth,1) 
+
+14126 1 2 14127 14128 10 (hedonic,1) (modeling,1) (explore,1) (relationship,1) (cell,1) (phone,1) (plan,1) (price,1) (quality,1) (croatia,1) 
+
+14127 1 2 14126 14128 10 (hedonic,1) (modeling,1) (explore,1) (relationship,1) (cell,1) (phone,1) (plan,1) (price,1) (quality,1) (croatia,1) 
+
+14128 1 2 14126 14127 10 (hedonic,1) (modeling,1) (explore,1) (relationship,1) (cell,1) (phone,1) (plan,1) (price,1) (quality,1) (croatia,1) 
+
+14129 1 0 10 (coexist,1) (complement,1) (converge,1) (innovate,1) (public,1) (diplomacy,1) (us-china,1) (internet,1) (industry,1) (forum,1) 
+
+14131 2 2 14132 14133 23 (using,1) (new,1) (technologies,1) (stimulating,1) (interpersonal,1) (communication,1) (hiv,1) (aids,1) (participative,1) (ict,1) (living,1) (lab,1) (research,1) (case,1) (study,1) (mobile,1) (social,1) (media,1) (application,1) (rural,1) (tanzanian,1) (university,1) (setting,1) 
+
+14132 2 2 14131 14133 23 (using,1) (new,1) (technologies,1) (stimulating,1) (interpersonal,1) (communication,1) (hiv,1) (aids,1) (participative,1) (ict,1) (living,1) (lab,1) (research,1) (case,1) (study,1) (mobile,1) (social,1) (media,1) (application,1) (rural,1) (tanzanian,1) (university,1) (setting,1) 
+
+14133 1 2 14131 14132 8 (using,1) (new,1) (technologies,1) (stimulating,1) (interpersonal,1) (communication,1) (hiv,1) (aids,1) 
+
+14134 3 3 14135 14567 14718 21 (students,1) (thoughts,1) (importance,1) (costs,1) (mobile,1) (devices,1) (features,1) (services,1) (compound,1) (real,1) (option,1) (ahp,1) (methodology,1) (evaluating,1) (ict,1) (business,1) (alternatives,1) (demand,1) (broadband,1) (access,1) (greece,1) 
+
+14135 1 1 14134 8 (students,1) (thoughts,1) (importance,1) (costs,1) (mobile,1) (devices,1) (features,1) (services,1) 
+
+14567 1 1 14134 9 (compound,1) (real,1) (option,1) (ahp,1) (methodology,1) (evaluating,1) (ict,1) (business,1) (alternatives,1) 
+
+14718 1 1 14134 4 (demand,1) (broadband,1) (access,1) (greece,1) 
+
+14136 1 4 14137 14138 14139 14140 7 (e-business,1) (technologies,1) (xrm,1) (exploring,1) (readiness,1) (public,1) (broadcasters,1) 
+
+14137 1 4 14136 14138 14139 14140 7 (e-business,1) (technologies,1) (xrm,1) (exploring,1) (readiness,1) (public,1) (broadcasters,1) 
+
+14138 1 4 14136 14137 14139 14140 7 (e-business,1) (technologies,1) (xrm,1) (exploring,1) (readiness,1) (public,1) (broadcasters,1) 
+

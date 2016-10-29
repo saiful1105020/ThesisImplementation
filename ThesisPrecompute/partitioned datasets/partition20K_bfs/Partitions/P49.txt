@@ -1,0 +1,804 @@
+< Author_ID  Paper_Count  Adjacent_Count  <Adjacent_List>  Keyword_Count  <(Keyword,Score)> >
+
+18220 1 3 18217 18218 18219 5 (efficient,1) (structured,1) (learning,1) (personalized,1) (diversification,1) 
+
+18222 1 3 18223 18224 18225 5 (whitewater,1) (distributed,1) (processing,1) (fast,1) (streams,1) 
+
+18223 1 3 18222 18224 18225 5 (whitewater,1) (distributed,1) (processing,1) (fast,1) (streams,1) 
+
+18224 3 10 18222 18223 18225 18971 18972 18973 18974 19009 19010 19011 18 (whitewater,1) (distributed,1) (processing,1) (fast,1) (streams,1) (practical,1) (data,1) (prediction,1) (real-world,1) (wireless,1) (sensor,1) (networks,1) (efficient,1) (top-k,1) (approximate,1) (subtree,1) (matching,1) (memory,1) 
+
+18225 1 3 18222 18223 18224 5 (whitewater,1) (distributed,1) (processing,1) (fast,1) (streams,1) 
+
+18971 1 4 18972 18973 18224 18974 7 (practical,1) (data,1) (prediction,1) (real-world,1) (wireless,1) (sensor,1) (networks,1) 
+
+18972 1 4 18971 18973 18224 18974 7 (practical,1) (data,1) (prediction,1) (real-world,1) (wireless,1) (sensor,1) (networks,1) 
+
+18973 1 4 18971 18972 18224 18974 7 (practical,1) (data,1) (prediction,1) (real-world,1) (wireless,1) (sensor,1) (networks,1) 
+
+18974 1 4 18971 18972 18973 18224 7 (practical,1) (data,1) (prediction,1) (real-world,1) (wireless,1) (sensor,1) (networks,1) 
+
+19009 1 3 19010 19011 18224 6 (efficient,1) (top-k,1) (approximate,1) (subtree,1) (matching,1) (memory,1) 
+
+19010 1 3 19009 19011 18224 6 (efficient,1) (top-k,1) (approximate,1) (subtree,1) (matching,1) (memory,1) 
+
+19011 1 3 19009 19010 18224 6 (efficient,1) (top-k,1) (approximate,1) (subtree,1) (matching,1) (memory,1) 
+
+18226 1 2 18227 18228 8 (view,1) (operations,1) (objects,1) (roles,1) (statically,1) (typed,1) (database,1) (language,1) 
+
+18227 1 2 18226 18228 8 (view,1) (operations,1) (objects,1) (roles,1) (statically,1) (typed,1) (database,1) (language,1) 
+
+18228 1 2 18226 18227 8 (view,1) (operations,1) (objects,1) (roles,1) (statically,1) (typed,1) (database,1) (language,1) 
+
+18229 1 1 18230 8 (mining,1) (ontology,1) (automatically,1) (acquiring,1) (web,1) (user,1) (information,1) (needs,1) 
+
+18230 2 3 18229 19724 19725 11 (mining,2) (ontology,1) (automatically,1) (acquiring,1) (web,1) (user,1) (information,1) (needs,1) (peculiarity,1) (oriented,1) (multidatabase,1) 
+
+19724 1 2 18230 19725 4 (peculiarity,1) (oriented,1) (multidatabase,1) (mining,1) 
+
+19725 1 2 18230 19724 4 (peculiarity,1) (oriented,1) (multidatabase,1) (mining,1) 
+
+18238 2 1 18905 13 (comparative,1) (study,1) (various,1) (nested,1) (normal,1) (forms,1) (generating,1) (compact,1) (redundancy-free,1) (xml,1) (documents,1) (conceptual-model,1) (hypergraphs,1) 
+
+18905 1 1 18238 7 (generating,1) (compact,1) (redundancy-free,1) (xml,1) (documents,1) (conceptual-model,1) (hypergraphs,1) 
+
+18240 1 1 18241 4 (cocite,1) (coordinating,1) (changes,1) (text,1) 
+
+18241 1 1 18240 4 (cocite,1) (coordinating,1) (changes,1) (text,1) 
+
+18256 1 2 18257 18258 7 (statistical,1) (language,1) (modeling,1) (approach,1) (online,1) (deception,1) (detection,1) 
+
+18257 1 2 18256 18258 7 (statistical,1) (language,1) (modeling,1) (approach,1) (online,1) (deception,1) (detection,1) 
+
+18258 1 2 18256 18257 7 (statistical,1) (language,1) (modeling,1) (approach,1) (online,1) (deception,1) (detection,1) 
+
+18261 1 0 5 (source-to-source,1) (transformation,1) (increasing,1) (rule-based,1) (parallelism,1) 
+
+18272 1 2 18273 18274 4 (change-point,1) (detection,1) (sequence,1) (bags-of-data,1) 
+
+18273 1 2 18272 18274 4 (change-point,1) (detection,1) (sequence,1) (bags-of-data,1) 
+
+18274 1 2 18272 18273 4 (change-point,1) (detection,1) (sequence,1) (bags-of-data,1) 
+
+18279 2 2 19861 19862 15 (design,1) (implementation,1) (ariel,1) (active,1) (database,1) (rule,1) (trigger,1) (condition,1) (testing,1) (view,1) (maintenance,1) (using,1) (optimized,1) (discrimination,1) (networks,1) 
+
+19861 1 2 18279 19862 9 (trigger,1) (condition,1) (testing,1) (view,1) (maintenance,1) (using,1) (optimized,1) (discrimination,1) (networks,1) 
+
+19862 1 2 18279 19861 9 (trigger,1) (condition,1) (testing,1) (view,1) (maintenance,1) (using,1) (optimized,1) (discrimination,1) (networks,1) 
+
+18303 2 3 18304 18305 18389 13 (data,1) (categorization,1) (using,1) (decision,1) (trellises,1) (unified,1) (integration,1) (explicit,1) (knowledge,1) (learning,1) (example,1) (recurrent,1) (networks,1) 
+
+18304 3 4 18303 18305 18389 19473 19 (data,1) (categorization,1) (using,1) (decision,1) (trellises,1) (unified,2) (integration,1) (explicit,1) (knowledge,1) (learning,1) (example,1) (recurrent,1) (networks,1) (probabilistic,1) (framework,1) (web,1) (page,1) (scoring,1) (systems,1) 
+
+18305 2 3 18303 18304 18389 13 (data,1) (categorization,1) (using,1) (decision,1) (trellises,1) (unified,1) (integration,1) (explicit,1) (knowledge,1) (learning,1) (example,1) (recurrent,1) (networks,1) 
+
+18389 2 4 18303 18304 18305 19473 14 (unified,2) (integration,1) (explicit,1) (knowledge,1) (learning,1) (example,1) (recurrent,1) (networks,1) (probabilistic,1) (framework,1) (web,1) (page,1) (scoring,1) (systems,1) 
+
+19473 1 2 18304 18389 7 (unified,1) (probabilistic,1) (framework,1) (web,1) (page,1) (scoring,1) (systems,1) 
+
+18313 1 2 18314 18315 11 (robust,1) (distortion,1) (minimizing,1) (technique,1) (watermarking,1) (relational,1) (databases,1) (using,1) (once-for-all,1) (usability,1) (constraints,1) 
+
+18314 1 2 18313 18315 11 (robust,1) (distortion,1) (minimizing,1) (technique,1) (watermarking,1) (relational,1) (databases,1) (using,1) (once-for-all,1) (usability,1) (constraints,1) 
+
+18315 1 2 18313 18314 11 (robust,1) (distortion,1) (minimizing,1) (technique,1) (watermarking,1) (relational,1) (databases,1) (using,1) (once-for-all,1) (usability,1) (constraints,1) 
+
+18316 1 2 18317 18318 7 (rough,1) (sets,1) (kernel,1) (set,1) (spatiotemporal,1) (outlier,1) (detection,1) 
+
+18317 3 4 18316 18318 19180 19827 20 (rough,1) (sets,1) (kernel,1) (set,1) (spatiotemporal,1) (outlier,1) (detection,1) (rough-fuzzy,1) (c-medoids,1) (algorithm,1) (selection,1) (bio-basis,1) (amino,1) (acid,1) (sequence,1) (analysis,1) (comparing,1) (scores,1) (intended,1) (ranking,1) 
+
+18318 1 2 18316 18317 7 (rough,1) (sets,1) (kernel,1) (set,1) (spatiotemporal,1) (outlier,1) (detection,1) 
+
+19180 1 1 18317 9 (rough-fuzzy,1) (c-medoids,1) (algorithm,1) (selection,1) (bio-basis,1) (amino,1) (acid,1) (sequence,1) (analysis,1) 
+
+19827 1 1 18317 4 (comparing,1) (scores,1) (intended,1) (ranking,1) 
+
+18329 1 1 18330 9 (constrained,1) (dimensionality,1) (reduction,1) (using,1) (mixed-norm,1) (penalty,1) (function,1) (neural,1) (networks,1) 
+
+18330 1 1 18329 9 (constrained,1) (dimensionality,1) (reduction,1) (using,1) (mixed-norm,1) (penalty,1) (function,1) (neural,1) (networks,1) 
+
+18331 1 5 18332 18333 18334 18335 18336 9 (extending,1) (association,1) (rule,1) (summarization,1) (techniques,1) (assess,1) (risk,1) (diabetes,1) (mellitus,1) 
+
+18332 1 5 18331 18333 18334 18335 18336 9 (extending,1) (association,1) (rule,1) (summarization,1) (techniques,1) (assess,1) (risk,1) (diabetes,1) (mellitus,1) 
+
+18333 1 5 18331 18332 18334 18335 18336 9 (extending,1) (association,1) (rule,1) (summarization,1) (techniques,1) (assess,1) (risk,1) (diabetes,1) (mellitus,1) 
+
+18334 1 5 18331 18332 18333 18335 18336 9 (extending,1) (association,1) (rule,1) (summarization,1) (techniques,1) (assess,1) (risk,1) (diabetes,1) (mellitus,1) 
+
+18335 1 5 18331 18332 18333 18334 18336 9 (extending,1) (association,1) (rule,1) (summarization,1) (techniques,1) (assess,1) (risk,1) (diabetes,1) (mellitus,1) 
+
+18336 1 5 18331 18332 18333 18334 18335 9 (extending,1) (association,1) (rule,1) (summarization,1) (techniques,1) (assess,1) (risk,1) (diabetes,1) (mellitus,1) 
+
+18348 1 1 18349 7 (cutting,1) (plane,1) (training,1) (linear,1) (support,1) (vector,1) (machines,1) 
+
+18349 1 1 18348 7 (cutting,1) (plane,1) (training,1) (linear,1) (support,1) (vector,1) (machines,1) 
+
+18353 1 1 18354 4 (pooling,1) (combination,1) (multilevel,1) (forecasts,1) 
+
+18354 1 1 18353 4 (pooling,1) (combination,1) (multilevel,1) (forecasts,1) 
+
+18362 1 2 18363 18364 6 (probabilistic,1) (topic,1) (models,1) (learning,1) (terminological,1) (ontologies,1) 
+
+18363 1 2 18362 18364 6 (probabilistic,1) (topic,1) (models,1) (learning,1) (terminological,1) (ontologies,1) 
+
+18364 1 2 18362 18363 6 (probabilistic,1) (topic,1) (models,1) (learning,1) (terminological,1) (ontologies,1) 
+
+18366 1 3 18367 18368 18369 10 (bond-tree,1) (efficient,1) (indexing,1) (method,1) (box,1) (queries,1) (nonordered,1) (discrete,1) (data,1) (spaces,1) 
+
+18367 2 6 18366 18368 18369 19314 19315 19316 16 (bond-tree,1) (efficient,1) (indexing,1) (method,1) (box,1) (queries,1) (nonordered,1) (discrete,1) (data,1) (spaces,1) (topological,1) (transformation,1) (approaches,1) (database,1) (query,1) (processing,1) 
+
+18368 3 7 18366 18367 18369 19314 19315 19316 19522 22 (bond-tree,1) (efficient,1) (indexing,1) (method,1) (box,1) (queries,1) (nonordered,1) (discrete,1) (data,1) (spaces,1) (topological,1) (transformation,1) (approaches,1) (database,1) (query,1) (processing,1) (description,1) (identification,1) (distributed,1) (fragments,1) (recursive,1) (relations,1) 
+
+18369 1 3 18366 18367 18368 10 (bond-tree,1) (efficient,1) (indexing,1) (method,1) (box,1) (queries,1) (nonordered,1) (discrete,1) (data,1) (spaces,1) 
+
+19314 1 4 18367 18368 19315 19316 6 (topological,1) (transformation,1) (approaches,1) (database,1) (query,1) (processing,1) 
+
+19315 1 4 18367 18368 19314 19316 6 (topological,1) (transformation,1) (approaches,1) (database,1) (query,1) (processing,1) 
+
+19316 1 4 18367 18368 19314 19315 6 (topological,1) (transformation,1) (approaches,1) (database,1) (query,1) (processing,1) 
+
+19522 1 1 18368 6 (description,1) (identification,1) (distributed,1) (fragments,1) (recursive,1) (relations,1) 
+
+18375 2 2 18376 18377 15 (optimal,1) (data,1) (placement,1) (disks,1) (comprehensive,2) (solution,1) (different,1) (technologies,1) (analytical,1) (performance,1) (model,1) (disk,1) (devices,1) (random,1) (workloads,1) 
+
+18376 3 3 18375 18377 19096 19 (optimal,1) (data,2) (placement,1) (disks,3) (comprehensive,3) (solution,2) (different,1) (technologies,1) (database,1) (design,1) (principles,1) (delay-sensitive,1) (analytical,1) (performance,1) (model,1) (disk,1) (devices,1) (random,1) (workloads,1) 
+
+18377 2 2 18375 18376 15 (optimal,1) (data,1) (placement,1) (disks,1) (comprehensive,2) (solution,1) (different,1) (technologies,1) (analytical,1) (performance,1) (model,1) (disk,1) (devices,1) (random,1) (workloads,1) 
+
+19096 1 1 18376 7 (database,1) (design,1) (principles,1) (placement,1) (delay-sensitive,1) (data,1) (disks,1) 
+
+18386 1 1 18387 3 (google,1) (similarity,1) (distance,1) 
+
+18387 1 1 18386 3 (google,1) (similarity,1) (distance,1) 
+
+18390 1 3 18391 18392 18393 5 (persistent,1) (store,1) (shared,1) (knowledge,1) (bases,1) 
+
+18391 1 3 18390 18392 18393 5 (persistent,1) (store,1) (shared,1) (knowledge,1) (bases,1) 
+
+18392 1 3 18390 18391 18393 5 (persistent,1) (store,1) (shared,1) (knowledge,1) (bases,1) 
+
+18393 1 3 18390 18391 18392 5 (persistent,1) (store,1) (shared,1) (knowledge,1) (bases,1) 
+
+18395 2 2 18396 19103 17 (fuzzy-set-based,1) (reconstructed,1) (phase,1) (space,1) (method,2) (idenitification,1) (temporal,1) (patterns,2) (complex,2) (time,2) (series,2) (new,1) (pattern,1) (identification,1) (characterization,1) (prediction,1) (events,1) 
+
+18396 1 1 18395 11 (fuzzy-set-based,1) (reconstructed,1) (phase,1) (space,1) (method,1) (idenitification,1) (temporal,1) (patterns,1) (complex,1) (time,1) (series,1) 
+
+19103 1 1 18395 11 (new,1) (temporal,1) (pattern,1) (identification,1) (method,1) (characterization,1) (prediction,1) (complex,1) (time,1) (series,1) (events,1) 
+
+18397 1 1 18398 7 (cross-language,1) (learning,1) (bots,1) (users,1) (detect,1) (vandalism,1) (wikipedia,1) 
+
+18398 1 1 18397 7 (cross-language,1) (learning,1) (bots,1) (users,1) (detect,1) (vandalism,1) (wikipedia,1) 
+
+18399 1 2 18400 18401 3 (boosting,1) (associative,1) (classifier,1) 
+
+18400 1 2 18399 18401 3 (boosting,1) (associative,1) (classifier,1) 
+
+18401 2 3 18399 18400 19937 9 (boosting,1) (associative,1) (classifier,1) (pattern,1) (discovery,1) (residual,1) (analysis,1) (recursive,1) (partitioning,1) 
+
+19937 1 1 18401 6 (pattern,1) (discovery,1) (residual,1) (analysis,1) (recursive,1) (partitioning,1) 
+
+18404 1 0 7 (representation,1) (processing,1) (structures,1) (binary,1) (sparse,1) (distributed,1) (codes,1) 
+
+18409 1 0 10 (rival,1) (penalization,1) (controlled,1) (competitive,1) (learning,1) (clustering,1) (automatic,1) (cluster,1) (number,1) (selection,1) 
+
+18417 1 2 18418 18419 8 (feature,1) (selection,1) (based,1) (class-dependent,1) (densities,1) (high-dimensional,1) (binary,1) (data,1) 
+
+18418 1 2 18417 18419 8 (feature,1) (selection,1) (based,1) (class-dependent,1) (densities,1) (high-dimensional,1) (binary,1) (data,1) 
+
+18419 1 2 18417 18418 8 (feature,1) (selection,1) (based,1) (class-dependent,1) (densities,1) (high-dimensional,1) (binary,1) (data,1) 
+
+18420 2 3 18421 18422 19448 9 (parallel,2) (knowledge,1) (processing,2) (snap,1) (classification,1) (retrieval,1) (marker,1) (passing,1) (architecture,1) 
+
+18421 1 2 18420 18422 4 (parallel,1) (knowledge,1) (processing,1) (snap,1) 
+
+18422 1 2 18420 18421 4 (parallel,1) (knowledge,1) (processing,1) (snap,1) 
+
+19448 1 1 18420 7 (classification,1) (retrieval,1) (knowledge,1) (parallel,1) (marker,1) (passing,1) (architecture,1) 
+
+18435 1 2 18436 18437 8 (set,1) (complexity,1) (measures,1) (designed,1) (applying,1) (meta-learning,1) (instance,1) (selection,1) 
+
+18436 1 2 18435 18437 8 (set,1) (complexity,1) (measures,1) (designed,1) (applying,1) (meta-learning,1) (instance,1) (selection,1) 
+
+18437 1 2 18435 18436 8 (set,1) (complexity,1) (measures,1) (designed,1) (applying,1) (meta-learning,1) (instance,1) (selection,1) 
+
+18439 1 0 4 (starburst,1) (active,1) (database,1) (rule,1) 
+
+18441 3 3 18442 18501 18702 16 (training,1) (cost-sensitive,1) (neural,2) (networks,1) (methods,1) (addressing,1) (class,1) (imbalance,1) (problem,1) (nec,1) (ensemble,1) (based,1) (review,1) (multi-label,1) (learning,1) (algorithms,1) 
+
+18442 1 1 18441 9 (training,1) (cost-sensitive,1) (neural,1) (networks,1) (methods,1) (addressing,1) (class,1) (imbalance,1) (problem,1) 
+
+18501 1 1 18441 4 (nec,1) (neural,1) (ensemble,1) (based,1) 
+
+18702 1 1 18441 4 (review,1) (multi-label,1) (learning,1) (algorithms,1) 
+
+18450 1 1 18451 6 (optimization,1) (materialization,1) (strategies,1) (derived,1) (data,1) (elements,1) 
+
+18451 1 1 18450 6 (optimization,1) (materialization,1) (strategies,1) (derived,1) (data,1) (elements,1) 
+
+18452 1 0 6 (improving,1) (security,1) (efficiency,1) (attribute-based,1) (data,1) (sharing,1) 
+
+18453 1 2 18454 18455 7 (improved,1) (algorithm,1) (incremental,1) (recomputation,1) (active,1) (relational,1) (expressions,1) 
+
+18454 1 2 18453 18455 7 (improved,1) (algorithm,1) (incremental,1) (recomputation,1) (active,1) (relational,1) (expressions,1) 
+
+18455 1 2 18453 18454 7 (improved,1) (algorithm,1) (incremental,1) (recomputation,1) (active,1) (relational,1) (expressions,1) 
+
+18456 2 1 18521 11 (role,1) (polymorphism,1) (schema,1) (evolution,1) (object-oriented,1) (database,1) (fully,1) (distributed,1) (concurrency,1) (control,1) (algorithms,1) 
+
+18521 1 1 18456 5 (fully,1) (distributed,1) (concurrency,1) (control,1) (algorithms,1) 
+
+18460 1 0 5 (data,2) (envelopment,1) (analysis-based,1) (approach,1) (preprocessing,1) 
+
+18461 1 1 18462 7 (hierarchically,1) (distributed,1) (peer-to-peer,1) (document,1) (clustering,1) (cluster,1) (summarization,1) 
+
+18462 3 4 18461 18667 18668 18912 24 (hierarchically,1) (distributed,1) (peer-to-peer,1) (document,1) (clustering,2) (cluster,1) (summarization,1) (efficient,1) (concept-based,1) (mining,1) (model,1) (enhancing,1) (text,1) (automating,1) (knowledge,1) (acquisition,1) (propositional,1) (approach,1) (representing,1) (expertise,1) (alternative,1) (repertory,1) (grid,1) (technique,1) 
+
+18667 1 2 18668 18462 7 (efficient,1) (concept-based,1) (mining,1) (model,1) (enhancing,1) (text,1) (clustering,1) 
+
+18668 1 2 18667 18462 7 (efficient,1) (concept-based,1) (mining,1) (model,1) (enhancing,1) (text,1) (clustering,1) 
+
+18912 1 1 18462 11 (automating,1) (knowledge,1) (acquisition,1) (propositional,1) (approach,1) (representing,1) (expertise,1) (alternative,1) (repertory,1) (grid,1) (technique,1) 
+
+18473 1 0 7 (relational-linear,1) (quadtree,1) (approach,1) (two-dimensional,1) (spatial,1) (representation,1) (manipulation,1) 
+
+18486 1 3 18487 18488 18489 5 (genetic,1) (programming,1) (approach,1) (record,1) (deduplication,1) 
+
+18487 1 3 18486 18488 18489 5 (genetic,1) (programming,1) (approach,1) (record,1) (deduplication,1) 
+
+18488 1 3 18486 18487 18489 5 (genetic,1) (programming,1) (approach,1) (record,1) (deduplication,1) 
+
+18489 2 6 18486 18487 18488 19479 19480 19481 11 (genetic,1) (programming,1) (approach,1) (record,1) (deduplication,1) (removing,1) (dust,1) (using,1) (multiple,1) (alignment,1) (sequences,1) 
+
+19479 1 3 19480 19481 18489 6 (removing,1) (dust,1) (using,1) (multiple,1) (alignment,1) (sequences,1) 
+
+19480 1 3 19479 19481 18489 6 (removing,1) (dust,1) (using,1) (multiple,1) (alignment,1) (sequences,1) 
+
+19481 1 3 19479 19480 18489 6 (removing,1) (dust,1) (using,1) (multiple,1) (alignment,1) (sequences,1) 
+
+18491 1 3 18492 18493 18494 6 (ipss,1) (hybrid,1) (approach,1) (planning,1) (scheduling,1) (integration,1) 
+
+18492 1 3 18491 18493 18494 6 (ipss,1) (hybrid,1) (approach,1) (planning,1) (scheduling,1) (integration,1) 
+
+18493 1 3 18491 18492 18494 6 (ipss,1) (hybrid,1) (approach,1) (planning,1) (scheduling,1) (integration,1) 
+
+18494 1 3 18491 18492 18493 6 (ipss,1) (hybrid,1) (approach,1) (planning,1) (scheduling,1) (integration,1) 
+
+18502 1 1 18503 4 (authorization,1) (revocation,1) (object-oriented,1) (databases,1) 
+
+18503 1 1 18502 4 (authorization,1) (revocation,1) (object-oriented,1) (databases,1) 
+
+18504 1 1 18505 9 (data,2) (sets,1) (like,1) (documents,1) (evaluating,1) (similarity-based,1) (ranked,1) (search,1) (scientific,1) 
+
+18505 1 1 18504 9 (data,2) (sets,1) (like,1) (documents,1) (evaluating,1) (similarity-based,1) (ranked,1) (search,1) (scientific,1) 
+
+18506 1 1 18507 7 (fractal-based,1) (intrinsic,1) (dimension,1) (estimation,1) (application,1) (dimensionality,1) (reduction,1) 
+
+18507 1 1 18506 7 (fractal-based,1) (intrinsic,1) (dimension,1) (estimation,1) (application,1) (dimensionality,1) (reduction,1) 
+
+18508 1 1 18509 4 (complexity,1) (measures,1) (rule-based,1) (programs,1) 
+
+18509 1 1 18508 4 (complexity,1) (measures,1) (rule-based,1) (programs,1) 
+
+18511 1 1 18512 7 (modeling,1) (solving,1) (distributed,1) (configuration,1) (problems,1) (csp-based,1) (approach,1) 
+
+18512 1 1 18511 7 (modeling,1) (solving,1) (distributed,1) (configuration,1) (problems,1) (csp-based,1) (approach,1) 
+
+18515 1 2 18516 18517 7 (discovering,1) (frequent,1) (graph,1) (patterns,1) (using,1) (disjoint,1) (paths,1) 
+
+18516 1 2 18515 18517 7 (discovering,1) (frequent,1) (graph,1) (patterns,1) (using,1) (disjoint,1) (paths,1) 
+
+18517 1 2 18515 18516 7 (discovering,1) (frequent,1) (graph,1) (patterns,1) (using,1) (disjoint,1) (paths,1) 
+
+18522 1 2 18523 18524 7 (approach,1) (implementing,1) (general,1) (learning,1) (companions,1) (problem,1) (solving,1) 
+
+18523 1 2 18522 18524 7 (approach,1) (implementing,1) (general,1) (learning,1) (companions,1) (problem,1) (solving,1) 
+
+18524 1 2 18522 18523 7 (approach,1) (implementing,1) (general,1) (learning,1) (companions,1) (problem,1) (solving,1) 
+
+18529 1 1 18530 7 (constraint,1) (analysis,1) (design,1) (process,1) (specifying,1) (operations,1) (objects,1) 
+
+18530 1 1 18529 7 (constraint,1) (analysis,1) (design,1) (process,1) (specifying,1) (operations,1) (objects,1) 
+
+18531 1 3 18532 18533 18534 8 (efficient,1) (multidimensional,1) (fuzzy,1) (search,1) (personal,1) (information,1) (management,1) (systems,1) 
+
+18532 1 3 18531 18533 18534 8 (efficient,1) (multidimensional,1) (fuzzy,1) (search,1) (personal,1) (information,1) (management,1) (systems,1) 
+
+18533 1 3 18531 18532 18534 8 (efficient,1) (multidimensional,1) (fuzzy,1) (search,1) (personal,1) (information,1) (management,1) (systems,1) 
+
+18534 1 3 18531 18532 18533 8 (efficient,1) (multidimensional,1) (fuzzy,1) (search,1) (personal,1) (information,1) (management,1) (systems,1) 
+
+18535 1 0 5 (statistical,1) (relational,1) (databases,1) (normal,1) (forms,1) 
+
+18552 1 2 18553 18554 8 (using,1) (ranked,1) (nodes,1) (model,1) (qualitative,1) (judgments,1) (bayesian,1) (networks,1) 
+
+18553 1 2 18552 18554 8 (using,1) (ranked,1) (nodes,1) (model,1) (qualitative,1) (judgments,1) (bayesian,1) (networks,1) 
+
+18554 1 2 18552 18553 8 (using,1) (ranked,1) (nodes,1) (model,1) (qualitative,1) (judgments,1) (bayesian,1) (networks,1) 
+
+18559 1 2 18560 18561 7 (optimal,1) (feature,1) (selection,1) (naive,1) (bayes,1) (text,1) (categorization,1) 
+
+18560 1 2 18559 18561 7 (optimal,1) (feature,1) (selection,1) (naive,1) (bayes,1) (text,1) (categorization,1) 
+
+18561 1 2 18559 18560 7 (optimal,1) (feature,1) (selection,1) (naive,1) (bayes,1) (text,1) (categorization,1) 
+
+18563 1 1 18564 2 (spatio-temporal,1) (predicates,1) 
+
+18564 1 1 18563 2 (spatio-temporal,1) (predicates,1) 
+
+18573 2 2 18574 18575 12 (establishing,1) (relevancy,1) (bookkeeping,1) (libraries,1) (functional,1) (testing,1) (implementations,1) (fuzzy,1) (reasoning,1) (database,1) (question,1) (answering,1) 
+
+18574 2 2 18573 18575 12 (establishing,1) (relevancy,1) (bookkeeping,1) (libraries,1) (functional,1) (testing,1) (implementations,1) (fuzzy,1) (reasoning,1) (database,1) (question,1) (answering,1) 
+
+18575 2 2 18573 18574 12 (establishing,1) (relevancy,1) (bookkeeping,1) (libraries,1) (functional,1) (testing,1) (implementations,1) (fuzzy,1) (reasoning,1) (database,1) (question,1) (answering,1) 
+
+18576 1 0 6 (conclass,1) (framework,1) (real-time,1) (distributed,1) (knowledge-based,1) (processing,1) 
+
+18583 1 1 18584 5 (method,1) (estimating,1) (precision,1) (placename,1) (matching,1) 
+
+18584 1 1 18583 5 (method,1) (estimating,1) (precision,1) (placename,1) (matching,1) 
+
+18585 1 2 18586 18587 9 (quantitative,1) (inference,1) (qualitative,1) (semantic,1) (knowledge,1) (mining,1) (bayesian,1) (model,1) (averaging,1) 
+
+18586 1 2 18585 18587 9 (quantitative,1) (inference,1) (qualitative,1) (semantic,1) (knowledge,1) (mining,1) (bayesian,1) (model,1) (averaging,1) 
+
+18587 1 2 18585 18586 9 (quantitative,1) (inference,1) (qualitative,1) (semantic,1) (knowledge,1) (mining,1) (bayesian,1) (model,1) (averaging,1) 
+
+18588 2 4 18589 18590 19528 19529 7 (active,2) (learning,2) (constraints,1) (semi-supervised,1) (clustering,1) (relative,1) (comparisons,1) 
+
+18589 1 2 18588 18590 5 (active,1) (learning,1) (constraints,1) (semi-supervised,1) (clustering,1) 
+
+18590 2 4 18588 18589 19528 19529 7 (active,2) (learning,2) (constraints,1) (semi-supervised,1) (clustering,1) (relative,1) (comparisons,1) 
+
+19528 1 3 18588 19529 18590 4 (active,1) (learning,1) (relative,1) (comparisons,1) 
+
+19529 1 3 18588 19528 18590 4 (active,1) (learning,1) (relative,1) (comparisons,1) 
+
+18591 1 2 18592 18593 9 (assessing,1) (box,1) (office,1) (performance,1) (using,1) (movie,1) (scripts,1) (kernel-based,1) (approach,1) 
+
+18592 1 2 18591 18593 9 (assessing,1) (box,1) (office,1) (performance,1) (using,1) (movie,1) (scripts,1) (kernel-based,1) (approach,1) 
+
+18593 1 2 18591 18592 9 (assessing,1) (box,1) (office,1) (performance,1) (using,1) (movie,1) (scripts,1) (kernel-based,1) (approach,1) 
+
+18600 1 1 18601 4 (rql,1) (recursive,1) (query,1) (language,1) 
+
+18601 1 1 18600 4 (rql,1) (recursive,1) (query,1) (language,1) 
+
+18604 1 5 18605 18606 18607 18608 18609 5 (efficient,1) (algorithms,1) (temporal,1) (path,1) (computation,1) 
+
+18605 1 5 18604 18606 18607 18608 18609 5 (efficient,1) (algorithms,1) (temporal,1) (path,1) (computation,1) 
+
+18606 1 5 18604 18605 18607 18608 18609 5 (efficient,1) (algorithms,1) (temporal,1) (path,1) (computation,1) 
+
+18607 1 5 18604 18605 18606 18608 18609 5 (efficient,1) (algorithms,1) (temporal,1) (path,1) (computation,1) 
+
+18608 1 5 18604 18605 18606 18607 18609 5 (efficient,1) (algorithms,1) (temporal,1) (path,1) (computation,1) 
+
+18609 1 5 18604 18605 18606 18607 18608 5 (efficient,1) (algorithms,1) (temporal,1) (path,1) (computation,1) 
+
+18610 1 2 18611 18612 7 (data,1) (structure,1) (association,1) (rule,1) (mining,1) (t-trees,1) (p-trees,1) 
+
+18611 1 2 18610 18612 7 (data,1) (structure,1) (association,1) (rule,1) (mining,1) (t-trees,1) (p-trees,1) 
+
+18612 1 2 18610 18611 7 (data,1) (structure,1) (association,1) (rule,1) (mining,1) (t-trees,1) (p-trees,1) 
+
+18615 1 1 18616 7 (fast,1) (recognition,1) (musical,1) (genres,1) (using,1) (rbf,1) (networks,1) 
+
+18616 1 1 18615 7 (fast,1) (recognition,1) (musical,1) (genres,1) (using,1) (rbf,1) (networks,1) 
+
+18626 1 3 18627 18628 18629 3 (knowledge,1) (conceptualization,1) (tool,1) 
+
+18627 2 4 18626 18628 18629 19276 5 (knowledge,1) (conceptualization,1) (tool,1) (manager,1) (associate,1) 
+
+18628 2 4 18626 18627 18629 19276 5 (knowledge,1) (conceptualization,1) (tool,1) (manager,1) (associate,1) 
+
+18629 1 3 18626 18627 18628 3 (knowledge,1) (conceptualization,1) (tool,1) 
+
+19276 1 2 18627 18628 2 (manager,1) (associate,1) 
+
+18633 1 1 18634 6 (universal,1) (relation,1) (data,1) (model,1) (semantic,1) (abstraction,1) 
+
+18634 1 1 18633 6 (universal,1) (relation,1) (data,1) (model,1) (semantic,1) (abstraction,1) 
+
+18645 1 0 6 (building,1) (hypertext,1) (links,1) (computing,1) (semantic,1) (similarity,1) 
+
+18646 1 0 4 (view,1) (adaptation,1) (fragment-based,1) (approach,1) 
+
+18656 1 3 18657 18658 18659 10 (mining,1) (online,1) (reviews,1) (predicting,1) (sales,1) (performance,1) (case,1) (study,1) (movie,1) (domain,1) 
+
+18657 1 3 18656 18658 18659 10 (mining,1) (online,1) (reviews,1) (predicting,1) (sales,1) (performance,1) (case,1) (study,1) (movie,1) (domain,1) 
+
+18658 1 3 18656 18657 18659 10 (mining,1) (online,1) (reviews,1) (predicting,1) (sales,1) (performance,1) (case,1) (study,1) (movie,1) (domain,1) 
+
+18659 1 3 18656 18657 18658 10 (mining,1) (online,1) (reviews,1) (predicting,1) (sales,1) (performance,1) (case,1) (study,1) (movie,1) (domain,1) 
+
+18662 1 1 18663 5 (merlin,1) (exploratory,1) (analysis,1) (imprecise,1) (queries,1) 
+
+18663 1 1 18662 5 (merlin,1) (exploratory,1) (analysis,1) (imprecise,1) (queries,1) 
+
+18669 1 1 18670 6 (managing,1) (frequent,1) (updates,1) (r-trees,1) (update-intensive,1) (applications,1) 
+
+18670 1 1 18669 6 (managing,1) (frequent,1) (updates,1) (r-trees,1) (update-intensive,1) (applications,1) 
+
+18680 1 2 18681 18682 3 (clearing,1) (contamination,1) (networks,1) 
+
+18681 1 2 18680 18682 3 (clearing,1) (contamination,1) (networks,1) 
+
+18682 1 2 18680 18681 3 (clearing,1) (contamination,1) (networks,1) 
+
+18683 1 2 18684 18685 7 (socialite,1) (efficient,1) (graph,1) (query,1) (language,1) (based,1) (datalog,1) 
+
+18684 1 2 18683 18685 7 (socialite,1) (efficient,1) (graph,1) (query,1) (language,1) (based,1) (datalog,1) 
+
+18685 1 2 18683 18684 7 (socialite,1) (efficient,1) (graph,1) (query,1) (language,1) (based,1) (datalog,1) 
+
+18686 1 1 18687 12 (coupling,1) (logical,1) (analysis,1) (data,1) (shadow,1) (clustering,1) (partially,1) (defined,1) (positive,1) (boolean,1) (function,1) (reconstruction,1) 
+
+18687 1 1 18686 12 (coupling,1) (logical,1) (analysis,1) (data,1) (shadow,1) (clustering,1) (partially,1) (defined,1) (positive,1) (boolean,1) (function,1) (reconstruction,1) 
+
+18694 1 4 18695 18696 18697 18698 9 (scalable,1) (daily,1) (human,1) (behavioral,1) (pattern,1) (mining,1) (multivariate,1) (temporal,1) (data,1) 
+
+18695 1 4 18694 18696 18697 18698 9 (scalable,1) (daily,1) (human,1) (behavioral,1) (pattern,1) (mining,1) (multivariate,1) (temporal,1) (data,1) 
+
+18696 1 4 18694 18695 18697 18698 9 (scalable,1) (daily,1) (human,1) (behavioral,1) (pattern,1) (mining,1) (multivariate,1) (temporal,1) (data,1) 
+
+18697 1 4 18694 18695 18696 18698 9 (scalable,1) (daily,1) (human,1) (behavioral,1) (pattern,1) (mining,1) (multivariate,1) (temporal,1) (data,1) 
+
+18698 1 4 18694 18695 18696 18697 9 (scalable,1) (daily,1) (human,1) (behavioral,1) (pattern,1) (mining,1) (multivariate,1) (temporal,1) (data,1) 
+
+18703 1 1 18704 5 (network,2) (engineering,1) (agile,1) (belief,1) (models,1) 
+
+18704 1 1 18703 5 (network,2) (engineering,1) (agile,1) (belief,1) (models,1) 
+
+18709 1 1 18710 5 (optimal,1) (distribution,1) (signatures,1) (signature,1) (hashing,1) 
+
+18710 1 1 18709 5 (optimal,1) (distribution,1) (signatures,1) (signature,1) (hashing,1) 
+
+18724 2 0 10 (flex,1) (tolerant,1) (cooperative,1) (user,1) (interface,1) (databases,1) (intensional,1) (answers,1) (database,1) (queries,1) 
+
+18725 1 4 18726 18727 18728 18729 8 (survey,1) (discretization,1) (techniques,1) (taxonomy,1) (empirical,1) (analysis,1) (supervised,1) (learning,1) 
+
+18726 1 4 18725 18727 18728 18729 8 (survey,1) (discretization,1) (techniques,1) (taxonomy,1) (empirical,1) (analysis,1) (supervised,1) (learning,1) 
+
+18727 1 4 18725 18726 18728 18729 8 (survey,1) (discretization,1) (techniques,1) (taxonomy,1) (empirical,1) (analysis,1) (supervised,1) (learning,1) 
+
+18728 1 4 18725 18726 18727 18729 8 (survey,1) (discretization,1) (techniques,1) (taxonomy,1) (empirical,1) (analysis,1) (supervised,1) (learning,1) 
+
+18729 1 4 18725 18726 18727 18728 8 (survey,1) (discretization,1) (techniques,1) (taxonomy,1) (empirical,1) (analysis,1) (supervised,1) (learning,1) 
+
+18733 1 1 18734 4 (consistent,1) (reading,1) (entire,1) (databases,1) 
+
+18734 1 1 18733 4 (consistent,1) (reading,1) (entire,1) (databases,1) 
+
+18735 1 1 18736 6 (semantics-preserving,1) (dimensionality,1) (reduction,1) (rough,1) (fuzzy-rough-based,1) (approaches,1) 
+
+18736 1 1 18735 6 (semantics-preserving,1) (dimensionality,1) (reduction,1) (rough,1) (fuzzy-rough-based,1) (approaches,1) 
+
+18747 1 1 18748 6 (ontology,1) (matching,1) (state,1) (art,1) (future,1) (challenges,1) 
+
+18748 1 1 18747 6 (ontology,1) (matching,1) (state,1) (art,1) (future,1) (challenges,1) 
+
+18751 1 3 18752 18753 18754 7 (image,1) (representations,1) (feature,1) (selection,1) (multimedia,1) (database,1) (search,1) 
+
+18752 1 3 18751 18753 18754 7 (image,1) (representations,1) (feature,1) (selection,1) (multimedia,1) (database,1) (search,1) 
+
+18753 1 3 18751 18752 18754 7 (image,1) (representations,1) (feature,1) (selection,1) (multimedia,1) (database,1) (search,1) 
+
+18754 1 3 18751 18752 18753 7 (image,1) (representations,1) (feature,1) (selection,1) (multimedia,1) (database,1) (search,1) 
+
+18756 1 4 18757 18758 18759 18760 6 (graph-based,1) (framework,1) (multiparadigmatic,1) (visual,1) (access,1) (databases,1) 
+
+18757 2 4 18756 18758 18759 18760 14 (graph-based,1) (framework,1) (multiparadigmatic,1) (visual,1) (access,1) (databases,1) (guest,1) (editor,1) (introduction,1) (special,1) (section,1) (knowledge,1) (engineering,2) (software,1) 
+
+18758 1 4 18756 18757 18759 18760 6 (graph-based,1) (framework,1) (multiparadigmatic,1) (visual,1) (access,1) (databases,1) 
+
+18759 1 4 18756 18757 18758 18760 6 (graph-based,1) (framework,1) (multiparadigmatic,1) (visual,1) (access,1) (databases,1) 
+
+18760 1 4 18756 18757 18758 18759 6 (graph-based,1) (framework,1) (multiparadigmatic,1) (visual,1) (access,1) (databases,1) 
+
+18764 1 4 18765 18766 18767 18768 9 (efficient,1) (web,1) (page,1) (change,1) (detection,1) (based,1) (optimized,1) (hungarian,1) (algorithm,1) 
+
+18765 1 4 18764 18766 18767 18768 9 (efficient,1) (web,1) (page,1) (change,1) (detection,1) (based,1) (optimized,1) (hungarian,1) (algorithm,1) 
+
+18766 1 4 18764 18765 18767 18768 9 (efficient,1) (web,1) (page,1) (change,1) (detection,1) (based,1) (optimized,1) (hungarian,1) (algorithm,1) 
+
+18767 1 4 18764 18765 18766 18768 9 (efficient,1) (web,1) (page,1) (change,1) (detection,1) (based,1) (optimized,1) (hungarian,1) (algorithm,1) 
+
+18768 1 4 18764 18765 18766 18767 9 (efficient,1) (web,1) (page,1) (change,1) (detection,1) (based,1) (optimized,1) (hungarian,1) (algorithm,1) 
+
+18777 1 3 18778 18779 18780 8 (distributed,1) (autonomous,1) (online,1) (learning,1) (regrets,1) (intrinsic,1) (privacy-preserving,1) (properties,1) 
+
+18778 1 3 18777 18779 18780 8 (distributed,1) (autonomous,1) (online,1) (learning,1) (regrets,1) (intrinsic,1) (privacy-preserving,1) (properties,1) 
+
+18779 1 3 18777 18778 18780 8 (distributed,1) (autonomous,1) (online,1) (learning,1) (regrets,1) (intrinsic,1) (privacy-preserving,1) (properties,1) 
+
+18780 1 3 18777 18778 18779 8 (distributed,1) (autonomous,1) (online,1) (learning,1) (regrets,1) (intrinsic,1) (privacy-preserving,1) (properties,1) 
+
+18787 1 3 18788 18789 18790 6 (learning,1) (similarity,1) (matching,1) (multimedia,1) (content-based,1) (retrieval,1) 
+
+18788 1 3 18787 18789 18790 6 (learning,1) (similarity,1) (matching,1) (multimedia,1) (content-based,1) (retrieval,1) 
+
+18789 1 3 18787 18788 18790 6 (learning,1) (similarity,1) (matching,1) (multimedia,1) (content-based,1) (retrieval,1) 
+
+18790 1 3 18787 18788 18789 6 (learning,1) (similarity,1) (matching,1) (multimedia,1) (content-based,1) (retrieval,1) 
+
+18791 1 1 18792 3 (bagging,1) (adaptive,1) (costs,1) 
+
+18792 1 1 18791 3 (bagging,1) (adaptive,1) (costs,1) 
+
+18793 1 0 7 (probabilistic,1) (static,1) (load-balancing,1) (parallel,1) (mining,1) (frequent,1) (sequences,1) 
+
+18795 1 1 18796 8 (sharing,1) (metainformation,1) (guide,1) (cooperative,1) (search,1) (heterogeneous,1) (reusable,1) (agents,1) 
+
+18796 1 1 18795 8 (sharing,1) (metainformation,1) (guide,1) (cooperative,1) (search,1) (heterogeneous,1) (reusable,1) (agents,1) 
+
+18800 1 2 18801 18802 5 (overlapping,1) (decomposition,1) (gaussian,1) (graphical,1) (modeling,1) 
+
+18801 1 2 18800 18802 5 (overlapping,1) (decomposition,1) (gaussian,1) (graphical,1) (modeling,1) 
+
+18802 1 2 18800 18801 5 (overlapping,1) (decomposition,1) (gaussian,1) (graphical,1) (modeling,1) 
+
+18803 1 2 18804 18805 5 (hierarchical,1) (clustering,1) (time-series,1) (data,1) (streams,1) 
+
+18804 1 2 18803 18805 5 (hierarchical,1) (clustering,1) (time-series,1) (data,1) (streams,1) 
+
+18805 1 2 18803 18804 5 (hierarchical,1) (clustering,1) (time-series,1) (data,1) (streams,1) 
+
+18806 1 1 18807 7 (one-phase,1) (algorithm,1) (detect,1) (distributed,1) (deadlocks,1) (replicated,1) (databases,1) 
+
+18807 1 1 18806 7 (one-phase,1) (algorithm,1) (detect,1) (distributed,1) (deadlocks,1) (replicated,1) (databases,1) 
+
+18809 1 2 18810 18811 6 (conceptual,1) (clustering,1) (algorithm,1) (database,1) (schema,1) (design,1) 
+
+18810 1 2 18809 18811 6 (conceptual,1) (clustering,1) (algorithm,1) (database,1) (schema,1) (design,1) 
+
+18811 1 2 18809 18810 6 (conceptual,1) (clustering,1) (algorithm,1) (database,1) (schema,1) (design,1) 
+
+18812 1 4 18813 18814 18815 18816 8 (automatic,1) (generation,1) (domain,1) (module,1) (electronic,1) (textbooks,1) (method,1) (validation,1) 
+
+18813 1 4 18812 18814 18815 18816 8 (automatic,1) (generation,1) (domain,1) (module,1) (electronic,1) (textbooks,1) (method,1) (validation,1) 
+
+18814 1 4 18812 18813 18815 18816 8 (automatic,1) (generation,1) (domain,1) (module,1) (electronic,1) (textbooks,1) (method,1) (validation,1) 
+
+18815 1 4 18812 18813 18814 18816 8 (automatic,1) (generation,1) (domain,1) (module,1) (electronic,1) (textbooks,1) (method,1) (validation,1) 
+
+18816 1 4 18812 18813 18814 18815 8 (automatic,1) (generation,1) (domain,1) (module,1) (electronic,1) (textbooks,1) (method,1) (validation,1) 
+
+18817 1 2 18818 18819 8 (evaluation,1) (design,1) (online,1) (cooperative,1) (feedback,1) (mechanisms,1) (reputation,1) (management,1) 
+
+18818 1 2 18817 18819 8 (evaluation,1) (design,1) (online,1) (cooperative,1) (feedback,1) (mechanisms,1) (reputation,1) (management,1) 
+
+18819 1 2 18817 18818 8 (evaluation,1) (design,1) (online,1) (cooperative,1) (feedback,1) (mechanisms,1) (reputation,1) (management,1) 
+
+18836 1 1 18837 7 (creating,1) (domain,1) (specific,1) (metadata,1) (scientific,1) (knowledge,1) (bases,1) 
+
+18837 1 1 18836 7 (creating,1) (domain,1) (specific,1) (metadata,1) (scientific,1) (knowledge,1) (bases,1) 
+
+18845 1 2 18846 18847 6 (rankrc,1) (large-scale,1) (nonlinear,1) (rare,1) (class,1) (ranking,1) 
+
+18846 1 2 18845 18847 6 (rankrc,1) (large-scale,1) (nonlinear,1) (rare,1) (class,1) (ranking,1) 
+
+18847 1 2 18845 18846 6 (rankrc,1) (large-scale,1) (nonlinear,1) (rare,1) (class,1) (ranking,1) 
+
+18849 2 3 18850 18851 18852 13 (distribution-index-based,1) (discretizer,1) (decision-making,2) (symbolic,1) (ai,1) (approaches,1) (self-organizing,1) (computing,1) (network,1) (data,2) (sets,1) (diversity,1) (types,1) 
+
+18850 2 3 18849 18851 18852 13 (distribution-index-based,1) (discretizer,1) (decision-making,2) (symbolic,1) (ai,1) (approaches,1) (self-organizing,1) (computing,1) (network,1) (data,2) (sets,1) (diversity,1) (types,1) 
+
+18851 2 3 18849 18850 18852 13 (distribution-index-based,1) (discretizer,1) (decision-making,2) (symbolic,1) (ai,1) (approaches,1) (self-organizing,1) (computing,1) (network,1) (data,2) (sets,1) (diversity,1) (types,1) 
+
+18852 2 3 18849 18850 18851 13 (distribution-index-based,1) (discretizer,1) (decision-making,2) (symbolic,1) (ai,1) (approaches,1) (self-organizing,1) (computing,1) (network,1) (data,2) (sets,1) (diversity,1) (types,1) 
+
+18860 1 1 18861 7 (process,1) (discovery,1) (algorithms,1) (using,1) (numerical,1) (abstract,1) (domains,1) 
+
+18861 1 1 18860 7 (process,1) (discovery,1) (algorithms,1) (using,1) (numerical,1) (abstract,1) (domains,1) 
+
+18863 1 2 18864 18865 10 (knowledge,1) (acquisition,1) (method,1) (based,1) (singular,1) (value,1) (decomposition,1) (human,1) (motion,1) (analysis,1) 
+
+18864 1 2 18863 18865 10 (knowledge,1) (acquisition,1) (method,1) (based,1) (singular,1) (value,1) (decomposition,1) (human,1) (motion,1) (analysis,1) 
+
+18865 1 2 18863 18864 10 (knowledge,1) (acquisition,1) (method,1) (based,1) (singular,1) (value,1) (decomposition,1) (human,1) (motion,1) (analysis,1) 
+
+18866 1 0 9 (vagabond,1) (approach,1) (logging,1) (recovery,1) (transaction-time,1) (temporal,1) (object,1) (database,1) (systems,1) 
+
+18875 1 2 18876 18877 7 (design,1) (performance,1) (evaluation,1) (considerations,1) (multimedia,1) (medical,1) (database,1) 
+
+18876 1 2 18875 18877 7 (design,1) (performance,1) (evaluation,1) (considerations,1) (multimedia,1) (medical,1) (database,1) 
+
+18877 1 2 18875 18876 7 (design,1) (performance,1) (evaluation,1) (considerations,1) (multimedia,1) (medical,1) (database,1) 
+
+18887 1 2 18888 18889 8 (spirit,1) (tree,1) (kernel-based,1) (method,1) (topic,1) (person,1) (interaction,1) (detection,1) 
+
+18888 1 2 18887 18889 8 (spirit,1) (tree,1) (kernel-based,1) (method,1) (topic,1) (person,1) (interaction,1) (detection,1) 
+
+18889 1 2 18887 18888 8 (spirit,1) (tree,1) (kernel-based,1) (method,1) (topic,1) (person,1) (interaction,1) (detection,1) 
+
+18890 1 0 3 (artificial,1) (intelligence,1) (going,1) 
+
+18891 1 0 4 (description,1) (logics,1) (data,1) (management,1) 
+
+18892 1 1 18893 9 (influential,1) (rule,1) (search,1) (scheme,1) (irss,1) (new,1) (fuzzy,1) (pattern,1) (classifier,1) 
+
+18893 1 1 18892 9 (influential,1) (rule,1) (search,1) (scheme,1) (irss,1) (new,1) (fuzzy,1) (pattern,1) (classifier,1) 
+
+18894 1 1 18895 6 (pattern-aided,1) (regression,1) (modeling,1) (prediction,1) (model,1) (analysis,1) 
+
+18895 1 1 18894 6 (pattern-aided,1) (regression,1) (modeling,1) (prediction,1) (model,1) (analysis,1) 
+
+18896 1 4 18897 18898 18899 18900 6 (cold-start,1) (recommendation,1) (provable,1) (guarantees,1) (decoupled,1) (approach,1) 
+
+18897 1 4 18896 18898 18899 18900 6 (cold-start,1) (recommendation,1) (provable,1) (guarantees,1) (decoupled,1) (approach,1) 
+
+18898 1 4 18896 18897 18899 18900 6 (cold-start,1) (recommendation,1) (provable,1) (guarantees,1) (decoupled,1) (approach,1) 
+
+18899 1 4 18896 18897 18898 18900 6 (cold-start,1) (recommendation,1) (provable,1) (guarantees,1) (decoupled,1) (approach,1) 
+
+18900 1 4 18896 18897 18898 18899 6 (cold-start,1) (recommendation,1) (provable,1) (guarantees,1) (decoupled,1) (approach,1) 
+
+18910 1 1 18911 4 (induction,1) (meta-knowledge,1) (knowledge,1) (discovery,1) 
+
+18911 1 1 18910 4 (induction,1) (meta-knowledge,1) (knowledge,1) (discovery,1) 
+
+18915 1 2 18916 18917 4 (nonmonotonic,1) (reasoning,1) (prioritized,1) (argumentation,1) 
+
+18916 1 2 18915 18917 4 (nonmonotonic,1) (reasoning,1) (prioritized,1) (argumentation,1) 
+
+18917 1 2 18915 18916 4 (nonmonotonic,1) (reasoning,1) (prioritized,1) (argumentation,1) 
+
+18920 1 1 18921 5 (formal,1) (foundations,1) (object-oriented,1) (data,1) (modeling,1) 
+
+18921 1 1 18920 5 (formal,1) (foundations,1) (object-oriented,1) (data,1) (modeling,1) 
+
+18923 1 0 7 (fuzzy,1) (metagraph,1) (combination,1) (indexing,1) (approach,1) (rule-based,1) (systems,1) 
+
+18927 1 5 18928 18929 18930 18931 18932 8 (hierarchical,1) (tensor-based,1) (approach,1) (compressing,1) (updating,1) (querying,1) (geospatial,1) (data,1) 
+
+18928 1 5 18927 18929 18930 18931 18932 8 (hierarchical,1) (tensor-based,1) (approach,1) (compressing,1) (updating,1) (querying,1) (geospatial,1) (data,1) 
+
+18929 1 5 18927 18928 18930 18931 18932 8 (hierarchical,1) (tensor-based,1) (approach,1) (compressing,1) (updating,1) (querying,1) (geospatial,1) (data,1) 
+
+18930 1 5 18927 18928 18929 18931 18932 8 (hierarchical,1) (tensor-based,1) (approach,1) (compressing,1) (updating,1) (querying,1) (geospatial,1) (data,1) 
+
+18931 1 5 18927 18928 18929 18930 18932 8 (hierarchical,1) (tensor-based,1) (approach,1) (compressing,1) (updating,1) (querying,1) (geospatial,1) (data,1) 
+
+18932 1 5 18927 18928 18929 18930 18931 8 (hierarchical,1) (tensor-based,1) (approach,1) (compressing,1) (updating,1) (querying,1) (geospatial,1) (data,1) 
+
+18938 1 1 18939 5 (knowledge,1) (intensive,1) (software,1) (engineering,1) (tools,1) 
+
+18939 1 1 18938 5 (knowledge,1) (intensive,1) (software,1) (engineering,1) (tools,1) 
+
+18946 1 1 18947 4 (arbitration,1) (merge,1) (knowledge,1) (bases,1) 
+
+18947 1 1 18946 4 (arbitration,1) (merge,1) (knowledge,1) (bases,1) 
+
+18948 1 2 18949 18950 9 (converting,1) (fuzzy,1) (data,2) (model,1) (object-oriented,1) (design,1) (managing,1) (gis,1) (files,1) 
+
+18949 1 2 18948 18950 9 (converting,1) (fuzzy,1) (data,2) (model,1) (object-oriented,1) (design,1) (managing,1) (gis,1) (files,1) 
+
+18950 1 2 18948 18949 9 (converting,1) (fuzzy,1) (data,2) (model,1) (object-oriented,1) (design,1) (managing,1) (gis,1) (files,1) 
+
+18958 1 1 18959 11 (performance,1) (finite-state,1) (machine,1) (implementation,1) (iterative,1) (cluster,1) (labeling,1) (desktop,1) (mobile,1) (computing,1) (platforms,1) 
+
+18959 1 1 18958 11 (performance,1) (finite-state,1) (machine,1) (implementation,1) (iterative,1) (cluster,1) (labeling,1) (desktop,1) (mobile,1) (computing,1) (platforms,1) 
+
+18981 1 3 18982 18983 18984 6 (learning,1) (heuristics,1) (superblock,1) (instruction,1) (scheduling,1) (problem,1) 
+
+18982 1 3 18981 18983 18984 6 (learning,1) (heuristics,1) (superblock,1) (instruction,1) (scheduling,1) (problem,1) 
+
+18983 1 3 18981 18982 18984 6 (learning,1) (heuristics,1) (superblock,1) (instruction,1) (scheduling,1) (problem,1) 
+
+18984 1 3 18981 18982 18983 6 (learning,1) (heuristics,1) (superblock,1) (instruction,1) (scheduling,1) (problem,1) 
+
+18998 1 2 18999 19000 10 (discrete,1) (elastic,1) (inner,1) (vector,1) (spaces,1) (application,1) (time,1) (series,1) (sequence,1) (mining,1) 
+
+18999 1 2 18998 19000 10 (discrete,1) (elastic,1) (inner,1) (vector,1) (spaces,1) (application,1) (time,1) (series,1) (sequence,1) (mining,1) 
+
+19000 1 2 18998 18999 10 (discrete,1) (elastic,1) (inner,1) (vector,1) (spaces,1) (application,1) (time,1) (series,1) (sequence,1) (mining,1) 
+
+19001 1 2 19002 19003 6 (join,1) (multiple,1) (data,1) (streams,1) (sensor,1) (networks,1) 
+
+19002 1 2 19001 19003 6 (join,1) (multiple,1) (data,1) (streams,1) (sensor,1) (networks,1) 
+
+19003 1 2 19001 19002 6 (join,1) (multiple,1) (data,1) (streams,1) (sensor,1) (networks,1) 
+
+19012 1 1 19013 7 (effect,1) (knowledge,1) (representation,1) (schemes,1) (maintainability,1) (knowledge-based,1) (systems,1) 
+
+19013 1 1 19012 7 (effect,1) (knowledge,1) (representation,1) (schemes,1) (maintainability,1) (knowledge-based,1) (systems,1) 
+
+19020 1 1 19021 6 (improving,1) (activity,1) (recognitionby,1) (segmental,1) (pattern,1) (mining,1) 
+
+19021 1 1 19020 6 (improving,1) (activity,1) (recognitionby,1) (segmental,1) (pattern,1) (mining,1) 
+
+19024 1 1 19025 6 (discovering,1) (explaining,1) (abnormal,1) (nodes,1) (semantic,1) (graphs,1) 
+
+19025 1 1 19024 6 (discovering,1) (explaining,1) (abnormal,1) (nodes,1) (semantic,1) (graphs,1) 
+
+19026 1 1 19027 7 (clustering,1) (data,1) (streams,1) (based,1) (shared,1) (density,1) (micro-clusters,1) 
+
+19027 1 1 19026 7 (clustering,1) (data,1) (streams,1) (based,1) (shared,1) (density,1) (micro-clusters,1) 
+
+19028 1 1 19029 9 (optimizing,1) (sort,1) (order,1) (query,1) (execution,1) (balanced,1) (nested,1) (grid,1) (files,1) 
+
+19029 1 1 19028 9 (optimizing,1) (sort,1) (order,1) (query,1) (execution,1) (balanced,1) (nested,1) (grid,1) (files,1) 
+
+19030 1 3 19031 19032 19033 4 (querie,1) (collaborative,1) (database,1) (exploration,1) 
+
+19031 1 3 19030 19032 19033 4 (querie,1) (collaborative,1) (database,1) (exploration,1) 
+
+19032 1 3 19030 19031 19033 4 (querie,1) (collaborative,1) (database,1) (exploration,1) 
+
+19033 1 3 19030 19031 19032 4 (querie,1) (collaborative,1) (database,1) (exploration,1) 
+
+19036 1 0 5 (graph,1) (traversal,1) (linear,1) (binary-chain,1) (programs,1) 
+
+19046 1 2 19047 19048 6 (image,1) (content-based,1) (retrieval,1) (using,1) (chromaticity,1) (moments,1) 
+
+19047 1 2 19046 19048 6 (image,1) (content-based,1) (retrieval,1) (using,1) (chromaticity,1) (moments,1) 
+
+19048 1 2 19046 19047 6 (image,1) (content-based,1) (retrieval,1) (using,1) (chromaticity,1) (moments,1) 
+
+19049 1 3 19050 19051 19052 6 (generalization,1) (capabilities,1) (subtle,1) (image,1) (pattern,1) (classifiers,1) 
+
+19050 1 3 19049 19051 19052 6 (generalization,1) (capabilities,1) (subtle,1) (image,1) (pattern,1) (classifiers,1) 
+
+19051 2 4 19049 19050 19052 19784 16 (generalization,1) (capabilities,1) (subtle,1) (image,1) (pattern,1) (classifiers,1) (clustering,1) (classification,1) (structured,1) (data,1) (domains,1) (using,1) (fuzzy,1) (lattice,1) (neurocomputing,1) (fln,1) 
+
+19052 1 3 19049 19050 19051 6 (generalization,1) (capabilities,1) (subtle,1) (image,1) (pattern,1) (classifiers,1) 
+
+19784 1 1 19051 10 (clustering,1) (classification,1) (structured,1) (data,1) (domains,1) (using,1) (fuzzy,1) (lattice,1) (neurocomputing,1) (fln,1) 
+
+19054 1 1 19055 7 (prolog,2) (rex,1) (way,1) (extend,1) (better,1) (knowledge,1) (representation,1) 
+
+19055 1 1 19054 7 (prolog,2) (rex,1) (way,1) (extend,1) (better,1) (knowledge,1) (representation,1) 
+
+19058 1 0 9 (thetar-string,1) (geometry-based,1) (representation,1) (efficient,1) (effective,1) (retrieval,1) (images,1) (spatial,1) (similarity,1) 
+
+19059 1 1 19060 10 (estimating,1) (helpfulness,1) (economic,1) (impact,1) (product,1) (reviews,1) (mining,1) (text,1) (reviewer,1) (characteristics,1) 
+
+19060 2 3 19059 19208 19209 14 (estimating,1) (helpfulness,1) (economic,1) (impact,1) (product,1) (reviews,1) (mining,1) (text,1) (reviewer,1) (characteristics,1) (answering,1) (general,1) (time-sensitive,1) (queries,1) 
+
+19208 1 2 19209 19060 4 (answering,1) (general,1) (time-sensitive,1) (queries,1) 
+
+19209 1 2 19208 19060 4 (answering,1) (general,1) (time-sensitive,1) (queries,1) 
+
+19062 1 1 19063 5 (semantic,1) (ideation,1) (learning,1) (agent-based,1) (e-brainstorming,1) 
+
+19063 1 1 19062 5 (semantic,1) (ideation,1) (learning,1) (agent-based,1) (e-brainstorming,1) 
+
+19064 1 2 19065 19066 7 (nonlinear,1) (dimension,1) (reduction,1) (kernel,1) (sliced,1) (inverse,1) (regression,1) 
+
+19065 1 2 19064 19066 7 (nonlinear,1) (dimension,1) (reduction,1) (kernel,1) (sliced,1) (inverse,1) (regression,1) 
+
+19066 1 2 19064 19065 7 (nonlinear,1) (dimension,1) (reduction,1) (kernel,1) (sliced,1) (inverse,1) (regression,1) 
+
+19069 1 1 19070 6 (semiautomatic,1) (method,1) (assigning,1) (elevation,1) (contour,1) (maps,1) 
+
+19070 1 1 19069 6 (semiautomatic,1) (method,1) (assigning,1) (elevation,1) (contour,1) (maps,1) 
+
+19071 1 2 19072 19073 6 (evaluating,1) (wiki,1) (collaborative,1) (features,1) (ontology,1) (authoring,1) 
+
+19072 1 2 19071 19073 6 (evaluating,1) (wiki,1) (collaborative,1) (features,1) (ontology,1) (authoring,1) 
+
+19073 1 2 19071 19072 6 (evaluating,1) (wiki,1) (collaborative,1) (features,1) (ontology,1) (authoring,1) 
+
+19083 1 4 19084 19085 19086 19087 4 (validation,1) (automated,1) (model,1) (generator,1) 
+
+19084 1 4 19083 19085 19086 19087 4 (validation,1) (automated,1) (model,1) (generator,1) 
+
+19085 1 4 19083 19084 19086 19087 4 (validation,1) (automated,1) (model,1) (generator,1) 
+
+19086 1 4 19083 19084 19085 19087 4 (validation,1) (automated,1) (model,1) (generator,1) 
+
+19087 1 4 19083 19084 19085 19086 4 (validation,1) (automated,1) (model,1) (generator,1) 
+
+19091 1 1 19092 4 (semantic,1) (abstractions,1) (multimedia,1) (domain,1) 
+
+19092 1 1 19091 4 (semantic,1) (abstractions,1) (multimedia,1) (domain,1) 
+
+19097 1 2 19098 19099 7 (fuzzy,1) (self-constructing,1) (feature,1) (clustering,1) (algorithm,1) (text,1) (classification,1) 
+
+19098 1 2 19097 19099 7 (fuzzy,1) (self-constructing,1) (feature,1) (clustering,1) (algorithm,1) (text,1) (classification,1) 
+
+19099 1 2 19097 19098 7 (fuzzy,1) (self-constructing,1) (feature,1) (clustering,1) (algorithm,1) (text,1) (classification,1) 
+
+19107 1 2 19108 19109 8 (commtrust,1) (computing,1) (multi-dimensional,1) (trust,1) (mining,1) (e-commerce,1) (feedback,1) (comments,1) 
+
+19108 1 2 19107 19109 8 (commtrust,1) (computing,1) (multi-dimensional,1) (trust,1) (mining,1) (e-commerce,1) (feedback,1) (comments,1) 
+

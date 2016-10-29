@@ -1,0 +1,804 @@
+< Author_ID  Paper_Count  Adjacent_Count  <Adjacent_List>  Keyword_Count  <(Keyword,Score)> >
+
+16864 1 6 16862 16863 16865 16866 16867 16868 13 (seed,1) (systems,1) (african,1) (food,1) (security,1) (linking,1) (molecular,1) (genetic,1) (analysis,1) (cultivator,1) (knowledge,1) (west,1) (africa,1) 
+
+16865 1 6 16862 16863 16864 16866 16867 16868 13 (seed,1) (systems,1) (african,1) (food,1) (security,1) (linking,1) (molecular,1) (genetic,1) (analysis,1) (cultivator,1) (knowledge,1) (west,1) (africa,1) 
+
+16866 1 6 16862 16863 16864 16865 16867 16868 13 (seed,1) (systems,1) (african,1) (food,1) (security,1) (linking,1) (molecular,1) (genetic,1) (analysis,1) (cultivator,1) (knowledge,1) (west,1) (africa,1) 
+
+16867 1 6 16862 16863 16864 16865 16866 16868 13 (seed,1) (systems,1) (african,1) (food,1) (security,1) (linking,1) (molecular,1) (genetic,1) (analysis,1) (cultivator,1) (knowledge,1) (west,1) (africa,1) 
+
+16868 1 6 16862 16863 16864 16865 16866 16867 13 (seed,1) (systems,1) (african,1) (food,1) (security,1) (linking,1) (molecular,1) (genetic,1) (analysis,1) (cultivator,1) (knowledge,1) (west,1) (africa,1) 
+
+16871 1 4 16872 16873 16874 16875 7 (organisational,1) (innovation,1) (coopetition,1) (smes,1) (tertius,1) (strategies,1) (approach,1) 
+
+16872 1 4 16871 16873 16874 16875 7 (organisational,1) (innovation,1) (coopetition,1) (smes,1) (tertius,1) (strategies,1) (approach,1) 
+
+16873 1 4 16871 16872 16874 16875 7 (organisational,1) (innovation,1) (coopetition,1) (smes,1) (tertius,1) (strategies,1) (approach,1) 
+
+16874 1 4 16871 16872 16873 16875 7 (organisational,1) (innovation,1) (coopetition,1) (smes,1) (tertius,1) (strategies,1) (approach,1) 
+
+16875 1 4 16871 16872 16873 16874 7 (organisational,1) (innovation,1) (coopetition,1) (smes,1) (tertius,1) (strategies,1) (approach,1) 
+
+16876 1 1 16877 5 (product,1) (architecture,1) (platforms,1) (conceptual,1) (framework,1) 
+
+16877 1 1 16876 5 (product,1) (architecture,1) (platforms,1) (conceptual,1) (framework,1) 
+
+16882 1 1 16883 3 (efficiency,1) (improvement,1) (learning,1) 
+
+16883 1 1 16882 3 (efficiency,1) (improvement,1) (learning,1) 
+
+16885 1 1 16886 4 (dual-use,1) (knowledge-oriented,1) (policy,1) (france,1) 
+
+16886 1 1 16885 4 (dual-use,1) (knowledge-oriented,1) (policy,1) (france,1) 
+
+16887 1 0 6 (confucian,1) (value,1) (impact,1) (joint,1) (venture,1) (formation,1) 
+
+16888 1 3 16889 16890 16891 6 (acquisitions,1) (alliances,1) (aerospace,1) (industry,1) (unusual,1) (triad,1) 
+
+16889 1 3 16888 16890 16891 6 (acquisitions,1) (alliances,1) (aerospace,1) (industry,1) (unusual,1) (triad,1) 
+
+16890 1 3 16888 16889 16891 6 (acquisitions,1) (alliances,1) (aerospace,1) (industry,1) (unusual,1) (triad,1) 
+
+16891 1 3 16888 16889 16890 6 (acquisitions,1) (alliances,1) (aerospace,1) (industry,1) (unusual,1) (triad,1) 
+
+16893 1 2 16894 16895 11 (strategic,1) (decision,1) (model,1) (justification,1) (supply,1) (chain,1) (means,1) (improve,1) (national,1) (development,1) (index,1) 
+
+16894 1 2 16893 16895 11 (strategic,1) (decision,1) (model,1) (justification,1) (supply,1) (chain,1) (means,1) (improve,1) (national,1) (development,1) (index,1) 
+
+16895 1 2 16893 16894 11 (strategic,1) (decision,1) (model,1) (justification,1) (supply,1) (chain,1) (means,1) (improve,1) (national,1) (development,1) (index,1) 
+
+16896 1 0 8 (understanding,1) (buyer,1) (behaviour,1) (software,1) (services,1) (strategies,1) (indian,1) (firms,1) 
+
+16897 1 2 16898 16899 8 (destination,1) (management,1) (systems,1) (creation,1) (value,1) (visitors,1) (tourism,1) (destinations,1) 
+
+16898 1 2 16897 16899 8 (destination,1) (management,1) (systems,1) (creation,1) (value,1) (visitors,1) (tourism,1) (destinations,1) 
+
+16899 1 2 16897 16898 8 (destination,1) (management,1) (systems,1) (creation,1) (value,1) (visitors,1) (tourism,1) (destinations,1) 
+
+16901 1 3 16902 16903 16904 9 (open,1) (innovation,2) (strategies,1) (food,1) (drink,1) (industry,1) (determinants,1) (impact,1) (performance,1) 
+
+16902 1 3 16901 16903 16904 9 (open,1) (innovation,2) (strategies,1) (food,1) (drink,1) (industry,1) (determinants,1) (impact,1) (performance,1) 
+
+16903 1 3 16901 16902 16904 9 (open,1) (innovation,2) (strategies,1) (food,1) (drink,1) (industry,1) (determinants,1) (impact,1) (performance,1) 
+
+16904 1 3 16901 16902 16903 9 (open,1) (innovation,2) (strategies,1) (food,1) (drink,1) (industry,1) (determinants,1) (impact,1) (performance,1) 
+
+16907 1 2 16908 16909 8 (norwegian,1) (academy,1) (science,1) (letters,1) (current,1) (revival,1) (time-honoured,1) (institution,1) 
+
+16908 1 2 16907 16909 8 (norwegian,1) (academy,1) (science,1) (letters,1) (current,1) (revival,1) (time-honoured,1) (institution,1) 
+
+16909 1 2 16907 16908 8 (norwegian,1) (academy,1) (science,1) (letters,1) (current,1) (revival,1) (time-honoured,1) (institution,1) 
+
+16913 1 0 10 (market-oriented,1) (reforms,1) (globalisation,1) (recent,1) (transformation,1) (production,1) (social,1) (structure,1) (developing,1) (countries,1) 
+
+16914 1 1 16915 7 (adapting,1) (future,1) (role,1) (science,1) (academies,1) (capacity,1) (building,1) 
+
+16915 1 1 16914 7 (adapting,1) (future,1) (role,1) (science,1) (academies,1) (capacity,1) (building,1) 
+
+16918 1 1 16919 4 (managing,1) (operations,1) (people,1) (technology,1) 
+
+16919 1 1 16918 4 (managing,1) (operations,1) (people,1) (technology,1) 
+
+16920 1 2 16921 16922 6 (expectations,1) (privatisation,2) (market,1) (realities,1) (technology,1) (transfer,1) 
+
+16921 1 2 16920 16922 6 (expectations,1) (privatisation,2) (market,1) (realities,1) (technology,1) (transfer,1) 
+
+16922 1 2 16920 16921 6 (expectations,1) (privatisation,2) (market,1) (realities,1) (technology,1) (transfer,1) 
+
+16923 1 1 16924 9 (selecting,1) (technical,1) (strategy,1) (high-tech,1) (enterprises,1) (developing,1) (countries,1) (case,1) (study,1) 
+
+16924 1 1 16923 9 (selecting,1) (technical,1) (strategy,1) (high-tech,1) (enterprises,1) (developing,1) (countries,1) (case,1) (study,1) 
+
+16927 1 1 16928 10 (resource-based,1) (view,1) (useful,1) (perspective,1) (shrm,1) (research,1) (case,1) (video,1) (game,1) (industry,1) 
+
+16928 1 1 16927 10 (resource-based,1) (view,1) (useful,1) (perspective,1) (shrm,1) (research,1) (case,1) (video,1) (game,1) (industry,1) 
+
+16933 1 1 16934 4 (management,1) (technology,1) (vision-driven,1) (amp,1) 
+
+16934 1 1 16933 4 (management,1) (technology,1) (vision-driven,1) (amp,1) 
+
+16937 1 0 4 (role,1) (academy,1) (sciences,1) (humanities,1) 
+
+16938 1 0 6 (innovation,1) (management,1) (finmeccanica,1) (experiencing,1) (technology,1) (matrix,1) 
+
+16939 1 0 7 (decision,1) (delphi,1) (tool,1) (technology,1) (policy,1) (austrian,1) (experience,1) 
+
+16940 1 1 16941 8 (technological,1) (regimes,1) (evolution,1) (networks,1) (innovators,1) (lessons,1) (biotechnology,1) (pharmaceuticals,1) 
+
+16941 1 1 16940 8 (technological,1) (regimes,1) (evolution,1) (networks,1) (innovators,1) (lessons,1) (biotechnology,1) (pharmaceuticals,1) 
+
+16943 1 2 16944 16945 5 (interactive,1) (relationship,1) (kibs,1) (knowledge,1) (environment,1) 
+
+16944 1 2 16943 16945 5 (interactive,1) (relationship,1) (kibs,1) (knowledge,1) (environment,1) 
+
+16945 1 2 16943 16944 5 (interactive,1) (relationship,1) (kibs,1) (knowledge,1) (environment,1) 
+
+16948 1 0 6 (business,1) (ethics,1) (myth,1) (reality,1) (tool,1) (essence,1) 
+
+16949 1 1 16950 10 (search,1) (coopetition,1) (consensus,1) (shaping,1) (collective,1) (identity,1) (relevant,1) (strategic,1) (management,1) (community,1) 
+
+16950 1 1 16949 10 (search,1) (coopetition,1) (consensus,1) (shaping,1) (collective,1) (identity,1) (relevant,1) (strategic,1) (management,1) (community,1) 
+
+16951 1 1 16952 8 (paradox,1) (base,1) (pyramid,1) (environmental,1) (sustainability,1) (market-based,1) (poverty,1) (alleviation,1) 
+
+16952 1 1 16951 8 (paradox,1) (base,1) (pyramid,1) (environmental,1) (sustainability,1) (market-based,1) (poverty,1) (alleviation,1) 
+
+16953 1 0 6 (european,1) (collaboration,1) (biotechnology,1) (molecular,1) (analysis,1) (genomes,1) 
+
+16954 1 1 16955 8 (team,1) (performance,1) (lean,1) (manufacturing,1) (operation,1) (takes,1) (way,1) (succeed,1) 
+
+16955 1 1 16954 8 (team,1) (performance,1) (lean,1) (manufacturing,1) (operation,1) (takes,1) (way,1) (succeed,1) 
+
+16956 1 2 16957 16958 6 (information,1) (networks,1) (technological,1) (innovation,1) (industrial,1) (products,1) 
+
+16957 1 2 16956 16958 6 (information,1) (networks,1) (technological,1) (innovation,1) (industrial,1) (products,1) 
+
+16958 1 2 16956 16957 6 (information,1) (networks,1) (technological,1) (innovation,1) (industrial,1) (products,1) 
+
+16959 1 0 9 (grouping,1) (decomposition,1) (constraints,1) (design,1) (build,1) (life,1) (cycle,1) (project,1) (delivery,1) 
+
+16962 1 1 16963 9 (comparison,1) (e-commerce,1) (india,1) (mexico,1) (example,1) (technology,1) (diffusion,1) (developing,1) (nations,1) 
+
+16963 1 1 16962 9 (comparison,1) (e-commerce,1) (india,1) (mexico,1) (example,1) (technology,1) (diffusion,1) (developing,1) (nations,1) 
+
+16964 1 2 16965 16966 6 (collaborative,1) (order,2) (management,2) (standard,1) (solutions,1) (interorganisational,1) 
+
+16965 1 2 16964 16966 6 (collaborative,1) (order,2) (management,2) (standard,1) (solutions,1) (interorganisational,1) 
+
+16966 1 2 16964 16965 6 (collaborative,1) (order,2) (management,2) (standard,1) (solutions,1) (interorganisational,1) 
+
+16967 1 1 16968 8 (globalisation,1) (amp,1) (host-country,1) (patenting,1) (multinational,1) (corporations,1) (emerging,1) (countries,1) 
+
+16968 1 1 16967 8 (globalisation,1) (amp,1) (host-country,1) (patenting,1) (multinational,1) (corporations,1) (emerging,1) (countries,1) 
+
+16969 1 2 16970 16971 8 (innovation,1) (operative,1) (real,1) (options,1) (ways,1) (affect,1) (organisational,1) (learning,1) 
+
+16970 1 2 16969 16971 8 (innovation,1) (operative,1) (real,1) (options,1) (ways,1) (affect,1) (organisational,1) (learning,1) 
+
+16971 1 2 16969 16970 8 (innovation,1) (operative,1) (real,1) (options,1) (ways,1) (affect,1) (organisational,1) (learning,1) 
+
+16972 1 2 16973 16974 11 (framework,1) (open,1) (innovation,1) (smes,1) (emerging,1) (economy,1) (firm,1) (characteristics,1) (network,2) (openness,1) (information,1) 
+
+16973 1 2 16972 16974 11 (framework,1) (open,1) (innovation,1) (smes,1) (emerging,1) (economy,1) (firm,1) (characteristics,1) (network,2) (openness,1) (information,1) 
+
+16974 1 2 16972 16973 11 (framework,1) (open,1) (innovation,1) (smes,1) (emerging,1) (economy,1) (firm,1) (characteristics,1) (network,2) (openness,1) (information,1) 
+
+16975 1 3 16976 16977 16978 6 (network,1) (structures,1) (reproduction,1) (resources,1) (sustainable,1) (innovation,1) 
+
+16976 1 3 16975 16977 16978 6 (network,1) (structures,1) (reproduction,1) (resources,1) (sustainable,1) (innovation,1) 
+
+16977 1 3 16975 16976 16978 6 (network,1) (structures,1) (reproduction,1) (resources,1) (sustainable,1) (innovation,1) 
+
+16978 1 3 16975 16976 16977 6 (network,1) (structures,1) (reproduction,1) (resources,1) (sustainable,1) (innovation,1) 
+
+16979 1 0 7 (city,1) (brain,1) (south,1) (korea,1) (daedeok,1) (science,1) (town,1) 
+
+16980 1 1 16981 9 (changing,1) (buyer-supplier,1) (relationships,1) (reflections,1) (dynamism,1) (innovation,1) (automotive,1) (industry,1) (india,1) 
+
+16981 1 1 16980 9 (changing,1) (buyer-supplier,1) (relationships,1) (reflections,1) (dynamism,1) (innovation,1) (automotive,1) (industry,1) (india,1) 
+
+16982 1 1 16983 8 (systems,1) (approach,1) (collaborative,1) (decision,1) (support,1) (water,1) (resources,1) (planning,1) 
+
+16983 1 1 16982 8 (systems,1) (approach,1) (collaborative,1) (decision,1) (support,1) (water,1) (resources,1) (planning,1) 
+
+16985 1 2 16986 16987 8 (building,1) (project,1) (complexity,1) (framework,1) (using,1) (international,1) (delphi,1) (study,1) 
+
+16986 1 2 16985 16987 8 (building,1) (project,1) (complexity,1) (framework,1) (using,1) (international,1) (delphi,1) (study,1) 
+
+16987 1 2 16985 16986 8 (building,1) (project,1) (complexity,1) (framework,1) (using,1) (international,1) (delphi,1) (study,1) 
+
+16988 1 1 16989 6 (management,1) (technology,1) (responsive,1) (policies,1) (new,1) (economy,1) 
+
+16989 1 1 16988 6 (management,1) (technology,1) (responsive,1) (policies,1) (new,1) (economy,1) 
+
+16990 1 1 16991 5 (new,1) (product,1) (development,1) (challenges,1) (globalisation,1) 
+
+16991 1 1 16990 5 (new,1) (product,1) (development,1) (challenges,1) (globalisation,1) 
+
+16992 1 1 16993 9 (proactive,1) (versus,1) (reactive,1) (motivations,1) (patenting,1) (impact,1) (patent,1) (production,1) (universities,1) 
+
+16993 1 1 16992 9 (proactive,1) (versus,1) (reactive,1) (motivations,1) (patenting,1) (impact,1) (patent,1) (production,1) (universities,1) 
+
+16997 1 0 4 (foreign,1) (patenting,1) (behaviour,1) (firms,1) 
+
+16999 1 2 17000 17001 8 (influence,1) (entrepreneur,1) (characteristics,1) (success,1) (pure,1) (dot,1) (com,1) (firms,1) 
+
+17000 1 2 16999 17001 8 (influence,1) (entrepreneur,1) (characteristics,1) (success,1) (pure,1) (dot,1) (com,1) (firms,1) 
+
+17001 1 2 16999 17000 8 (influence,1) (entrepreneur,1) (characteristics,1) (success,1) (pure,1) (dot,1) (com,1) (firms,1) 
+
+17002 1 1 17003 9 (variables,1) (influencing,1) (industrial,1) (funding,1) (academic,1) (research,1) (italy,1) (empirical,1) (analysis,1) 
+
+17003 1 1 17002 9 (variables,1) (influencing,1) (industrial,1) (funding,1) (academic,1) (research,1) (italy,1) (empirical,1) (analysis,1) 
+
+17005 1 3 17006 17007 17008 4 (strategic,1) (alliances,1) (world,1) (competitiveness,1) 
+
+17006 1 3 17005 17007 17008 4 (strategic,1) (alliances,1) (world,1) (competitiveness,1) 
+
+17007 1 3 17005 17006 17008 4 (strategic,1) (alliances,1) (world,1) (competitiveness,1) 
+
+17008 1 3 17005 17006 17007 4 (strategic,1) (alliances,1) (world,1) (competitiveness,1) 
+
+17010 1 1 17011 5 (auctioning,1) (public,1) (financial,1) (support,1) (incentives,1) 
+
+17011 1 1 17010 5 (auctioning,1) (public,1) (financial,1) (support,1) (incentives,1) 
+
+17012 1 2 17013 17014 9 (role,1) (knowledge,1) (management,1) (amp,2) (survey,1) (danish,1) (leaders,1) (perceptions,1) (beliefs,1) 
+
+17013 1 2 17012 17014 9 (role,1) (knowledge,1) (management,1) (amp,2) (survey,1) (danish,1) (leaders,1) (perceptions,1) (beliefs,1) 
+
+17014 1 2 17012 17013 9 (role,1) (knowledge,1) (management,1) (amp,2) (survey,1) (danish,1) (leaders,1) (perceptions,1) (beliefs,1) 
+
+17024 1 1 17025 14 (configuration,1) (technology,2) (networks,1) (wind,1) (turbine,1) (industry,1) (comparative,1) (study,1) (management,1) (models,1) (european,1) (chinese,1) (lead,1) (firms,1) 
+
+17025 1 1 17024 14 (configuration,1) (technology,2) (networks,1) (wind,1) (turbine,1) (industry,1) (comparative,1) (study,1) (management,1) (models,1) (european,1) (chinese,1) (lead,1) (firms,1) 
+
+17026 1 0 4 (building,1) (african,1) (information,1) (society,1) 
+
+17028 1 1 17029 10 (relationship,1) (learning,1) (dyadic,1) (knowledge,1) (creation,1) (international,1) (subcontracting,1) (relationships,1) (supplier,1) (perspective,1) 
+
+17029 1 1 17028 10 (relationship,1) (learning,1) (dyadic,1) (knowledge,1) (creation,1) (international,1) (subcontracting,1) (relationships,1) (supplier,1) (perspective,1) 
+
+17032 1 4 17033 17034 17035 17036 7 (developing,1) (partner,1) (relationship,1) (management,1) (franchised,1) (electronic,1) (stores,1) 
+
+17033 1 4 17032 17034 17035 17036 7 (developing,1) (partner,1) (relationship,1) (management,1) (franchised,1) (electronic,1) (stores,1) 
+
+17034 1 4 17032 17033 17035 17036 7 (developing,1) (partner,1) (relationship,1) (management,1) (franchised,1) (electronic,1) (stores,1) 
+
+17035 1 4 17032 17033 17034 17036 7 (developing,1) (partner,1) (relationship,1) (management,1) (franchised,1) (electronic,1) (stores,1) 
+
+17036 1 4 17032 17033 17034 17035 7 (developing,1) (partner,1) (relationship,1) (management,1) (franchised,1) (electronic,1) (stores,1) 
+
+17038 1 1 17039 7 (competence,1) (community,1) (post-acquisition,1) (learning,1) (processes,1) (high-tech,1) (companies,1) 
+
+17039 1 1 17038 7 (competence,1) (community,1) (post-acquisition,1) (learning,1) (processes,1) (high-tech,1) (companies,1) 
+
+17040 1 4 17041 17042 17043 17044 9 (organisational,2) (unlearning,1) (flexibility,1) (innovation,1) (capability,1) (empirical,1) (study,1) (smes,1) (china,1) 
+
+17041 1 4 17040 17042 17043 17044 9 (organisational,2) (unlearning,1) (flexibility,1) (innovation,1) (capability,1) (empirical,1) (study,1) (smes,1) (china,1) 
+
+17042 1 4 17040 17041 17043 17044 9 (organisational,2) (unlearning,1) (flexibility,1) (innovation,1) (capability,1) (empirical,1) (study,1) (smes,1) (china,1) 
+
+17043 1 4 17040 17041 17042 17044 9 (organisational,2) (unlearning,1) (flexibility,1) (innovation,1) (capability,1) (empirical,1) (study,1) (smes,1) (china,1) 
+
+17044 1 4 17040 17041 17042 17043 9 (organisational,2) (unlearning,1) (flexibility,1) (innovation,1) (capability,1) (empirical,1) (study,1) (smes,1) (china,1) 
+
+17045 1 1 17046 7 (innovation,1) (management,1) (experience,1) (perspective,1) (electric,1) (power,1) (industry,1) 
+
+17046 1 1 17045 7 (innovation,1) (management,1) (experience,1) (perspective,1) (electric,1) (power,1) (industry,1) 
+
+17053 1 1 17054 6 (autonomous,1) (induced,1) (learning,1) (optimal,1) (control,1) (approach,1) 
+
+17054 1 1 17053 6 (autonomous,1) (induced,1) (learning,1) (optimal,1) (control,1) (approach,1) 
+
+17058 1 1 17059 6 (leveraging,1) (knowledge,1) (innovation,1) (learning,1) (process,1) (gkn,1) 
+
+17059 1 1 17058 6 (leveraging,1) (knowledge,1) (innovation,1) (learning,1) (process,1) (gkn,1) 
+
+17060 1 1 17061 9 (innovative,1) (activity,1) (canadian,1) (food,1) (processing,1) (establishments,1) (importance,1) (engineering,1) (practices,1) 
+
+17061 1 1 17060 9 (innovative,1) (activity,1) (canadian,1) (food,1) (processing,1) (establishments,1) (importance,1) (engineering,1) (practices,1) 
+
+17062 1 2 17063 17064 8 (dynamic,1) (boundaries,1) (user,1) (communities,1) (exploiting,1) (synergies,1) (managing,1) (dilemmas,1) 
+
+17063 1 2 17062 17064 8 (dynamic,1) (boundaries,1) (user,1) (communities,1) (exploiting,1) (synergies,1) (managing,1) (dilemmas,1) 
+
+17064 1 2 17062 17063 8 (dynamic,1) (boundaries,1) (user,1) (communities,1) (exploiting,1) (synergies,1) (managing,1) (dilemmas,1) 
+
+17065 1 0 8 (using,1) (traffic,1) (prediction,1) (models,1) (providing,1) (predictive,1) (traveller,1) (information,1) 
+
+17066 1 0 9 (management,1) (technology,1) (sme,1) (case,1) (study,1) (hind,1) (high,1) (vacuum,1) (pvt,1) 
+
+17067 1 2 17068 17069 11 (customer,1) (orientation,1) (innovation,1) (projects,1) (new,1) (product,2) (development,1) (success,1) (moderating,1) (effect,1) (innovativeness,1) 
+
+17068 1 2 17067 17069 11 (customer,1) (orientation,1) (innovation,1) (projects,1) (new,1) (product,2) (development,1) (success,1) (moderating,1) (effect,1) (innovativeness,1) 
+
+17069 1 2 17067 17068 11 (customer,1) (orientation,1) (innovation,1) (projects,1) (new,1) (product,2) (development,1) (success,1) (moderating,1) (effect,1) (innovativeness,1) 
+
+17074 1 2 17075 17076 6 (commitment,1) (conflict,1) (management,1) (relational,1) (marketing,1) (china,1) 
+
+17075 1 2 17074 17076 6 (commitment,1) (conflict,1) (management,1) (relational,1) (marketing,1) (china,1) 
+
+17076 1 2 17074 17075 6 (commitment,1) (conflict,1) (management,1) (relational,1) (marketing,1) (china,1) 
+
+17077 1 1 17078 6 (managing,1) (sponsored,1) (research,1) (rewards,1) (industry,1) (universities,1) 
+
+17078 1 1 17077 6 (managing,1) (sponsored,1) (research,1) (rewards,1) (industry,1) (universities,1) 
+
+17079 1 2 17080 17081 6 (innovation,1) (improvement,1) (operations,1) (exploration,1) (management,1) (alignment,1) 
+
+17080 1 2 17079 17081 6 (innovation,1) (improvement,1) (operations,1) (exploration,1) (management,1) (alignment,1) 
+
+17081 1 2 17079 17080 6 (innovation,1) (improvement,1) (operations,1) (exploration,1) (management,1) (alignment,1) 
+
+17082 1 0 9 (organising,1) (deliberate,1) (innovation,1) (knowledge,1) (clusters,1) (accidental,1) (brokering,2) (purposeful,1) (processes,1) 
+
+17083 2 2 17084 17126 16 (business,2) (incubators,1) (economic,1) (development,1) (tools,1) (rethinking,1) (models,1) (based,1) (korea,2) (experience,1) (promoting,1) (incubation,1) (improved,1) (competitiveness,1) (medium,1) (industries,1) 
+
+17084 2 2 17083 17126 16 (business,2) (incubators,1) (economic,1) (development,1) (tools,1) (rethinking,1) (models,1) (based,1) (korea,2) (experience,1) (promoting,1) (incubation,1) (improved,1) (competitiveness,1) (medium,1) (industries,1) 
+
+17126 1 2 17083 17084 8 (promoting,1) (business,1) (incubation,1) (improved,1) (competitiveness,1) (medium,1) (industries,1) (korea,1) 
+
+17085 1 0 11 (neo-contingency,1) (analysis,1) (recruitment,1) (selection,1) (anglo-french,1) (study,1) (high-tech,1) (mid-tech,1) (vs,1) (low-tech,1) (firms,1) 
+
+17086 1 0 6 (striving,1) (kakushin,1) (continuous,1) (innovation,1) (st,1) (century,1) 
+
+17087 1 1 17088 11 (innovation,1) (engineering,2) (education,1) (french,1) (sample,1) (design,1) (continuous,1) (updating,1) (school,1) (industrial,1) (needs,1) 
+
+17088 1 1 17087 11 (innovation,1) (engineering,2) (education,1) (french,1) (sample,1) (design,1) (continuous,1) (updating,1) (school,1) (industrial,1) (needs,1) 
+
+17089 1 1 17090 9 (organisational,1) (knowledge,1) (creating,1) (processes,1) (performance,1) (university-industry,1) (collaborative,1) (amp,1) (projects,1) 
+
+17090 1 1 17089 9 (organisational,1) (knowledge,1) (creating,1) (processes,1) (performance,1) (university-industry,1) (collaborative,1) (amp,1) (projects,1) 
+
+17092 1 2 17093 17094 8 (enabling,1) (knowledge,1) (creation,1) (outsiders,1) (push,1) (model,1) (open,1) (innovation,1) 
+
+17093 1 2 17092 17094 8 (enabling,1) (knowledge,1) (creation,1) (outsiders,1) (push,1) (model,1) (open,1) (innovation,1) 
+
+17094 1 2 17092 17093 8 (enabling,1) (knowledge,1) (creation,1) (outsiders,1) (push,1) (model,1) (open,1) (innovation,1) 
+
+17096 1 1 17097 9 (knowledge,1) (transfer,1) (industry,1) (innovation,1) (discovery,1) (nanotechnology,1) (south-west,1) (sydney,1) (organisations,1) 
+
+17097 1 1 17096 9 (knowledge,1) (transfer,1) (industry,1) (innovation,1) (discovery,1) (nanotechnology,1) (south-west,1) (sydney,1) (organisations,1) 
+
+17099 2 3 17100 17101 17386 10 (knowledge,1) (production,1) (function,1) (lessons,1) (biotechnology,1) (career,1) (stage,1) (benchmarking,1) (collective,1) (research,1) 
+
+17100 1 2 17099 17101 5 (knowledge,1) (production,1) (function,1) (lessons,1) (biotechnology,1) 
+
+17101 1 2 17099 17100 5 (knowledge,1) (production,1) (function,1) (lessons,1) (biotechnology,1) 
+
+17386 1 1 17099 5 (career,1) (stage,1) (benchmarking,1) (collective,1) (research,1) 
+
+17103 1 1 17104 8 (value,1) (people,1) (missing,1) (link,1) (creating,1) (high,1) (performance,1) (organisations,1) 
+
+17104 1 1 17103 8 (value,1) (people,1) (missing,1) (link,1) (creating,1) (high,1) (performance,1) (organisations,1) 
+
+17105 1 0 12 (review,1) (total,1) (factor,1) (productivity,1) (studies,1) (korea,1) (discussion,1) (limits,1) (national,1) (corporate,1) (technology,1) (strategies,1) 
+
+17106 1 2 17107 17108 10 (coopetition,1) (corporate,2) (venture,1) (capital,1) (relationship,1) (network,1) (attributes,1) (innovativeness,1) (financial,1) (performance,1) 
+
+17107 1 2 17106 17108 10 (coopetition,1) (corporate,2) (venture,1) (capital,1) (relationship,1) (network,1) (attributes,1) (innovativeness,1) (financial,1) (performance,1) 
+
+17108 2 3 17106 17107 17373 18 (coopetition,1) (corporate,2) (venture,2) (capital,2) (relationship,1) (network,1) (attributes,1) (innovativeness,1) (financial,1) (performance,1) (strategic,1) (investment,1) (behaviour,1) (german,1) (israeli,1) (industries,1) (comparison,1) (usa,1) 
+
+17373 1 1 17108 10 (strategic,1) (investment,1) (behaviour,1) (german,1) (israeli,1) (venture,1) (capital,1) (industries,1) (comparison,1) (usa,1) 
+
+17112 1 2 17113 17114 10 (public,1) (foresight,1) (exercises,1) (intermediate,1) (level,1) (french,1) (national,1) (programmes,1) (experience,1) (bordeaux,1) 
+
+17113 1 2 17112 17114 10 (public,1) (foresight,1) (exercises,1) (intermediate,1) (level,1) (french,1) (national,1) (programmes,1) (experience,1) (bordeaux,1) 
+
+17114 1 2 17112 17113 10 (public,1) (foresight,1) (exercises,1) (intermediate,1) (level,1) (french,1) (national,1) (programmes,1) (experience,1) (bordeaux,1) 
+
+17115 1 1 17116 9 (impact,1) (web,1) (information,1) (communication,1) (modes,1) (case,1) (corporate,1) (environmental,1) (disclosure,1) 
+
+17116 1 1 17115 9 (impact,1) (web,1) (information,1) (communication,1) (modes,1) (case,1) (corporate,1) (environmental,1) (disclosure,1) 
+
+17121 1 0 10 (intellectual,1) (property,1) (protection,1) (direct,1) (investment,1) (technology,1) (transfer,1) (germany,1) (japan,1) (usa,1) 
+
+17122 1 2 17123 17124 9 (empirical,1) (assessment,1) (learning,1) (knowledge,1) (management,1) (typology,1) (research,1) (joint,1) (ventures,1) 
+
+17123 1 2 17122 17124 9 (empirical,1) (assessment,1) (learning,1) (knowledge,1) (management,1) (typology,1) (research,1) (joint,1) (ventures,1) 
+
+17124 1 2 17122 17123 9 (empirical,1) (assessment,1) (learning,1) (knowledge,1) (management,1) (typology,1) (research,1) (joint,1) (ventures,1) 
+
+17125 1 0 9 (sigma,1) (strategy,1) (supporting,1) (innovation,1) (pursuit,1) (business,1) (excellence,1) (invited,1) (paper,1) 
+
+17127 1 0 10 (leveraging,1) (in-house,1) (amp,1) (competencies,1) (new,1) (market,1) (corning,1) (pioneered,1) (fibre,1) (optics,1) 
+
+17128 1 0 3 (foresight,1) (seven,1) (paradoxes,1) 
+
+17132 1 1 17133 6 (customer,2) (maintaining,1) (orientation,1) (long-term,1) (service-focused,1) (projects,1) 
+
+17133 1 1 17132 6 (customer,2) (maintaining,1) (orientation,1) (long-term,1) (service-focused,1) (projects,1) 
+
+17135 1 0 11 (social,1) (innovation,1) (services,1) (technologically,1) (assisted,1) (new,1) (care,1) (models,1) (people,1) (dementia,1) (usability,1) 
+
+17140 1 1 17141 7 (experiences,1) (facilitating,1) (policy,1) (meetings,1) (group,1) (support,1) (systems,1) 
+
+17141 1 1 17140 7 (experiences,1) (facilitating,1) (policy,1) (meetings,1) (group,1) (support,1) (systems,1) 
+
+17143 1 0 8 (developing,1) (assessing,1) (radical,1) (technological,1) (changes,1) (lessons,1) (pbx,1) (industry,1) 
+
+17144 1 1 17145 10 (venture,1) (team,1) (human,1) (capital,1) (absorptive,1) (capacity,1) (high,1) (technology,1) (new,1) (ventures,1) 
+
+17145 1 1 17144 10 (venture,1) (team,1) (human,1) (capital,1) (absorptive,1) (capacity,1) (high,1) (technology,1) (new,1) (ventures,1) 
+
+17146 1 0 5 (dynamic,1) (strategic,1) (planning,1) (technology,1) (policy,1) 
+
+17147 1 2 17148 17149 5 (organisational,1) (context,1) (learning,1) (empirical,1) (analysis,1) 
+
+17148 1 2 17147 17149 5 (organisational,1) (context,1) (learning,1) (empirical,1) (analysis,1) 
+
+17149 1 2 17147 17148 5 (organisational,1) (context,1) (learning,1) (empirical,1) (analysis,1) 
+
+17150 1 2 17151 17152 9 (path,1) (dependence,1) (political,1) (construct,1) (disruptive,1) (influence,1) (technology,1) (japanese,1) (aerospace,1) 
+
+17151 1 2 17150 17152 9 (path,1) (dependence,1) (political,1) (construct,1) (disruptive,1) (influence,1) (technology,1) (japanese,1) (aerospace,1) 
+
+17152 1 2 17150 17151 9 (path,1) (dependence,1) (political,1) (construct,1) (disruptive,1) (influence,1) (technology,1) (japanese,1) (aerospace,1) 
+
+17153 1 0 9 (knowledge,2) (knowing,1) (structure,1) (new,1) (perspective,1) (management,1) (technology,1) (based,1) (economy,1) 
+
+17154 1 0 6 (intellectual,1) (property,1) (open,1) (innovation,1) (empirical,1) (analysis,1) 
+
+17155 1 1 17156 6 (mental,1) (model,1) (approach,1) (applied,1) (amp,1) (decision-making,1) 
+
+17156 1 1 17155 6 (mental,1) (model,1) (approach,1) (applied,1) (amp,1) (decision-making,1) 
+
+17157 1 1 17158 8 (tourists,1) (acceptance,1) (advanced,1) (technology-based,1) (innovations,1) (promoting,1) (arts,1) (culture,1) 
+
+17158 1 1 17157 8 (tourists,1) (acceptance,1) (advanced,1) (technology-based,1) (innovations,1) (promoting,1) (arts,1) (culture,1) 
+
+17159 1 2 17160 17161 10 (modelling,1) (reciprocal,1) (longitudinal,1) (effect,1) (return,1) (sales,1) (amp,1) (intensity,1) (economic,1) (cycles,1) 
+
+17160 1 2 17159 17161 10 (modelling,1) (reciprocal,1) (longitudinal,1) (effect,1) (return,1) (sales,1) (amp,1) (intensity,1) (economic,1) (cycles,1) 
+
+17161 1 2 17159 17160 10 (modelling,1) (reciprocal,1) (longitudinal,1) (effect,1) (return,1) (sales,1) (amp,1) (intensity,1) (economic,1) (cycles,1) 
+
+17162 1 0 10 (making,1) (governance,1) (mechanisms,1) (effective,1) (coordinated,1) (industry,1) (case,1) (construction,1) (united,1) (kingdom,1) 
+
+17163 1 0 6 (management,1) (dualities,1) (critical,1) (dimension,1) (knowledge-era,1) (organisation,1) 
+
+17164 1 1 17165 7 (framework,1) (assessing,1) (innovation,1) (collaboration,1) (partners,1) (application,1) (brics,1) 
+
+17165 1 1 17164 7 (framework,1) (assessing,1) (innovation,1) (collaboration,1) (partners,1) (application,1) (brics,1) 
+
+17175 1 0 6 (computer-supported,1) (quality,1) (safeguards,1) (product,1) (development,1) (process,1) 
+
+17177 2 1 17349 17 (managing,2) (parallel,1) (development,1) (technological,1) (transitions,1) (change,1) (strategy,1) (customisation,1) (product,1) (platform,1) (case,1) (mabuchi,1) (motors,1) (leading,1) (dc,1) (motor,1) (manufacturer,1) 
+
+17349 1 1 17177 13 (managing,1) (change,1) (strategy,1) (customisation,1) (product,1) (platform,1) (case,1) (mabuchi,1) (motors,1) (leading,1) (dc,1) (motor,1) (manufacturer,1) 
+
+17180 1 1 17181 6 (technology-push,1) (need-pull,1) (roles,1) (information,1) (security,1) (diffusion,1) 
+
+17181 1 1 17180 6 (technology-push,1) (need-pull,1) (roles,1) (information,1) (security,1) (diffusion,1) 
+
+17182 2 0 18 (high,1) (technology,1) (clustering,1) (polycentric,1) (metropolis,1) (view,1) (los,1) (angeles,1) (metropolitan,1) (region,1) (collaboration,1) (biotechnology,1) (inter-firm,1) (relations,1) (strengthen,1) (research,1) (efforts,1) (usa,1) 
+
+17183 1 1 17184 7 (human,1) (resources,1) (management,1) (impact,1) (innovation,1) (performance,1) (companies,1) 
+
+17184 1 1 17183 7 (human,1) (resources,1) (management,1) (impact,1) (innovation,1) (performance,1) (companies,1) 
+
+17185 1 1 17186 7 (fostering,1) (continuous,1) (improvement,1) (new,1) (product,1) (development,1) (processes,1) 
+
+17186 1 1 17185 7 (fostering,1) (continuous,1) (improvement,1) (new,1) (product,1) (development,1) (processes,1) 
+
+17187 1 3 17188 17189 17190 11 (insights,1) (orchestrating,1) (innovation,1) (ecosystems,1) (case,1) (eit,1) (ict,1) (labs,1) (data-driven,1) (network,1) (visualisations,1) 
+
+17188 1 3 17187 17189 17190 11 (insights,1) (orchestrating,1) (innovation,1) (ecosystems,1) (case,1) (eit,1) (ict,1) (labs,1) (data-driven,1) (network,1) (visualisations,1) 
+
+17189 1 3 17187 17188 17190 11 (insights,1) (orchestrating,1) (innovation,1) (ecosystems,1) (case,1) (eit,1) (ict,1) (labs,1) (data-driven,1) (network,1) (visualisations,1) 
+
+17190 1 3 17187 17188 17189 11 (insights,1) (orchestrating,1) (innovation,1) (ecosystems,1) (case,1) (eit,1) (ict,1) (labs,1) (data-driven,1) (network,1) (visualisations,1) 
+
+17198 1 2 17199 17200 8 (strategic,1) (examination,1) (radio,1) (frequency,1) (identification,1) (supply,1) (chain,1) (management,1) 
+
+17199 1 2 17198 17200 8 (strategic,1) (examination,1) (radio,1) (frequency,1) (identification,1) (supply,1) (chain,1) (management,1) 
+
+17200 1 2 17198 17199 8 (strategic,1) (examination,1) (radio,1) (frequency,1) (identification,1) (supply,1) (chain,1) (management,1) 
+
+17202 1 0 8 (appropriation,1) (tacit,1) (knowledge,1) (hybrid,1) (social,1) (regimes,1) (biotechnology,1) (europe,1) 
+
+17204 1 1 17205 10 (case,1) (study,1) (knowledge,2) (protection,1) (diffusion,1) (innovation,1) (managing,1) (mobile,1) (telephone,1) (industry,1) 
+
+17205 1 1 17204 10 (case,1) (study,1) (knowledge,2) (protection,1) (diffusion,1) (innovation,1) (managing,1) (mobile,1) (telephone,1) (industry,1) 
+
+17206 1 1 17207 13 (impact,1) (interaction,1) (amp,1) (marketing,1) (new,1) (product,1) (performance,1) (empirical,1) (analysis,1) (chinese,1) (high,1) (technology,1) (firms,1) 
+
+17207 1 1 17206 13 (impact,1) (interaction,1) (amp,1) (marketing,1) (new,1) (product,1) (performance,1) (empirical,1) (analysis,1) (chinese,1) (high,1) (technology,1) (firms,1) 
+
+17208 1 1 17209 6 (strategic,1) (innovation,1) (management,1) (change,1) (pharmaceutical,1) (industry,1) 
+
+17209 1 1 17208 6 (strategic,1) (innovation,1) (management,1) (change,1) (pharmaceutical,1) (industry,1) 
+
+17212 1 0 6 (functional,1) (market,1) (concept,1) (planning,1) (technological,1) (innovations,1) 
+
+17213 1 2 17214 17215 8 (knowledge,1) (value,1) (chain,1) (intellectual,1) (capital,1) (impacts,1) (business,1) (performance,1) 
+
+17214 1 2 17213 17215 8 (knowledge,1) (value,1) (chain,1) (intellectual,1) (capital,1) (impacts,1) (business,1) (performance,1) 
+
+17215 1 2 17213 17214 8 (knowledge,1) (value,1) (chain,1) (intellectual,1) (capital,1) (impacts,1) (business,1) (performance,1) 
+
+17219 1 2 17220 17221 7 (influence,1) (size,1) (age,1) (growth,1) (innovation,1) (management,1) (firms,1) 
+
+17220 1 2 17219 17221 7 (influence,1) (size,1) (age,1) (growth,1) (innovation,1) (management,1) (firms,1) 
+
+17221 1 2 17219 17220 7 (influence,1) (size,1) (age,1) (growth,1) (innovation,1) (management,1) (firms,1) 
+
+17222 1 0 4 (adaptive,1) (learning,1) (e-knowledge,1) (systems,1) 
+
+17223 1 0 7 (firms,1) (culture,1) (technological,1) (behaviour,1) (case,1) (breweries,1) (mexico,1) 
+
+17231 1 1 17232 11 (study,1) (shareholder,1) (reaction,1) (technology,1) (motivated,1) (joint,1) (ventures,1) (strategic,2) (alliances,1) (financial,1) (perspectives,1) 
+
+17232 1 1 17231 11 (study,1) (shareholder,1) (reaction,1) (technology,1) (motivated,1) (joint,1) (ventures,1) (strategic,2) (alliances,1) (financial,1) (perspectives,1) 
+
+17233 1 3 17234 17235 17236 11 (enhancement,1) (global,1) (competitiveness,1) (hong,1) (kong,1) (china,1) (manufacturing,1) (industries,1) (i-agile,1) (virtual,1) (enterprising,1) 
+
+17234 1 3 17233 17235 17236 11 (enhancement,1) (global,1) (competitiveness,1) (hong,1) (kong,1) (china,1) (manufacturing,1) (industries,1) (i-agile,1) (virtual,1) (enterprising,1) 
+
+17235 1 3 17233 17234 17236 11 (enhancement,1) (global,1) (competitiveness,1) (hong,1) (kong,1) (china,1) (manufacturing,1) (industries,1) (i-agile,1) (virtual,1) (enterprising,1) 
+
+17236 1 3 17233 17234 17235 11 (enhancement,1) (global,1) (competitiveness,1) (hong,1) (kong,1) (china,1) (manufacturing,1) (industries,1) (i-agile,1) (virtual,1) (enterprising,1) 
+
+17237 1 1 17238 14 (learning,1) (combinative,1) (capabilities,1) (innovation,1) (developing,1) (countries,1) (case,1) (video,1) (compact,1) (disc,1) (vcd,1) (agricultural,1) (vehicles,1) (china,1) 
+
+17238 1 1 17237 14 (learning,1) (combinative,1) (capabilities,1) (innovation,1) (developing,1) (countries,1) (case,1) (video,1) (compact,1) (disc,1) (vcd,1) (agricultural,1) (vehicles,1) (china,1) 
+
+17240 1 4 17241 17242 17243 17244 10 (impact,1) (supply,1) (chain,1) (core,1) (competencies,1) (knowledge,1) (management,1) (directions,1) (future,1) (research,1) 
+
+17241 1 4 17240 17242 17243 17244 10 (impact,1) (supply,1) (chain,1) (core,1) (competencies,1) (knowledge,1) (management,1) (directions,1) (future,1) (research,1) 
+
+17242 1 4 17240 17241 17243 17244 10 (impact,1) (supply,1) (chain,1) (core,1) (competencies,1) (knowledge,1) (management,1) (directions,1) (future,1) (research,1) 
+
+17243 1 4 17240 17241 17242 17244 10 (impact,1) (supply,1) (chain,1) (core,1) (competencies,1) (knowledge,1) (management,1) (directions,1) (future,1) (research,1) 
+
+17244 1 4 17240 17241 17242 17243 10 (impact,1) (supply,1) (chain,1) (core,1) (competencies,1) (knowledge,1) (management,1) (directions,1) (future,1) (research,1) 
+
+17245 1 1 17246 9 (impact,1) (innovation,1) (open,1) (access,1) (spatial,1) (environmental,1) (information,1) (research,1) (strategy,1) 
+
+17246 1 1 17245 9 (impact,1) (innovation,1) (open,1) (access,1) (spatial,1) (environmental,1) (information,1) (research,1) (strategy,1) 
+
+17247 1 1 17248 7 (orders,1) (rural,1) (cyber,1) (pub,1) (failure,1) (social,1) (learning,1) 
+
+17248 1 1 17247 7 (orders,1) (rural,1) (cyber,1) (pub,1) (failure,1) (social,1) (learning,1) 
+
+17253 1 1 17254 13 (learning,1) (foreign,1) (tncs,1) (study,1) (technology,1) (upgrading,1) (local,1) (suppliers,1) (ab,1) (volvo,1) (asia,1) (latin,1) (america,1) 
+
+17254 1 1 17253 13 (learning,1) (foreign,1) (tncs,1) (study,1) (technology,1) (upgrading,1) (local,1) (suppliers,1) (ab,1) (volvo,1) (asia,1) (latin,1) (america,1) 
+
+17256 1 0 6 (foreign,1) (development,1) (china,1) (motor,1) (vehicle,1) (industry,1) 
+
+17257 1 1 17258 12 (competing,1) (cauldron,1) (global,1) (economy,1) (tools,1) (processes,1) (case,1) (studies,1) (theory,1) (supporting,1) (economic,1) (development,1) 
+
+17258 1 1 17257 12 (competing,1) (cauldron,1) (global,1) (economy,1) (tools,1) (processes,1) (case,1) (studies,1) (theory,1) (supporting,1) (economic,1) (development,1) 
+
+17260 1 0 5 (e-commerce,1) (emergence,1) (field,1) (knowledge,1) (network,1) 
+
+17261 1 1 17262 8 (bayesian,1) (decision,1) (analysis,1) (fuzzy,1) (interpretability,1) (aging,1) (chronic,1) (disease,1) 
+
+17262 1 1 17261 8 (bayesian,1) (decision,1) (analysis,1) (fuzzy,1) (interpretability,1) (aging,1) (chronic,1) (disease,1) 
+
+17263 1 0 8 (mission,2) (impossible,1) (institutional,1) (barriers,1) (diffusion,1) (academic,1) (german,1) (universities,1) 
+
+17266 1 1 17267 7 (anchor,1) (tenants,1) (regional,1) (innovation,1) (systems,1) (aircraft,1) (industry,1) 
+
+17267 1 1 17266 7 (anchor,1) (tenants,1) (regional,1) (innovation,1) (systems,1) (aircraft,1) (industry,1) 
+
+17268 1 1 17269 7 (production,1) (capacity,1) (technological,1) (capability,1) (institutional,1) (organisational,1) (perspective,1) 
+
+17269 1 1 17268 7 (production,1) (capacity,1) (technological,1) (capability,1) (institutional,1) (organisational,1) (perspective,1) 
+
+17270 1 3 17271 17272 17273 7 (relationships,1) (telecommunications,1) (infrastructure,1) (capital,1) (formation,1) (economic,1) (growth,1) 
+
+17271 1 3 17270 17272 17273 7 (relationships,1) (telecommunications,1) (infrastructure,1) (capital,1) (formation,1) (economic,1) (growth,1) 
+
+17272 1 3 17270 17271 17273 7 (relationships,1) (telecommunications,1) (infrastructure,1) (capital,1) (formation,1) (economic,1) (growth,1) 
+
+17273 1 3 17270 17271 17272 7 (relationships,1) (telecommunications,1) (infrastructure,1) (capital,1) (formation,1) (economic,1) (growth,1) 
+
+17274 1 1 17275 7 (information,1) (technology,1) (economic,1) (development,1) (korea,1) (causality,1) (study,1) 
+
+17275 1 1 17274 7 (information,1) (technology,1) (economic,1) (development,1) (korea,1) (causality,1) (study,1) 
+
+17276 1 2 17277 17278 6 (review,1) (conceptualisation,1) (innovation,1) (models,1) (past,1) (decades,1) 
+
+17277 1 2 17276 17278 6 (review,1) (conceptualisation,1) (innovation,1) (models,1) (past,1) (decades,1) 
+
+17278 1 2 17276 17277 6 (review,1) (conceptualisation,1) (innovation,1) (models,1) (past,1) (decades,1) 
+
+17279 1 0 11 (workspace,1) (design,2) (case,1) (study,1) (applying,1) (participatory,1) (principles,1) (healthy,1) (workplaces,1) (industrial,1) (setting,1) 
+
+17280 1 0 7 (training,1) (students,1) (triz,1) (method,1) (using,1) (patent,1) (database,1) 
+
+17281 1 3 17282 17283 17284 7 (market,1) (information,1) (feedback,1) (high-tech,1) (dominated,1) (ipo,1) (companies,1) 
+
+17282 1 3 17281 17283 17284 7 (market,1) (information,1) (feedback,1) (high-tech,1) (dominated,1) (ipo,1) (companies,1) 
+
+17283 1 3 17281 17282 17284 7 (market,1) (information,1) (feedback,1) (high-tech,1) (dominated,1) (ipo,1) (companies,1) 
+
+17284 1 3 17281 17282 17283 7 (market,1) (information,1) (feedback,1) (high-tech,1) (dominated,1) (ipo,1) (companies,1) 
+
+17285 1 1 17286 7 (entrepreneurial,1) (success,1) (low-budget,1) (internet,1) (exposure,1) (case,1) (online-retailing,1) 
+
+17286 1 1 17285 7 (entrepreneurial,1) (success,1) (low-budget,1) (internet,1) (exposure,1) (case,1) (online-retailing,1) 
+
+17287 1 0 10 (application,1) (data,1) (envelopment,1) (analysis,1) (measure,1) (managerial,1) (performance,1) (electronics,1) (industry,1) (taiwan,1) 
+
+17290 1 1 17291 9 (bay-to-bay,1) (strategic,1) (alliances,1) (network,1) (linkages,1) (taiwan,1) (venture,1) (capital,1) (industries,1) 
+
+17291 1 1 17290 9 (bay-to-bay,1) (strategic,1) (alliances,1) (network,1) (linkages,1) (taiwan,1) (venture,1) (capital,1) (industries,1) 
+
+17292 1 2 17293 17294 4 (technological,1) (knowledge,1) (assets,1) (innovation,1) 
+
+17293 1 2 17292 17294 4 (technological,1) (knowledge,1) (assets,1) (innovation,1) 
+
+17294 1 2 17292 17293 4 (technological,1) (knowledge,1) (assets,1) (innovation,1) 
+
+17297 1 0 6 (foreign,1) (research,1) (development,1) (china,1) (sectoral,1) (approach,1) 
+
+17301 1 1 17302 10 (organisational,1) (logic,1) (new,1) (age,1) (business,1) (case,1) (example,1) (knowledge,1) (management,1) (valtech,1) 
+
+17302 1 1 17301 10 (organisational,1) (logic,1) (new,1) (age,1) (business,1) (case,1) (example,1) (knowledge,1) (management,1) (valtech,1) 
+
+17303 1 1 17304 14 (technological,1) (innovation,1) (interfirm,1) (cooperation,1) (exploratory,1) (analysis,1) (using,1) (survey,1) (data,1) (manufacturing,1) (firms,1) (metropolitan,1) (region,1) (vienna,1) 
+
+17304 1 1 17303 14 (technological,1) (innovation,1) (interfirm,1) (cooperation,1) (exploratory,1) (analysis,1) (using,1) (survey,1) (data,1) (manufacturing,1) (firms,1) (metropolitan,1) (region,1) (vienna,1) 
+
+17305 1 1 17306 5 (internet,1) (competitive,1) (strategy,1) (boundaries,1) (firm,1) 
+
+17306 1 1 17305 5 (internet,1) (competitive,1) (strategy,1) (boundaries,1) (firm,1) 
+
+17307 1 0 9 (time,1) (technological,1) (learning,1) (industrialising,1) (countries,1) (long,1) (does,1) (fast,1) (moving,1) 
+
+17310 1 2 17311 17312 7 (software,1) (industry,1) (fastest,1) (emerging,1) (market,1) (challenges,1) (opportunities,1) 
+
+17311 1 2 17310 17312 7 (software,1) (industry,1) (fastest,1) (emerging,1) (market,1) (challenges,1) (opportunities,1) 
+
+17312 1 2 17310 17311 7 (software,1) (industry,1) (fastest,1) (emerging,1) (market,1) (challenges,1) (opportunities,1) 
+
+17313 1 1 17314 7 (coordinating,1) (new,1) (product,1) (development,1) (international,1) (joint,1) (venture,1) 
+
+17314 1 1 17313 7 (coordinating,1) (new,1) (product,1) (development,1) (international,1) (joint,1) (venture,1) 
+
+17316 1 1 17317 7 (effectiveness,1) (compensation,1) (strategies,1) (international,1) (technology,1) (intensive,1) (firms,1) 
+
+17317 1 1 17316 7 (effectiveness,1) (compensation,1) (strategies,1) (international,1) (technology,1) (intensive,1) (firms,1) 
+
+17319 1 0 4 (design,1) (methodologies,1) (difficult,1) (implement,1) 
+
+17320 1 0 8 (territorial,1) (knowledge,1) (management,1) (metrics,1) (cognitive,1) (dimension,1) (agglomeration,1) (economies,1) 
+
+17321 1 2 17322 17323 15 (role,1) (learning,1) (capability,1) (market-oriented,1) (firms,1) (context,1) (open,1) (innovation-based,1) (technology,1) (acquisition,1) (empirical,1) (evidence,1) (korean,1) (manufacturing,1) (sector,1) 
+
+17322 1 2 17321 17323 15 (role,1) (learning,1) (capability,1) (market-oriented,1) (firms,1) (context,1) (open,1) (innovation-based,1) (technology,1) (acquisition,1) (empirical,1) (evidence,1) (korean,1) (manufacturing,1) (sector,1) 
+
+17323 1 2 17321 17322 15 (role,1) (learning,1) (capability,1) (market-oriented,1) (firms,1) (context,1) (open,1) (innovation-based,1) (technology,1) (acquisition,1) (empirical,1) (evidence,1) (korean,1) (manufacturing,1) (sector,1) 
+
+17324 1 1 17325 11 (unveiling,1) (texture,1) (european,1) (research,1) (area,1) (emergence,1) (oligarchic,1) (networks,1) (eu,1) (framework,1) (programmes,1) 
+
+17325 1 1 17324 11 (unveiling,1) (texture,1) (european,1) (research,1) (area,1) (emergence,1) (oligarchic,1) (networks,1) (eu,1) (framework,1) (programmes,1) 
+
+17326 1 0 6 (innovation,1) (firm,1) (performance,1) (application,1) (determinants,1) (taiwan,1) 
+
+17327 1 2 17328 17329 11 (understanding,1) (critical,1) (factors,1) (effect,1) (user,1) (satisfaction,1) (impact,1) (erp,1) (innovation,1) (diffusion,1) (theory,1) 
+
+17328 1 2 17327 17329 11 (understanding,1) (critical,1) (factors,1) (effect,1) (user,1) (satisfaction,1) (impact,1) (erp,1) (innovation,1) (diffusion,1) (theory,1) 
+
+17329 1 2 17327 17328 11 (understanding,1) (critical,1) (factors,1) (effect,1) (user,1) (satisfaction,1) (impact,1) (erp,1) (innovation,1) (diffusion,1) (theory,1) 
+
+17337 1 2 17338 17339 12 (inter-departmental,1) (collaboration,2) (new,1) (product,1) (development,1) (success,1) (study,1) (marketing,1) (amp,1) (spanish,1) (high-technology,1) (firms,1) 
+
+17338 1 2 17337 17339 12 (inter-departmental,1) (collaboration,2) (new,1) (product,1) (development,1) (success,1) (study,1) (marketing,1) (amp,1) (spanish,1) (high-technology,1) (firms,1) 
+
+17339 1 2 17337 17338 12 (inter-departmental,1) (collaboration,2) (new,1) (product,1) (development,1) (success,1) (study,1) (marketing,1) (amp,1) (spanish,1) (high-technology,1) (firms,1) 
+
+17341 1 1 17342 9 (leveraging,1) (entrepreneurship,1) (test,1) (integrative,1) (model,1) (e-commerce,1) (new,1) (venture,1) (growth,1) 
+
+17342 1 1 17341 9 (leveraging,1) (entrepreneurship,1) (test,1) (integrative,1) (model,1) (e-commerce,1) (new,1) (venture,1) (growth,1) 
+
+17343 1 2 17344 17345 11 (impact,1) (internationalisation,1) (proprietary,1) (assets,1) (firm,1) (performance,1) (empirical,1) (analysis,1) (taiwanese,1) (high-tech,1) (firms,1) 
+
+17344 1 2 17343 17345 11 (impact,1) (internationalisation,1) (proprietary,1) (assets,1) (firm,1) (performance,1) (empirical,1) (analysis,1) (taiwanese,1) (high-tech,1) (firms,1) 
+
+17345 1 2 17343 17344 11 (impact,1) (internationalisation,1) (proprietary,1) (assets,1) (firm,1) (performance,1) (empirical,1) (analysis,1) (taiwanese,1) (high-tech,1) (firms,1) 
+
+17350 1 1 17351 13 (wikipedia,2) (free,1) (encyclopedia,1) (role,1) (model,1) (lessons,1) (open,1) (innovation,1) (exploratory,1) (examination,1) (supposedly,1) (democratic-anarchic,1) (nature,1) 
+
+17351 1 1 17350 13 (wikipedia,2) (free,1) (encyclopedia,1) (role,1) (model,1) (lessons,1) (open,1) (innovation,1) (exploratory,1) (examination,1) (supposedly,1) (democratic-anarchic,1) (nature,1) 
+
+17356 1 0 4 (role,1) (continuous,1) (improvement,1) (globalisation,1) 
+
+17358 1 1 17359 10 (global,1) (convergence,1) (meets,1) (local,1) (divergence,1) (intellectual,1) (property,1) (indian,1) (seed,1) (markets,1) 
+
+17359 1 1 17358 10 (global,1) (convergence,1) (meets,1) (local,1) (divergence,1) (intellectual,1) (property,1) (indian,1) (seed,1) (markets,1) 
+
+17361 1 1 17362 11 (adaptation,1) (complete,1) (vehicle,1) (design,1) (case,1) (study,1) (product,1) (development,1) (capabilities,1) (carmaker,1) (brazil,1) 
+
+17362 1 1 17361 11 (adaptation,1) (complete,1) (vehicle,1) (design,1) (case,1) (study,1) (product,1) (development,1) (capabilities,1) (carmaker,1) (brazil,1) 
+
+17365 1 2 17366 17367 6 (collaborative,1) (business,1) (modelling,1) (systemic,1) (sustainability,1) (innovations,1) 
+
+17366 1 2 17365 17367 6 (collaborative,1) (business,1) (modelling,1) (systemic,1) (sustainability,1) (innovations,1) 
+
+17367 1 2 17365 17366 6 (collaborative,1) (business,1) (modelling,1) (systemic,1) (sustainability,1) (innovations,1) 
+
+17368 1 1 17369 8 (failure,1) (sources,1) (amp,1) (consortia,1) (case,1) (mobile,1) (service,1) (development,1) 
+
+17369 1 1 17368 8 (failure,1) (sources,1) (amp,1) (consortia,1) (case,1) (mobile,1) (service,1) (development,1) 
+
+17370 1 2 17371 17372 6 (learning,1) (capabilities,1) (growth,1) (technology-based,1) (new,1) (ventures,1) 
+
+17371 1 2 17370 17372 6 (learning,1) (capabilities,1) (growth,1) (technology-based,1) (new,1) (ventures,1) 
+
+17372 1 2 17370 17371 6 (learning,1) (capabilities,1) (growth,1) (technology-based,1) (new,1) (ventures,1) 
+
+17376 1 2 17377 17378 7 (openness,1) (innovation,1) (business,1) (models,1) (lessons,1) (newspaper,1) (industry,1) 
+
+17377 1 2 17376 17378 7 (openness,1) (innovation,1) (business,1) (models,1) (lessons,1) (newspaper,1) (industry,1) 
+
+17378 1 2 17376 17377 7 (openness,1) (innovation,1) (business,1) (models,1) (lessons,1) (newspaper,1) (industry,1) 
+
+17381 1 1 17382 6 (considering,1) (object-oriented,1) (approach,1) (design,1) (process,1) (planning,1) 
+
+17382 1 1 17381 6 (considering,1) (object-oriented,1) (approach,1) (design,1) (process,1) (planning,1) 
+
+17383 1 2 17384 17385 12 (integrated,1) (approach,1) (optimal,1) (selection,1) (security,1) (tools,1) (using,1) (analytic,1) (hierarchy,1) (process,1) (goal,1) (programming,1) 
+
+17384 1 2 17383 17385 12 (integrated,1) (approach,1) (optimal,1) (selection,1) (security,1) (tools,1) (using,1) (analytic,1) (hierarchy,1) (process,1) (goal,1) (programming,1) 
+
+17385 1 2 17383 17384 12 (integrated,1) (approach,1) (optimal,1) (selection,1) (security,1) (tools,1) (using,1) (analytic,1) (hierarchy,1) (process,1) (goal,1) (programming,1) 
+
+17391 1 1 17392 4 (learning,1) (curves,1) (technology,1) (assessment,1) 
+
+17392 1 1 17391 4 (learning,1) (curves,1) (technology,1) (assessment,1) 
+
+17394 1 0 5 (financing,1) (technology,1) (assessment,1) (theory,1) (practice,1) 
+
+17395 1 2 17396 17397 9 (venture,1) (capitalists,1) (spread,1) (risk,1) (diversification,1) (specialised,1) (life,1) (science,1) (portfolios,1) 
+
+17396 1 2 17395 17397 9 (venture,1) (capitalists,1) (spread,1) (risk,1) (diversification,1) (specialised,1) (life,1) (science,1) (portfolios,1) 
+
+17397 1 2 17395 17396 9 (venture,1) (capitalists,1) (spread,1) (risk,1) (diversification,1) (specialised,1) (life,1) (science,1) (portfolios,1) 
+
+17398 1 1 17399 9 (dynamics,1) (managing,1) (technology,1) (growing,1) (economy,1) (national,1) (perspective,1) (case,1) (india,1) 
+
+17399 1 1 17398 9 (dynamics,1) (managing,1) (technology,1) (growing,1) (economy,1) (national,1) (perspective,1) (case,1) (india,1) 
+
+17400 1 2 17401 17402 8 (organisation,1) (management,1) (research,1) (development,1) (facilities,1) (cost,1) (profit,1) (focus,1) 
+
+17401 1 2 17400 17402 8 (organisation,1) (management,1) (research,1) (development,1) (facilities,1) (cost,1) (profit,1) (focus,1) 
+
+17402 1 2 17400 17401 8 (organisation,1) (management,1) (research,1) (development,1) (facilities,1) (cost,1) (profit,1) (focus,1) 
+
+17403 1 1 17404 4 (effective,1) (patent,1) (life,1) (pharmaceuticals,1) 
+
+17404 1 1 17403 4 (effective,1) (patent,1) (life,1) (pharmaceuticals,1) 
+
+17405 1 0 6 (austrian,1) (foresight,1) (programme,1) (organisation,1) (expert,1) (profile,1) 
+
+17406 1 2 17407 17408 9 (improving,1) (high,1) (variable-low,1) (volume,1) (operations,1) (exploration,1) (lean,1) (product,1) (development,1) 
+
+17407 1 2 17406 17408 9 (improving,1) (high,1) (variable-low,1) (volume,1) (operations,1) (exploration,1) (lean,1) (product,1) (development,1) 
+
+17408 1 2 17406 17407 9 (improving,1) (high,1) (variable-low,1) (volume,1) (operations,1) (exploration,1) (lean,1) (product,1) (development,1) 
+
+17409 1 1 17410 5 (pushing,1) (technology,1) (market,1) (case,1) (nokia,1) 
+
+17410 1 1 17409 5 (pushing,1) (technology,1) (market,1) (case,1) (nokia,1) 
+
+17413 1 2 17414 17415 6 (technology,1) (society,1) (gss-supported,1) (participatory,1) (policy,1) (analysis,1) 
+
+17414 1 2 17413 17415 6 (technology,1) (society,1) (gss-supported,1) (participatory,1) (policy,1) (analysis,1) 
+
+17415 1 2 17413 17414 6 (technology,1) (society,1) (gss-supported,1) (participatory,1) (policy,1) (analysis,1) 
+
+17425 1 2 17426 17427 6 (spectrum-based,1) (framework,1) (quantifying,1) (randomness,1) (social,1) (networks,1) 
+
+17426 1 2 17425 17427 6 (spectrum-based,1) (framework,1) (quantifying,1) (randomness,1) (social,1) (networks,1) 
+
+17427 1 2 17425 17426 6 (spectrum-based,1) (framework,1) (quantifying,1) (randomness,1) (social,1) (networks,1) 
+
+17428 1 1 17429 5 (automatic,1) (programming,1) (end,1) (users,1) (toad,1) 
+
+17429 1 1 17428 5 (automatic,1) (programming,1) (end,1) (users,1) (toad,1) 
+
+17433 1 5 17434 17435 17436 17437 17438 4 (implementation,1) (logical,1) (analysis,1) (data,1) 
+
+17434 2 5 17433 17435 17436 17437 17438 11 (implementation,1) (logical,1) (analysis,1) (data,1) (quasi-acyclic,1) (propositional,1) (horn,1) (knowledge,1) (bases,1) (optimal,1) (compression,1) 
+
+17435 1 5 17433 17434 17436 17437 17438 4 (implementation,1) (logical,1) (analysis,1) (data,1) 
+
+17436 2 5 17433 17434 17435 17437 17438 11 (implementation,1) (logical,1) (analysis,1) (data,1) (quasi-acyclic,1) (propositional,1) (horn,1) (knowledge,1) (bases,1) (optimal,1) (compression,1) 
+
+17437 1 5 17433 17434 17435 17436 17438 4 (implementation,1) (logical,1) (analysis,1) (data,1) 
+
+17438 1 5 17433 17434 17435 17436 17437 4 (implementation,1) (logical,1) (analysis,1) (data,1) 
+
+17439 1 1 17440 7 (signature-based,1) (detection,1) (notable,1) (transitions,1) (numeric,1) (data,1) (streams,1) 
+
+17440 1 1 17439 7 (signature-based,1) (detection,1) (notable,1) (transitions,1) (numeric,1) (data,1) (streams,1) 
+
+17441 1 5 17442 17443 17444 17445 17446 8 (dryadeparent,1) (efficient,1) (robust,1) (closed,1) (attribute,1) (tree,1) (mining,1) (algorithm,1) 
+

@@ -4,8 +4,11 @@
  */
 package thesisprecompute;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
@@ -72,7 +75,7 @@ public class InvertedIndexGenerator {
                     if(!list.contains(authorId))
                     {
                         list.add(authorId);
-                        IL.put(temp, list);
+                        IL.put(t[0], list);
                     }
                     
                 }
@@ -80,7 +83,7 @@ public class InvertedIndexGenerator {
                 {
                     ArrayList<Integer> list = new ArrayList<Integer>();
                     list.add(authorId);
-                    IL.put(temp, list);
+                    IL.put(t[0], list);
                 }
                 
             }
@@ -88,5 +91,37 @@ public class InvertedIndexGenerator {
         
         System.out.println("\nNumber of keywords: "+IL.size());
         
+    }
+    
+    public static void writeList(String fileName)
+    {
+        BufferedWriter bw;
+        try {
+            bw = new BufferedWriter(new FileWriter(fileName));
+            
+            bw.write("<Keyword> <No of vertices> <vertex1> <vertex2> .... <vertexN> \n");
+            
+            for (Map.Entry<String, ArrayList<Integer>> entry : IL.entrySet()) {
+                String keyword = entry.getKey();
+                ArrayList<Integer> vertices = entry.getValue();
+                
+                int size = vertices.size();
+                
+                String ws = keyword + " "+ size +" ";
+                
+                for(int i=0;i<size;i++)
+                {
+                    ws+=vertices.get(i)+" ";
+                }
+                ws+="\n";
+                bw.write(ws);
+            }
+            
+            bw.close();
+            
+        } catch (IOException ex) {
+            Logger.getLogger(InvertedIndexGenerator.class.getName()).log(Level.SEVERE, null, ex);
+            System.exit(-1);
+        }
     }
 }

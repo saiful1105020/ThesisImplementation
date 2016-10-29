@@ -1,0 +1,804 @@
+< Author_ID  Paper_Count  Adjacent_Count  <Adjacent_List>  Keyword_Count  <(Keyword,Score)> >
+
+15142 1 2 15140 15141 9 (diminutive,1) (subjects,1) (design,1) (strategy,1) (driving,1) (sales,1) (preschoolers,1) (nintendo,1) (ds,1) 
+
+15143 1 2 15144 15145 9 (creative,1) (player,1) (actions,1) (fps,1) (online,1) (video,1) (games,1) (playing,1) (counter-strike,1) 
+
+15144 1 2 15143 15145 9 (creative,1) (player,1) (actions,1) (fps,1) (online,1) (video,1) (games,1) (playing,1) (counter-strike,1) 
+
+15145 1 2 15143 15144 9 (creative,1) (player,1) (actions,1) (fps,1) (online,1) (video,1) (games,1) (playing,1) (counter-strike,1) 
+
+15146 1 0 9 (hope,1) (day,1) (like,1) (pedagogy,1) (amp,1) (allegory,1) (post,1) (video,1) (games,1) 
+
+15148 1 0 6 (planes,1) (power,1) (everquest,1) (text,1) (game,1) (community,1) 
+
+15149 1 0 8 (lara,1) (croft,1) (feminist,1) (icon,1) (cyberbimbo,1) (limits,1) (textual,1) (analysis,1) 
+
+15150 1 0 8 (wrap,1) (troubles,1) (dreams,1) (popular,1) (music,1) (narrative,1) (dystopia,1) (bioshock,1) 
+
+15151 1 0 8 (brutally,1) (unfair,1) (tactics,1) (totally,1) (ok,1) (self-effacing,1) (games,1) (unachievements,1) 
+
+15152 1 0 7 (technology,1) (trees,1) (freedom,1) (determinism,1) (historical,1) (strategy,1) (games,1) 
+
+15153 2 0 11 (sims,1) (grandmothers,1) (cooler,1) (trolls,1) (sim,1) (sin,1) (city,1) (thoughts,1) (grand,1) (theft,1) (auto,1) 
+
+15154 1 0 8 (adapting,1) (principles,1) (ludology,1) (method,1) (video,1) (game,1) (content,1) (analysis,1) 
+
+15155 1 0 6 (player,1) (dossiers,1) (analyzing,1) (gameplay,1) (data,1) (reward,1) 
+
+15156 1 0 8 (lose,1) (think,1) (search,1) (contemplation,1) (amid,1) (wars,1) (push-button,1) (glare,1) 
+
+15157 1 0 3 (perspectives,1) (game,1) (philology,1) 
+
+15158 1 0 6 (signifying,1) (play,1) (sims,1) (sociology,1) (interior,1) (design,1) 
+
+15159 1 0 9 (virtual,1) (worlds,1) (don,1) (exist,1) (questioning,1) (dichotomous,1) (approach,1) (mmo,1) (studies,1) 
+
+15160 1 0 9 (role,1) (die,1) (brief,1) (ludologic,1) (study,1) (pen-and-paper,1) (roleplaying,1) (games,1) (rules,1) 
+
+15161 1 0 3 (games,1) (children,1) (culture,1) 
+
+15162 1 0 2 (virtual,1) (economies,1) 
+
+15163 1 3 15164 15165 15166 8 (comparative,1) (analysis,1) (management,1) (accounting,1) (systems,1) (impact,1) (lean,1) (implementation,1) 
+
+15164 1 3 15163 15165 15166 8 (comparative,1) (analysis,1) (management,1) (accounting,1) (systems,1) (impact,1) (lean,1) (implementation,1) 
+
+15165 1 3 15163 15164 15166 8 (comparative,1) (analysis,1) (management,1) (accounting,1) (systems,1) (impact,1) (lean,1) (implementation,1) 
+
+15166 1 3 15163 15164 15165 8 (comparative,1) (analysis,1) (management,1) (accounting,1) (systems,1) (impact,1) (lean,1) (implementation,1) 
+
+15167 1 1 15168 14 (exploring,1) (knowledge,1) (management,1) (km,2) (issues,1) (performance,1) (outcomes,1) (empirical,1) (evidence,1) (malaysian,1) (multimedia,1) (super,1) (corridor,1) (companies,1) 
+
+15168 4 7 15167 16692 16693 16869 16870 17354 17355 36 (exploring,1) (knowledge,2) (management,2) (km,1) (issues,1) (performance,2) (outcomes,1) (empirical,1) (evidence,1) (malaysian,1) (multimedia,1) (super,1) (corridor,1) (companies,1) (kmsharer,1) (information,1) (technology,1) (approach,1) (enable,1) (services,1) (etom,1) (e-services,1) (based,1) (trouble-management,1) (operations,1) (scale,1) (telecom,1) (case,1) (study,1) (electronic,1) (monitoring,1) (criminal,1) (justice,1) (alternative,1) (supervision,1) (perspective,1) 
+
+16692 1 2 16693 15168 8 (kmsharer,1) (information,1) (technology,1) (approach,1) (enable,1) (knowledge,1) (management,1) (services,1) 
+
+16693 1 2 16692 15168 8 (kmsharer,1) (information,1) (technology,1) (approach,1) (enable,1) (knowledge,1) (management,1) (services,1) 
+
+16869 1 2 16870 15168 9 (etom,1) (e-services,1) (based,1) (trouble-management,1) (operations,1) (scale,1) (telecom,1) (case,1) (study,1) 
+
+16870 1 2 16869 15168 9 (etom,1) (e-services,1) (based,1) (trouble-management,1) (operations,1) (scale,1) (telecom,1) (case,1) (study,1) 
+
+17354 1 2 15168 17355 7 (electronic,1) (monitoring,1) (criminal,1) (justice,1) (alternative,1) (supervision,1) (perspective,1) 
+
+17355 1 2 17354 15168 7 (electronic,1) (monitoring,1) (criminal,1) (justice,1) (alternative,1) (supervision,1) (perspective,1) 
+
+15171 1 4 15172 15173 15174 15175 10 (impact,1) (founders,1) (academic,1) (experiences,1) (linking,1) (local,1) (alma,1) (maters,1) (chinese,1) (start-ups,1) 
+
+15172 1 4 15171 15173 15174 15175 10 (impact,1) (founders,1) (academic,1) (experiences,1) (linking,1) (local,1) (alma,1) (maters,1) (chinese,1) (start-ups,1) 
+
+15173 1 4 15171 15172 15174 15175 10 (impact,1) (founders,1) (academic,1) (experiences,1) (linking,1) (local,1) (alma,1) (maters,1) (chinese,1) (start-ups,1) 
+
+15174 1 4 15171 15172 15173 15175 10 (impact,1) (founders,1) (academic,1) (experiences,1) (linking,1) (local,1) (alma,1) (maters,1) (chinese,1) (start-ups,1) 
+
+15175 1 4 15171 15172 15173 15174 10 (impact,1) (founders,1) (academic,1) (experiences,1) (linking,1) (local,1) (alma,1) (maters,1) (chinese,1) (start-ups,1) 
+
+15176 1 0 8 (empirical,1) (investigation,1) (appropriateness,1) (flexibility,1) (approach,1) (product,1) (portfolio,1) (selection,1) 
+
+15177 1 3 15178 15179 15180 6 (measuring,1) (impact,1) (global,1) (information,1) (technology,1) (applications,1) 
+
+15178 1 3 15177 15179 15180 6 (measuring,1) (impact,1) (global,1) (information,1) (technology,1) (applications,1) 
+
+15179 1 3 15177 15178 15180 6 (measuring,1) (impact,1) (global,1) (information,1) (technology,1) (applications,1) 
+
+15180 1 3 15177 15178 15179 6 (measuring,1) (impact,1) (global,1) (information,1) (technology,1) (applications,1) 
+
+15184 2 4 15185 15574 15575 15576 13 (meeting,1) (technology,2) (needs,1) (enterprises,1) (national,1) (competitiveness,1) (transfer,1) (china,1) (study,1) (strategy,1) (eu,1) (industrial,1) (companies,1) 
+
+15185 2 4 15184 15574 15575 15576 13 (meeting,1) (technology,2) (needs,1) (enterprises,1) (national,1) (competitiveness,1) (transfer,1) (china,1) (study,1) (strategy,1) (eu,1) (industrial,1) (companies,1) 
+
+15574 1 4 15184 15575 15576 15185 8 (technology,1) (transfer,1) (china,1) (study,1) (strategy,1) (eu,1) (industrial,1) (companies,1) 
+
+15575 1 4 15184 15574 15576 15185 8 (technology,1) (transfer,1) (china,1) (study,1) (strategy,1) (eu,1) (industrial,1) (companies,1) 
+
+15576 1 4 15184 15574 15575 15185 8 (technology,1) (transfer,1) (china,1) (study,1) (strategy,1) (eu,1) (industrial,1) (companies,1) 
+
+15186 1 0 11 (knowledge,1) (economy,1) (concept,1) (global,1) (trends,1) (strategic,1) (challenges,1) (africa,1) (quest,1) (sustainable,1) (development,1) 
+
+15187 1 0 8 (strategy,1) (strategic,1) (action,1) (global,1) (era,1) (overcoming,1) (knowing-doing,1) (gap,1) 
+
+15188 1 0 2 (abduction,1) (creativity,1) 
+
+15190 1 2 15191 15192 9 (e-entrepreneurship,1) (strategies,1) (overcome,1) (barriers,1) (market,1) (entry,1) (theory,1) (cybernetics,1) (perspective,1) 
+
+15191 1 2 15190 15192 9 (e-entrepreneurship,1) (strategies,1) (overcome,1) (barriers,1) (market,1) (entry,1) (theory,1) (cybernetics,1) (perspective,1) 
+
+15192 1 2 15190 15191 9 (e-entrepreneurship,1) (strategies,1) (overcome,1) (barriers,1) (market,1) (entry,1) (theory,1) (cybernetics,1) (perspective,1) 
+
+15193 2 3 15194 15195 15196 14 (assessing,2) (innovativeness,1) (organisational,1) (adaptability,1) (contingency,1) (approach,1) (strategising,1) (innovation,1) (inter-firm,1) (collaboration,1) (capability,1) (analysis,1) (competitive,1) (superiority,1) 
+
+15194 2 6 15193 15195 15196 16689 16690 16691 11 (assessing,1) (innovativeness,1) (organisational,1) (adaptability,1) (contingency,1) (approach,1) (knowledge-intensive,1) (service,1) (activities,1) (software,1) (business,1) 
+
+15195 1 3 15193 15194 15196 6 (assessing,1) (innovativeness,1) (organisational,1) (adaptability,1) (contingency,1) (approach,1) 
+
+15196 3 3 15193 15194 15195 21 (assessing,2) (innovativeness,1) (organisational,1) (adaptability,1) (contingency,1) (approach,1) (strategising,1) (innovation,2) (inter-firm,1) (collaboration,1) (capability,1) (analysis,1) (competitive,1) (superiority,1) (role,1) (marketing,1) (management,1) (finnish,1) (electrical,1) (electronics,1) (industry,1) 
+
+16689 1 3 16690 15194 16691 5 (knowledge-intensive,1) (service,1) (activities,1) (software,1) (business,1) 
+
+16690 1 3 16689 15194 16691 5 (knowledge-intensive,1) (service,1) (activities,1) (software,1) (business,1) 
+
+16691 1 3 16689 16690 15194 5 (knowledge-intensive,1) (service,1) (activities,1) (software,1) (business,1) 
+
+15197 2 4 15198 15199 15200 17073 22 (applying,1) (cluster,1) (analysis,1) (build,1) (patient-centric,1) (healthcare,1) (service,1) (strategy,1) (elderly,1) (patients,1) (implementation,1) (methodology,1) (evidence-based,1) (medicine,1) (based,1) (technological,1) (diffusion,1) (approach,1) (case,1) (establishment,1) (hospital,1) (industry,1) 
+
+15198 2 4 15197 15199 15200 17073 22 (applying,1) (cluster,1) (analysis,1) (build,1) (patient-centric,1) (healthcare,1) (service,1) (strategy,1) (elderly,1) (patients,1) (implementation,1) (methodology,1) (evidence-based,1) (medicine,1) (based,1) (technological,1) (diffusion,1) (approach,1) (case,1) (establishment,1) (hospital,1) (industry,1) 
+
+15199 2 4 15197 15198 15200 17073 22 (applying,1) (cluster,1) (analysis,1) (build,1) (patient-centric,1) (healthcare,1) (service,1) (strategy,1) (elderly,1) (patients,1) (implementation,1) (methodology,1) (evidence-based,1) (medicine,1) (based,1) (technological,1) (diffusion,1) (approach,1) (case,1) (establishment,1) (hospital,1) (industry,1) 
+
+15200 1 3 15197 15198 15199 10 (applying,1) (cluster,1) (analysis,1) (build,1) (patient-centric,1) (healthcare,1) (service,1) (strategy,1) (elderly,1) (patients,1) 
+
+17073 1 3 15197 15199 15198 12 (implementation,1) (methodology,1) (evidence-based,1) (medicine,1) (based,1) (technological,1) (diffusion,1) (approach,1) (case,1) (establishment,1) (hospital,1) (industry,1) 
+
+15201 1 2 15202 15203 8 (customer,1) (oriented,1) (scientific,1) (design,1) (contradiction,1) (terminis,1) (winning,1) (combination,1) 
+
+15202 1 2 15201 15203 8 (customer,1) (oriented,1) (scientific,1) (design,1) (contradiction,1) (terminis,1) (winning,1) (combination,1) 
+
+15203 1 2 15201 15202 8 (customer,1) (oriented,1) (scientific,1) (design,1) (contradiction,1) (terminis,1) (winning,1) (combination,1) 
+
+15204 1 0 9 (cross-border,1) (networking,1) (saar-lor-lux,1) (region,1) (risks,1) (opportunities,1) (regional,1) (economic,1) (policies,1) 
+
+15205 8 11 15206 15207 15483 15484 15623 15624 15625 15626 16745 16746 16747 41 (visualising,1) (strategy,1) (classification,1) (graphical,1) (roadmap,1) (forms,1) (valuing,1) (technology,7) (timeline,6) (technological,5) (maturity,4) (analysis,3) (document-mining,3) (techniques,2) (tools,1) (intelligence,2) (discovering,1) (knowledge,1) (technical,2) (documents,1) (roadmapping,1) (linking,1) (resources,2) (business,1) (planning,1) (framework,1) (supporting,1) (management,1) (toolbox,1) (elements,1) (build,1) (systems,1) (internal,1) (valuation,1) (real,1) (world,1) (issues,1) (practice,1) (uk,1) (technology-based,1) (companies,1) 
+
+15206 4 5 15205 15207 15483 15484 15626 20 (visualising,1) (strategy,1) (classification,1) (graphical,1) (roadmap,1) (forms,1) (valuing,1) (technology,3) (timeline,2) (technological,2) (maturity,1) (roadmapping,1) (linking,1) (resources,1) (business,1) (planning,1) (framework,1) (supporting,1) (management,1) (knowledge,1) 
+
+15207 5 6 15205 15206 15483 15484 15624 15625 24 (visualising,1) (strategy,1) (classification,1) (graphical,1) (roadmap,1) (forms,1) (valuing,1) (technology,3) (timeline,2) (technological,1) (maturity,1) (framework,2) (supporting,1) (management,1) (knowledge,1) (toolbox,1) (elements,1) (build,1) (intelligence,2) (systems,1) (practice,1) (uk,1) (technology-based,1) (companies,1) 
+
+15483 1 4 15206 15484 15205 15207 5 (valuing,1) (technology,1) (timeline,1) (technological,1) (maturity,1) 
+
+15484 1 4 15206 15483 15205 15207 5 (valuing,1) (technology,1) (timeline,1) (technological,1) (maturity,1) 
+
+15623 1 4 15624 15625 15205 15626 10 (analysis,1) (document-mining,1) (techniques,1) (tools,1) (technology,1) (intelligence,1) (discovering,1) (knowledge,1) (technical,1) (documents,1) 
+
+15624 3 5 15623 15625 15205 15626 15207 18 (analysis,1) (document-mining,1) (techniques,1) (tools,1) (technology,3) (intelligence,3) (discovering,2) (knowledge,2) (technical,1) (documents,1) (toolbox,1) (elements,1) (build,1) (systems,1) (practice,1) (uk,1) (technology-based,1) (companies,1) 
+
+15625 3 5 15623 15624 15205 15626 15207 18 (analysis,1) (document-mining,1) (techniques,1) (tools,1) (technology,3) (intelligence,3) (discovering,2) (knowledge,2) (technical,1) (documents,1) (toolbox,1) (elements,1) (build,1) (systems,1) (practice,1) (uk,1) (technology-based,1) (companies,1) 
+
+15626 4 9 15623 15624 15625 15205 15206 16745 16746 16747 17030 26 (analysis,1) (document-mining,1) (techniques,1) (tools,1) (technology,5) (intelligence,4) (discovering,3) (knowledge,2) (technical,1) (documents,1) (roadmapping,1) (linking,1) (resources,1) (business,1) (planning,1) (internal,1) (valuation,1) (real,1) (world,1) (issues,1) (management,1) (broadband,1) (internet,1) (regulation,1) (case,1) (thailand,1) 
+
+16745 1 4 16746 16747 15626 15205 6 (internal,1) (technology,1) (valuation,1) (real,1) (world,1) (issues,1) 
+
+16746 1 4 16745 16747 15626 15205 6 (internal,1) (technology,1) (valuation,1) (real,1) (world,1) (issues,1) 
+
+16747 1 4 16745 16746 15626 15205 6 (internal,1) (technology,1) (valuation,1) (real,1) (world,1) (issues,1) 
+
+17030 1 1 15626 7 (technology,1) (management,1) (broadband,1) (internet,1) (regulation,1) (case,1) (thailand,1) 
+
+15208 1 3 15209 15210 15211 7 (knowledge-bridging,1) (role,1) (technical,1) (scientific,1) (services,1) (knowledge-intensive,1) (industries,1) 
+
+15209 1 3 15208 15210 15211 7 (knowledge-bridging,1) (role,1) (technical,1) (scientific,1) (services,1) (knowledge-intensive,1) (industries,1) 
+
+15210 1 3 15208 15209 15211 7 (knowledge-bridging,1) (role,1) (technical,1) (scientific,1) (services,1) (knowledge-intensive,1) (industries,1) 
+
+15211 1 3 15208 15209 15210 7 (knowledge-bridging,1) (role,1) (technical,1) (scientific,1) (services,1) (knowledge-intensive,1) (industries,1) 
+
+15212 2 4 15213 17216 17217 17218 19 (academics,1) (bridge,1) (gap,1) (invention,1) (innovation,3) (knowledge,2) (value,1) (chain,1) (sme,1) (policy,1) (instrument,1) (framework,1) (analytical,1) (exploration,1) (smes,1) (public,1) (support,1) (oecd,1) (countries,1) 
+
+15213 2 4 15212 17216 17217 17218 19 (academics,1) (bridge,1) (gap,1) (invention,1) (innovation,3) (knowledge,2) (value,1) (chain,1) (sme,1) (policy,1) (instrument,1) (framework,1) (analytical,1) (exploration,1) (smes,1) (public,1) (support,1) (oecd,1) (countries,1) 
+
+17216 1 4 17217 17218 15212 15213 15 (knowledge,1) (value,1) (chain,1) (sme,1) (innovation,2) (policy,1) (instrument,1) (framework,1) (analytical,1) (exploration,1) (smes,1) (public,1) (support,1) (oecd,1) (countries,1) 
+
+17217 1 4 17216 17218 15212 15213 15 (knowledge,1) (value,1) (chain,1) (sme,1) (innovation,2) (policy,1) (instrument,1) (framework,1) (analytical,1) (exploration,1) (smes,1) (public,1) (support,1) (oecd,1) (countries,1) 
+
+17218 1 4 17216 17217 15212 15213 15 (knowledge,1) (value,1) (chain,1) (sme,1) (innovation,2) (policy,1) (instrument,1) (framework,1) (analytical,1) (exploration,1) (smes,1) (public,1) (support,1) (oecd,1) (countries,1) 
+
+15214 3 2 15215 16432 23 (trust,1) (european-japanese,1) (amp,1) (partnerships,1) (case,1) (study,1) (sources,1) (information,1) (organisational,1) (innovation,1) (sector,1) (comparative,1) (approach,1) (non-technological,1) (technological,1) (innovations,1) (services,1) (differ,1) (manufacturing,1) (empirical,1) (analysis,1) (luxembourg,1) (firms,1) 
+
+15215 1 1 15214 6 (trust,1) (european-japanese,1) (amp,1) (partnerships,1) (case,1) (study,1) 
+
+16432 2 1 15214 17 (sources,1) (information,1) (organisational,1) (innovation,1) (sector,1) (comparative,1) (approach,1) (non-technological,1) (technological,1) (innovations,1) (services,1) (differ,1) (manufacturing,1) (empirical,1) (analysis,1) (luxembourg,1) (firms,1) 
+
+15216 2 2 15217 15637 14 (recruiting,1) (retaining,1) (amp,1) (professionals,1) (china,2) (contextual,1) (factors,1) (effects,1) (future,1) (entrepreneurs,1) (comparative,1) (study,1) (entrepreneurial,1) (intentions,1) 
+
+15217 1 1 15216 5 (recruiting,1) (retaining,1) (amp,1) (professionals,1) (china,1) 
+
+15637 1 1 15216 10 (contextual,1) (factors,1) (effects,1) (future,1) (entrepreneurs,1) (china,1) (comparative,1) (study,1) (entrepreneurial,1) (intentions,1) 
+
+15218 1 3 15219 15220 15221 10 (variable,1) (sampling,1) (interval,1) (sup,2) (ewma,1) (control,1) (chart,1) (monitoring,1) (process,1) (variance,1) 
+
+15219 1 3 15218 15220 15221 10 (variable,1) (sampling,1) (interval,1) (sup,2) (ewma,1) (control,1) (chart,1) (monitoring,1) (process,1) (variance,1) 
+
+15220 1 3 15218 15219 15221 10 (variable,1) (sampling,1) (interval,1) (sup,2) (ewma,1) (control,1) (chart,1) (monitoring,1) (process,1) (variance,1) 
+
+15221 1 3 15218 15219 15220 10 (variable,1) (sampling,1) (interval,1) (sup,2) (ewma,1) (control,1) (chart,1) (monitoring,1) (process,1) (variance,1) 
+
+15225 1 1 15226 10 (editorial,1) (technology,1) (innovation,1) (management,1) (past,1) (research,1) (present,1) (findings,1) (future,1) (directions,1) 
+
+15226 4 5 15225 16612 16613 17288 17289 27 (editorial,1) (technology,1) (innovation,1) (management,1) (past,1) (research,1) (present,1) (findings,1) (future,1) (directions,1) (organisational,1) (learning,1) (dynamics,1) (software,1) (publishing,1) (industry,1) (effect,1) (knowledge,1) (complexity,2) (strategic,1) (value,1) (technological,2) (capabilities,2) (evidence,1) (biotechnological,1) (spanish,1) (firms,1) 
+
+16612 2 3 16613 15226 17288 13 (organisational,1) (learning,1) (dynamics,1) (software,1) (publishing,1) (industry,1) (complexity,1) (technological,1) (capabilities,1) (evidence,1) (biotechnological,1) (spanish,1) (firms,1) 
+
+16613 3 5 16612 15226 16752 16753 17288 24 (organisational,1) (learning,1) (dynamics,1) (software,1) (publishing,1) (industry,1) (moderating,1) (role,1) (social,1) (networks,1) (radical,1) (innovation,1) (process,1) (multidimensionality,1) (human,1) (capital-based,1) (analysis,1) (complexity,1) (technological,1) (capabilities,1) (evidence,1) (biotechnological,1) (spanish,1) (firms,1) 
+
+17288 2 4 17289 15226 16613 16612 11 (effect,1) (knowledge,1) (complexity,2) (strategic,1) (value,1) (technological,2) (capabilities,2) (evidence,1) (biotechnological,1) (spanish,1) (firms,1) 
+
+17289 1 2 17288 15226 7 (effect,1) (knowledge,1) (complexity,1) (strategic,1) (value,1) (technological,1) (capabilities,1) 
+
+16752 1 2 16753 16613 11 (moderating,1) (role,1) (social,1) (networks,1) (radical,1) (innovation,1) (process,1) (multidimensionality,1) (human,1) (capital-based,1) (analysis,1) 
+
+16753 1 2 16752 16613 11 (moderating,1) (role,1) (social,1) (networks,1) (radical,1) (innovation,1) (process,1) (multidimensionality,1) (human,1) (capital-based,1) (analysis,1) 
+
+15227 2 2 15228 15229 18 (flexibility,1) (innovation,2) (external,1) (learning,1) (exploring,1) (models,1) (enhanced,1) (industry-university,1) (collaboration,1) (making,1) (innovative,1) (use,1) (academic,1) (knowledge,1) (enhance,1) (corporate,1) (technology,1) (impact,1) 
+
+15228 2 2 15227 15229 18 (flexibility,1) (innovation,2) (external,1) (learning,1) (exploring,1) (models,1) (enhanced,1) (industry-university,1) (collaboration,1) (making,1) (innovative,1) (use,1) (academic,1) (knowledge,1) (enhance,1) (corporate,1) (technology,1) (impact,1) 
+
+15229 2 2 15227 15228 18 (flexibility,1) (innovation,2) (external,1) (learning,1) (exploring,1) (models,1) (enhanced,1) (industry-university,1) (collaboration,1) (making,1) (innovative,1) (use,1) (academic,1) (knowledge,1) (enhance,1) (corporate,1) (technology,1) (impact,1) 
+
+15230 1 3 15231 15232 15233 7 (universities,1) (patent,1) (licensing,1) (income-generating,1) (institutions,1) (survey,1) (taiwan,1) 
+
+15231 1 3 15230 15232 15233 7 (universities,1) (patent,1) (licensing,1) (income-generating,1) (institutions,1) (survey,1) (taiwan,1) 
+
+15232 1 3 15230 15231 15233 7 (universities,1) (patent,1) (licensing,1) (income-generating,1) (institutions,1) (survey,1) (taiwan,1) 
+
+15233 1 3 15230 15231 15232 7 (universities,1) (patent,1) (licensing,1) (income-generating,1) (institutions,1) (survey,1) (taiwan,1) 
+
+15237 4 6 15238 15239 15240 15394 15468 15465 23 (innovative,1) (management,1) (create,1) (new,2) (values,1) (training,1) (product,2) (development,1) (industrial,1) (engineering,1) (students,1) (case,1) (kanazawa,1) (institute,1) (technology,1) (comparative,1) (study,1) (innovation,1) (systems,1) (method,1) (users,1) (needs,1) (assessment,1) 
+
+15238 5 7 15237 15239 15240 15465 15466 15467 15468 22 (innovative,1) (management,3) (create,2) (new,1) (values,1) (intranet,1) (based,1) (product,1) (innovation,3) (process,3) (comparative,2) (study,2) (systems,1) (development,1) (needs,2) (means,1) (finnish,1) (manufacturing,1) (companies,1) (method,1) (users,1) (assessment,1) 
+
+15239 1 3 15237 15238 15240 5 (innovative,1) (management,1) (create,1) (new,1) (values,1) 
+
+15240 1 3 15237 15238 15239 5 (innovative,1) (management,1) (create,1) (new,1) (values,1) 
+
+15394 1 1 15237 11 (training,1) (new,1) (product,1) (development,1) (industrial,1) (engineering,1) (students,1) (case,1) (kanazawa,1) (institute,1) (technology,1) 
+
+15468 6 9 15465 15466 15467 15238 16150 16151 15237 16879 17031 34 (intranet,1) (based,1) (product,4) (innovation,3) (management,3) (process,3) (emergence,3) (supply,2) (network,2) (finnish,1) (industry,1) (experiment,2) (theoretical,1) (reconstruction,1) (comparative,1) (study,1) (systems,1) (development,1) (needs,1) (means,1) (manufacturing,2) (companies,1) (tool,1) (systematic,1) (assessment,1) (customer,1) (industrial,1) (markets,1) (gss,1) (generate,1) (new,1) (ideas,1) (business,1) (concepts,1) 
+
+15465 4 6 15466 15467 15468 15238 15237 16879 21 (intranet,1) (based,1) (product,3) (innovation,3) (management,3) (process,2) (comparative,2) (study,1) (systems,1) (development,1) (needs,2) (means,1) (finnish,1) (manufacturing,1) (companies,1) (tool,1) (systematic,1) (assessment,1) (customer,1) (industrial,1) (markets,1) 
+
+15466 1 4 15465 15467 15468 15238 6 (intranet,1) (based,1) (product,1) (innovation,1) (management,1) (process,1) 
+
+15467 5 7 15465 15466 15468 15238 15441 16039 16879 29 (intranet,1) (based,1) (product,2) (innovation,2) (management,2) (process,1) (learning,2) (networks,1) (exploration,1) (perspective,1) (development,1) (needs,2) (means,1) (finnish,1) (manufacturing,1) (companies,1) (tool,1) (systematic,1) (assessment,1) (customer,1) (industrial,1) (markets,1) (decision,1) (making,1) (inter-organisational,1) (relationships,1) (implications,1) (systems,1) (thinking,1) 
+
+16150 1 2 16151 15468 8 (emergence,1) (supply,1) (network,1) (finnish,1) (industry,1) (experiment,1) (theoretical,1) (reconstruction,1) 
+
+16151 1 2 16150 15468 8 (emergence,1) (supply,1) (network,1) (finnish,1) (industry,1) (experiment,1) (theoretical,1) (reconstruction,1) 
+
+16879 2 4 15467 15468 15465 17031 15 (tool,1) (systematic,1) (assessment,1) (customer,1) (needs,1) (industrial,1) (markets,1) (gss,1) (process,1) (generate,1) (new,1) (product,1) (ideas,1) (business,1) (concepts,1) 
+
+17031 1 2 16879 15468 8 (gss,1) (process,1) (generate,1) (new,1) (product,1) (ideas,1) (business,1) (concepts,1) 
+
+15441 3 3 15440 15467 16039 16 (inter-organisational,2) (routines,1) (transformation,1) (customer,1) (relationships,2) (collaborative,1) (innovation,1) (learning,1) (networks,2) (exploration,1) (perspective,1) (decision,1) (making,1) (implications,1) (systems,1) (thinking,1) 
+
+16039 1 2 15441 15467 5 (learning,1) (networks,1) (exploration,1) (innovation,1) (perspective,1) 
+
+15440 2 2 15441 16427 13 (inter-organisational,1) (routines,1) (transformation,1) (customer,1) (relationships,1) (collaborative,1) (innovation,1) (coping,1) (multiple,1) (dimensions,1) (amp,1) (performance,1) (analysis,1) 
+
+16427 1 1 15440 6 (coping,1) (multiple,1) (dimensions,1) (amp,1) (performance,1) (analysis,1) 
+
+15241 1 2 15242 15243 7 (role,1) (knowledge,1) (information,1) (innovation,1) (case,1) (genetic,1) (engineering,1) 
+
+15242 1 2 15241 15243 7 (role,1) (knowledge,1) (information,1) (innovation,1) (case,1) (genetic,1) (engineering,1) 
+
+15243 1 2 15241 15242 7 (role,1) (knowledge,1) (information,1) (innovation,1) (case,1) (genetic,1) (engineering,1) 
+
+15244 1 2 15245 15246 6 (investigating,1) (open,1) (innovation,1) (strategies,1) (simulation,1) (study,1) 
+
+15245 1 2 15244 15246 6 (investigating,1) (open,1) (innovation,1) (strategies,1) (simulation,1) (study,1) 
+
+15246 2 4 15244 15245 17138 17139 12 (investigating,1) (open,1) (innovation,2) (strategies,1) (simulation,1) (study,1) (assessing,1) (management,1) (software,1) (tools,1) (application,1) (innovationenterprizer,1) 
+
+17138 1 2 15246 17139 7 (assessing,1) (management,1) (innovation,1) (software,1) (tools,1) (application,1) (innovationenterprizer,1) 
+
+17139 1 2 17138 15246 7 (assessing,1) (management,1) (innovation,1) (software,1) (tools,1) (application,1) (innovationenterprizer,1) 
+
+15247 1 1 15248 3 (product,1) (quality,1) (improvement,1) 
+
+15248 1 1 15247 3 (product,1) (quality,1) (improvement,1) 
+
+15249 1 3 15250 15251 15252 8 (economic,1) (impact,1) (taiwan,1) (investment,1) (tax,1) (credits,1) (direction,1) (adjustment,1) 
+
+15250 4 5 15249 15251 15252 15326 17315 34 (economic,1) (impact,1) (taiwan,4) (investment,3) (tax,2) (credits,2) (direction,1) (adjustment,1) (longitudinal,1) (examination,1) (performance,1) (ways,1) (innovation,1) (internal,1) (amp,1) (external,2) (technology,1) (aquisition,2) (development,1) (strategies,1) (prospects,1) (service,1) (industry,1) (science,1) (manpower,1) (policy,2) (estimation,1) (high,1) (tech,1) (demand,1) (regional,1) (operation,1) (centre,1) (case,1) 
+
+15251 1 3 15249 15250 15252 8 (economic,1) (impact,1) (taiwan,1) (investment,1) (tax,1) (credits,1) (direction,1) (adjustment,1) 
+
+15252 1 3 15249 15250 15251 8 (economic,1) (impact,1) (taiwan,1) (investment,1) (tax,1) (credits,1) (direction,1) (adjustment,1) 
+
+15326 3 2 15250 17315 28 (longitudinal,1) (examination,1) (performance,1) (ways,1) (innovation,1) (taiwan,3) (internal,2) (amp,1) (investment,2) (external,1) (technology,1) (aquisition,2) (development,1) (strategies,1) (prospects,1) (service,1) (industry,1) (science,1) (manpower,1) (policy,2) (estimation,1) (high,1) (tech,1) (demand,1) (regional,1) (operation,1) (centre,1) (case,1) 
+
+17315 1 2 15250 15326 13 (science,1) (technology,1) (manpower,2) (policy,1) (estimation,1) (high,1) (tech,1) (demand,1) (regional,1) (operation,1) (centre,1) (case,1) (taiwan,1) 
+
+15253 1 2 15254 15255 7 (evolutionary,1) (knowledge,1) (management,1) (case,1) (development,1) (manufacturing,1) (industry,1) 
+
+15254 1 2 15253 15255 7 (evolutionary,1) (knowledge,1) (management,1) (case,1) (development,1) (manufacturing,1) (industry,1) 
+
+15255 1 2 15253 15254 7 (evolutionary,1) (knowledge,1) (management,1) (case,1) (development,1) (manufacturing,1) (industry,1) 
+
+15256 1 1 15257 5 (managing,1) (academies,1) (science,1) (globalised,1) (world,1) 
+
+15257 1 1 15256 5 (managing,1) (academies,1) (science,1) (globalised,1) (world,1) 
+
+15258 1 1 15259 6 (enterprises,1) (innovators,1) (shift,1) (low,1) (performer,2) (high,1) 
+
+15259 1 1 15258 6 (enterprises,1) (innovators,1) (shift,1) (low,1) (performer,2) (high,1) 
+
+15260 1 1 15261 4 (modelling,1) (inter-subjective,1) (level,1) (innovation,1) 
+
+15261 1 1 15260 4 (modelling,1) (inter-subjective,1) (level,1) (innovation,1) 
+
+15262 2 3 15263 16412 16413 17 (territory,1) (innovation,2) (processes,1) (smes,1) (intermediary,1) (actors,1) (case,2) (ict,1) (sector,1) (greater,1) (montreal,1) (area,2) (social,1) (economy-based,1) (local,1) (initiatives,2) (study,1) 
+
+15263 1 1 15262 12 (territory,1) (innovation,1) (processes,1) (smes,1) (intermediary,1) (actors,1) (case,1) (ict,1) (sector,1) (greater,1) (montreal,1) (area,1) 
+
+16412 1 2 15262 16413 8 (social,2) (economy-based,1) (local,1) (initiatives,1) (innovation,1) (montreal,1) (case,1) (study,1) 
+
+16413 1 2 16412 15262 8 (social,2) (economy-based,1) (local,1) (initiatives,1) (innovation,1) (montreal,1) (case,1) (study,1) 
+
+15264 1 1 15265 8 (enterprise,1) (support,1) (architecture,1) (integrating,1) (dss,1) (eis,1) (simulation,1) (technologies,1) 
+
+15265 1 1 15264 8 (enterprise,1) (support,1) (architecture,1) (integrating,1) (dss,1) (eis,1) (simulation,1) (technologies,1) 
+
+15266 1 3 15267 15268 15269 7 (entrepreneurial,1) (growth,1) (firms,1) (located,1) (clusters,1) (cross-case,1) (study,1) 
+
+15267 1 3 15266 15268 15269 7 (entrepreneurial,1) (growth,1) (firms,1) (located,1) (clusters,1) (cross-case,1) (study,1) 
+
+15268 1 3 15266 15267 15269 7 (entrepreneurial,1) (growth,1) (firms,1) (located,1) (clusters,1) (cross-case,1) (study,1) 
+
+15269 1 3 15266 15267 15268 7 (entrepreneurial,1) (growth,1) (firms,1) (located,1) (clusters,1) (cross-case,1) (study,1) 
+
+15270 1 1 15271 6 (country,1) (attractiveness,1) (foreign,1) (direct,1) (investment,1) (e-commerce,1) 
+
+15271 1 1 15270 6 (country,1) (attractiveness,1) (foreign,1) (direct,1) (investment,1) (e-commerce,1) 
+
+15272 1 1 15273 9 (incentives,1) (coordination,1) (learning,1) (government-sponsored,1) (vs,1) (spontaneous,1) (inter-firm,1) (research,1) (cooperation,1) 
+
+15273 1 1 15272 9 (incentives,1) (coordination,1) (learning,1) (government-sponsored,1) (vs,1) (spontaneous,1) (inter-firm,1) (research,1) (cooperation,1) 
+
+15274 1 2 15275 15276 9 (real,1) (option,1) (model,1) (evaluate,1) (infrastructure,1) (flexibility,1) (application,1) (photovoltaic,1) (technology,1) 
+
+15275 1 2 15274 15276 9 (real,1) (option,1) (model,1) (evaluate,1) (infrastructure,1) (flexibility,1) (application,1) (photovoltaic,1) (technology,1) 
+
+15276 1 2 15274 15275 9 (real,1) (option,1) (model,1) (evaluate,1) (infrastructure,1) (flexibility,1) (application,1) (photovoltaic,1) (technology,1) 
+
+15277 1 1 15278 8 (open,1) (innovation,1) (proclivity,1) (entrepreneurial,1) (orientation,1) (perceived,1) (firm,1) (performance,1) 
+
+15278 1 1 15277 8 (open,1) (innovation,1) (proclivity,1) (entrepreneurial,1) (orientation,1) (perceived,1) (firm,1) (performance,1) 
+
+15279 3 7 15280 15281 15282 16543 16544 16849 16850 21 (virtual,1) (integration,1) (profitability,1) (evidence,1) (taiwan,1) (ic,2) (industry,1) (externality,1) (evaluation,1) (empirical,1) (study,1) (itri,1) (determinants,1) (valuation,1) (intangible,1) (assets,1) (contrast,1) (taiwanese,1) (american,1) (design,1) (houses,1) 
+
+15280 1 3 15279 15281 15282 7 (virtual,1) (integration,1) (profitability,1) (evidence,1) (taiwan,1) (ic,1) (industry,1) 
+
+15281 3 7 15279 15280 15282 16543 16544 16849 16850 21 (virtual,1) (integration,1) (profitability,1) (evidence,1) (taiwan,1) (ic,2) (industry,1) (externality,1) (evaluation,1) (empirical,1) (study,1) (itri,1) (determinants,1) (valuation,1) (intangible,1) (assets,1) (contrast,1) (taiwanese,1) (american,1) (design,1) (houses,1) 
+
+15282 1 3 15279 15280 15281 7 (virtual,1) (integration,1) (profitability,1) (evidence,1) (taiwan,1) (ic,1) (industry,1) 
+
+16543 1 3 15279 15281 16544 5 (externality,1) (evaluation,1) (empirical,1) (study,1) (itri,1) 
+
+16544 1 3 15279 16543 15281 5 (externality,1) (evaluation,1) (empirical,1) (study,1) (itri,1) 
+
+16849 1 3 15279 15281 16850 10 (determinants,1) (valuation,1) (intangible,1) (assets,1) (contrast,1) (taiwanese,1) (american,1) (ic,1) (design,1) (houses,1) 
+
+16850 1 3 15279 16849 15281 10 (determinants,1) (valuation,1) (intangible,1) (assets,1) (contrast,1) (taiwanese,1) (american,1) (ic,1) (design,1) (houses,1) 
+
+15283 1 1 15284 10 (new,1) (product,1) (development,1) (creativity,1) (management,1) (japanese,1) (video,1) (gaming,1) (software,1) (firms,1) 
+
+15284 5 7 15283 15322 15323 15457 15458 16635 17004 36 (new,1) (product,1) (development,1) (creativity,1) (management,2) (japanese,2) (video,1) (gaming,3) (software,2) (firms,2) (comparative,1) (analysis,1) (edi,2) (integration,1) (automobile,1) (suppliers,1) (determinants,1) (organisational,1) (amp,1) (persistence,1) (case,1) (semiconductor,1) (laser,1) (diodes,1) (usa,1) (japan,1) (profit,1) (facto,1) (standard-based,1) (competition,1) (learning,1) (experiences,1) (strategic,1) (technology,1) (literature,1) (review,1) 
+
+15322 1 2 15323 15284 7 (comparative,1) (analysis,1) (edi,1) (integration,1) (japanese,1) (automobile,1) (suppliers,1) 
+
+15323 3 5 15322 15284 17004 17051 17052 19 (comparative,1) (analysis,1) (edi,1) (integration,1) (japanese,3) (automobile,2) (suppliers,1) (strategic,1) (management,1) (technology,1) (firms,1) (literature,1) (review,1) (amp,1) (tax,2) (credits,1) (work,1) (evaluation,1) (reform,1) 
+
+15457 1 2 15284 15458 10 (determinants,1) (organisational,1) (amp,1) (persistence,1) (case,1) (semiconductor,1) (laser,1) (diodes,1) (usa,1) (japan,1) 
+
+15458 1 2 15284 15457 10 (determinants,1) (organisational,1) (amp,1) (persistence,1) (case,1) (semiconductor,1) (laser,1) (diodes,1) (usa,1) (japan,1) 
+
+16635 1 1 15284 8 (profit,1) (facto,1) (standard-based,1) (competition,1) (learning,1) (japanese,1) (firms,1) (experiences,1) 
+
+17004 1 2 15284 15323 7 (strategic,1) (management,1) (technology,1) (japanese,1) (firms,1) (literature,1) (review,1) 
+
+17051 1 2 15323 17052 7 (amp,1) (tax,2) (credits,1) (work,1) (evaluation,1) (japanese,1) (reform,1) 
+
+17052 1 2 17051 15323 7 (amp,1) (tax,2) (credits,1) (work,1) (evaluation,1) (japanese,1) (reform,1) 
+
+15285 1 0 7 (technological,1) (strategies,1) (trajectories,1) (hong,1) (kong,1) (manufacturing,1) (firms,1) 
+
+15286 1 3 15287 15288 15289 9 (performance,1) (measurement,1) (corporate,1) (venture,1) (capital,1) (balanced,1) (scorecard,1) (theory,1) (practice,1) 
+
+15287 1 3 15286 15288 15289 9 (performance,1) (measurement,1) (corporate,1) (venture,1) (capital,1) (balanced,1) (scorecard,1) (theory,1) (practice,1) 
+
+15288 1 3 15286 15287 15289 9 (performance,1) (measurement,1) (corporate,1) (venture,1) (capital,1) (balanced,1) (scorecard,1) (theory,1) (practice,1) 
+
+15289 1 3 15286 15287 15288 9 (performance,1) (measurement,1) (corporate,1) (venture,1) (capital,1) (balanced,1) (scorecard,1) (theory,1) (practice,1) 
+
+15290 1 1 15291 6 (standardisation,1) (innovation,1) (china,1) (td-scdma,1) (standard,1) (case,1) 
+
+15291 1 1 15290 6 (standardisation,1) (innovation,1) (china,1) (td-scdma,1) (standard,1) (case,1) 
+
+15292 1 2 15293 15294 11 (valuing,1) (hosted,1) (voip,1) (services,1) (enterprise,1) (market,1) (case,1) (application,1) (using,1) (real,1) (options,1) 
+
+15293 1 2 15292 15294 11 (valuing,1) (hosted,1) (voip,1) (services,1) (enterprise,1) (market,1) (case,1) (application,1) (using,1) (real,1) (options,1) 
+
+15294 1 2 15292 15293 11 (valuing,1) (hosted,1) (voip,1) (services,1) (enterprise,1) (market,1) (case,1) (application,1) (using,1) (real,1) (options,1) 
+
+15295 1 1 15296 4 (role,1) (regional,1) (location,1) (innovativeness,1) 
+
+15296 1 1 15295 4 (role,1) (regional,1) (location,1) (innovativeness,1) 
+
+15297 1 2 15298 15299 14 (product,1) (development,1) (successive,1) (generations,1) (creating,1) (decision,1) (support,1) (graphic,1) (information,1) (utilising,1) (generalised,1) (cost,1) (performance,1) (curve,1) 
+
+15298 1 2 15297 15299 14 (product,1) (development,1) (successive,1) (generations,1) (creating,1) (decision,1) (support,1) (graphic,1) (information,1) (utilising,1) (generalised,1) (cost,1) (performance,1) (curve,1) 
+
+15299 1 2 15297 15298 14 (product,1) (development,1) (successive,1) (generations,1) (creating,1) (decision,1) (support,1) (graphic,1) (information,1) (utilising,1) (generalised,1) (cost,1) (performance,1) (curve,1) 
+
+15300 1 1 15301 6 (intranet,1) (platform,1) (knowledge,2) (management,1) (based,1) (mapping,1) 
+
+15301 1 1 15300 6 (intranet,1) (platform,1) (knowledge,2) (management,1) (based,1) (mapping,1) 
+
+15302 1 1 15303 7 (role,1) (engineering,1) (knowledge,1) (management,1) (key,1) (wealth,1) (creation,1) 
+
+15303 1 1 15302 7 (role,1) (engineering,1) (knowledge,1) (management,1) (key,1) (wealth,1) (creation,1) 
+
+15304 5 8 15869 15870 16120 16121 17015 17016 17017 17137 24 (dealing,1) (discontinuous,2) (innovation,3) (european,2) (experience,1) (selection,1) (strategies,1) (developing,2) (organisation,1) (culture,1) (facilitate,1) (radical,1) (agile,1) (enterprise,1) (challenges,1) (lie,1) (ahead,1) (improvement,2) (programmes,1) (uk,1) (lessons,1) (cinet,1) (continuous,1) (survey,1) 
+
+15869 1 2 15304 15870 4 (selection,1) (strategies,1) (discontinuous,1) (innovation,1) 
+
+15870 1 2 15304 15869 4 (selection,1) (strategies,1) (discontinuous,1) (innovation,1) 
+
+16120 1 2 15304 16121 6 (developing,1) (organisation,1) (culture,1) (facilitate,1) (radical,1) (innovation,1) 
+
+16121 1 2 16120 15304 6 (developing,1) (organisation,1) (culture,1) (facilitate,1) (radical,1) (innovation,1) 
+
+17015 1 3 15304 17016 17017 3 (developing,1) (agile,1) (enterprise,1) 
+
+17016 1 3 15304 17015 17017 3 (developing,1) (agile,1) (enterprise,1) 
+
+17017 1 3 15304 17015 17016 3 (developing,1) (agile,1) (enterprise,1) 
+
+17137 1 1 15304 10 (challenges,1) (lie,1) (ahead,1) (improvement,2) (programmes,1) (uk,1) (lessons,1) (cinet,1) (continuous,1) (survey,1) 
+
+15305 1 1 15306 6 (geo-cultural,1) (influences,1) (critical,1) (factors,1) (inter-firm,1) (collaboration,1) 
+
+15306 2 3 15305 17196 17197 14 (geo-cultural,1) (influences,1) (critical,1) (factors,1) (inter-firm,1) (collaboration,1) (testing,1) (goodwill,1) (conflict,1) (cooperation,1) (new,1) (product,1) (development,1) (networks,1) 
+
+17196 1 2 17197 15306 8 (testing,1) (goodwill,1) (conflict,1) (cooperation,1) (new,1) (product,1) (development,1) (networks,1) 
+
+17197 1 2 17196 15306 8 (testing,1) (goodwill,1) (conflict,1) (cooperation,1) (new,1) (product,1) (development,1) (networks,1) 
+
+15307 1 1 15308 8 (sectoral,1) (systems,1) (innovation,1) (asia,1) (case,1) (software,1) (research,1) (activities,1) 
+
+15308 1 1 15307 8 (sectoral,1) (systems,1) (innovation,1) (asia,1) (case,1) (software,1) (research,1) (activities,1) 
+
+15309 2 1 15310 17 (new,1) (ventures,1) (based,1) (open,2) (innovation,1) (empirical,1) (analysis,1) (start-up,1) (firms,1) (embedded,2) (linux,1) (research,1) (marketing,1) (emerging,1) (key,1) (issues,1) (questions,1) 
+
+15310 1 1 15309 11 (new,1) (ventures,1) (based,1) (open,1) (innovation,1) (empirical,1) (analysis,1) (start-up,1) (firms,1) (embedded,1) (linux,1) 
+
+15311 1 0 10 (leveraging,1) (multinational,1) (corporations,1) (fostering,1) (technopreneurship,1) (changing,1) (role,1) (amp,1) (policy,1) (singapore,1) 
+
+15313 2 1 15314 18 (innovation,1) (quality,1) (automobile,1) (industry,1) (measurement,1) (indicators,1) (performance,1) (implications,1) (technology,1) (development,1) (knowledge,1) (spillover,1) (africa,1) (evidence,1) (using,1) (patent,1) (citation,1) (data,1) 
+
+15314 1 1 15313 8 (innovation,1) (quality,1) (automobile,1) (industry,1) (measurement,1) (indicators,1) (performance,1) (implications,1) 
+
+15315 1 2 15316 15317 5 (learning,1) (consortium,1) (longitudinal,1) (case,1) (study,1) 
+
+15316 1 2 15315 15317 5 (learning,1) (consortium,1) (longitudinal,1) (case,1) (study,1) 
+
+15317 1 2 15315 15316 5 (learning,1) (consortium,1) (longitudinal,1) (case,1) (study,1) 
+
+15318 1 1 15319 8 (narrating,1) (triple,1) (helix,1) (concept,1) (weak,1) (regions,1) (lessons,1) (sweden,1) 
+
+15319 1 1 15318 8 (narrating,1) (triple,1) (helix,1) (concept,1) (weak,1) (regions,1) (lessons,1) (sweden,1) 
+
+15320 1 1 15321 9 (causal,1) (ambiguity,1) (technological,1) (competencies,1) (human,1) (resource,1) (practices,1) (competitive,1) (advantage,1) 
+
+15321 1 1 15320 9 (causal,1) (ambiguity,1) (technological,1) (competencies,1) (human,1) (resource,1) (practices,1) (competitive,1) (advantage,1) 
+
+15324 1 1 15325 10 (graduate,1) (management,1) (technology,1) (education,1) (global,1) (survey,1) (critical,1) (issues,1) (emerging,1) (trends,1) 
+
+15325 1 1 15324 10 (graduate,1) (management,1) (technology,1) (education,1) (global,1) (survey,1) (critical,1) (issues,1) (emerging,1) (trends,1) 
+
+15327 2 1 16595 14 (project,2) (management,2) (really,1) (alternative,1) (perspectives,1) (role,1) (practice,1) (modes,1) (mechanisms,1) (control,1) (multi-project,1) (organisations,1) (amp,1) (case,1) 
+
+16595 1 1 15327 7 (modes,1) (mechanisms,1) (control,1) (multi-project,1) (organisations,1) (amp,1) (case,1) 
+
+15328 1 1 15329 8 (taxonomy,1) (model-based,1) (redundancy,1) (methods,1) (cmm,1) (online,1) (performance,1) (verification,1) 
+
+15329 1 1 15328 8 (taxonomy,1) (model-based,1) (redundancy,1) (methods,1) (cmm,1) (online,1) (performance,1) (verification,1) 
+
+15330 1 1 15331 9 (applying,1) (multivariate,1) (time,1) (series,1) (models,1) (technological,1) (product,1) (sales,1) (forecasting,1) 
+
+15331 1 1 15330 9 (applying,1) (multivariate,1) (time,1) (series,1) (models,1) (technological,1) (product,1) (sales,1) (forecasting,1) 
+
+15332 1 1 15333 10 (transforming,1) (semiconductor,1) (company,1) (learning,1) (organisation,1) (bottom-up,1) (approach,1) (knowledge,1) (management,1) (implementation,1) 
+
+15333 1 1 15332 10 (transforming,1) (semiconductor,1) (company,1) (learning,1) (organisation,1) (bottom-up,1) (approach,1) (knowledge,1) (management,1) (implementation,1) 
+
+15334 1 0 5 (science,1) (cities,1) (characteristics,1) (future,1) (challenges,1) 
+
+15335 1 0 5 (developing,1) (university-business,1) (cooperation,1) (work-integrated,1) (learning,1) 
+
+15336 1 1 15337 10 (institutions,1) (coordination,1) (contribution,1) (proximity-based,1) (analysis,1) (case,1) (airbus,1) (relations,1) (subcontracting,1) (network,1) 
+
+15337 1 1 15336 10 (institutions,1) (coordination,1) (contribution,1) (proximity-based,1) (analysis,1) (case,1) (airbus,1) (relations,1) (subcontracting,1) (network,1) 
+
+15338 1 0 9 (knut,1) (holt,1) (fusion,1) (model,1) (balancing,1) (market,1) (pull,1) (technology,1) (push,1) 
+
+15339 1 1 15340 10 (societal,1) (reaction,1) (power,1) (frequency,1) (electric,2) (magnetic,1) (field,1) (effects,1) (utility,1) (systems,1) 
+
+15340 1 1 15339 10 (societal,1) (reaction,1) (power,1) (frequency,1) (electric,2) (magnetic,1) (field,1) (effects,1) (utility,1) (systems,1) 
+
+15341 4 7 15342 15343 15739 15741 16127 16128 16129 25 (advancing,1) (forecasting,1) (innovation,1) (pathways,1) (approach,1) (hybrid,1) (electric,1) (vehicles,1) (case,1) (international,1) (collaborative,1) (patterns,1) (china,1) (nanotechnology,1) (publications,1) (comparison,1) (recent,1) (assessments,1) (high-tech,1) (competitiveness,1) (nations,1) (just-in-time,1) (technology,1) (analysis,1) (support,1) 
+
+15342 2 2 15341 15343 13 (advancing,1) (forecasting,1) (innovation,1) (pathways,1) (approach,1) (hybrid,1) (electric,1) (vehicles,1) (case,1) (just-in-time,1) (technology,1) (analysis,1) (support,1) 
+
+15343 1 2 15341 15342 9 (advancing,1) (forecasting,1) (innovation,1) (pathways,1) (approach,1) (hybrid,1) (electric,1) (vehicles,1) (case,1) 
+
+15739 2 4 15740 15741 15742 15341 14 (study,1) (measurement,1) (international,2) (knowledge,1) (flow,1) (based,1) (patent,1) (citation,1) (network,1) (collaborative,1) (patterns,1) (china,1) (nanotechnology,1) (publications,1) 
+
+15741 2 4 15739 15740 15742 15341 14 (study,1) (measurement,1) (international,2) (knowledge,1) (flow,1) (based,1) (patent,1) (citation,1) (network,1) (collaborative,1) (patterns,1) (china,1) (nanotechnology,1) (publications,1) 
+
+16127 1 3 15341 16128 16129 6 (comparison,1) (recent,1) (assessments,1) (high-tech,1) (competitiveness,1) (nations,1) 
+
+16128 1 3 16127 15341 16129 6 (comparison,1) (recent,1) (assessments,1) (high-tech,1) (competitiveness,1) (nations,1) 
+
+16129 1 3 16127 15341 16128 6 (comparison,1) (recent,1) (assessments,1) (high-tech,1) (competitiveness,1) (nations,1) 
+
+15740 1 3 15739 15741 15742 9 (study,1) (measurement,1) (international,1) (knowledge,1) (flow,1) (based,1) (patent,1) (citation,1) (network,1) 
+
+15742 1 3 15739 15740 15741 9 (study,1) (measurement,1) (international,1) (knowledge,1) (flow,1) (based,1) (patent,1) (citation,1) (network,1) 
+
+15344 1 1 15345 7 (capturing,1) (strategic,1) (alliance,1) (outcomes,2) (analysis,1) (motives,1) (objectives,1) 
+
+15345 1 1 15344 7 (capturing,1) (strategic,1) (alliance,1) (outcomes,2) (analysis,1) (motives,1) (objectives,1) 
+
+15347 1 2 15348 15349 7 (determinants,1) (organisational,1) (learning,1) (generation,1) (technological,1) (distinctive,1) (competencies,1) 
+
+15348 1 2 15347 15349 7 (determinants,1) (organisational,1) (learning,1) (generation,1) (technological,1) (distinctive,1) (competencies,1) 
+
+15349 1 2 15347 15348 7 (determinants,1) (organisational,1) (learning,1) (generation,1) (technological,1) (distinctive,1) (competencies,1) 
+
+15350 1 0 11 (business,1) (model,1) (innovation,1) (sustainable,1) (energy,2) (german,1) (municipal,1) (utilities,1) (invest,1) (offshore,1) (wind,1) 
+
+15351 1 1 15352 7 (university,1) (technology,1) (commercialisation,1) (offices,1) (new,1) (zealand,1) (perspective,1) 
+
+15352 1 1 15351 7 (university,1) (technology,1) (commercialisation,1) (offices,1) (new,1) (zealand,1) (perspective,1) 
+
+15353 1 1 15354 8 (governance,1) (contingencies,1) (strategic,1) (technology,1) (alliances,1) (case,1) (wireless,1) (business,1) 
+
+15354 1 1 15353 8 (governance,1) (contingencies,1) (strategic,1) (technology,1) (alliances,1) (case,1) (wireless,1) (business,1) 
+
+15355 1 0 8 (enhancing,1) (innovation,1) (sustainable,1) (growth,1) (competitiveness,1) (north,1) (african,1) (countries,1) 
+
+15356 1 1 15357 3 (software,1) (inventive,1) (problem-solving,1) 
+
+15357 1 1 15356 3 (software,1) (inventive,1) (problem-solving,1) 
+
+15358 1 1 15359 4 (model-based,1) (transportation,1) (policy,1) (analysis,1) 
+
+15359 1 1 15358 4 (model-based,1) (transportation,1) (policy,1) (analysis,1) 
+
+15364 1 1 15365 8 (management,1) (team,1) (advice-seeking,1) (environmental,1) (competitiveness,1) (impacts,1) (technological,1) (innovation,1) 
+
+15365 1 1 15364 8 (management,1) (team,1) (advice-seeking,1) (environmental,1) (competitiveness,1) (impacts,1) (technological,1) (innovation,1) 
+
+15366 2 3 15795 15796 15797 11 (individual,1) (careers,1) (collective,1) (research,1) (paradox,1) (managerial,1) (challenges,1) (publicly,1) (funded,1) (principal,1) (investigators,1) 
+
+15795 1 3 15796 15797 15366 6 (managerial,1) (challenges,1) (publicly,1) (funded,1) (principal,1) (investigators,1) 
+
+15796 1 3 15795 15797 15366 6 (managerial,1) (challenges,1) (publicly,1) (funded,1) (principal,1) (investigators,1) 
+
+15797 2 5 15795 15796 15366 15960 15961 15 (managerial,1) (challenges,1) (publicly,1) (funded,1) (principal,1) (investigators,1) (technology,1) (transfer,1) (offices,1) (nexus,1) (triple,1) (helix,1) (progression,1) (university,1) (role,1) 
+
+15960 1 2 15797 15961 9 (technology,1) (transfer,1) (offices,1) (nexus,1) (triple,1) (helix,1) (progression,1) (university,1) (role,1) 
+
+15961 1 2 15960 15797 9 (technology,1) (transfer,1) (offices,1) (nexus,1) (triple,1) (helix,1) (progression,1) (university,1) (role,1) 
+
+15367 2 0 10 (innovation,1) (amp,2) (management,3) (new,2) (paradigms,1) (observable,1) (strategic,1) (technology,1) (evolution,1) (perspectives,1) 
+
+15368 1 0 8 (cluster,1) (behaviour,1) (economic,1) (development,1) (new,1) (challenges,1) (policy,1) (evaluation,1) 
+
+15369 1 2 15370 15371 6 (maturity,1) (model,1) (assess,1) (organisational,1) (readiness,1) (change,1) 
+
+15370 1 2 15369 15371 6 (maturity,1) (model,1) (assess,1) (organisational,1) (readiness,1) (change,1) 
+
+15371 1 2 15369 15370 6 (maturity,1) (model,1) (assess,1) (organisational,1) (readiness,1) (change,1) 
+
+15372 1 0 8 (internal,1) (entrepreneur,1) (catalyst,1) (successful,1) (product,1) (development,1) (case,1) (study,1) 
+
+15373 2 2 15374 16565 14 (maintaining,1) (funding,1) (large-scale,2) (international,1) (science,2) (projects,2) (managing,1) (technology,1) (edge,1) (knowledge,1) (manhattan,1) (project,1) (learning,1) (organisation,1) 
+
+15374 1 1 15373 6 (maintaining,1) (funding,1) (large-scale,1) (international,1) (science,1) (projects,1) 
+
+16565 1 1 15373 11 (managing,1) (large-scale,1) (science,1) (technology,1) (projects,1) (edge,1) (knowledge,1) (manhattan,1) (project,1) (learning,1) (organisation,1) 
+
+15375 1 2 15376 15377 11 (dynamic,1) (strategic,1) (groups,1) (analysis,1) (identification,1) (mobility,1) (barriers,1) (european,1) (mobile,1) (phone,1) (industry,1) 
+
+15376 1 2 15375 15377 11 (dynamic,1) (strategic,1) (groups,1) (analysis,1) (identification,1) (mobility,1) (barriers,1) (european,1) (mobile,1) (phone,1) (industry,1) 
+
+15377 1 2 15375 15376 11 (dynamic,1) (strategic,1) (groups,1) (analysis,1) (identification,1) (mobility,1) (barriers,1) (european,1) (mobile,1) (phone,1) (industry,1) 
+
+15378 1 0 11 (reinforcing,1) (experiential,1) (learning,1) (training,1) (culture,1) (innovative,1) (governance,1) (strategy,1) (informal,1) (microfinance,1) (institutions,1) 
+
+15379 1 0 8 (problem-based,1) (learning,2) (approach,1) (entrepreneurship,1) (education,1) (promoting,1) (authentic,1) (entrepreneurial,1) 
+
+15382 1 2 15383 15384 5 (managing,1) (strategic,1) (ambidexterity,1) (spin-along,1) (approach,1) 
+
+15383 1 2 15382 15384 5 (managing,1) (strategic,1) (ambidexterity,1) (spin-along,1) (approach,1) 
+
+15384 2 4 15382 15383 15748 17360 13 (managing,1) (strategic,1) (ambidexterity,1) (spin-along,1) (approach,1) (antecedents,1) (technology,1) (ventures,1) (growth,1) (comparing,1) (investor,1) (experience,1) (effort,1) 
+
+15748 2 3 15747 17360 15384 16 (commercialisation,1) (technology,2) (innovations,1) (empirical,1) (study,1) (influence,1) (clusters,1) (innovation,1) (networks,1) (antecedents,1) (ventures,1) (growth,1) (comparing,1) (investor,1) (experience,1) (effort,1) 
+
+17360 1 2 15748 15384 8 (antecedents,1) (technology,1) (ventures,1) (growth,1) (comparing,1) (investor,1) (experience,1) (effort,1) 
+
+15747 1 1 15748 9 (commercialisation,1) (technology,1) (innovations,1) (empirical,1) (study,1) (influence,1) (clusters,1) (innovation,1) (networks,1) 
+
+15385 1 0 8 (information,2) (knowledge,1) (technology,2) (management,1) (national,1) (policies,1) (sustainable,1) (development,1) 
+
+15386 1 1 15387 6 (stepwise,1) (innovation,2) (adoption,1) (neglected,1) (concept,1) (research,1) 
+
+15387 1 1 15386 6 (stepwise,1) (innovation,2) (adoption,1) (neglected,1) (concept,1) (research,1) 
+
+15388 1 1 15389 7 (measuring,1) (product,1) (structures,1) (improve,1) (demand-supply,1) (chain,1) (efficiency,1) 
+
+15389 1 1 15388 7 (measuring,1) (product,1) (structures,1) (improve,1) (demand-supply,1) (chain,1) (efficiency,1) 
+
+15390 1 1 15391 10 (low,1) (tech,2) (high,1) (product,1) (development,1) (strategies,1) (finding,1) (new,1) (markets,1) (technologies,1) 
+
+15391 1 1 15390 10 (low,1) (tech,2) (high,1) (product,1) (development,1) (strategies,1) (finding,1) (new,1) (markets,1) (technologies,1) 
+
+15392 7 3 15393 15433 17027 50 (years,1) (superconductivity,1) (science,1) (technology,1) (products,1) (profits,1) (industry,1) (structure,1) (transition,2) (strategy,1) (marketing,1) (amp,2) (new,1) (product,2) (development,2) (policies,1) (mergers,2) (acquisitions,2) (case,2) (study,2) (superpower,1) (dutch,1) (japanese,1) (ownership,1) (wireless,1) (charging,1) (mobile,1) (phones,1) (powerkiss,1) (powermat,1) (general,3) (electric,3) (crossroads,2) (end,1) (conglomerate,1) (procedures,1) (intermagnetics,1) (philips,1) (healthcare,1) (jack,1) (welch,1) (succession,1) (success,1) (globalisation,1) (italian,1) (family,1) (company,1) (zobele,1) (chemical,1) (industries,1) 
+
+15393 1 1 15392 8 (years,1) (superconductivity,1) (science,1) (technology,1) (products,1) (profits,1) (industry,1) (structure,1) 
+
+15433 1 1 15392 16 (transition,1) (strategy,1) (marketing,1) (amp,1) (new,1) (product,1) (development,1) (policies,1) (mergers,1) (acquisitions,1) (case,1) (study,1) (superpower,1) (dutch,1) (japanese,1) (ownership,1) 
+
+17027 1 1 15392 13 (transition,1) (amp,1) (product,1) (development,1) (procedures,1) (mergers,1) (acquisitions,1) (case,1) (study,1) (intermagnetics,1) (general,1) (philips,1) (healthcare,1) 
+
+15395 1 0 5 (apoptosis,1) (way,1) (science,1) (centres,1) (thrive,1) 
+
+15396 1 1 15397 5 (technology-oriented,1) (new,1) (ventures,1) (entry,1) (timing,1) 
+
+15397 1 1 15396 5 (technology-oriented,1) (new,1) (ventures,1) (entry,1) (timing,1) 
+
+15398 1 0 6 (effect,1) (intellectual,1) (capital,1) (product,1) (innovativeness,1) (smes,1) 
+
+15399 1 2 15400 15401 10 (domestic,1) (vcs,2) (versus,1) (foreign,1) (close,1) (look,1) (chinese,1) (venture,1) (capital,1) (industry,1) 
+
+15400 1 2 15399 15401 10 (domestic,1) (vcs,2) (versus,1) (foreign,1) (close,1) (look,1) (chinese,1) (venture,1) (capital,1) (industry,1) 
+
+15401 1 2 15399 15400 10 (domestic,1) (vcs,2) (versus,1) (foreign,1) (close,1) (look,1) (chinese,1) (venture,1) (capital,1) (industry,1) 
+
+15405 1 2 15406 15407 10 (changing,1) (role,1) (technology,1) (suppliers,1) (pharmaceutical,1) (industry,1) (case,1) (drug,1) (delivery,1) (companies,1) 
+
+15406 1 2 15405 15407 10 (changing,1) (role,1) (technology,1) (suppliers,1) (pharmaceutical,1) (industry,1) (case,1) (drug,1) (delivery,1) (companies,1) 
+
+15407 1 2 15405 15406 10 (changing,1) (role,1) (technology,1) (suppliers,1) (pharmaceutical,1) (industry,1) (case,1) (drug,1) (delivery,1) (companies,1) 
+
+15408 1 1 15409 11 (absorptive,1) (capacity,1) (coopetition,1) (generation,1) (product,1) (innovation,1) (contrasting,1) (italian,1) (portuguese,1) (manufacturing,1) (firms,1) 
+
+15409 1 1 15408 11 (absorptive,1) (capacity,1) (coopetition,1) (generation,1) (product,1) (innovation,1) (contrasting,1) (italian,1) (portuguese,1) (manufacturing,1) (firms,1) 
+
+15410 1 0 7 (securing,1) (intellectual,1) (assets,1) (integrating,1) (knowledge,1) (innovation,1) (dimensions,1) 
+
+15411 1 0 4 (technology,1) (development,1) (acquisition,1) (strategy,1) 
+
+15412 1 1 15413 7 (knowledge,1) (management,1) (hybrid,1) (supply,1) (channels,1) (case,1) (study,1) 
+
+15413 1 1 15412 7 (knowledge,1) (management,1) (hybrid,1) (supply,1) (channels,1) (case,1) (study,1) 
+
+15415 1 2 15416 15417 6 (diffusion,1) (pattern,1) (non-cash,1) (payments,1) (evidence,1) (china,1) 
+
+15416 1 2 15415 15417 6 (diffusion,1) (pattern,1) (non-cash,1) (payments,1) (evidence,1) (china,1) 
+
+15417 1 2 15415 15416 6 (diffusion,1) (pattern,1) (non-cash,1) (payments,1) (evidence,1) (china,1) 
+
+15418 1 0 4 (real,1) (options,1) (innovation,1) (management,1) 
+
+15424 1 0 8 (corporate,1) (foresight,1) (integrating,1) (future,1) (business,1) (environment,1) (innovation,1) (strategy,1) 
+
+15425 2 4 15426 15427 15428 17227 20 (tangible,1) (slack,2) (versus,1) (intangible,1) (resources,1) (influence,1) (technology,1) (tacit,1) (knowledge,2) (capability,2) (organisational,2) (learning,1) (generate,1) (innovation,1) (performance,2) (creation,1) (dynamic,1) (implications,1) (management,1) (design,1) 
+
+15426 1 3 15425 15427 15428 15 (tangible,1) (slack,2) (versus,1) (intangible,1) (resources,1) (influence,1) (technology,1) (tacit,1) (knowledge,1) (capability,1) (organisational,1) (learning,1) (generate,1) (innovation,1) (performance,1) 
+
+15427 3 7 15425 15426 15428 15642 15643 15644 17227 24 (tangible,1) (slack,2) (versus,1) (intangible,1) (resources,1) (influence,1) (technology,1) (tacit,1) (knowledge,3) (capability,3) (organisational,3) (learning,2) (generate,1) (innovation,1) (performance,3) (diffusion,2) (transfer,1) (social,1) (networks,2) (creation,1) (dynamic,1) (implications,1) (management,1) (design,1) 
+
+15428 1 3 15425 15426 15427 15 (tangible,1) (slack,2) (versus,1) (intangible,1) (resources,1) (influence,1) (technology,1) (tacit,1) (knowledge,1) (capability,1) (organisational,1) (learning,1) (generate,1) (innovation,1) (performance,1) 
+
+17227 1 2 15425 15427 9 (knowledge,1) (creation,1) (dynamic,1) (capability,1) (implications,1) (innovation,1) (management,1) (organisational,1) (design,1) 
+
+15642 1 3 15643 15644 15427 7 (diffusion,1) (organisational,1) (innovation,1) (knowledge,1) (transfer,1) (social,1) (networks,1) 
+
+15643 1 3 15642 15644 15427 7 (diffusion,1) (organisational,1) (innovation,1) (knowledge,1) (transfer,1) (social,1) (networks,1) 
+
+15644 1 3 15642 15643 15427 7 (diffusion,1) (organisational,1) (innovation,1) (knowledge,1) (transfer,1) (social,1) (networks,1) 
+
+15429 1 0 7 (global,1) (pharmaceutical,1) (industry,1) (intellectual,1) (wealth,1) (asset,1) (protection,1) 
+
+15430 2 2 15963 15964 8 (generic,1) (resource-based,1) (strategies,1) (technological,1) (management,1) (tentative,1) (research,1) (agenda,1) 
+
+15963 2 5 15430 15964 16236 16237 16856 12 (technological,1) (management,2) (tentative,1) (research,1) (agenda,1) (innovation,1) (performance,1) (measurement,1) (current,1) (practices,1) (issues,1) (challenges,1) 
+
+15964 1 2 15963 15430 5 (technological,1) (management,1) (tentative,1) (research,1) (agenda,1) 
+
+16236 2 3 16237 15963 16856 15 (assessing,1) (firm,1) (strategic,1) (knowledge,1) (portfolio,1) (framework,1) (methodology,1) (innovation,1) (performance,1) (measurement,1) (current,1) (practices,1) (issues,1) (management,1) (challenges,1) 
+
+16237 2 3 16236 15963 16856 15 (assessing,1) (firm,1) (strategic,1) (knowledge,1) (portfolio,1) (framework,1) (methodology,1) (innovation,1) (performance,1) (measurement,1) (current,1) (practices,1) (issues,1) (management,1) (challenges,1) 
+
+16856 1 3 16236 15963 16237 8 (innovation,1) (performance,1) (measurement,1) (current,1) (practices,1) (issues,1) (management,1) (challenges,1) 
+
+15431 1 1 15432 9 (knowledge,1) (alliances,1) (innovation,1) (performance,1) (empirical,1) (perspective,1) (role,1) (network,1) (resources,1) 
+
+15432 1 1 15431 9 (knowledge,1) (alliances,1) (innovation,1) (performance,1) (empirical,1) (perspective,1) (role,1) (network,1) (resources,1) 
+
+15434 4 5 15435 15436 16555 16556 16557 30 (technology,2) (standards,1) (increasing,1) (returns,1) (microsoft,1) (versus,1) (nokia,1) (linux,1) (amp,1) (industrial,1) (districts,1) (asia,1) (application,1) (taiwan,1) (reverse,1) (knowledge,2) (transfer,1) (imbalances,1) (caused,1) (cognitive,1) (barriers,1) (asymmetric,1) (relationships,1) (google,1) (global,1) (market,1) (search,1) (information,1) (signals,1) (indices,1) 
+
+15435 2 2 15434 15436 16 (technology,1) (standards,1) (increasing,1) (returns,1) (microsoft,1) (versus,1) (nokia,1) (linux,1) (google,1) (global,1) (market,1) (search,1) (information,1) (signals,1) (knowledge,1) (indices,1) 
+
+15436 6 9 15434 15435 16154 16155 16398 16399 16555 16556 16557 39 (technology,2) (standards,1) (increasing,1) (returns,1) (microsoft,1) (versus,1) (nokia,1) (linux,1) (innovation,1) (management,1) (intellectual,1) (property,1) (knowledge-oriented,2) (economies,1) (globalisation,1) (rights,1) (knowledge,2) (networks,1) (amp,2) (industrial,1) (districts,1) (asia,1) (application,1) (taiwan,1) (reverse,1) (transfer,1) (imbalances,1) (caused,1) (cognitive,1) (barriers,1) (asymmetric,1) (relationships,1) (google,1) (global,1) (market,1) (search,1) (information,1) (signals,1) (indices,1) 
+
+16555 1 4 15436 16556 16557 15434 6 (amp,1) (industrial,1) (districts,1) (asia,1) (application,1) (taiwan,1) 
+
+16556 1 4 15436 16555 16557 15434 6 (amp,1) (industrial,1) (districts,1) (asia,1) (application,1) (taiwan,1) 
+
+16557 1 4 15436 16555 16556 15434 6 (amp,1) (industrial,1) (districts,1) (asia,1) (application,1) (taiwan,1) 
+
+16154 1 2 15436 16155 6 (innovation,1) (management,1) (intellectual,1) (property,1) (knowledge-oriented,1) (economies,1) 
+
+16155 1 2 16154 15436 6 (innovation,1) (management,1) (intellectual,1) (property,1) (knowledge-oriented,1) (economies,1) 
+
+16398 1 2 15436 16399 5 (globalisation,1) (property,1) (rights,1) (knowledge,1) (networks,1) 
+
+16399 1 2 15436 16398 5 (globalisation,1) (property,1) (rights,1) (knowledge,1) (networks,1) 
+
+15437 5 1 15550 33 (biotechnology,1) (clusters,1) (big,1) (pharma,1) (knowledge-driven,1) (economy,2) (proximities,1) (knowledge,1) (skills,2) (future,1) (welsh,1) (aerospace,2) (industry,1) (economic,2) (globalisation,1) (challenges,1) (regional,1) (development,1) (conceptualising,2) (outsourcing,1) (airbus,1) (uk,1) (lean,1) (supply,1) (approach,1) (role,1) (research,1) (innovation,1) (systems,1) (new,1) (models,1) (meeting,1) (demands,1) 
+
+15550 3 5 15548 15549 15551 15552 15437 20 (european,1) (medium-technology,1) (innovation,1) (networks,1) (multi-methodological,1) (multi-regional,1) (approach,2) (proximities,1) (knowledge,1) (skills,1) (future,1) (welsh,1) (aerospace,1) (industry,2) (conceptualising,1) (outsourcing,1) (airbus,1) (uk,1) (lean,1) (supply,1) 
+
+15548 2 4 15549 15550 15551 15552 12 (european,1) (medium-technology,1) (innovation,1) (networks,2) (multi-methodological,1) (multi-regional,1) (approach,1) (regional,1) (knowledge,1) (evolving,1) (social,1) (technologies,1) 
+
+15549 1 4 15548 15550 15551 15552 7 (european,1) (medium-technology,1) (innovation,1) (networks,1) (multi-methodological,1) (multi-regional,1) (approach,1) 
+
+15551 1 4 15548 15549 15550 15552 7 (european,1) (medium-technology,1) (innovation,1) (networks,1) (multi-methodological,1) (multi-regional,1) (approach,1) 
+
+15552 4 5 15548 15549 15550 15551 15792 28 (european,2) (medium-technology,1) (innovation,1) (networks,1) (multi-methodological,1) (multi-regional,1) (approach,1) (restructuring,1) (aeronautics,2) (smes,1) (role,1) (formal,1) (examination,1) (knowledge,2) (agglomerations,1) (technology,1) (knowledge-driven,1) (clusters,1) (cluster,1) (policies,1) (europe,1) (transregional,1) (effects,1) (management,1) (implications,1) (policy,1) (evaluation,1) (design,1) 
+
+15792 1 1 15552 8 (agglomerations,1) (technology,1) (knowledge-driven,1) (clusters,1) (aeronautics,1) (cluster,1) (policies,1) (europe,1) 
+
+15438 2 4 15439 17393 15854 15508 20 (innovation,2) (process,1) (entrepreneurial,1) (teams,1) (dynamic,1) (business,1) (plan,1) (competition,1) (sense-making,1) (perspective,2) (competitive,1) (advantages,1) (managing,1) (effective,1) (social,1) (network,1) (structure,1) (stimulate,1) (knowledge,1) (management,1) 
+
+15439 1 1 15438 10 (innovation,1) (process,1) (entrepreneurial,1) (teams,1) (dynamic,1) (business,1) (plan,1) (competition,1) (sense-making,1) (perspective,1) 
+
+17393 1 3 15854 15438 15508 12 (competitive,1) (advantages,1) (managing,1) (effective,1) (social,1) (network,1) (structure,1) (stimulate,1) (innovation,1) (knowledge,1) (management,1) (perspective,1) 
+
+15854 5 9 15853 15855 15967 15968 16158 16798 17393 15438 15508 36 (dynamic,2) (innovation,3) (model,2) (managing,1) (capabilities,3) (continuous,2) (intellectual,1) (capital,2) (innovative,1) (performance,1) (organisations,1) (accelerating,1) (knowledge,2) (co-evolution,1) (case,1) (study,1) (taiwan,1) (semiconductor,1) (industry,1) (knowledge-based,2) (view,1) (oem,1) (relationship,1) (building,1) (sharing,1) (industrial,1) (experiences,1) (competitive,1) (advantages,1) (effective,1) (social,1) (network,1) (structure,1) (stimulate,1) (management,1) (perspective,1) 
+
+15508 2 3 17393 15854 15438 18 (internationalisation,1) (research,1) (development,1) (case,1) (taiwanese,1) (firms,1) (competitive,1) (advantages,1) (managing,1) (effective,1) (social,1) (network,1) (structure,1) (stimulate,1) (innovation,1) (knowledge,1) (management,1) (perspective,1) 
+
+15853 1 2 15854 15855 6 (dynamic,1) (innovation,2) (model,1) (managing,1) (capabilities,1) (continuous,1) 
+
+15855 1 2 15853 15854 6 (dynamic,1) (innovation,2) (model,1) (managing,1) (capabilities,1) (continuous,1) 
+
+15967 1 2 15854 15968 7 (intellectual,1) (capital,1) (dynamic,1) (capabilities,1) (innovative,1) (performance,1) (organisations,1) 
+
+15968 1 2 15854 15967 7 (intellectual,1) (capital,1) (dynamic,1) (capabilities,1) (innovative,1) (performance,1) (organisations,1) 
+
+16158 1 1 15854 9 (accelerating,1) (innovation,1) (knowledge,1) (co-evolution,1) (case,1) (study,1) (taiwan,1) (semiconductor,1) (industry,1) 
+
+16798 1 1 15854 9 (knowledge-based,1) (view,1) (oem,1) (relationship,1) (building,1) (sharing,1) (industrial,1) (experiences,1) (taiwan,1) 
+
+15442 2 2 15443 15533 16 (cluster,1) (characteristics,2) (corporate,1) (performance,1) (case,1) (study,1) (clusters,1) (korea,1) (amp,1) (group,1) (knowledge,1) (management,1) (activities,1) (comparison,1) (ventures,1) (firms,1) 
+
+15443 2 2 15442 15533 16 (cluster,1) (characteristics,2) (corporate,1) (performance,1) (case,1) (study,1) (clusters,1) (korea,1) (amp,1) (group,1) (knowledge,1) (management,1) (activities,1) (comparison,1) (ventures,1) (firms,1) 
+
+15533 1 2 15442 15443 9 (amp,1) (group,1) (characteristics,1) (knowledge,1) (management,1) (activities,1) (comparison,1) (ventures,1) (firms,1) 
+
+15444 1 0 10 (national,1) (systems,1) (economic,1) (learning,1) (case,1) (technology,1) (diffusion,1) (management,1) (east,1) (asia,1) 
+
+15445 2 1 15599 15 (employing,1) (analytic,1) (tools,1) (large-scale,1) (engineering,1) (public,1) (policy-making,2) (hypermedia,1) (knowledge,1) (management,1) (conflict,1) (resolution,1) (new,1) (telecommunications,1) (services,1) 
+
+15599 1 1 15445 9 (hypermedia,1) (knowledge,1) (management,1) (conflict,1) (resolution,1) (policy-making,1) (new,1) (telecommunications,1) (services,1) 
+
+15452 1 2 15453 15454 8 (sources,1) (innovation,1) (high-tech,1) (smes,1) (comparison,1) (usa,1) (canada,1) (portugal,1) 
+
+15453 1 2 15452 15454 8 (sources,1) (innovation,1) (high-tech,1) (smes,1) (comparison,1) (usa,1) (canada,1) (portugal,1) 
+
+15454 1 2 15452 15453 8 (sources,1) (innovation,1) (high-tech,1) (smes,1) (comparison,1) (usa,1) (canada,1) (portugal,1) 
+
+15455 1 1 15456 8 (collaboration,1) (foreign,1) (universities,1) (innovation,1) (evidence,1) (chinese,1) (manufacturing,1) (firms,1) 
+
+15456 1 1 15455 8 (collaboration,1) (foreign,1) (universities,1) (innovation,1) (evidence,1) (chinese,1) (manufacturing,1) (firms,1) 
+
+15459 1 1 15460 10 (management,2) (technical-personnel,1) (potential,1) (five-factor,1) (performance,1) (model,1) (application,1) (japanese,1) (automotive,1) (company,1) 
+
+15460 3 3 15459 16137 17095 27 (management,3) (technical-personnel,2) (potential,1) (five-factor,1) (performance,1) (model,2) (application,1) (japanese,2) (automotive,1) (company,2) (knowledge,1) (sharing,1) (inter-organisational,1) (intelligence,1) (amp,1) (d-based,1) (venture,1) (alliance,1) (community,2) (cases,1) (japan,1) (trial,1) (implementation,1) (highly,1) (autonomous,1) (small-team-type,1) (electronics,1) 
+
